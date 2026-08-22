@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "kn",
   "chapter": 16,
-  "translation": "ಒಮೆರ್ ⟨is⟩ ಎಫಾದ ಹತ್ತನೇ ಭಾಗ.",
+  "translation": "ಮತ್ತು ಒಮೆರ್ ⟨ಆಗಿದೆ⟩ ಐಫಾದ ಹತ್ತನೇ ಭಾಗ",
   "tokens": [
     {
       "surface": "והעמר",
@@ -17,13 +17,13 @@
     },
     {
       "surface": "האיפה",
-      "gloss": "ಎಫಾದ"
+      "gloss": "ಐಫಾದ"
     },
     {
       "surface": "הוא",
       "gloss": "ಅದು"
     }
   ],
-  "timestamp": "2026-08-21T20:45:42.866771291Z",
+  "timestamp": "2026-08-22T06:51:30.210124884Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "kn",
   "chapter": 23,
-  "translation": "ಶಮ್ಮಾಹ್ ⟨the⟩ ಹರೋದಿ; ಎಲಿಕಾ ⟨the⟩ ಹರೋದಿ,",
+  "translation": "ಶಮ್ಮಾಹ್ ಹರೋದಿ; ಎಲಿಕಾ ಹರೋದಿ;",
   "tokens": [
     {
       "surface": "שמה",
@@ -24,6 +24,6 @@
       "gloss": "ಹರೋದಿ"
     }
   ],
-  "timestamp": "2026-08-21T23:02:03.451775924Z",
+  "timestamp": "2026-08-22T07:05:44.130414998Z",
   "model": "glm-5.3"
 }
