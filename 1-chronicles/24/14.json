@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಬಿಲ್ಗಾನಿಗೆ ಹದಿನೈದನೆಯದು, ಇಮ್ಮೆರ್‌ನಿಗೆ ಹದಿನಾರನೆಯದು.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "ಬಿಲ್ಗಾನಿಗೆ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ಐದು"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ಹದಿ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಇಮ್ಮೆರ್‌ನಿಗೆ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ಆರು"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ಹದಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:41:04.307850098Z",
+  "model": "glm-5.3"
+}

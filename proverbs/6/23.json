@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಯಾಕೆಂದರೆ ಆಜ್ಞೆಯು ದೀಪವು, ತೋರಾಹ್ ಬೆಳಕು, ಮತ್ತು ಜೀವನದ ಮಾರ್ಗವು ಶಿಕ್ಷಣದ ಖಂಡನೆಗಳು.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ದೀಪವು"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ಆಜ್ಞೆಯು"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "ತೋರಾಹ್"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ಬೆಳಕು"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ಮಾರ್ಗವು"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ಜೀವನದ"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "ಖಂಡನೆಗಳು"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ಶಿಕ್ಷಣದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:19:12.205628226Z",
+  "model": "glm-5.3"
+}

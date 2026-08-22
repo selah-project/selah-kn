@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಯಾಹ್ವೆ ಮಾತನಾಡಿದಂತೆ ನಿನ್ನ ಎಲ್ಲಾ ವೈರಿಗಳನ್ನು ನಿನ್ನ ಮುಂದಿಂದ ⟨את⟩ ಓಡಿಸಲು.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "ಓಡಿಸಲು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಎಲ್ಲಾ ವೈರಿಗಳನ್ನು"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ನಿನ್ನ ವೈರಿಗಳನ್ನು"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ನಿನ್ನ ಮುಂದಿಂದ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ಹೇಗೆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:45:24.443282049Z",
+  "model": "glm-5.3"
+}

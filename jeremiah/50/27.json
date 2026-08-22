@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 50:27",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 50,
+  "translation": "ಅವಳ ಎಲ್ಲಾ ಕರುಗಳು ಹತರಾಗಲಿ; ವಧೆಗೆ ಇಳಿಯಲಿ; ಅವರಿಗೆ ಅಯ್ಯೋ! ಕಾರಣ ಅವರ ದಿನ ಬಂದಿದೆ, ಅವರ ಶಿಕ್ಷೆಯ ಕಾಲ.",
+  "tokens": [
+    {
+      "surface": "חרבו",
+      "gloss": "ಹತರಾಗಲಿ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ಕರುಗಳು"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ಇಳಿಯಲಿ"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "ವಧೆಗೆ"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "ಅಯ್ಯೋ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ಅವರಿಗೆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಕಾರಣ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ಬಂದಿದೆ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ಅವರ ದಿನ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ಕಾಲ"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "ಶಿಕ್ಷೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:36:43.676446661Z",
+  "model": "glm-5.3"
+}

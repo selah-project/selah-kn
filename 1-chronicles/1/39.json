@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಮತ್ತು ಲೋತಾನನ ಮಕ್ಕಳು: ಹೋರಿ ಮತ್ತು ಹೋಮಾಮ್; ಲೋತಾನನ ಸಹೋದರಿ ತಿಮ್ನಾ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ...ನ ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ಲೋತಾನನ"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ಹೋರಿ"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "ಮತ್ತು ಹೋಮಾಮ್"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "ಮತ್ತು ಸಹೋದರಿ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ಲೋತಾನನ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ತಿಮ್ನಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:27:58.887437286Z",
+  "model": "glm-5.3"
+}

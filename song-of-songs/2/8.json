@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ನನ್ನ ಪ್ರಿಯನ ಧ್ವನಿ! ಇಗೋ, ಅವನು ಬರುತ್ತಿದ್ದಾನೆ — ಪರ್ವತಗಳ ಮೇಲೆ ಹಾರುತ್ತ, ಬೆಟ್ಟಗಳ ಮೇಲೆ ಜಿಗಿಯುತ್ತ.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ಧ್ವನಿ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ನನ್ನ ಪ್ರಿಯನ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ಇಗೋ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ಅವನು"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ಬರುತ್ತಿದ್ದಾನೆ"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "ಹಾರುತ್ತ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ಪರ್ವತಗಳ"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "ಜಿಗಿಯುತ್ತ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ಬೆಟ್ಟಗಳ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:49:11.813901106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಎದ್ದೇಳು, ನಿನ್ವೆ ⟨the⟩ ಮಹಾನಗರಕ್ಕೆ ಹೋಗು, ಮತ್ತು ಅದಕ್ಕೆ ನಾನು ನಿನಗೆ ಆಡುವ ಆ ಸಾರವನ್ನು ⟨את⟩ ಸಾರು.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ಎದ್ದೇಳು"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ಹೋಗು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಕ್ಕೆ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ನಿನ್ವೆ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ನಗರ"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ಮಹಾ...ಆದ"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ಮತ್ತು...ಸಾರು"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ಅದಕ್ಕೆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಆ ಸಾರವನ್ನು"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "ಆ ಸಾರ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ಆಡುವ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ನಿನಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:20:23.642426998Z",
+  "model": "glm-5.3"
+}

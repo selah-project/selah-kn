@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಆ ಮಾತು ಪಾಪವಾಯಿತು, ಮತ್ತು ಜನರು ಒಂದರ ಮುಂದೆ ಹೋಗುತ್ತಿದ್ದರು — ದಾನ್‌ವರೆಗೆ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ಆ ಮಾತು"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ಪಾಪವಾಗಿ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ಹೋಗುತ್ತಿದ್ದರು"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ಮುಂದೆ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ಒಂದರ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ವರೆಗೆ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ದಾನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T04:24:39.163204897Z",
+  "model": "glm-5.3"
+}

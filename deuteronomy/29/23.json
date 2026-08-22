@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 29,
+  "translation": "ಮತ್ತು ಎಲ್ಲ ಜನತೆಗಳು ಹೇಳುವವು — ಯಾಹ್ವೆ ಈ ದೇಶಕ್ಕೆ ಹೀಗೆ ಮಾಡಿದ್ದು ಯಾಕೆ? ಈ ಮಹಾ ಕೋಪದ ಉರಿ ಯಾವುದು?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ಮತ್ತು ಹೇಳುವವು"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ಜನತೆಗಳು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ವಿಷಯದಲ್ಲಿ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ಯಾಕೆ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ಮಾಡಿದ್ದು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ಹೀಗೆ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ಈ ದೇಶಕ್ಕೆ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ಯಾವುದು"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ಉರಿ"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ಕೋಪದ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ಮಹಾ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಈ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:00:33.740381209Z",
+  "model": "glm-5.3"
+}

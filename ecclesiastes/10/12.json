@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಜ್ಞಾನಿಯ ಬಾಯಿಯ ಮಾತುಗಳು ಕೃಪೆ; ಮೂರ್ಖನ ತುಟಿಗಳು ಅವನನ್ನೇ ನುಂಗಿಬಿಡುತ್ತವೆ.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ಮಾತುಗಳು"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ಬಾಯಿಯ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ಜ್ಞಾನಿಯ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ಕೃಪೆ"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "ಮತ್ತು ತುಟಿಗಳು"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ಮೂರ್ಖನ"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "ಅವನನ್ನೇ ನುಂಗಿಬಿಡುತ್ತವೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:57:33.833505228Z",
+  "model": "glm-5.3"
+}

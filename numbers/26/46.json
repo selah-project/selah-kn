@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಅಶೇರನ ಮಗಳ ಹೆಸರು ಸಾರಾಖ್.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ಮತ್ತು ಹೆಸರು"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ಮಗಳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅಶೇರನ"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "ಸಾರಾಖ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:36:10.192577791Z",
+  "model": "glm-5.3"
+}

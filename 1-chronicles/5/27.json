@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಲೇವಿಯ ಮಕ್ಕಳು: ಗೆರೆಶೋನ್, ಕೆಹಾತ್ ಮತ್ತು ಮೆರಾರಿ",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ಲೇವಿಯ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ಗೆರೆಶೋನ್"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ಕೆಹಾತ್"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ಮತ್ತು ಮೆರಾರಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:44.407394526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಬಿಗ್ವಾಯಿನ ಮಕ್ಕಳು ಎರಡು ಸಾವಿರ ಐವತ್ತಾರು ಆರು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ಬಿಗ್ವಾಯಿನ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ಎರಡು ಸಾವಿರ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ಐವತ್ತಾರು"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ಮತ್ತು ಆರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:08.466854338Z",
+  "model": "glm-5.3"
+}

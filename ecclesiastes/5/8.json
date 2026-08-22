@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಮತ್ತು ಭೂಮಿಯ ಲಾಭವು ಎಲ್ಲರಿಗೂ ⟨is⟩; ⟨the⟩ ಹೊಲವನ್ನು ಸೇವಿಸುವ ರಾಜನಿಗೂ ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "ಮತ್ತು ಲಾಭ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ಭೂಮಿಯ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ಎಲ್ಲರಲ್ಲಿ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜ"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "ಹೊಲಕ್ಕೆ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ಸೇವೆ ಸಲ್ಲಿಸಲ್ಪಡುತ್ತದೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:58:59.153645084Z",
+  "model": "glm-5.3"
+}

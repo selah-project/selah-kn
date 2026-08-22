@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಯಾಹ್ವೆ ನಿಮ್ಮ ಪಿತೃಗಳ ಮೇಲೆ ಕ್ರೋಧಿಸಿದನು — ಕ್ರೋಧಿಸಿದನು.",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "ಕ್ರೋಧಿಸಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ನಿಮ್ಮ ಪಿತೃಗಳ"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ಕ್ರೋಧಿಸಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-22T01:27:40.640003977Z",
+  "model": "glm-5.3"
+}

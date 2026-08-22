@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಹಿಲ್ಕಿಯಾನಿಗೆ ಹಶಬ್ಯಾ; ಯೆದಾಯಾನಿಗೆ ನೆತನೆಲ್.",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "ಹಿಲ್ಕಿಯಾನಿಗೆ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ಹಶಬ್ಯಾ"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "ಯೆದಾಯಾನಿಗೆ"
+    },
+    {
+      "surface": "ನתנאל",
+      "gloss": "ನೆತನೆಲ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:27:18.136868580Z",
+  "model": "glm-5.3"
+}

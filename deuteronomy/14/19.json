@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಮತ್ತು ಹಾರುವ ಎಲ್ಲಾ ಹುಳುಕುಳಿಯ ಪ್ರಾಣಿಗಳು ನಿಮಗೆ ಅಶುದ್ಧ; ಅವು ತಿನ್ನಲ್ಪಡಬಾರದು",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ಮತ್ತು ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ಹುಳುಕುಳಿಯ ಪ್ರಾಣಿಗಳು"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ಹಾರುವ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ಅಶುದ್ಧ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ಅದು⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ನಿಮಗೆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಬಾರದು"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ತಿನ್ನಲ್ಪಡಬಾರದು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:49:49.513017962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 23:9",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಯ ಮಾತನಾಡಿ ಹೇಳುತ್ತಾನೆ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮಾತನಾಡಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನಿಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾನೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:14:20.396226387Z",
+  "model": "glm-5.3"
+}

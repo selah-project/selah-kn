@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಕಾರಣವಿಲ್ಲದೆ ಒಬ್ಬ ಮನುಷ್ಯನೊಂದಿಗೆ ವಾದಿಸಬೇಡ, ಅವನು ನಿನಗೆ ಕೇಡನ್ನು ಮಾಡದಿದ್ದರೆ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "ವಾದಿಸಬೇಡ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ಒಂದಿಗೆ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ಒಬ್ಬ ಮನುಷ್ಯನ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ಕಾರಣವಿಲ್ಲದೆ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ಆದರೆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "ನಿನಗೆ ಮಾಡದಿದ್ದರೆ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ಕೇಡನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:18:12.692520711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಯೆಡಿಯಾವೇಲ್ ಶಿಮ್ರಿಯ ಮಗ, ಮತ್ತು ಅವನ ಸಹೋದರ ಯೋಹಾ ⟨ಟಿಜ್ಜಿಯವನು⟩,",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "ಯೆಡಿಯಾವೇಲ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ಶಿಮ್ರಿಯ"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "ಮತ್ತು ಯೋಹಾ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ಅವನ ಸಹೋದರ"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "ಟಿಜ್ಜಿಯವನು"
+    }
+  ],
+  "timestamp": "2026-08-22T04:50:33.406376791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 33,
+  "translation": "ಆ ದಿನ ಎಸಾವನು ತನ್ನ ದಾರಿಯಲ್ಲಿ ಸೇಯಿರ್‌ಗೆ ಹಿಂತಿರುಗಿದನು.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ಹಿಂತಿರುಗಿದನು"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ದಿನ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ಎಸಾವನು"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "ತನ್ನ ದಾರಿಯಲ್ಲಿ"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "ಸೇಯಿರ್‌ಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:25:53.278514484Z",
+  "model": "glm-5.3"
+}

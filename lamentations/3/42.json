@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನಾವು ಅಪರಾಧ ಮಾಡಿದೆವು, ದಂಗೆ ಎದ್ದೆವು — ನೀನು ಕ್ಷಮಿಸಲಿಲ್ಲ।",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "ನಾವು"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "ಅಪರಾಧ ಮಾಡಿದೆವು"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "ದಂಗೆ ಎದ್ದೆವು"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ನೀನು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "ಕ್ಷಮಿಸಲಿಲ್ಲ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:35.745747606Z",
+  "model": "glm-5.3"
+}

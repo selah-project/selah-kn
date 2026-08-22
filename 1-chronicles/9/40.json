@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಯೆಹೋನಾತನನ ಮಗ ಮೆರೀಬ್-ಬಾಲ್; ಮೆರೀ-ಬಾಲ್ ⟨את⟩ ಮೀಖಾನನ್ನು ಹುಟ್ಟುವಂತೆ ಮಾಡಿದನು.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ಯೆಹೋನಾತನನ"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "ಮೆರೀಬ್-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ಬಾಲ್"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "ಮೆರೀ-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ಬಾಲ್"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ಹುಟ್ಟುವಂತೆ ಮಾಡಿದನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಮೀಖಾನನ್ನು"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ಮೀಖಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:34:08.086734780Z",
+  "model": "glm-5.3"
+}

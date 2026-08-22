@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಯೋಎಲ್, ನಾತಾನ್‌ನ ಸಹೋದರ; ಮಿಬ್ಚಾರ್, ಹಗ್ರಿಯ ಮಗ",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "ಯೋಎಲ್"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ಸಹೋದರ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ನಾತಾನ್"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "ಮಿಬ್ಚಾರ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "ಹಗ್ರಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:31.381297178Z",
+  "model": "glm-5.3"
+}

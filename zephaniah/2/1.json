@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಸೇರಿಕೊಳ್ಳಿ, ಆದರೆ ಸೇರಿ, ಅಪೇಕ್ಷಿಸದೆ ಇರುವ ಜನತೆಯೇ;",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "ಸೇರಿಕೊಳ್ಳಿ"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "ಆದರೆ ಸೇರಿ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ಜನತೆಯೇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "ಅಪೇಕ್ಷಿಸದೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:27:27.591341650Z",
+  "model": "glm-5.3"
+}

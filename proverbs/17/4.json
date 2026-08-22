@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 17,
+  "translation": "ಕೆಟ್ಟವನು ದುರಾಡಳಿತದ ತುಟಿಗೆ ಕಿವಿಗೊಡೆಯನು, ಸುಳ್ಳನು ವಿನಾಶದ ನಾಲಗೆಗೆ ಆಲಿಸುವನು.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "ಕೆಟ್ಟವನು"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "ಕಿವಿಗೊಡೆಯನು"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ಗೆ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ತುಟಿಗೆ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ದುರಾಡಳಿತದ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ಸುಳ್ಳನು"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "ಆಲಿಸುವನು"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ಗೆ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ನಾಲಗೆಗೆ"
+    },
+    {
+      "surface": "הות",
+      "gloss": "ವಿನಾಶದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:23:36.200529228Z",
+  "model": "glm-5.3"
+}

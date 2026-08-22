@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಇವುಗಳೂ ಜ್ಞಾನಿಗಳಿಗೆ ಸೇರಿದವು: ತೀರ್ಪಿನಲ್ಲಿ ಮುಖ ನೋಡುವುದು ಒಳ್ಳೆಯದಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ಕೂಡ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ಇವುಗಳು"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "ಜ್ಞಾನಿಗಳಿಗೆ"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "ನೋಡುವುದು"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ಮುಖ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ತೀರ್ಪಿನಲ್ಲಿ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ಒಳ್ಳೆಯದು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:26:23.176711975Z",
+  "model": "glm-5.3"
+}

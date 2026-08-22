@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 140,
+  "translation": "ಸಂಗೀತಗಾರರ ಮುಖ್ಯಸ್ಥನಿಗೆ; ದಾವೀದನ ಕೀರ್ತನೆ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ಸಂಗೀತಗಾರರ ಮುಖ್ಯಸ್ಥನಿಗೆ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ಕೀರ್ತನೆ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ದಾವೀದನಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:14:03.446280657Z",
+  "model": "glm-5.3"
+}

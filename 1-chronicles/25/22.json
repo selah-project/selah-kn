@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 25:22",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 25,
+  "translation": "ಹದಿನೈದನೆಯದು ಯಿರೆಮೋತ್ — ಆತನ ಕುಮಾರರು ಮತ್ತು ಆತನ ಸಹೋದರರು, ಹನ್ನೆರಡು ಜನ;",
+  "tokens": [
+    {
+      "surface": "לחמשה",
+      "gloss": "ಐದಕ್ಕೆ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ಹತ್ತು"
+    },
+    {
+      "surface": "לירמות",
+      "gloss": "ಯಿರೆಮೋತ್‍ಗೆ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ಆತನ ಕುಮಾರರು"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ಮತ್ತು ಆತನ ಸಹೋದರರು"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ಎರಡು"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ಹತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:40:44.815339243Z",
+  "model": "glm-5.3"
+}

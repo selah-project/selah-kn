@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 36,
+  "translation": "ಇವರು ಎತ್ಸೆರ ಮಕ್ಕಳು — ಬಿಲ್ಹಾನ್, ಜಾವಾನ್ ಮತ್ತು ಅಕಾನ್.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ಇವರು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ಎತ್ಸೆರ"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ಬಿಲ್ಹಾನ್"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "ಮತ್ತು ಜಾವಾನ್"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "ಮತ್ತು ಅಕಾನ್"
+    }
+  ],
+  "timestamp": "2026-08-21T20:27:28.316144636Z",
+  "model": "glm-5.3"
+}

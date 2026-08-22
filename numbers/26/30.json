@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಇವರು ಗಿಲ್ಆದನ ಮಕ್ಕಳು — ಇಅೆಜರ್‌ಗೆ ಇಅೆಜರಿ ಕುಲ, ಖೆಲೆಕ್‌ಗೆ ಖೆಲೆಕಿ ಕುಲ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ಇವರು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ಗಿಲ್ಆದನ"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "ಇಅೆಜರ್‌ಗೆ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ಕುಲ"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "ಇಅೆಜರಿ"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "ಖೆಲೆಕ್‌ಗೆ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ಕುಲ"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "ಖೆಲೆಕಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:36:24.538276655Z",
+  "model": "glm-5.3"
+}

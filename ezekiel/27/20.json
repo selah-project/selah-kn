@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 27,
+  "translation": "ದೆದಾನ್ ನಿನ್ನ ವ್ಯಾಪಾರಿ — ಸವಾರಿಗಾಗಿ ಹರಡಿದ ಹೊದಿಕೆಗಳಲ್ಲಿ.",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "ದೆದಾನ್"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "ನಿನ್ನ ವ್ಯಾಪಾರಿ"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "ಹೊದಿಕೆಗಳಲ್ಲಿ"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "ಹರಡಿದ"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "ಸವಾರಿಗಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:55:31.949039824Z",
+  "model": "glm-5.3"
+}

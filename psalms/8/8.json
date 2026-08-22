@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಕುರಿ ಮತ್ತು ಎತ್ತುಗಳು — ಅವೆಲ್ಲ, ಮತ್ತು ಹೊಲದ ಪ್ರಾಣಿಗಳೂ ⟨ಸಹ⟩.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "ಕುರಿ"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "ಮತ್ತು ಎತ್ತುಗಳು"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ಅವೆಲ್ಲ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ಮತ್ತು … ಸಹ"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ಪ್ರಾಣಿಗಳೂ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ಹೊಲದ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:36:14.066177323Z",
+  "model": "glm-5.3"
+}

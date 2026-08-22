@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಅವನ ಆಯುಧವಾಹಕನು ಶಾವೂಲ್ ಸತ್ತನೆಂದು ನೋಡಿ, ಅವನೂ ಸಹ ಕತ್ತಿಯ ಮೇಲೆ ಬಿದ್ದು ಸತ್ತನು.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ನೋಡಿ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ಆಯುಧವಾಹಕನು"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ಅವನ ಆಯುಧಗಳ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಎಂದು"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ಸತ್ತನೆಂದು"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ಶಾವೂಲ್"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ಬಿದ್ದು"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ಸಹ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅವನೂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ಕತ್ತಿಯ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ಸತ್ತನು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:35:02.406889647Z",
+  "model": "glm-5.3"
+}

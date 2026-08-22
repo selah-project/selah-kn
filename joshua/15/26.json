@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಅಮಾಂ, ಮತ್ತು ಶೆಮಾ, ಮತ್ತು ಮೋಲಾದಾ.",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "ಅಮಾಂ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ಮತ್ತು ಶೆಮಾ"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "ಮತ್ತು ಮೋಲಾದಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:10:58.144860704Z",
+  "model": "glm-5.3"
+}

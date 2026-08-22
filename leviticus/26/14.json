@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಆದರೆ ನೀವು ನನಗೆ ಕೇಳದಿದ್ದರೆ, ಮತ್ತು ಈ ಎಲ್ಲ ⟨את⟩ ಆಜ್ಞೆಗಳನ್ನು ಮಾಡದಿದ್ದರೆ —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ಆದರೆ...ದಿದ್ದರೆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ಕೇಳರು"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ಮತ್ತು ಇಲ್ಲ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ಮಾಡರು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಈ ಎಲ್ಲ ಆಜ್ಞೆಗಳನ್ನು"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ಆಜ್ಞೆಗಳನ್ನು"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ಈ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:12:56.428132963Z",
+  "model": "glm-5.3"
+}

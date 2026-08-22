@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 46,
+  "translation": "ನಾಚಿಹೋದಳು ಮಿತ್ರಾಯಿಮ್‌ನ ಮಗಳು; ಉತ್ತರದ ಜನರ ಕೈಯಲ್ಲಿ ಒಪ್ಪಿಸಲ್ಪಟ್ಟಳು.",
+  "tokens": [
+    {
+      "surface": "הבישה",
+      "gloss": "ನಾಚಿಹೋದಳು"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ಮಗಳು"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ಮಿತ್ರಾಯಿಮ್‌ನ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ಒಪ್ಪಿಸಲ್ಪಟ್ಟಳು"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ಕೈಯಲ್ಲಿ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ಜನರ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ಉತ್ತರದ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:32:11.946352970Z",
+  "model": "glm-5.3"
+}

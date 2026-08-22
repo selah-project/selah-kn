@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಮತ್ತು ಅವನು ಬಡವಿ ಮನುಷ್ಯನಾದರೆ ಅವನ ಅಡವಣೆಯನ್ನು ಇಟ್ಟುಕೊಂಡು ನೀನು ಮಲಗಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ಮತ್ತು ಆದರೆ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ಮನುಷ್ಯನು"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ಬಡವಿ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅವನು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ನೀನು ಮಲಗ"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "ಅವನ ಅಡವಣೆಯಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:16:51.154988662Z",
+  "model": "glm-5.3"
+}

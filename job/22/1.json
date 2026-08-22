@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 22:1",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಆಗ ಎಲಿಫಾಜ್ ⟨the⟩ ತೇಮಾನಿ ಉತ್ತರಿಸಿ ಹೇಳಿದನು —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ಉತ್ತರಿಸಿ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ಎಲಿಫಾಜ್"
+    },
+    {
+      "surface": "התמני",
+      "gloss": "⟨the⟩ ತೇಮಾನಿ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:38:30.465197642Z",
+  "model": "glm-5.3"
+}

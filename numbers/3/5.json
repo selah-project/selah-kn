@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 3:5",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆ ಮೋಶೆಗೆ ಮಾತನಾಡಿದನು, ಹೀಗೆ ಹೇಳುತ್ತಾ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮತ್ತು ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನಿಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಗೆ ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:20:49.458208324Z",
+  "model": "glm-5.3"
+}

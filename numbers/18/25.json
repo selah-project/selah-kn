@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 18:25",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 18,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆ ಮೋಶೆಯೊಡನೆ ಮಾತನಾಡಿ ಹೇಳಿದನು:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮತ್ತು ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಡನೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:31:43.523245993Z",
+  "model": "glm-5.3"
+}

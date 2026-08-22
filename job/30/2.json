@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 30:2",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 30,
+  "translation": "ಅವರ ಕೈಗಳ ಬಲವೂ ನನಗೆ ಯಾಕೆ? ಅವರ ಮೇಲೆ ಪ್ರೌಢಾವಸ್ಥೆಯು ನಾಶವಾಗಿದೆ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ಅಲ್ಲದೆ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ಬಲ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ಅವರ ಕೈಗಳ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ಯಾಕೆ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ಅವರ ಮೇಲೆ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ನಾಶವಾಗಿದೆ"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "ಪ್ರೌಢಾವಸ್ಥೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:42:23.983426350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 32,
+  "translation": "ಮತ್ತು ಯಿರ್ಮೆಯಾಹು ಹೇಳಿದನು: ಯಾಹ್ವೆಯ ವಾಕ್ಯ ನನಗೆ ಉಂಟಾಯಿತು, ಹೇಳುತ್ತಾ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಮತ್ತು ಹೇಳಿದನು"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ಯಿರ್ಮೆಯಾಹು"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ಉಂಟಾಯಿತು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:27:14.357769933Z",
+  "model": "glm-5.3"
+}

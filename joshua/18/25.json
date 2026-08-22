@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 18,
+  "translation": "ಗಿಬ್ಯೋನ್ ಮತ್ತು ⟨the⟩ ರಾಮಾ ಮತ್ತು ಬೆಯೆರೋತ್",
+  "tokens": [
+    {
+      "surface": "גִּבְעוֹן",
+      "gloss": "ಗಿಬ್ಯೋನ್"
+    },
+    {
+      "surface": "וְהָרָמָה",
+      "gloss": "ಮತ್ತು ⟨the⟩ ರಾಮಾ"
+    },
+    {
+      "surface": "וּבְאֵרוֹת",
+      "gloss": "ಮತ್ತು ಬೆಯೆರೋತ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:11:45.194398758Z",
+  "model": "glm-5.3"
+}

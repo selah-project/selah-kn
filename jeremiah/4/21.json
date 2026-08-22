@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಎಷ್ಟು ಕಾಲ ನಾನು ಧ್ವಜವನ್ನು ನೋಡುವೆನು? ಕೊಂಬಿನ ಧ್ವನಿಯನ್ನು ಕೇಳುವೆನೊ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ಎಷ್ಟು ಕಾಲ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ಯಾವಾಗ"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ನಾನು ನೋಡುವೆನು"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ಧ್ವಜವನ್ನು"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "ಕೇಳುವೆನೊ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ಧ್ವನಿಯನ್ನು"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ಕೊಂಬಿನ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:08:44.536882034Z",
+  "model": "glm-5.3"
+}

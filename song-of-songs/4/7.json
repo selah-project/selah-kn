@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ನೀ ⟨ಸಂಪೂರ್ಣ⟩ ಸುಂದರಿ, ನನ್ನ ಪ್ರಿಯೆ, ನಿನ್ನಲ್ಲಿ ಯಾವ ನ್ಯೂನತೆಯೂ ಇಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "ನೀ ಸಂಪೂರ್ಣ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ಸುಂದರಿ"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ನನ್ನ ಪ್ರಿಯೆ"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "ಮತ್ತು ನ್ಯೂನತೆ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ನಿನ್ನಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:49:28.991657098Z",
+  "model": "glm-5.3"
+}

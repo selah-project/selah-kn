@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 36,
+  "translation": "ಮತ್ತು ಇವರು ಅನಾನ ಮಕ್ಕಳು — ದಿಶೋನ್ ಮತ್ತು ಅನಾನನ ಮಗಳು ಒಹೊಲಿಬಾಮಾ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ಮತ್ತು ಇವರು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ಅನಾನ"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "ದಿಶೋನ್"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "ಮತ್ತು ಒಹೊಲಿಬಾಮಾ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ಮಗಳು"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ಅನಾನ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:27:28.315754653Z",
+  "model": "glm-5.3"
+}

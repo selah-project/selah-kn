@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಬೆಂಕಿಯು ನಿರಂತರವಾಗಿ ಬಲಿಪೀಠದ ಮೇಲೆ ಉರಿಯುತ್ತಿರಲಿ, ಅದು ಆರದಿರಲಿ.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ಬೆಂಕಿಯು"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ನಿರಂತರವಾಗಿ"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "ಉರಿಯುತ್ತಿರಲಿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ಬಲಿಪೀಠದ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ಆರದಿರಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:03:02.898382221Z",
+  "model": "glm-5.3"
+}

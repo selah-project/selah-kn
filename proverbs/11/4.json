@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಕೋಪದ ದಿನದಲ್ಲಿ ಸಂಪತ್ತು ಪ್ರಯೋಜನವಿಲ್ಲ, ಆದರೆ ನೀತಿಯು ಮರಣದಿಂದ ಬಿಡಿಸುವುದು.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "ಪ್ರಯೋಜನ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ಸಂಪತ್ತು"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ದಿನದಲ್ಲಿ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ಕೋಪದ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ಮತ್ತು ನೀತಿ"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ಬಿಡಿಸುವುದು"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ಮರಣದಿಂದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:22:00.889644730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 2:22",
+  "book": "2-kings",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಆ ನೀರು ಎಲಿಶಾ ಬಾಯಿಯಿಂದ ಆಡಿದ ಮಾತಿನಂತೆ ಈ ದಿನದವರೆಗೂ ಗುಣಹೊಂದಿತು.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "ಮತ್ತು ಗುಣಹೊಂದಿತು"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ನೀರು"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ವರೆಗೂ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ದಿನದ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ಮಾತಿನಂತೆ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ಎಲಿಶಾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅವನು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ಆಡಿದ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:22:33.319017610Z",
+  "model": "glm-5.3"
+}

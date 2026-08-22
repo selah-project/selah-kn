@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 116,
+  "translation": "ಯಾಹ್ವೆಯ ಕಣ್ಣುಗಳಲ್ಲಿ ಬೆಲೆಬಾಳುವದು ⟨is⟩ ಆತನ ಭಕ್ತರ ಮರಣ.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "ಬೆಲೆಬಾಳುವದು"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ಕಣ್ಣುಗಳಲ್ಲಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "ಮರಣ"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "ಆತನ ಭಕ್ತರ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:09:12.918098033Z",
+  "model": "glm-5.3"
+}

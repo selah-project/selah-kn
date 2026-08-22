@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಶುಪ್ಪೀಮ್ ಮತ್ತು ಹುಪ್ಪೀಮ್ ಇರ್‍ನ ಮಕ್ಕಳು; ಹುಶೀಮ್ ಅಹೆರ್‍ನ ಮಕ್ಕಳು.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "ಮತ್ತು ಶುಪ್ಪೀಮ್"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "ಮತ್ತು ಹುಪ್ಪೀಮ್"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ಇರ್‍ನ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ಹುಶೀಮ್"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ಅಹೆರ್‍ನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:09.515751485Z",
+  "model": "glm-5.3"
+}

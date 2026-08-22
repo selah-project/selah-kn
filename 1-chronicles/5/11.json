@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಮತ್ತು ಗಾದ್ ಮಕ್ಕಳು ಅವರ ಎದುರಿಗೆ ಬಾಶಾನ್ ದೇಶದಲ್ಲಿ ಸಲ್ಕಾ ವರೆಗೆ ವಾಸಿಸಿದರು.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ಗಾದ್"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "ಅವರ ಎದುರಿಗೆ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ವಾಸಿಸಿದರು"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ದೇಶದಲ್ಲಿ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ಬಾಶಾನ್"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ವರೆಗೆ"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "ಸಲ್ಕಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:02.113307165Z",
+  "model": "glm-5.3"
+}

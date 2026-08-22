@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 31,
+  "translation": "ಏನು, ನನ್ನ ಮಗನೇ? ಮತ್ತು ಏನು, ನನ್ನ ಗರ್ಭದ ಮಗನೇ? ಮತ್ತು ಏನು, ನನ್ನ ನೇರ್ಚೆಗಳ ಮಗನೇ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ಏನು"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "ನನ್ನ ಮಗ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ಮತ್ತು ಏನು"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "ನನ್ನ ಗರ್ಭ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ಮತ್ತು ಏನು"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ನನ್ನ ನೇರ್ಚೆಗಳು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:30:04.886449769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಮತ್ತು ಆಗುವುದು, ನಿಮ್ಮ ಮಕ್ಕಳು ನಿಮಗೆ ಹೇಳಿದಾಗ — ನಿಮಗೆ ಈ ಸೇವೆ ಏನು?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ಮತ್ತು ಆಗುವುದು"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಆಗ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ಹೇಳಿದಾಗ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ನಿಮಗೆ"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ನಿಮ್ಮ ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ಏನು"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ಸೇವೆ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ನಿಮಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:44:09.460335849Z",
+  "model": "glm-5.3"
+}

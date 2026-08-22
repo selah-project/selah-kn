@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಇಯ್ಯೋಬ್ ಉತ್ತರಿಸಿ ಆಡಿದನು —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ಉತ್ತರಿಸಿ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ಇಯ್ಯೋಬ್"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಆಡಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-22T04:43:51.466624531Z",
+  "model": "glm-5.3"
+}

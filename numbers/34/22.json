@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 34,
+  "translation": "ಮತ್ತು ದಾನ್ ಮಕ್ಕಳ ಕುಲಕ್ಕೆ — ನಾಯಕನಾದ ಯೋಗ್ಲಿ ಮಗ ಬುಕ್ಕಿ.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ಮತ್ತು...ಕುಲಕ್ಕೆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ದಾನ್"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ನಾಯಕನಾದ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ಬುಕ್ಕಿ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "ಯೋಗ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:40:17.996024475Z",
+  "model": "glm-5.3"
+}

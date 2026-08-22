@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಮತ್ತು ⟨את⟩ ಗತ್, ಮತ್ತು ⟨את⟩ ಮಾರೇಶಾ, ಮತ್ತು ⟨את⟩ ಜಿಫ್.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ಮತ್ತು ⟨את⟩",
+      "marks": "ಗತ್"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ಗತ್"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ಮತ್ತು ⟨את⟩",
+      "marks": "ಮಾರೇಶಾ"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "ಮಾರೇಶಾ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ಮತ್ತು ⟨את⟩",
+      "marks": "ಜಿಫ್"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ಜಿಫ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:48:33.406557656Z",
+  "model": "glm-5.3"
+}

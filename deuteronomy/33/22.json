@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 33,
+  "translation": "ದಾನ್ ವಿಷಯದಲ್ಲಿ ಅವನು ಹೇಳಿದನು: ದಾನ್ ಸಿಂಹದ ಮರಿ, ಬಾಶಾನ್‌ನಿಂದ ಅದು ಧುಮುಕುತ್ತದೆ",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "ದಾನ್ ವಿಷಯದಲ್ಲಿ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಅವನು ಹೇಳಿದನು"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ದಾನ್"
+    },
+    {
+      "surface": "גור",
+      "gloss": "ಮರಿ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ಸಿಂಹ"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "ಅದು ಧುಮುಕುತ್ತದೆ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ನಿಂದ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ಬಾಶಾನ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:00:44.111677841Z",
+  "model": "glm-5.3"
+}

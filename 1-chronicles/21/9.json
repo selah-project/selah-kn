@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 21,
+  "translation": "ಯಾಹ್ವೆ ದಾವೀದನ ದರ್ಶಕನಾದ ಗಾದನಿಗೆ ಹೇಳುತ್ತಾ ⟨ಅವನು⟩ ಆಗ ಮಾತನಾಡಿದನು",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಆಗ ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ಗಾದನ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ದರ್ಶಕನಾದ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ದಾವೀದನ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:40:26.434332342Z",
+  "model": "glm-5.3"
+}

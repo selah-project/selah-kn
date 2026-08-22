@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಆದರೂ, ನಾನು ಜೀವಿಸಿರುವಂತೆ, ಯಾಹ್ವೆಯ ಮಹಿಮೆಯು ⟨את⟩ ಇಡೀ ಭೂಮಿಯನ್ನು ತುಂಬಿಸುವುದು.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ಆದರೂ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ಜೀವಿಸಿರುವಂತೆ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ತುಂಬಿಸುವುದು"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ಮಹಿಮೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಇಡೀ ಭೂಮಿ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಇಡೀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:14:07.037080988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಅಜ್ಮಾವೆತ್ ⟨the⟩ ಬಾಹರುಮ್ಯನು, ಎಲ್ಯಾಹ್‌ಬಾ ⟨the⟩ ಶಾಅಲ್ಬೋನ್ಯನು,",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "ಅಜ್ಮಾವೆತ್"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "ಬಾಹರುಮ್ಯನು"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "ಎಲ್ಯಾಹ್‌ಬಾ"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "ಶಾಅಲ್ಬೋನ್ಯನು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:54.181289196Z",
+  "model": "glm-5.3"
+}

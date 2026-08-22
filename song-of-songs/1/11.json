@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಚಿನ್ನದ ಸರಪಣಿಗಳನ್ನು ನಿನಗೆ ಬೆಳ್ಳಿಯ ಚುಕ್ಕೆಗಳೊಡನೆ ಮಾಡೋಣ.",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "ಸರಪಣಿಗಳನ್ನು"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ಚಿನ್ನದ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ಮಾಡೋಣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನಿನಗೆ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ಒಡನೆ"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "ಚುಕ್ಕೆಗಳ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ಬೆಳ್ಳಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:47:32.841509565Z",
+  "model": "glm-5.3"
+}

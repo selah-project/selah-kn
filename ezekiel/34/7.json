@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 34,
+  "translation": "ಆದ್ದರಿಂದ ಕುರುಬರೇ, ಯಾಹ್ವೆಯ ವಾಕ್ಯವನ್ನು ⟨את⟩ ಕೇಳಿ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ಆದ್ದರಿಂದ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ಕುರುಬರೇ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ಕೇಳಿ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ವಾಕ್ಯವನ್ನು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವನ್ನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:58:27.916521039Z",
+  "model": "glm-5.3"
+}

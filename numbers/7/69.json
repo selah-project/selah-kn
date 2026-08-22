@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಒಂದು ಕರು, ಹಿಂಡಿನ ಮಗನಾದ, ಒಂದು ಟಗರು, ಒಂದು ಕುರಿಮರಿ, ಒಂದು ವರ್ಷದ ಮಗನಾದ, ಸುಟ್ಟ ಯಜ್ಞಕ್ಕಾಗಿ.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ಕರು"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನಾದ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ಹಿಂಡಿನ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ಟಗರು"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ಕುರಿಮರಿ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನಾದ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ಒಂದು ವರ್ಷದ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ಸುಟ್ಟ ಯಜ್ಞಕ್ಕಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:24:31.044036013Z",
+  "model": "glm-5.3"
+}

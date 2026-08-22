@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಆರೋಗ್ಯದ ನಾಲಿಗೆ ⟨ಇದು⟩ ಬದುಕಿನ ಮರ; ಆದರೆ ಅದರಲ್ಲಿನ ವಕ್ರತೆಯು ರೂಅಖಿನಲ್ಲಿ ಒಡಕು.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "ಆರೋಗ್ಯದ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ನಾಲಿಗೆ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ಮರ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ಬದುಕಿನ"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "ಆದರೆ ವಕ್ರತೆಯು"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ಅದರಲ್ಲಿನ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ಒಡಕು"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ರೂಅಖಿನಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:43:11.599295795Z",
+  "model": "glm-5.3"
+}

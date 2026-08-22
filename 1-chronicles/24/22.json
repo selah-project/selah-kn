@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಯಿತ್ಸ್ಹಾರಿಯರಿಗೆ ಶೆಲೋಮೋತ್; ಶೆಲೋಮೋತ್‌ನ ಮಕ್ಕಳಿಗೆ ಯಾಖತ್.",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "ಯಿತ್ಸ್ಹಾರಿಯರಿಗೆ"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "ಶೆಲೋಮೋತ್"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ಮಕ್ಕಳಿಗೆ"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "ಶೆಲೋಮೋತ್‌ನ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ಯಾಖತ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:40:43.696774999Z",
+  "model": "glm-5.3"
+}

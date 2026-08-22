@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 18,
+  "translation": "ಮತ್ತು ⟨the⟩ ಮಿತ್ಸ್ಪೆ ಮತ್ತು ⟨the⟩ ಕೆಫಿರಾ ಮತ್ತು ⟨the⟩ ಮೋತ್ಸಾ",
+  "tokens": [
+    {
+      "surface": "וְהַמִּצְפֶּה",
+      "gloss": "ಮತ್ತು ⟨the⟩ ಮಿತ್ಸ್ಪೆ"
+    },
+    {
+      "surface": "וְהַכְּפִירָה",
+      "gloss": "ಮತ್ತು ⟨the⟩ ಕೆಫಿರಾ"
+    },
+    {
+      "surface": "וְהַמֹּצָה",
+      "gloss": "ಮತ್ತು ⟨the⟩ ಮೋತ್ಸಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:11:45.194568560Z",
+  "model": "glm-5.3"
+}

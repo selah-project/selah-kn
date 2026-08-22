@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಬಾಬೆಲ್‌ನ ಭಾರ — ಯಿಶಯಾಹು ಅಮೋತ್ಸನ ಮಗನು ಕಂಡುಕೊಂಡದ್ದು.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ಭಾರ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ಬಾಬೆಲ್‌ನ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದನ್ನು"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ಕಂಡುಕೊಂಡದ್ದು"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ಯಿಶಯಾಹು"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ಅಮೋತ್ಸನ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:43:14.955255292Z",
+  "model": "glm-5.3"
+}

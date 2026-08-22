@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ಯಾಹ್ವೆಗೆ ಹಾಡಿರಿ, ಸಕಲ ಭೂಮಿಯೇ; ದಿನದಿಂದ ದಿನಕ್ಕೆ ⟨ಅವನ⟩ ಮೋಕ್ಷವನ್ನು ಸಾರಿರಿ",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ಹಾಡಿರಿ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ಯಾಹ್ವೆಗೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಸಕಲ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿಯೇ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ಸಾರಿರಿ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ದಿನದಿಂದ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ಗೆ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ದಿನಕ್ಕೆ"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "⟨ಅವನ⟩ ಮೋಕ್ಷವನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:35:39.512062488Z",
+  "model": "glm-5.3"
+}

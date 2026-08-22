@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಅಪ್ಪಾಯಿಂನ ಮಕ್ಕಳು ಯಿಶೀ; ಯಿಶೀಯ ಮಕ್ಕಳು ಶೆಶಾನ್; ಶೆಶಾನನ ಮಕ್ಕಳು ಅಖ್ಲಾಯ್.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ಅಪ್ಪಾಯಿಂನ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ಯಿಶೀ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ಯಿಶೀಯ"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "ಶೆಶಾನ್"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "ಶೆಶಾನನ"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "ಅಖ್ಲಾಯ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:38.366251770Z",
+  "model": "glm-5.3"
+}

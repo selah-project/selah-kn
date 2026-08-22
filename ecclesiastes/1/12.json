@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ನಾನು, ಕೊಹೆಲೆತ್, ಯಿಸ್ರಾಯೇಲಿನ ಮೇಲೆ ಯೆರೂಶಾಲಾಯಿಂನಲ್ಲಿ ರಾಜನಾಗಿದ್ದೆ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ಕೊಹೆಲೆತ್"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ಆಗಿದ್ದೆ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನಾಗಿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಯಿಸ್ರಾಯೇಲಿನ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ಯೆರೂಶಾಲಾಯಿಂನಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:15.804678172Z",
+  "model": "glm-5.3"
+}

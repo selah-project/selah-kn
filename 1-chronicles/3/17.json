@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಯೆಖೋನ್ಯಾಹ್‌ನ — ⟨ಅವನು⟩ ಬಂಧಿ — ಮಕ್ಕಳು: ಶೆಅಲ್ತೀಎಲ್ ಅವನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "ಯೆಖೋನ್ಯಾಹ್‌ನ"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "ಬಂಧಿ"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "ಶೆಅಲ್ತೀಎಲ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:30:35.976336925Z",
+  "model": "glm-5.3"
+}

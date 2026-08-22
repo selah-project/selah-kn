@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 19,
+  "translation": "ರಬ್ಬಿತ್, ಕಿಶ್ಯೋನ್, ಆಬೆಜ್.",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "ಮತ್ತು ರಬ್ಬಿತ್"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "ಮತ್ತು ಕಿಶ್ಯೋನ್"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "ಮತ್ತು ಆಬೆಜ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:12:18.371868860Z",
+  "model": "glm-5.3"
+}

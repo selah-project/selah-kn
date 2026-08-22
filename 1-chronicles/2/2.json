@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ದಾನ್, ಯೋಸೇಫ಼್ ಮತ್ತು ಬಿನ್ಯಾಮೀನ್, ನಫ್ತಾಲಿ, ಗಾದ್ ಮತ್ತು ಆಶೇರ್.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "ದಾನ್"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ಯೋಸೇಫ಼್"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ಮತ್ತು ಬಿನ್ಯಾಮೀನ್"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ನಫ್ತಾಲಿ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ಗಾದ್"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ಮತ್ತು ಆಶೇರ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:29:01.406280311Z",
+  "model": "glm-5.3"
+}

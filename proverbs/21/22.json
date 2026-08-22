@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 21,
+  "translation": "ಬಲವಂತರ ⟨ನಗರ⟩ಕ್ಕೆ ಜ್ಞಾನಿ ಹತ್ತಿಹೋಗಿ ಅದರ ನೆಮ್ಮದಿಯ ಬಲವನ್ನು ಇಳಿಸುವನು.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "ನಗರ"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "ಬಲವಂತರ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ಹತ್ತಿಹೋಗಿ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ಜ್ಞಾನಿ"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ಇಳಿಸುವನು"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ಬಲವನ್ನು"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "ಅದರ ನೆಮ್ಮದಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:24:45.568346255Z",
+  "model": "glm-5.3"
+}

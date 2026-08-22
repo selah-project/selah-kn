@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "kn",
+  "chapter": 17,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ಅವನಿಗೆ ಹೀಗೆಂದು ಬಂದಿತು:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಮತ್ತು ಆಯಿತು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ಅವನಿಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಗೆಂದು"
+    }
+  ],
+  "timestamp": "2026-08-21T23:15:25.640962208Z",
+  "model": "glm-5.3"
+}

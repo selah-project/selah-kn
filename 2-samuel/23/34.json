@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 23:34",
+  "book": "2-samuel",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಎಲಿಫೆಲೆತ್, ಅಖಸ್ಬಾಯ್ ಮಗ — ⟨the⟩ ಮಾಅಖಾತಿಯ ಮಗ; ಎಲಿಯಾಮ್, ಅಖಿತೋಫೆಲ್ ಮಗ — ⟨the⟩ ಗಿಲೋನಿ.",
+  "tokens": [
+    {
+      "surface": "אליפלט",
+      "gloss": "ಎಲಿಫೆಲೆತ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "אחסבי",
+      "gloss": "ಅಖಸ್ಬಾಯ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "ಮಾಅಖಾತಿಯ"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "ಎಲಿಯಾಮ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "ಅಖಿತೋಫೆಲ್"
+    },
+    {
+      "surface": "הגלני",
+      "gloss": "ಗಿಲೋನಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:02:21.816871636Z",
+  "model": "glm-5.3"
+}

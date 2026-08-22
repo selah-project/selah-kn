@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "⟨את⟩ ಪ್ರತಿಯೊಂದು ಕಾಗೆಯನ್ನೂ ಅದರ ತಳಿಗೆ ಸೇರಿದಂತೆ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಪ್ರತಿಯೊಂದು ಕಾಗೆಯನ್ನೂ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಪ್ರತಿಯೊಂದು"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ಕಾಗೆ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ಅದರ ತಳಿಗೆ ಸೇರಿದಂತೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:05:25.631845764Z",
+  "model": "glm-5.3"
+}

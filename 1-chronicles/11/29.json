@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 11:29",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಸಿಬ್ಬೆಕಾಯ್ ⟨the⟩ ಹುಶಾತಿಯ, ಇಲಾಯ್ ⟨the⟩ ಅಹೋಹಿಯ,",
+  "tokens": [
+    {
+      "surface": "סבכי",
+      "gloss": "ಸಿಬ್ಬೆಕಾಯ್"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "ಹುಶಾತಿಯ"
+    },
+    {
+      "surface": "עילי",
+      "gloss": "ಇಲಾಯ್"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "ಅಹೋಹಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:26.924392538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಆದರೆ ಹಾಗಲ್ಲ ನನ್ನ ಸೇವಕ ಮೋಶೆ; ನನ್ನ ಇಡೀ ಮನೆಯಲ್ಲಿ ಅವನು ನಂಬಲರ್ಹನು.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಆದರೆ ಹಾಗಲ್ಲ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ಹಾಗಲ್ಲ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ನನ್ನ ಸೇವಕ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ಇಡೀ ... ಯಲ್ಲಿ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ನನ್ನ ಮನೆಯಲ್ಲಿ"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "ನಂಬಲರ್ಹನು"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅವನು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:27:51.908185933Z",
+  "model": "glm-5.3"
+}

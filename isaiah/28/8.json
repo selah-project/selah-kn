@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ಏಕೆಂದರೆ ಎಲ್ಲ ಮೇಜುಗಳು ವಾಂತಿ ಮತ್ತು ಕೊಳೆಯಿಂದ ತುಂಬಿವೆ — ಸ್ಥಳವು ಇಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಏಕೆಂದರೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "ಮೇಜುಗಳು"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ತುಂಬಿವೆ"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "ವಾಂತಿ"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "ಕೊಳೆ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ಸ್ಥಳವು"
+    }
+  ],
+  "timestamp": "2026-08-21T23:48:09.793072991Z",
+  "model": "glm-5.3"
+}

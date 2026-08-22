@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಅತಿಯಾಗಿ ನೀತಿವಂತನಾಗಬೇಡ, ಮತ್ತು ಅತಿಯಾಗಿ ಜಾಣ್ಮೆಯುಳ್ಳವನಾಗಬೇಡ; ಯಾಕೆ ನೀನು ನಾಶವಾಗಬೇಕು?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ಆಗಬೇಡ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ನೀತಿವಂತನು"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ಅತಿಯಾಗಿ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ಮತ್ತು… ಬೇಡ"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "ಜಾಣ್ಮೆಯುಳ್ಳವನಾಗಬೇಡ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ಅತಿಯಾಗಿ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ಯಾಕೆ"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "ನಾಶವಾಗಬೇಕು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:58:03.268993112Z",
+  "model": "glm-5.3"
+}

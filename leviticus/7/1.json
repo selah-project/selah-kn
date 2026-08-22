@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಮತ್ತು ಇದೇ ಅಶಾಮ್-ಬಲಿಯ ತೋರಾ; ಅದು ಪರಿಶುದ್ಧರ ಪರಿಶುದ್ಧವಾದದ್ದು.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ಮತ್ತು ಇದೇ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ತೋರಾ"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ಅಶಾಮ್-ಬಲಿಯ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ಪರಿಶುದ್ಧ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ಪರಿಶುದ್ಧರ ಪರಿಶುದ್ಧವಾದದ್ದು"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅದು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:03:43.831878567Z",
+  "model": "glm-5.3"
+}

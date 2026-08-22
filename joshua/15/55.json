@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಮಾಯೋನ್, ಕಾರ್ಮೆಲ್, ತ್ಸಿಫ್ ಮತ್ತು ಯೂತಾ.",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "ಮಾಯೋನ್"
+    },
+    {
+      "surface": "ಛרמל",
+      "gloss": "ಕಾರ್ಮೆಲ್"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "ತ್ಸಿಫ್"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "ಯೂತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:10:48.605756584Z",
+  "model": "glm-5.3"
+}

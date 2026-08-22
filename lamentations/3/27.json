@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಮನುಷ್ಯನಿಗೆ ಒಳ್ಳೇಯದು — ತನ್ನ ಯೌವನದಲ್ಲಿ ಜೀನನ್ನು ಅವನು ಹೊರಬೇಕು ಎಂದು.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ಒಳ್ಳೇಯದು"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "ಮನುಷ್ಯನಿಗೆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಎಂದು"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ಹೊರಬೇಕು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಜೀನನ್ನು"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "ತನ್ನ ಯೌವನದಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:46:50.501575541Z",
+  "model": "glm-5.3"
+}

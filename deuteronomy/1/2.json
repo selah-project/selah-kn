@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಹೋರೇಬಿನಿಂದ, ಸೇಯಿರ್ ಪರ್ವತದ ದಾರಿಯಾಗಿ, ಕಾದೇಶ್-ಬರ್ನೆಯ ತನಕ ⟨ಪಯಣ⟩ ಹನ್ನೊಂದು ದಿನ.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "ಹನ್ನೊಂದು"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(ಹತ್ತು+ಒಂದು)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ದಿನ"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ಹೋರೇಬಿನಿಂದ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ದಾರಿಯಾಗಿ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ಪರ್ವತದ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ಸೇಯಿರ್"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ತನಕ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ಕಾದೇಶ್-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "ಬರ್ನೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:43:46.332486772Z",
+  "model": "glm-5.3"
+}

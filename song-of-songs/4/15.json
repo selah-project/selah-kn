@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ತೋಟಗಳ ಬುಗ್ಗೆ, ಜೀವಂತ ನೀರಿನ ಬಾವಿ, ಲೆಬನೋನ್‌ನಿಂದ ಹರಿಯುವ ಝರಿಗಳು.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "ಬುಗ್ಗೆ"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "ತೋಟಗಳ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ಬಾವಿ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ನೀರಿನ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ಜೀವಂತ"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "ಮತ್ತು ಹರಿಯುವವುಗಳು"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ಇಂದ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ಲೆಬನೋನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T02:48:35.250421360Z",
+  "model": "glm-5.3"
+}

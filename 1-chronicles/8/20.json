@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಮತ್ತು ಎಲೀಯೆನಾಯ್, ಮತ್ತು ಜಿಲ್ಲೆತಾಯ್, ಮತ್ತು ಎಲೀಯೇಲ್.",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "ಮತ್ತು ಎಲೀಯೆನಾಯ್"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "ಮತ್ತು ಜಿಲ್ಲೆತಾಯ್"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "ಮತ್ತು ಎಲೀಯೇಲ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:47.407577380Z",
+  "model": "glm-5.3"
+}

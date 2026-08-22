@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಬೇಬಾಯಿನ ಮಕ್ಕಳು — ಆರು ನೂರ ಇಪ್ಪತ್ತಮೂರು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "ಬೇಬಾಯಿನ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ಆರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ಇಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ಮತ್ತು ಮೂರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:21.762319897Z",
+  "model": "glm-5.3"
+}

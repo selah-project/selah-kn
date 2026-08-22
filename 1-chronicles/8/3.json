@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಬೆಲಾಗೆ ಮಕ್ಕಳಿದ್ದರು: ಅದ್ದಾರ್, ಗೇರಾ, ಅವಿಹೂದ್,",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ಇದ್ದರು"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "ಬೆಲಾಗೆ"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "ಅದ್ದಾರ್"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "ಗೇರಾ"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "ಅವಿಹೂದ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:30.892705491Z",
+  "model": "glm-5.3"
+}

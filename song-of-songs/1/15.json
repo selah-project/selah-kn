@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ನೋಡು, ನೀ ಚೆಲುವೆ, ನನ್ನ ಪ್ರಿಯೆ; ನೋಡು, ನೀ ಚೆಲುವೆ; ನಿನ್ನ ಕಣ್ಣುಗಳು ಬಿಟ್ಟಿಲುಗಳು.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "ನೋಡು"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ಚೆಲುವೆ"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ನನ್ನ ಪ್ರಿಯೆ"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ನೋಡು"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ಚೆಲುವೆ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ನಿನ್ನ ಕಣ್ಣುಗಳು"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "ಬಿಟ್ಟಿಲುಗಳು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:47:40.741401238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಹಿಂದಿನ ದಿನಗಳು ಇವುಗಳಿಗಿಂತ ಒಳ್ಳೇಯವಾಗಿದ್ದವೇ ಎಂದು ಬೇಡ ಹೇಳು, ಕಾರಣ ಇದರ ಬಗ್ಗೆ ನೀನು ಜ್ಞಾನದಿಂದ ಕೇಳಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ಹೇಳು"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ಏನು"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ಆಗಿತ್ತು"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "ಕಾರಣ ಆ ದಿನಗಳು"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ಹಿಂದಿನ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ಆಗಿದ್ದವು"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ಒಳ್ಳೇಯವಾಗಿ"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ಇವುಗಳಿಗಿಂತ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಕಾರಣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "ಜ್ಞಾನದಿಂದ"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ನೀನು ಕೇಳಿಲ್ಲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಬಗ್ಗೆ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ಇದರ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:57:18.199684618Z",
+  "model": "glm-5.3"
+}

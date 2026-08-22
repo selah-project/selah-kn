@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಅತೇರನ ಮಕ್ಕಳು — ಹಿಜ್ಕಿಯಾಹನವರು — ತೊಂಬತ್ತೆಂಟು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "ಅತೇರ್"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "ಹಿಜ್ಕಿಯಾಹನವರು"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ತೊಂಬತ್ತು"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ಮತ್ತು ಎಂಟು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:39.527462955Z",
+  "model": "glm-5.3"
+}

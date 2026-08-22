@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಇವರು ಅವರ ಹೆಸರುಗಳು: ರೆಯೂಬೇನ್ ಗೋತ್ರಕ್ಕೆ — ಶಮ್ಮುವಾ, ಝಕ್ಕೂರನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ಇವರು"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ಅವರ ಹೆಸರುಗಳು"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ಗೋತ್ರಕ್ಕೆ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ರೆಯೂಬೇನ್"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ಶಮ್ಮುವಾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ಝಕ್ಕೂರನ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:27:36.136019434Z",
+  "model": "glm-5.3"
+}

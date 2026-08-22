@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಅಮ್ತ್ಸಿಯ ಮಗ, ಬಾನಿಯ ಮಗ, ಶೆಮೆರನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "ಅಮ್ತ್ಸಿಯ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಬಾನಿಯ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ಶೆಮೆರನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:13.536248633Z",
+  "model": "glm-5.3"
+}

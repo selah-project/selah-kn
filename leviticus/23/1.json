@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಗೆ ಮಾತನಾಡಿ ಹೀಗೆ ಹೇಳುತ್ತಾನೆ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮತ್ತು ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನಿಗೆ (ಮೋಶೆಗೆ)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಗೆ ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:14:49.024695582Z",
+  "model": "glm-5.3"
+}

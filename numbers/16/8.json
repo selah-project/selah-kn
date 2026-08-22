@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ಮೋಶೆಯು ಕೋರಾಖನಿಗೆ ಹೇಳಿದನು: ಕೇಳಿ ಬಿಡಿ, ಲೇವಿಯ ಮಕ್ಕಳೇ!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನಿಗೆ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ಕೋರಾಖನಿಗೆ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ಕೇಳಿ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ಬಿಡಿ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳೇ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ಲೇವಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:29:27.517533352Z",
+  "model": "glm-5.3"
+}

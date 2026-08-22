@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಯಾರು ⟨ಈ⟩ ಮಹಿಮೆಯ ರಾಜನು? ಯಾಹ್ವೆ ಸೇನೆಗಳ — ⟨ಆತನೇ⟩ ಮಹಿಮೆಯ ರಾಜನು. ಸೆಲಾ.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ಯಾರು"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ಈ⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ಈ⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ಮಹಿಮೆಯ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ಸೇನೆಗಳ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ಆತನೇ⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ಮಹಿಮೆಯ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ಸೆಲಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:40:25.780457611Z",
+  "model": "glm-5.3"
+}

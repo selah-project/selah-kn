@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ತ್ಸಾದೋಕ್ ಅವನ ಮಗನು, ಅಖಿಮಾತ್ಸ್ ಅವನ ಮಗನು.",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "ತ್ಸಾದೋಕ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗನು"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "ಅಖಿಮಾತ್ಸ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗನು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:34.404688247Z",
+  "model": "glm-5.3"
+}

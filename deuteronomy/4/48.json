@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಅವ್ರೋಯೆರ್‌ನಿಂದ, ಅದು ಅರ್ನೋನ್ ತೊರೆಯ ದಡದ ಮೇಲಿದೆ, ಸಿಯೋನ್ ಪರ್ವತದವರೆಗೆ — ಅದು ⟨ಅದು⟩ ಹೆರ್ಮೋನ್ —",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "ಅವ್ರೋಯೆರ್‌ನಿಂದ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲಿದೆ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ದಡದ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ತೊರೆಯ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ಅರ್ನೋನ್"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ಮತ್ತು...ವರೆಗೆ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ಪರ್ವತ"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "ಸಿಯೋನ್"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ಹೆರ್ಮೋನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T06:18:36.257148009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಮತ್ತು ಅಜರ್ಯಾ, ಎಜ್ರಾ ಮತ್ತು ಮೆಶುಲ್ಲಾಂ",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ಮತ್ತು ಅಜರ್ಯಾ"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "ಎಜ್ರಾ"
+    },
+    {
+      "surface": "ಕಾನ್ನಡ translation: ಮತ್ತು ಮೆಶುಲ್ಲಾಂ",
+      "gloss": "ಮತ್ತು ಮೆಶುಲ್ಲಾಂ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:50:03.492102178Z",
+  "model": "glm-5.3"
+}

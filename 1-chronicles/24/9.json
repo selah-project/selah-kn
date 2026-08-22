@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಐದನೆಯದು ಮಲ್ಖಿಯಾಗೆ, ಆರನೆಯದು ಮಿಯಾಮೀನ್‌ಗೆ.",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "ಮಲ್ಖಿಯಾಗೆ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ಐದನೆಯದು"
+    },
+    {
+      "surface": "ಲמימן",
+      "gloss": "ಮಿಯಾಮೀನ್‌ಗೆ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ಆರನೆಯದು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:40:42.555243764Z",
+  "model": "glm-5.3"
+}

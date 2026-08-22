@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಮತ್ತು ಮಾಂಸದಲ್ಲಿ, ಅದರ ಚರ್ಮದಲ್ಲಿ, ಬಾವು ಉಂಟಾಗಿ ವಾಸಿಯಾದರೆ,",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "ಮತ್ತು ಮಾಂಸದಲ್ಲಿ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಯಾವಾಗ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ಉಂಟಾಗಿ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ಅದರಲ್ಲಿ"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "ಅದರ ಚರ್ಮದಲ್ಲಿ"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "ಬಾವು"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "ಮತ್ತು ವಾಸಿಯಾದರೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:12:42.473575900Z",
+  "model": "glm-5.3"
+}

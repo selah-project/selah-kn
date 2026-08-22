@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಸಮಸ್ತ ಸಭೆಯು ⟨ಒಟ್ಟಿಗೆ⟩ ಒಂದರಂತೆ ನಾಲ್ಕು ರೀಬೋಆ ಎರಡು ಸಾವಿರ ಮೂರು ನೂರು ಮತ್ತು ಅರವತ್ತು.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ಸಮಸ್ತ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ಸಭೆಯು"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ಒಂದರಂತೆ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ನಾಲ್ಕು"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "ರೀಬೋಆ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ಎರಡು ಸಾವಿರ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ಮೂರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ಮತ್ತು ಅರವತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:24:04.664334704Z",
+  "model": "glm-5.3"
+}

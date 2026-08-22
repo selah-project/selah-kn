@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 50,
+  "translation": "ಭೂಮಿಯಲ್ಲಿ ಯುದ್ಧದ ಸದ್ದು ಮತ್ತು ಮಹಾ ವಿನಾಶ.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ಸದ್ದು"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ಯುದ್ಧದ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ಭೂಮಿಯಲ್ಲಿ"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ಮತ್ತು ವಿನಾಶ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ಮಹಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:35:56.492150879Z",
+  "model": "glm-5.3"
+}

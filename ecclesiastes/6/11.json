@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಏಕೆಂದರೆ ಮಾತುಗಳು ಅನೇಕವಿವೆ, ಅವು ವ್ಯರ್ಥತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತವೆ; ಮನುಷ್ಯನಿಗೆ ಏನು ⟨ಉಳಿದಿದೆ⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಏಕೆಂದರೆ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ಇವೆ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ಮಾತುಗಳು"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ಅನೇಕ"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "ಹೆಚ್ಚಿಸುತ್ತವೆ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ವ್ಯರ್ಥತೆಯನ್ನು"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ಏನು"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ಹೆಚ್ಚು"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ಮನುಷ್ಯನಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:47:36.091829775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 10:7",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ದಾನಿಯೇಲ್, ಗಿನ್ನೆತೋನ್, ಬಾರೂಖ್,",
+  "tokens": [
+    {
+      "surface": "דניאל",
+      "gloss": "ದಾನಿಯೇಲ್"
+    },
+    {
+      "surface": "גנתון",
+      "gloss": "ಗಿನ್ನೆತೋನ್"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ಬಾರೂಖ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:24:04.919891647Z",
+  "model": "glm-5.3"
+}

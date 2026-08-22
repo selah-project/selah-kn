@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ನಿನ್ನ ಸಹೋದರನಿಗೆ ಬಡ್ಡಿ ಕೀಳಬೇಡ — ಬೆಳ್ಳಿಯ ಬಡ್ಡಿ, ಆಹಾರದ ಬಡ್ಡಿ, ಬಡ್ಡಿ ಕೀಳುವ ಯಾವುದೇ ವಸ್ತುವಿನ ಬಡ್ಡಿ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "ಬಡ್ಡಿ ಕೀಳ"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ನಿನ್ನ ಸಹೋದರನಿಗೆ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ಬಡ್ಡಿ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ಬೆಳ್ಳಿಯ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ಬಡ್ಡಿ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ಆಹಾರದ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ಬಡ್ಡಿ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಯಾವುದೇ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಸ್ತುವಿನ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ಯನ್ನು"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ಬಡ್ಡಿ ಕೀಳುವ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:56:36.828628564Z",
+  "model": "glm-5.3"
+}

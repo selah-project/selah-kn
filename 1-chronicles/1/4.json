@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ನೋವಾಖ್, ಶೇಮ್, ಖಾಮ್, ಮತ್ತು ಯಾಫೆತ್.",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "ನೋವಾಖ್"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ಶೇಮ್"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ಖಾಮ್"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ಮತ್ತು ಯಾಫೆತ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:01.786300121Z",
+  "model": "glm-5.3"
+}

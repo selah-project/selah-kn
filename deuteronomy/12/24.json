@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ನೀನು ಅದನ್ನು ತಿನ್ನಬೇಡ; ಭೂಮಿಯ ಮೇಲೆ ನೀರಿನಂತೆ ಅದನ್ನು ಸುರಿ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ನೀನು ಅದನ್ನು ತಿನ್ನಬೇಡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿಯ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ಅದನ್ನು ಸುರಿ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ನೀರಿನಂತೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:50:18.342056331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 31,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆಗೆ ಕಪ್ಪವು ಕುರಿಗಳಲ್ಲಿ ಆರು ನೂರು ಎಪ್ಪತ್ತೈದು ಆಗಿತ್ತು.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಮತ್ತು ಆಗಿತ್ತು"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "ಕಪ್ಪವು"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ಯಾಹ್ವೆಗೆ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ಇಂದ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ಕುರಿಗಳಲ್ಲಿ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ಆರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ಐದು"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ಮತ್ತು ಎಪ್ಪತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:37:59.146085699Z",
+  "model": "glm-5.3"
+}

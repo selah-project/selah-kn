@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಮತ್ತು ⟨את⟩ ಪೋರಾತಾ ಮತ್ತು ⟨את⟩ ಅದಲ್ಯಾ ಮತ್ತು ⟨את⟩ ಅರಿದಾತಾ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ಪೋರಾತಾ"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "ಪೋರಾತಾ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ಅದಲ್ಯಾ"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "ಅದಲ್ಯಾ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ಅರಿದಾತಾ"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "ಅರಿದಾತಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:02:52.364862877Z",
+  "model": "glm-5.3"
+}

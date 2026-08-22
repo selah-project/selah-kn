@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಒಂದು ಮೊಟ್ಟ ಆಡುಕುರಿ, ಪಾಪಾರ್ಪಣೆಗೆ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ಮೊಟ್ಟ ಆಡುಕುರಿ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ಆಡುಗಳ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ಪಾಪಾರ್ಪಣೆಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:22:36.458701925Z",
+  "model": "glm-5.3"
+}

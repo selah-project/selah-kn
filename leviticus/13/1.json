@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಯನ್ನೂ ಅಹರೋನನ್ನೂ ಸಂಬೋಧಿಸಿ ಹೇಳುವುದು:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಸಂಬೋಧಿಸಿ ಹೇಳಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನನ್ನು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯನ್ನೂ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ಮತ್ತು ಇವನನ್ನು"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ಅಹರೋನನ್ನೂ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುವುದು:"
+    }
+  ],
+  "timestamp": "2026-08-21T21:09:37.038658391Z",
+  "model": "glm-5.3"
+}

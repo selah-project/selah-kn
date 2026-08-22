@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 12:4",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಇದ್ದೋ, ಗಿನ್ನೆತೋನ್, ಅಬಿಯಾ.",
+  "tokens": [
+    {
+      "surface": "עדוא",
+      "gloss": "ಇದ್ದೋ"
+    },
+    {
+      "surface": "גנתוי",
+      "gloss": "ಗಿನ್ನೆತೋನ್"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ಅಬಿಯಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:26:40.981993142Z",
+  "model": "glm-5.3"
+}

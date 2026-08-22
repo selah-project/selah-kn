@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ನಿನ್ನ ಕೆನ್ನೆಗಳು ನಿನ್ನ ಮುಸುಕಿನ ಹಿಂದೆ ದಾಳಿಂಬೆಯ ಹೋಳಿನಂತಿವೆ.",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "ಹೋಳಿನಂತೆ"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "ದಾಳಿಂಬೆಯ"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "ನಿನ್ನ ಕೆನ್ನೆಗಳು"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "ಹಿಂದೆ"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "ನಿನ್ನ ಮುಸುಕಿನ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:48:40.092602691Z",
+  "model": "glm-5.3"
+}

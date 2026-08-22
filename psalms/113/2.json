@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 113,
+  "translation": "ಯಾಹ್ವೆಯ ನಾಮವು ಮೆಚ್ಚುಗೆಗೆ ಅರ್ಹವಾಗಿರಲಿ — ಈಗಿಂದ ನಿತ್ಯದವರೆಗೆ.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ಇರಲಿ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ನಾಮವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "ಮೆಚ್ಚುಗೆಗೆ ಅರ್ಹವಾಗಿರಲಿ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ಈಗಿಂದ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ವರೆಗೆ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ನಿತ್ಯದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:06:53.282356707Z",
+  "model": "glm-5.3"
+}

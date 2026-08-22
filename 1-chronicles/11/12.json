@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಅವನ ನಂತರ ಎಲ್ಆಜರ್ — ದೋದೋನ ಮಗ, ಅಹೋಹೀಯ — ಅವನು ಮೂವರು ಪರಾಕ್ರಮಿಗಳಲ್ಲಿ ಒಬ್ಬನು.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "ಅವನ ನಂತರ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ಎಲ್ಆಜರ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "ದೋದೋನ"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "ಅಹೋಹೀಯ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅವನು"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "ಮೂವರಲ್ಲಿ"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ಪರಾಕ್ರಮಿಗಳ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:34:10.134666887Z",
+  "model": "glm-5.3"
+}

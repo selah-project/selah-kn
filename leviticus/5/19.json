@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಅಪರಾಧ-ಅರ್ಪಣೆ ಅದು; ಅವನು ಖಂಡಿತ ಯಾಹ್ವೆಯ ವಿರುದ್ಧ ಅಪರಾಧಿ.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "ಅಪರಾಧ-ಅರ್ಪಣೆ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ಖಂಡಿತ ಅಪರಾಧಿ"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ಅಪರಾಧಿ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ಯಾಹ್ವೆಯ ವಿರುದ್ಧ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:03:36.723496058Z",
+  "model": "glm-5.3"
+}

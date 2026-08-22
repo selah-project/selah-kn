@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನನ್ನ ವಿರುದ್ಧ ಕಟ್ಟಿದನು, ಮತ್ತು ವಿಷವನ್ನೂ ಕಷ್ಟವನ್ನೂ ಸುತ್ತುವರಿಸಿದನು.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "ಕಟ್ಟಿದನು"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ನನ್ನ ವಿರುದ್ಧ"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "ಮತ್ತು ಸುತ್ತುವರಿಸಿದನು"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ವಿಷ"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "ಮತ್ತು ಕಷ್ಟ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:26.586269972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 18,
+  "translation": "ಮೋಶೆಯ ಮಾವನು ಅವನಿಗೆ ಹೇಳಿದನು: ನೀನು ಮಾಡುತ್ತಿರುವ ⟨the⟩ ಮಾತು ಒಳ್ಳೆಯದಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ಮಾವನು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ಅವನಿಗೆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಅಲ್ಲ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ಒಳ್ಳೆಯದು"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ಮಾತು"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ನೀನು"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ಮಾಡುತ್ತಿರುವ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:47:08.754890284Z",
+  "model": "glm-5.3"
+}

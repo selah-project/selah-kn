@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಬೇತ್-ಅಜ್ಮಾವೆತ್ ಜನರು — ನಲವತ್ತೆರಡು.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಬೇತ್"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "ಅಜ್ಮಾವೆತ್"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ನಲವತ್ತು"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ಮತ್ತು ಎರಡು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:58.150562923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಎಲೋಹೀಂ ಬಿಲ್ಆಮನ ಬಳಿ ಬಂದು ಹೇಳಿದನು — ನಿನ್ನೊಡನೆ ಇರುವ ⟨the⟩ ಈ ಮನುಷ್ಯರು ಯಾರು?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ಬಂದನು"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ಬಿಲ್ಆಮನ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ಯಾರು"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ಮನುಷ್ಯರು"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ನಿನ್ನೊಡನೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:33:06.788727482Z",
+  "model": "glm-5.3"
+}

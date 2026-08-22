@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಜನರ ಹಿರಿಮೆಯಲ್ಲಿ ರಾಜನ ಮಹಿಮೆ, ಆದರೆ ಜನಾಂಗದ ಕೊರತೆಯಲ್ಲಿ ಅಧಿಕಾರಿಯ ನಾಶ.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ಹಿರಿಮೆಯಲ್ಲಿ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ಜನರ"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "ಮಹಿಮೆ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನ"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "ಆದರೆ ಕೊರತೆಯಲ್ಲಿ"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "ಜನಾಂಗದ"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "ನಾಶ"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ಅಧಿಕಾರಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:22:28.528474773Z",
+  "model": "glm-5.3"
+}

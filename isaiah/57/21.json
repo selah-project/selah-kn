@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 57,
+  "translation": "ಶಾಂತಿ ಇಲ್ಲ, ನನ್ನ ಎಲೋಹೀಂ ಹೇಳಿದನು, ದುಷ್ಟರಿಗೆ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ಶಾಂತಿ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ನನ್ನ ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "ದುಷ್ಟರಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:02:25.993487802Z",
+  "model": "glm-5.3"
+}

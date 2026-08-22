@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 19:18",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 19,
+  "translation": "ಲೋತ್ ಅವರಿಗೆ ಹೇಳಿದನು: ಅಲ್ಲ, ಬೇಡ, ಅದೋನಾಯ್.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ಲೋತ್"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ಅವರಿಗೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ಬೇಡ (ಬೇಡನೆಂಬ ವಿನಯದ ಕಣ)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ಅದೋನಾಯ್"
+    }
+  ],
+  "timestamp": "2026-08-21T20:17:19.377838122Z",
+  "model": "glm-5.3"
+}

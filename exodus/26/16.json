@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಹತ್ತು ಮೊಳ ಒಂದು ಫಲಕದ ಉದ್ದ, ಮತ್ತು ಒಂದು ಮೊಳ ಮತ್ತು ಅರ್ಧ ಮೊಳ ಒಂದು ಫಲಕದ ಅಗಲ.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ಹತ್ತು"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ಮೊಳ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ಉದ್ದ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ಫಲಕದ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ಮತ್ತು ಒಂದು ಮೊಳ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ಮತ್ತು ಅರ್ಧ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ಮೊಳ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ಅಗಲ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ಫಲಕದ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ಒಂದು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:51:52.114282117Z",
+  "model": "glm-5.3"
+}

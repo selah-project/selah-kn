@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಬೇಸಾಯಿಯ ಮಕ್ಕಳು, ಮೆಉನಿಮರ ಮಕ್ಕಳು, ನೆಫುಷೆಸಿಮರ ಮಕ್ಕಳು,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "ಬೇಸಾಯಿಯ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "ಮೆಉನಿಮರ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "ನೆಫುಷೆಸಿಮರ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:53.941211375Z",
+  "model": "glm-5.3"
+}

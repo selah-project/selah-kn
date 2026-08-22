@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಮತ್ತು ನೀನು ನೆಫೆಶಿನ ಒಡೆಯನಾದರೆ, ನಿನ್ನ ಕಂಠದ ಮೇಲೆ ಚಾಕು ಇಡು.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ಮತ್ತು ಇಡು"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "ಚಾಕು"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "ನಿನ್ನ ಕಂಠದ ಮೇಲೆ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ಆದರೆ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ಒಡೆಯನಾದರೆ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ನೆಫೆಶಿನ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ನೀನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:26:35.098561572Z",
+  "model": "glm-5.3"
+}

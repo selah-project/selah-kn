@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಖತ್ತೂಶ್, ಶೆಬನ್ಯಾ, ಮಲ್ಲೂಖ್,",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "ಖತ್ತೂಶ್"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "ಶೆಬನ್ಯಾ"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "ಮಲ್ಲೂಖ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:24:04.919524938Z",
+  "model": "glm-5.3"
+}

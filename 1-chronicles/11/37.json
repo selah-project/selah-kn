@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಚೆತ್ಸ್ರೋ ⟨the⟩ ಕಾರ್ಮೆಲಿ; ನಾಅರಾಯಿ, ಎಜ್ಬಾಯಿಯ ಮಗ",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ಚೆತ್ಸ್ರೋ"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ಕಾರ್ಮೆಲಿ"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ನಾಅರಾಯಿ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "ಎಜ್ಬಾಯಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:31.381071501Z",
+  "model": "glm-5.3"
+}

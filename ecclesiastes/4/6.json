@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ನೆಮ್ಮದಿಯ ಒಂದು ಅಂಗೈ ಉತ್ತಮ — ಕಷ್ಟ ಮತ್ತು ರೂಅಖಿನ ದುಃಖದ ಎರಡು ಅಂಗೈಗಳಿಗಿಂತ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ಉತ್ತಮ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ತುಂಬ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ಅಂಗೈ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ನೆಮ್ಮದಿ"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ತುಂಬಿದ"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "ಎರಡು ಅಂಗೈಗಳು"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ಕಷ್ಟ"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ಮತ್ತು ದುಃಖ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ರೂಅಖ್"
+    }
+  ],
+  "timestamp": "2026-08-22T02:56:48.034950623Z",
+  "model": "glm-5.3"
+}

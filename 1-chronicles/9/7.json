@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಮತ್ತು ಬಿನ್ಯಾಮಿನರ ಕುಮಾರರಲ್ಲಿ — ಸಲ್ಲು, ಮೆಶುಲ್ಲಾಮನ ಮಗ, ಹೊದವ್ಯಾಹನ ಮಗ, ಹಸ್ಸೆನುವಾಹನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ಮತ್ತು ... ಲ್ಲಿ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಕುಮಾರರು"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ಬಿನ್ಯಾಮಿನ್"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "ಸಲ್ಲು"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "ಮೆಶುಲ್ಲಾಮ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "ಹೊದವ್ಯಾಹ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "ಹಸ್ಸೆನುವಾಹ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:46.112078799Z",
+  "model": "glm-5.3"
+}

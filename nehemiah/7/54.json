@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಬತ್ಸ್ಲಿತ್‌ನ ಮಕ್ಕಳು, ಮೆಚಿದಾನ ಮಕ್ಕಳು, ಚರ್ಶಾನ ಮಕ್ಕಳು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "ಬತ್ಸ್ಲಿತ್‌ನ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "ಮೆಚಿದಾನ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "ಚರ್ಶಾನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:24:08.605078032Z",
+  "model": "glm-5.3"
+}

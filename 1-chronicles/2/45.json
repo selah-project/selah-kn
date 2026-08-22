@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಶಮ್ಮಾಯಿಯ ಮಗ ಮಾಯೋನ್; ಮಾಯೋನ್ ಬೇಯತ್-ತ್ಸೂರಿನ ತಂದೆ.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ಶಮ್ಮಾಯಿ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ಮಾಯೋನ್"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "ಮಾಯೋನ್"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ತಂದೆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಬೇಯತ್"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ತ್ಸೂರ್"
+    }
+  ],
+  "timestamp": "2026-08-22T04:50:17.979620459Z",
+  "model": "glm-5.3"
+}

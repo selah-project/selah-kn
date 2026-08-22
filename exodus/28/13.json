@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ಚಿನ್ನದ ಹೊಂದಿಕೆಗಳನ್ನು ನೀನು ಮಾಡಬೇಕು",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ನೀನು ಮಾಡಬೇಕು"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "ಹೊಂದಿಕೆಗಳನ್ನು"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ಚಿನ್ನದ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:52:28.260291338Z",
+  "model": "glm-5.3"
+}

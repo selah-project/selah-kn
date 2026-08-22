@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ಬರುವಾಗ ನೀ ಆಶೀರ್ವದಿತನು, ಮತ್ತು ಹೋಗುವಾಗ ನೀ ಆಶೀರ್ವದಿತನು.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ಆಶೀರ್ವದಿತನು"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ನೀ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "ಬರುವಾಗ"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ಮತ್ತು ಆಶೀರ್ವದಿತನು"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ನೀ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ಹೋಗುವಾಗ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:58:21.823010826Z",
+  "model": "glm-5.3"
+}

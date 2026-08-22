@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಎಲೋಹೀಂ ಬಿಲ್ಆಮನಿಗೆ ಹೇಳಿದನು — ಅವರೊಡನೆ ಹೋಗಬೇಡ; ⟨את⟩ ಜನವನ್ನು ಶಾಪಿಸಬೇಡ, ಕೆರಣ ಅವರು ಆಶೀರ್ವದಿತರು",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ಬಿಲ್ಆಮನಿಗೆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ಹೋಗ"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "ಅವರೊಡನೆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ಶಾಪಿಸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಜನವನ್ನು"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನವನ್ನು"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಕೆರಣ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ಆಶೀರ್ವದಿತರು"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅವರು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:33:06.789281627Z",
+  "model": "glm-5.3"
+}

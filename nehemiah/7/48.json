@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಲೆಬಾನಾನ ಮಕ್ಕಳು, ಖಗಾಬಾನ ಮಕ್ಕಳು, ಸಲ್ಮಾಯ್‌ನ ಮಕ್ಕಳು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ಲೆಬಾನಾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "ಖಗಾಬಾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "ಸಲ್ಮಾಯ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:24:11.969361433Z",
+  "model": "glm-5.3"
+}

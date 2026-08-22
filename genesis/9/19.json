@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಮೂವರು — ಇವರೇ ನೋವಾಹನ ಮಕ್ಕಳು; ಮತ್ತು ಇವರಿಂದ ಎಲ್ಲ ⟨the⟩ ಭೂಮಿ ಹರಡಿತು.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "ಮೂವರು"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ಇವರೇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ನೋವಾಹನ"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "ಮತ್ತು-ಇವರಿಂದ"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "ಹರಡಿತು"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:10:22.331633542Z",
+  "model": "glm-5.3"
+}

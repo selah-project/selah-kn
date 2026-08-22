@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 26:1",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಆಗ ಅಯ್ಯೋಬ್ ಉತ್ತರಿಸಿ ಹೇಳಿದನು —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ಉತ್ತರಿಸಿದನು"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ಅಯ್ಯೋಬ್"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:40:00.360542465Z",
+  "model": "glm-5.3"
+}

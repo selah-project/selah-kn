@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಅದಕ್ಕೆ ಇಲ್ಲ ನಾಯಕ, ಅಧಿಕಾರಿ ಮತ್ತು ಆಡಳಿತಗಾರ",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ಅದಕ್ಕೆ"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "ನಾಯಕ"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "ಅಧಿಕಾರಿ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ಮತ್ತು ಆಡಳಿತಗಾರ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:19:00.392561795Z",
+  "model": "glm-5.3"
+}

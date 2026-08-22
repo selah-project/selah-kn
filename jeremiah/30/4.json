@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 30,
+  "translation": "ಇವು ಯಾಹ್ವೆ ಇಸ್ರಾಯೇಲಿಗೂ ಯೆಹೂದಾಗೂ ವಿಷಯವಾಗಿ ಆಡಿದ ವಾಕ್ಯಗಳು.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ಇವು"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ವಾಕ್ಯಗಳು"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "ಓ",
+      "gloss": ""
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ಆಡಿದ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ವಿಷಯವಾಗಿ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಇಸ್ರಾಯೇಲಿಗೂ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ಮತ್ತು... ವಿಷಯವಾಗಿ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ಯೆಹೂದಾಗೂ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:24:01.961514601Z",
+  "model": "glm-5.3"
+}

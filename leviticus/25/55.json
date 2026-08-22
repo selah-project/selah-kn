@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 25,
+  "translation": "ಯಾಕೋವಿನ ಮಕ್ಕಳಾದ ಯಿಸ್ರಾಯೇಲ್ ಮಕ್ಕಳು ನನಗೆ ಸೇವಕರು; ನನ್ನ ಸೇವಕರವರು ಅವರು, ನಾನು ⟨את⟩ ಅವರನ್ನು ಮಿತ್ರಾಯಿಂ ದೇಶದಿಂದ ಹೊರತಂದೆನು; ನಾನೇ ಯಾಹ್ವೆ ನಿಮ್ಮ ಎಲೋಹೀಂ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೋ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಯಿಸ್ರಾಯೇಲ್"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ಸೇವಕರು"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ನನ್ನ ಸೇವಕರು"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ಅವರು"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ಔgloss fixed below",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-21T21:17:06.987532014Z",
+  "model": "glm-5.3"
+}

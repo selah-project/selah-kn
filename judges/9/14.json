@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಆಗ ಎಲ್ಲಾ ಮರಗಳು ಮುಳ್ಳುಗಿಡಕ್ಕೆ ಹೇಳಿದವು: ನೀನು ಬಂದು ನಮ್ಮ ಮೇಲೆ ಆಳ್ವಿಸು.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ಹೇಳಿದವು"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ಮರಗಳು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವರಿಗೆ"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "ಮುಳ್ಳುಗಿಡಕ್ಕೆ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ಬಂದು"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ನೀನು"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ಆಳ್ವಿಸು"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ನಮ್ಮ ಮೇಲೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:21:49.016121264Z",
+  "model": "glm-5.3"
+}

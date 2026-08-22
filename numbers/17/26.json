@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 17,
+  "translation": "ಮೋಶೆ ಯಾಹ್ವೆ ಆಜ್ಞಾಪಿಸಿದಂತೆ ⟨את⟩ ಹಾಗೆಯೇ ಮಾಡಿದನು, ಅದನ್ನೇ ಮಾಡಿದನು.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ಮಾಡಿದನು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ಆಜ್ಞಾಪಿಸಿದಂತೆ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ಆಜ್ಞಾಪಿಸಿದ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ಅವನನ್ನು"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ಹಾಗೆಯೇ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ಮಾಡಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-22T04:14:29.760044890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ನೀ ಕೊಲೆ ಮಾಡಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "ನೀ ಕೊಲೆ ಮಾಡ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:44:08.900753876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ರೆಉವೇಲನ ಮಕ್ಕಳು: ನಾಹತ್, ಜೆರಾಹ್, ಶಮ್ಮಾ ಮತ್ತು ಮಿಜ್ಜಾ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ರೆಉವೇಲನ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ನಾಹತ್"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ಜೆರಾಹ್"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ಶಮ್ಮಾ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ಮತ್ತು ಮಿಜ್ಜಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:27:58.887055318Z",
+  "model": "glm-5.3"
+}

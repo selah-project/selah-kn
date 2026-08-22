@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 36,
+  "translation": "ಮುಖ್ಯಸ್ಥ ಕೆನಾಜ್, ಮುಖ್ಯಸ್ಥ ತೆಮಾನ್, ಮುಖ್ಯಸ್ಥ ಮಿಬ್ತ್ಸಾರ್.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ಮುಖ್ಯಸ್ಥ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "ಕೆನಾಜ್"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ಮುಖ್ಯಸ್ಥ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ತೆಮಾನ್"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ಮುಖ್ಯಸ್ಥ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ಮಿಬ್ತ್ಸಾರ್"
+    }
+  ],
+  "timestamp": "2026-08-21T20:27:00.126752543Z",
+  "model": "glm-5.3"
+}

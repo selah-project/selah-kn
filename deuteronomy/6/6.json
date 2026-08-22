@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ನಾನು ಇಂದು ನಿನಗೆ ಆಜ್ಞಾಪಿಸುತ್ತಿರುವ ಈ ವಾಕ್ಯಗಳು ನಿನ್ನ ಹೃದಯದ ಮೇಲೆ ⟨ಇರಲಿ⟩.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ಇರಲಿ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ಈ ವಾಕ್ಯಗಳು"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅವನ್ನು"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ನಿನಗೆ ಆಜ್ಞಾಪಿಸುತ್ತಿರುವ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ಇಂದು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ನಿನ್ನ ಹೃದಯದ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:44:30.663708685Z",
+  "model": "glm-5.3"
+}

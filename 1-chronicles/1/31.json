@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಯೆತೂರ್, ನಾಫೀಶ್ ಮತ್ತು ಕೆದೆಮಾ: ಇವರು ಯಿಶ್ಮಾವೇಲ್‌ನ ಮಕ್ಕಳು.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "ಯೆತೂರ್"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "ನಾಫೀಶ್"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "ಮತ್ತು ಕೆದೆಮಾ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ಇವರು"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ಅವರೇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ಯಿಶ್ಮಾವೇಲ್‌ನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:04.458578786Z",
+  "model": "glm-5.3"
+}

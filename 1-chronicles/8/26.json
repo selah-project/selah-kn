@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಮತ್ತು ಶಮ್ಶೆರೈ, ಮತ್ತು ಶೆಹರ್ಯಾ, ಮತ್ತು ಅತಲ್ಯಾ.",
+  "tokens": [
+    {
+      "surface": "ושמשרי",
+      "gloss": "ಮತ್ತು ಶಮ್ಶೆರೈ"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "ಮತ್ತು ಶೆಹರ್ಯಾ"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "ಮತ್ತು ಅತಲ್ಯಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:51.973795264Z",
+  "model": "glm-5.3"
+}

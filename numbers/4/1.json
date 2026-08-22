@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಯೊಡನೆ ಮತ್ತು ಅಹರೋನೊಡನೆ ಮಾತನಾಡಿ ಹೇಳುತ್ತಾನೆ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮಾತನಾಡಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ೊಡನೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ಮತ್ತು…ೊಡನೆ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ಅಹರೋನ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:21:29.291661564Z",
+  "model": "glm-5.3"
+}

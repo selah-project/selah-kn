@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 4:8",
+  "book": "zechariah",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ನನಗೆ ಹೀಗೆ ಬಂದಿತು:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆದಾಗ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:29:43.085209087Z",
+  "model": "glm-5.3"
+}

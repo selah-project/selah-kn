@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಮತ್ತು ಜೆಬದ್ಯಾ, ಅರಾದ್ ಮತ್ತು ಏದೆರ್;",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "ಮತ್ತು ಜೆಬದ್ಯಾ"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "ಮತ್ತು ಅರಾದ್"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "ಮತ್ತು ಏದೆರ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:42.069501425Z",
+  "model": "glm-5.3"
+}

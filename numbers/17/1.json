@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 17,
+  "translation": "ಮಾತನಾಡಿದನು ಯಾಹ್ವೆ ಮೋಶೆಯೊಂದಿಗೆ, ಹೇಳುತ್ತಾ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಂದಿಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:30:54.768411675Z",
+  "model": "glm-5.3"
+}

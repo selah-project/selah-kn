@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 6:1",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಆಗ ಇಯ್ಯೋಬ್ ಉತ್ತರಿಸಿ ಹೇಳಿದನು:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ಉತ್ತರಿಸಿ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ಇಯ್ಯೋಬ್"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-22T04:43:38.109122532Z",
+  "model": "glm-5.3"
+}

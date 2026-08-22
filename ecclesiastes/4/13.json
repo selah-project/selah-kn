@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಬಡವೂ ಜ್ಞಾನಿಯೂ ಆದ ⟨the⟩ ಮಗುವು ಎಚ್ಚರಿಕೆ ಪಡೆಯಲು ಇನ್ನು ತಿಳಿಯದ ಮುದುಕೂ ಮೂರ್ಖನೂ ಆದ ರಾಜನಿಗಿಂತ ಉತ್ತಮ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ಉತ್ತಮ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ಮಗುವು"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "ಬಡವೂ"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ಜ್ಞಾನಿಯೂ"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "ರಾಜನಿಗಿಂತ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ಮುದುಕೂ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ಮೂರ್ಖನೂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾವನು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇನ್ನು ಇಲ್ಲ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ತಿಳಿಯದ"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "ಎಚ್ಚರಿಕೆ ಪಡೆಯಲು"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ಇನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:53.913025736Z",
+  "model": "glm-5.3"
+}

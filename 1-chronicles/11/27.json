@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಶಮ್ಮೋತ್ ⟨ಸಹೋದರ⟩ ಹರೋರಿ, ಹೆಲೆತ್ಸ್ ಪೆಲೋನಿ.",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "ಶಮ್ಮೋತ್"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "ಹರೋರಿ"
+    },
+    {
+      "surface": "ಹלץ",
+      "gloss": "ಹೆಲೆತ್ಸ್"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "ಪೆಲೋನಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:51.915468137Z",
+  "model": "glm-5.3"
+}

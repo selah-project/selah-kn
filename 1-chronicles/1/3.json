@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 1:3",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಹನೋಖ್, ಮೆತೂಶೆಲಖ್, ಲೆಮೆಖ್,",
+  "tokens": [
+    {
+      "surface": "חנוך",
+      "gloss": "ಹನೋಖ್"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "ಮೆತೂಶೆಲಖ್"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ಲೆಮೆಖ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:01.786204253Z",
+  "model": "glm-5.3"
+}

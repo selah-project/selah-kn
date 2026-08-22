@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ನಾನು ನನ್ನ ಒಡೆಯನಿಗೆ ಹೇಳಿದೆನು — ಬಹುಶಃ ಆ ಹೆಂಡತಿ ನನ್ನ ಹಿಂದೆ ಬರದಿರಬಹುದು.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ಹೇಳಿದೆನು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ಗೆ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ನನ್ನ ಒಡೆಯನಿಗೆ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ಬಹುಶಃ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ಬರದಿರಬಹುದು"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ಆ ಹೆಂಡತಿ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ನನ್ನ ಹಿಂದೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:20:29.420918051Z",
+  "model": "glm-5.3"
+}

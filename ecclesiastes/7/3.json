@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಕಳವಳವು ನಗುವಿಗಿಂತ ಉತ್ತಮ, ಯಾಕೆಂದರೆ ಮುಖದ ಕಡುಗಾವಿಯಿಂದ ಹೃದಯವು ಒಳ್ಳೆಯದಾಗುವುದು.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ಉತ್ತಮ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ಕಳವಳವು"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ನಗುವಿಗಿಂತ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ಕಡುಗಾವಿಯಿಂದ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ಮುಖದ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ಒಳ್ಳೆಯದಾಗುವುದು"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ಹೃದಯವು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:58:00.054857398Z",
+  "model": "glm-5.3"
+}

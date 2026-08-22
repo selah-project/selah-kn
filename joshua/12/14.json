@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಹೊರ್ಮಾಹದ ರಾಜನು ಒಬ್ಬನು; ಅರಾದಿನ ರಾಜನು ಒಬ್ಬನು;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "ಹೊರ್ಮಾಹದ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "ಅರಾದಿನ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    }
+  ],
+  "timestamp": "2026-08-21T22:08:37.860803192Z",
+  "model": "glm-5.3"
+}

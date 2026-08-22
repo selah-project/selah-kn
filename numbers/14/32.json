@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಆದರೆ ನಿಮ್ಮ ಶವಗಳು — ನೀವೇ — ಈ ಅರಣ್ಯದಲ್ಲಿ ಬೀಳಲಿವೆ.",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "ಆದರೆ ನಿಮ್ಮ ಶವಗಳು"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ನೀವೇ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ಬೀಳಲಿವೆ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ಅರಣ್ಯದಲ್ಲಿ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಈ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:27:48.696535928Z",
+  "model": "glm-5.3"
+}

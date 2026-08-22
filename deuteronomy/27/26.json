@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 27,
+  "translation": "ಈ ತೋರಾಹಿನ ಮಾತುಗಳನ್ನು ನೆರವೇರಿಸದವನು ಶಾಪಗ್ರಸ್ತನು; ಆದರೆ ಇಡೀ ಜನರು ಆಮೆನ್ ಎಂದು ಹೇಳಬೇಕು.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ಶಾಪಗ್ರಸ್ತನು"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾರು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "ನೆರವೇರಿಸದವನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಮಾತುಗಳನ್ನು"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ಮಾತುಗಳನ್ನು"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ತೋರಾಹಿನ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ಮಾಡಲು"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ಅವುಗಳನ್ನು"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ಆದರೆ ಹೇಳಬೇಕು"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಇಡೀ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ಆಮೆನ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:58:04.963791516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ಆದ್ದರಿಂದ, ವೇಶ್ಯೆಯೇ, ಯಾಹ್ವೆಯ ಮಾತನ್ನು ಕೇಳು.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ಆದ್ದರಿಂದ"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "ವೇಶ್ಯೆಯೇ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ಕೇಳು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ಮಾತನ್ನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:48:13.552325659Z",
+  "model": "glm-5.3"
+}

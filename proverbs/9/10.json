@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಬುದ್ಧಿಯ ಆರಂಭ ಯಾಹ್ವೆಯ ಭಯ; ಪರಿಶುದ್ಧರ ಪರಿಜ್ಞಾನ ⟨is⟩ ತಿಳುವಳಿಕೆ.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "ಆರಂಭ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ಬುದ್ಧಿಯ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ಭಯ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ಪರಿಜ್ಞಾನ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ಪರಿಶುದ್ಧರ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ತಿಳುವಳಿಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:18:48.231827833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಮತ್ತು ನಿನ್ನ ನೆರೆಯವನ ವಿರುದ್ಧ ಸುಳ್ಳಾದ ಸಾಕ್ಷಿ ಹೇಳಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ಮತ್ತು... ಬೇಡ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ನೀ ಉತ್ತರ ಹೇಳ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ನಿನ್ನ ನೆರೆಯವನ ವಿರುದ್ಧ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ಸಾಕ್ಷಿ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ಸುಳ್ಳಾದ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:44:08.901159240Z",
+  "model": "glm-5.3"
+}

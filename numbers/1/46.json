@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಆಗಿದ್ದರು ಎಣಿಸಲ್ಪಟ್ಟವರೆಲ್ಲರೂ — ಆರು ಲಕ್ಷ ಮೂರು ಸಾವಿರ ಐದುನೂರು ಐವತ್ತು.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ಆಗಿದ್ದರು"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲರೂ"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "ಎಣಿಸಲ್ಪಟ್ಟವರ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ಆರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ಸಾವಿರ"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ಮೂರು"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ಸಾವಿರ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ಐದು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ಐವತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:18:24.857504920Z",
+  "model": "glm-5.3"
+}

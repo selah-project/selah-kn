@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಮತ್ತು ಅವನ ನಂತರ ಗಬ್ಬಾಯಿ, ಸಲ್ಲಾಯಿ — ಒಂಬತ್ತು ನೂರ ಇಪ್ಪತ್ತೆಂಟು.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "ಮತ್ತು ಅವನ ನಂತರ"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "ಗಬ್ಬಾಯಿ"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "ಸಲ್ಲಾಯಿ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ಒಂಬತ್ತು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ಇಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ಮತ್ತು ಎಂಟು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:26:28.310174303Z",
+  "model": "glm-5.3"
+}

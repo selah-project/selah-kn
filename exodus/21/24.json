@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 21,
+  "translation": "ಕಣ್ಣಿಗೆ ಬದಲಿ ಕಣ್ಣು, ಹಲ್ಲಿಗೆ ಬದಲಿ ಹಲ್ಲು, ಕೈಗೆ ಬದಲಿ ಕೈ, ಕಾಲಿಗೆ ಬದಲಿ ಕಾಲು.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ಕಣ್ಣು"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ಬದಲಿಗೆ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ಕಣ್ಣು"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ಹಲ್ಲು"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ಬದಲಿಗೆ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ಹಲ್ಲು"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ಕೈ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ಬದಲಿಗೆ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ಕೈ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ಕಾಲು"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ಬದಲಿಗೆ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ಕಾಲು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:48:24.562992796Z",
+  "model": "glm-5.3"
+}

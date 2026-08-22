@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 94,
+  "translation": "ಪ್ರತಿಕಾರದ ಎಲ್, ಯಾಹ್ವೆ; ಪ್ರತಿಕಾರದ ಎಲ್, ಪ್ರಕಾಶಿಸು.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ಎಲ್"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "ಪ್ರತಿಕಾರದ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಲ್"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "ಪ್ರತಿಕಾರದ"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "ಪ್ರಕಾಶಿಸು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:02:19.072619620Z",
+  "model": "glm-5.3"
+}

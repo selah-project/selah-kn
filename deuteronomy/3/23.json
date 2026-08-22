@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಮತ್ತು ಆ ಸಮಯದಲ್ಲಿ ಯಾಹ್ವೆಯ ಬಳಿ ಕೃಪೆಗಾಗಿ ಬೇಡಿಕೊಂಡೆನು — ಈ ರೀತಿ:",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "ಕೃಪೆಗಾಗಿ ಬೇಡಿಕೊಂಡೆನು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ಸಮಯದಲ್ಲಿ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಈ ರೀತಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:43:32.091417555Z",
+  "model": "glm-5.3"
+}

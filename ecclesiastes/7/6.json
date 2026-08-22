@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಹಿಡಿಯ ಅಡಿಯಲ್ಲಿ ಮುಳ್ಳುಗಳ ⟨ಸದ್ದಿನಂತೆ⟩ ಮುಳ್ಳುಗಳ ಸದ್ದಿರುವಂತೆ, ಅದೇ ರೀತಿ ಮೂರ್ಖನ ನಗು; ಇದೂ ಸಹ ವ್ಯರ್ಥತೆ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "…ಸದ್ದಿರುವಂತೆ"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "ಮುಳ್ಳುಗಳ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ಅಡಿಯಲ್ಲಿ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ಹಿಡಿ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ಅದೇ ರೀತಿ"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ನಗು"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ಮೂರ್ಖನ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ಮತ್ತು ಇದೂ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ಇದು"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ವ್ಯರ್ಥತೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:57:31.469572739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಗೆ ಹೇಳುತ್ತಾ ⟨ಈ ರೀತಿ⟩ ನುಡಿಯಲು —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಹೇಳುತ್ತಾನೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನಿಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುವುದಕ್ಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:02:20.588351335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಅವರು ನನ್ನ ಪ್ರಾಣವನ್ನು ಬಾವಿಯಲ್ಲಿ ಕೊಂಡೊಯ್ದರು ಮತ್ತು ನನ್ನ ಮೇಲೆ ಕಲ್ಲನ್ನು ಎಸೆದರು.",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "ಕೊಂಡೊಯ್ದರು"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ಬಾವಿಯಲ್ಲಿ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ನನ್ನ ಪ್ರಾಣವನ್ನು"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "ಮತ್ತು ಎಸೆದರು"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ಕಲ್ಲನ್ನು"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ನನ್ನ ಮೇಲೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:47.211213298Z",
+  "model": "glm-5.3"
+}

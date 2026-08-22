@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 36,
+  "translation": "ಇವರು ದಿಶಾನ ಮಕ್ಕಳು — ಉತ್ಸ್ ಮತ್ತು ಅರಾನ್.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ಇವರು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "ದಿಶಾನ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ಉತ್ಸ್"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "ಮತ್ತು ಅರಾನ್"
+    }
+  ],
+  "timestamp": "2026-08-21T20:27:28.316268558Z",
+  "model": "glm-5.3"
+}

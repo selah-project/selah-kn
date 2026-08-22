@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 52,
+  "translation": "ನೀತಿವಂತರು ನೋಡಿ ಭಯಪಡುವರು, ಅವನನ್ನು ಕುರಿತು ನಗುವರು.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ನೋಡಿ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ನೀತಿವಂತರು"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ಭಯಪಡುವರು"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "ಅವನನ್ನು ಕುರಿತು"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "ನಗುವರು"
+    }
+  ],
+  "timestamp": "2026-08-22T01:50:37.594600474Z",
+  "model": "glm-5.3"
+}

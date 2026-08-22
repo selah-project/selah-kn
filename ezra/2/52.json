@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "ezra 2:52",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಬತ್ಸ್ಲೂತನ ಮಕ್ಕಳು, ಮೆಖಿದಾನ ಮಕ್ಕಳು, ಖರ್ಶಾನ ಮಕ್ಕಳು,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "בצלות",
+      "gloss": "ಬತ್ಸ್ಲೂತ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "ಮೆಖಿದಾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "ಖರ್ಶಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:15:43.594484600Z",
+  "model": "glm-5.3"
+}

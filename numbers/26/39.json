@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 26:39",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಶೆಫೂಫಾಮ್‌ಗೆ ಶೂಫಾಮಾಯ್ ಕುಲ, ಹೂಫಾಮ್‌ಗೆ ಹೂಫಾಮಾಯ್ ಕುಲ.",
+  "tokens": [
+    {
+      "surface": "לשפופם",
+      "gloss": "ಶೆಫೂಫಾಮ್‌ಗೆ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ಕುಲ"
+    },
+    {
+      "surface": "השופמי",
+      "gloss": "ಶೂಫಾಮಾಯ್"
+    },
+    {
+      "surface": "לחופם",
+      "gloss": "ಹೂಫಾಮ್‌ಗೆ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ಕುಲ"
+    },
+    {
+      "surface": "החופמי",
+      "gloss": "ಹೂಫಾಮಾಯ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:36:12.642162448Z",
+  "model": "glm-5.3"
+}

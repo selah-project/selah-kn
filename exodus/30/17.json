@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 30:17",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 30,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆ ಮೋಶೆಯೊಂದಿಗೆ ಮಾತನಾಡಿದನು, ಹೇಳುತ್ತಾ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮತ್ತು...ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಂದಿಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:53:39.955698624Z",
+  "model": "glm-5.3"
+}

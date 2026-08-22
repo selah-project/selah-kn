@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಲಿಬ್ನಾಹದ ರಾಜನು ಒಬ್ಬನು; ಅದುಲ್ಲಾಮಿನ ರಾಜನು ಒಬ್ಬನು;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ಲಿಬ್ನಾಹದ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "ಅದುಲ್ಲಾಮಿನ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    }
+  ],
+  "timestamp": "2026-08-21T22:08:37.860954077Z",
+  "model": "glm-5.3"
+}

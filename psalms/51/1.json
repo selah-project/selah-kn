@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 51,
+  "translation": "ಸಂಗೀತ ನಿರ್ದೇಶಕನಿಗೆ; ದಾವಿದನ ಮಜ್ಮೋರ್.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ಸಂಗೀತ ನಿರ್ದೇಶಕನಿಗೆ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ಮಜ್ಮೋರ್"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ದಾವಿದನ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:49:08.485068872Z",
+  "model": "glm-5.3"
+}

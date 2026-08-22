@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಶೆಓಲ್‌ನ ದಾರಿಗಳು ಅವಳ ಮನೆ, ಮರಣದ ಒಳಕೋಣೆಗಳಿಗೆ ಇಳಿಯುವಂತವು.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "ದಾರಿಗಳು"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ಶೆಓಲ್‌ನ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ಅವಳ ಮನೆ"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "ಇಳಿಯುವಂತವು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ಒಳಕೋಣೆಗಳ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ಮರಣದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:19:07.080365315Z",
+  "model": "glm-5.3"
+}

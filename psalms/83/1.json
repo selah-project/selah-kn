@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 83,
+  "translation": "ಹಾಡು, ಅಸಾಫನಿಗೆ ಸಂಬಂಧಿಸಿದ ವಾದ್ಯಸಹಿತ ಕೀರ್ತನೆ.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ಹಾಡು"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ವಾದ್ಯಸಹಿತ ಕೀರ್ತನೆ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ಅಸಾಫನಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:57:41.158121331Z",
+  "model": "glm-5.3"
+}

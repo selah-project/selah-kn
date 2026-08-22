@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ತ್ಸಲ್ಮೋನ್ ⟨the⟩ ಅಹೋಹಿ; ಮಹರಾಯಿ ⟨the⟩ ನೆತೋಫಾತಿ;",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "ತ್ಸಲ್ಮೋನ್"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "ಅಹೋಹಿ"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "ಮಹರಾಯಿ"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "ನೆತೋಫಾತಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:02:03.452209308Z",
+  "model": "glm-5.3"
+}

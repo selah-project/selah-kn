@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಮತ್ತು ಅನಾಬ್, ಮತ್ತು ಎಶ್ತೆಮೋಅ, ಮತ್ತು ಅನೀಮ್.",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "ಮತ್ತು ಅನಾಬ್"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "ಮತ್ತು ಎಶ್ತೆಮೋಅ"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "ಮತ್ತು ಅನೀಮ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:10:45.339776340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 120,
+  "translation": "ಪರಾಕ್ರಮಿಯ ಚೂಪಾದ ಬಾಣಗಳು, ರೆತೆಮ್-ಸಸಿಗೆಯ ಕಿಡಿಗಳ ಸಂಗಡ.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "ಬಾಣಗಳು"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ಪರಾಕ್ರಮಿಯ"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ಚೂಪಾದ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ಸಂಗಡ"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "ಕಿಡಿಗಳ"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "ರೆತೆಮ್-ಸಸಿಗೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:11:24.444004001Z",
+  "model": "glm-5.3"
+}

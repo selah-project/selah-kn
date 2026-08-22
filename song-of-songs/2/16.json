@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ನನ್ನ ಪ್ರಿಯನು ನನಗೆ, ನಾನು ಅವನಿಗೆ; ಅವನು ಲಿಲಿಹೂವುಗಳ ನಡುವೆ ಮೇಯುತ್ತಾನೆ।",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "ನನ್ನ ಪ್ರಿಯನು"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಅವನಿಗೆ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ಮೇಯುತ್ತಾನೆ"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "ಲಿಲಿಹೂವುಗಳ ನಡುವೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:48:21.208518828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಏಕೆಂದರೆ ⟨the⟩ ಪುರುಷನು ⟨the⟩ ಮನೆಯಲ್ಲಿ ಇಲ್ಲ; ಅವನು ದೂರದ ದಾರಿಯಲ್ಲಿ ಹೋಗಿದ್ದಾನೆ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಏಕೆಂದರೆ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨the⟩ ಪುರುಷನು"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "⟨the⟩ ಮನೆಯಲ್ಲಿ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ಹೋಗಿದ್ದಾನೆ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ದಾರಿಯಲ್ಲಿ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ದೂರದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:19:28.439304537Z",
+  "model": "glm-5.3"
+}

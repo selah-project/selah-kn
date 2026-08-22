@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 47,
+  "translation": "ಯಾಹ್ವೆ ಎಲ್ಯೋನ್ ಭಯಂಕರನು, ಭೂಮಿಯ ಮೇಲಿನ ಮಹಾ ರಾಜನು",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕಾಗೆಂದರೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ಎಲ್ಯೋನ್ (ಸರ್ವೋನ್ನತ)"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ಭಯಂಕರನು"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ಮಹಾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲಿನ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಸಮಸ್ತ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:47:54.550560173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 29,
+  "translation": "ನೀನು ⟨את⟩ ಕರುವನ್ನು ಯಾಹ್ವೆಯ ಮುಂದೆ, ಸಭಾದಿಂಡದ ಬಾಗಿಲ ಬಳಿ ವಧಿಸು.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "ವಧಿಸು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಕರು"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ಕರುವನ್ನು"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ಮುಂದೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ಬಾಗಿಲ ಬಳಿ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ಡೇರೆ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ಸಭೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:53:06.963716141Z",
+  "model": "glm-5.3"
+}

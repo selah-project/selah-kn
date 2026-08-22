@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 30,
+  "translation": "ಏಕೆಂದರೆ ಇದು ದಂಗೆಯ ಜನ, ಸುಳ್ಳು ಹೇಳುವ ಮಕ್ಕಳು, ಯಾಹ್ವೆಯ ತೋರಾವನ್ನು ಕೇಳಲು ಒಪ್ಪದ ಮಕ್ಕಳು.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಏಕೆಂದರೆ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ಜನ"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "ದಂಗೆಯ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಇದು"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "ಸುಳ್ಳು ಹೇಳುವ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "ಒಪ್ಪದ"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ಕೇಳಲು"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ತೋರಾವನ್ನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:49:44.860354954Z",
+  "model": "glm-5.3"
+}

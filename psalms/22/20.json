@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ನೀನೋ ಯಾಹ್ವೆ, ದೂರ ಇರಬೇಡ; ನನ್ನ ಬಲವೇ, ನನಗೆ ಸಹಾಯ ಮಾಡಲು ಬೇಗ ಬಾ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ನೀನೋ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ದೂರ ಇರ"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "ನನ್ನ ಬಲವೇ"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ನನಗೆ ಸಹಾಯ ಮಾಡಲು"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ಬೇಗ ಬಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:39:40.893416957Z",
+  "model": "glm-5.3"
+}

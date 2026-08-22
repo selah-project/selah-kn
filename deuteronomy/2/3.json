@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ನಿಮಗೆ ಸಾಕು — ಈ ಪರ್ವತವನ್ನು ⟨את⟩ ಸುತ್ತುತ್ತಿರುವುದು; ನೀವು ⟨ನಿಮಗೋಸ್ಕರ⟩ ಉತ್ತರಕ್ಕೆ ತಿರುಗಿರಿ.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "ಸಾಕು"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ನಿಮಗೆ"
+    },
+    {
+      "surface": "סב",
+      "gloss": "ಸುತ್ತುತ್ತಿರುವುದು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಈ ಪರ್ವತ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ಪರ್ವತ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ತಿರುಗಿರಿ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ನಿಮಗೋಸ್ಕರ"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ಉತ್ತರಕ್ಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:42:32.671361336Z",
+  "model": "glm-5.3"
+}

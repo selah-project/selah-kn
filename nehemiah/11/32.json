@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಅನಾತೋತ್, ನೋಬ್, ಅನನ್ಯಾ.",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "ಅನಾತೋತ್"
+    },
+    {
+      "surface": "נב",
+      "gloss": "ನೋಬ್"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "ಅನನ್ಯಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:50:04.288155094Z",
+  "model": "glm-5.3"
+}

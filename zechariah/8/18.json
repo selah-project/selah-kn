@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "zechariah 8:18",
+  "book": "zechariah",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಯಾಹ್ವೆ ಸೈನ್ಯಗಳ (ಸೇನಾಧಿಪತಿ) ವಾಣಿ ನನಗೆ ಉಂಟಾಯಿತು, ಹೇಳುತ್ತಾ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಉಂಟಾಯಿತು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಣಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ಸೈನ್ಯಗಳ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:30:01.697940148Z",
+  "model": "glm-5.3"
+}

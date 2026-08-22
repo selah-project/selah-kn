@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಹೀಗೆ ಅದೋನಾಯ್ ಯಾಹ್ವೆ ಹೇಳುತ್ತಾನೆ: ಅದು ನಿಂತೇರದು, ಆಗದೂ ಇರದು.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ಹೀಗೆ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಹೇಳುತ್ತಾನೆ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ಅದೋನಾಯ್"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ನಿಂತೇರದು"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ಮತ್ತು ಇಲ್ಲ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ಆಗದೂ ಇರದು"
+    }
+  ],
+  "timestamp": "2026-08-21T23:39:01.204997435Z",
+  "model": "glm-5.3"
+}

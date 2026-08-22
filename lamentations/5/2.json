@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ನಮ್ಮ ಪಿತ್ರಾರ್ಜಿತವು ಪರರಿಗೆ ತಿರುಗಿತು, ನಮ್ಮ ಮನೆಗಳು ಅನ್ಯಜನರಿಗೆ.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "ನಮ್ಮ ಪಿತ್ರಾರ್ಜಿತವು"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "ತಿರುಗಿತು"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "ಪರರಿಗೆ"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ನಮ್ಮ ಮನೆಗಳು"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "ಅನ್ಯಜನರಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:01.074847968Z",
+  "model": "glm-5.3"
+}

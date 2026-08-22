@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಅರ್ಪಚ್ಷಾದ್ ⟨את⟩ ಶೆಲಾನನ್ನು ಹೆರಿದನು, ಮತ್ತು ಶೆಲಾ ⟨את⟩ ಏವೆರನನ್ನು ಹೆರಿದನು.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ಮತ್ತು ಅರ್ಪಚ್ಷಾದ್"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ಹೆರಿದನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಶೆಲಾನನ್ನು"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ಶೆಲಾ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ಮತ್ತು ಶೆಲಾ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ಹೆರಿದನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಏವೆರನನ್ನು"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ಏವೆರ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:39.617892458Z",
+  "model": "glm-5.3"
+}

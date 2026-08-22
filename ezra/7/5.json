@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಅವೀಶುವ ಮಗ, ಪಿನ್ಹಾಸನ ಮಗ, ಎಲ್ಆಜರನ ಮಗ, ಅಹರೋನನ ಮಗ — ⟨the⟩ ಯಾಜಕ, ⟨the⟩ ಪ್ರಧಾನ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "ಅವೀಶುವ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "ತינחס",
+      "gloss": "ಪಿನ್ಹಾಸ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ಎಲ್ಆಜರ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ಅಹರೋನ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ಯಾಜಕ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ಪ್ರಧಾನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:16:34.288337191Z",
+  "model": "glm-5.3"
+}

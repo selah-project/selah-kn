@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 19,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಯೊಡನೆ ಮಾತನಾಡಿ ಹೇಳುವುದು:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮಾತನಾಡಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಡನೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುವುದು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:12:28.231268359Z",
+  "model": "glm-5.3"
+}

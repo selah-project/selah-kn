@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಆದ್ದರಿಂದ ಯಾಹ್ವೆಯ ⟨the⟩ ಸಭೆಯಲ್ಲಿ ಗೂರಲಿನ ಮೂಲಕ ಹಗ್ಗ ಹಾಕುವವನು ನಿನಗೆ ಇರಲಾರನು.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ಆದ್ದರಿಂದ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ಆಗುವನು"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನಿನಗೆ"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "ಹಾಕುವವನು"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ಹಗ್ಗ"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ಗೂರಲಿನ ಮೂಲಕ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ಸಭೆಯಲ್ಲಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:37:56.395917279Z",
+  "model": "glm-5.3"
+}

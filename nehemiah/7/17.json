@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಅಜ್ಗದ್‌ನ ಮಕ್ಕಳು ಎರಡು ಸಾವಿರ ಮೂರು ನೂರ ಇಪ್ಪತ್ತೆರಡು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "ಅಜ್ಗದ್‌ನ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ಎರಡು ಸಾವಿರ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ಮೂರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ಇಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ಎರಡು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:53.709637468Z",
+  "model": "glm-5.3"
+}

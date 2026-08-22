@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 89,
+  "translation": "ಬೋಧೆಯ ಗೀತೆ, ಎಜ್ರಾಹಿಯಾದ ಏತಾನ್‌ಗೆ",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ಬೋಧೆಯ ಗೀತೆ"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "ಏತಾನ್‌ಗೆ"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ಎಜ್ರಾಹಿಯಾದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:00:15.001472666Z",
+  "model": "glm-5.3"
+}

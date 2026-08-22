@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 6:8",
+  "book": "hosea",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಗಿಲ್‌ಆದ್ ಅಕ್ರಮದ ಕೆಲಸಗಾರರ ಪಟ್ಟಣ, ರಕ್ತದಿಂದ ಜಾಡುಗಟ್ಟಿದೆ.",
+  "tokens": [
+    {
+      "surface": "גלעד",
+      "gloss": "ಗಿಲ್‌ಆದ್"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ಪಟ್ಟಣ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ಕೆಲಸಗಾರರ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ಅಕ್ರಮದ"
+    },
+    {
+      "surface": "עקבה",
+      "gloss": "ಜಾಡುಗಟ್ಟಿದೆ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ರಕ್ತದಿಂದ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:09:26.569609351Z",
+  "model": "glm-5.3"
+}

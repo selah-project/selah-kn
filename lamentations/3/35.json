@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಎಲ್ಯೋನ್‌ನ ಮುಖದ ಸನ್ನಿಧಿಯಲ್ಲಿ ಮನುಷ್ಯನ ತೀರ್ಪನ್ನು ವಕ್ರಗೊಳಿಸುವುದಕ್ಕಾಗಿ.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "ವಕ್ರಗೊಳಿಸುವುದಕ್ಕಾಗಿ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ತೀರ್ಪನ್ನು"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ಮನುಷ್ಯನ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ಸನ್ನಿಧಿಯಲ್ಲಿ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ಮುಖದ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ಎಲ್ಯೋನ್‌ನ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:53:03.738620209Z",
+  "model": "glm-5.3"
+}

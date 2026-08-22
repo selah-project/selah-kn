@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಕಲ್ಲುಗಳ ಬಲ ನನ್ನ ಬಲವೇ? ಅಥವಾ ನನ್ನ ಮಾಂಸವು ಕಂಚಿನದೇ?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ಅಥವಾ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ಬಲ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ಕಲ್ಲುಗಳ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ನನ್ನ ಬಲವೇ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ಅಥವಾ"
+    },
+    {
+      "surface": "ಬשרי",
+      "gloss": "ನನ್ನ ಮಾಂಸವು"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "ಕಂಚಿನದೇ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:32:48.731601539Z",
+  "model": "glm-5.3"
+}

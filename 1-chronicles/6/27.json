@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಏತಾನ್‌ನ ಮಗನು, ಜಿಮ್ಮಾಹ್‌ನ ಮಗನು, ಶಿಮ್‌ಇಯ ಮಗನು.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ಏತಾನ್‌ನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ಜಿಮ್ಮಾಹ್‌ನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ಶಿಮ್‌ಇಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:28.180044169Z",
+  "model": "glm-5.3"
+}

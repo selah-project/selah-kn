@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ಮತ್ತು ಯಾಯಿರಿ ಎಂಬ ಇರಾ ⟨ದಾವೀದನಿಗೆ⟩ ಯಾಜಕನಾಗಿದ್ದನು.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ಮತ್ತು... ಸಹ"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ಇರಾ"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "ಯಾಯಿರಿ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ಆಗಿದ್ದನು"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ಯಾಜಕ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ದಾವೀದನಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:58:37.822313260Z",
+  "model": "glm-5.3"
+}

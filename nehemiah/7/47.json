@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಕೇರೋಸ್‌ನ ಮಕ್ಕಳು, ಸೀಯಾನ ಮಕ್ಕಳು, ಪಾದೋನ್‌ನ ಮಕ್ಕಳು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "ಕೇರೋಸ್"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "ಸೀಯಾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "ಪಾದೋನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:24:11.969253943Z",
+  "model": "glm-5.3"
+}

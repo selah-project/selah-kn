@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "⟨את⟩ ಚಿಕ್ಕ ಗೂಬೆ ಮತ್ತು ⟨את⟩ ದೊಡ್ಡ ಗೂಬೆ ಮತ್ತು ಬಿಳಿ ಗೂಬೆ",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಚಿಕ್ಕ ಗೂಬೆ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ಚಿಕ್ಕ ಗೂಬೆ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ದೊಡ್ಡ ಗೂಬೆ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ದೊಡ್ಡ ಗೂಬೆ"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ಬಿಳಿ ಗೂಬೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:49:40.756568316Z",
+  "model": "glm-5.3"
+}

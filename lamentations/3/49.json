@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನನ್ನ ಕಣ್ಣು ಹರಿಯುತ್ತದೆ ಮತ್ತು ನಿಲ್ಲುವುದಿಲ್ಲ, ಯಾವುದೇ ವಿಶ್ರಾಂತಿ ಇಲ್ಲದೆ.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ನನ್ನ ಕಣ್ಣು"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "ಹರಿಯುತ್ತದೆ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ಮತ್ತು... ಇಲ್ಲ"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "ನಿಲ್ಲುವುದಿಲ್ಲ"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ಇಲ್ಲದೆ"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "ವಿಶ್ರಾಂತಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:24.928278724Z",
+  "model": "glm-5.3"
+}

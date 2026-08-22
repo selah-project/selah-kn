@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಉತ್ತಮ ಹೆಸರು ಒಳ್ಳೆಯ ಎಣ್ಣೆಗಿಂತ ⟨ಉತ್ತಮ⟩, ಮತ್ತು ಮರಣದ ದಿನವು ಅವನು ಹುಟ್ಟಿದ ದಿನಕ್ಕಿಂತ ⟨ಉತ್ತಮ⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ಉತ್ತಮ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ಹೆಸರು"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ಒಳ್ಳೆಯ ಎಣ್ಣೆಗಿಂತ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ಉತ್ತಮ"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ಮತ್ತು ದಿನ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ಮರಣದ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ದಿನಕ್ಕಿಂತ"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "ಅವನು ಹುಟ್ಟಿದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:58:00.054482110Z",
+  "model": "glm-5.3"
+}

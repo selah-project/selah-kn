@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಯಾರು ಶುದ್ಧವನ್ನು ಅಶುದ್ಧದಿಂದ ಕೊಡಬಲ್ಲನು? ಒಬ್ಬನೂ ಇಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ಯಾರು"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ಕೊಡಬಲ್ಲನು"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ಶುದ್ಧವನ್ನು"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "ಅಶುದ್ಧದಿಂದ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನೂ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:35:13.766777079Z",
+  "model": "glm-5.3"
+}

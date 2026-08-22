@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 25,
+  "translation": "ಇವುಗಳೂ ಸಹ ಶಲೋಮೋನ ಗಾದೆಗಳು — ಯೆಹೂದಾದ ರಾಜನಾದ ಖಿಜ್ಕಿಯಾಹನ ಜನರು ನಕಲು ಮಾಡಿದವು.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ಸಹ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ಇವುಗಳೂ"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "ಗಾದೆಗಳು"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ಶಲೋಮೋನ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅವುಗಳನ್ನು"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "ನಕಲು ಮಾಡಿದವು"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ಖಿಜ್ಕಿಯಾಹನ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನಾದ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ಯೆಹೂದಾದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:27:31.271242031Z",
+  "model": "glm-5.3"
+}

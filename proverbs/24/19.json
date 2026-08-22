@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 24:19",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಕೆಟ್ಟವರ ವಿಷಯದಲ್ಲಿ ಕುದಿಯಬೇಡ, ದುಷ್ಟರ ವಿಷಯದಲ್ಲಿ ಅಸೂಯೆಪಡಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ಕುದಿಸು"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "ಕೆಟ್ಟವರ ವಿಷಯದಲ್ಲಿ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ಅಸೂಯೆಪಡು"
+    },
+    {
+      "surface": "ברשעים",
+      "gloss": "ದುಷ್ಟರ ವಿಷಯದಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:26:11.410817712Z",
+  "model": "glm-5.3"
+}

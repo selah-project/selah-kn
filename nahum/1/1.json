@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ನೀನೆವೆಯ ಹೊರೆ — ನಾಖುಂ ಎಲ್ಕೋಶಿಯ ದರ್ಶನದ ಪುಸ್ತಕ.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ಹೊರೆ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ನೀನೆವೆ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ಪುಸ್ತಕ"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "ದರ್ಶನ"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "ನಾಖುಂ"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "ಎಲ್ಕೋಶಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:24:32.870627681Z",
+  "model": "glm-5.3"
+}

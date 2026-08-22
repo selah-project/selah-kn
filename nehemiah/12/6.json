@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಶೆಮಾಯಾ, ಯೋಯಾರಿಬ್, ಯೆದಾಯಾ.",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "ಶೆಮಾಯಆ"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "ಮತ್ತು ಯೋಯಾರಿಬ್"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ಯೆದಾಯಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:26:46.252768043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 12:1",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆ ಮೋಶೆಗೆ ಮಾತನಾಡಿದನು, ಹೇಳುತ್ತಾ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮತ್ತು...ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:06:35.247782711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಸಂಶೋಧಿತ ಬೆಳ್ಳಿಯೇ ನೀತವಂತನ ನಾಲಿಗೆ; ದುರ್ಜನರ ಹೃದಯವು ಅಲ್ಪವಾದುದು.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ಬೆಳ್ಳಿ"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "ಸಂಶೋಧಿತ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ನಾಲಿಗೆ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ನೀತವಂತನ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ಹೃದಯ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ದುರ್ಜನರ"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ಅಲ್ಪವಾದುದು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:20:27.463169061Z",
+  "model": "glm-5.3"
+}

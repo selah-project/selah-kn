@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಮಿತ್ರಾಯಿಮ್‌ನ ಮೇಲೆ ಹೊಸ ರಾಜನೊಬ್ಬ ಎದ್ದನು, ಯೋಸೆಫನನ್ನು ⟨את⟩ ಅಲ್ಲ ತಿಳಿದವನು.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ಎದ್ದನು"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ಹೊಸ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ಮಿತ್ರಾಯಿಮ್‌ನ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅವನು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಅಲ್ಲ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ತಿಳಿದವನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಯೋಸೆಫನನ್ನು"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ಯೋಸೆಫ್"
+    }
+  ],
+  "timestamp": "2026-08-21T20:35:55.591643099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಹಶೇಮ್ ⟨the⟩ ಗಿಜೋನ್ಯನ ಮಕ್ಕಳು — ಯೋನಾತಾನ್, ಶಾಗೇಯ ಮಗ, ⟨the⟩ ಹರಾರ್ಯನು,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "השם",
+      "gloss": "ಹಶೇಮ್"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "ಗಿಜೋನ್ಯನ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ಯೋನಾತಾನ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "ಶಾಗೇ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ಹರಾರ್ಯನು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:54.181498822Z",
+  "model": "glm-5.3"
+}

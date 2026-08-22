@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಶಿಯೋನ್ ಪರ್ವತದ ಮೇಲೆ — ಅದು ಹಾಳಾಗಿದೆ — ಕತ್ತೆಕಿರುಬಗಳು ಅದರಲ್ಲಿ ನಡೆಯುತ್ತವೆ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ \/ ಕಾರಣದಿಂದ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ಪರ್ವತ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ಶಿಯೋನ್"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "ಹಾಳಾಗಿದೆ"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "ಕತ್ತೆಕಿರುಬಗಳು"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ನಡೆಯುತ್ತವೆ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ಅದರಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:02.100642659Z",
+  "model": "glm-5.3"
+}

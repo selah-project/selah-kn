@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 10:29",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಯಾಹ್ವೆಯ ಮಾರ್ಗವು ನಿರ್ಮಲರಿಗೆ ಬಲಗೋಡೆ, ಆದರೆ ಅಕ್ರಮಕ್ರಿಯೆಗಾರರಿಗೆ ⟨is⟩ ನಾಶ.",
+  "tokens": [
+    {
+      "surface": "מעוז",
+      "gloss": "ಬಲಗೋಡೆ"
+    },
+    {
+      "surface": "לתם",
+      "gloss": "ನಿರ್ಮಲರಿಗೆ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ಮಾರ್ಗ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "ಆದರೆ ನಾಶ"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "ಕ್ರಿಯೆಗಾರರಿಗೆ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ಅಕ್ರಮ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:20:39.514891256Z",
+  "model": "glm-5.3"
+}

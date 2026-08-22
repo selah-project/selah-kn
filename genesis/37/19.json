@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 37,
+  "translation": "ಅವರು ಒಬ್ಬರು ಇನ್ನೊಬ್ಬರಿಗೆ ಹೇಳಿದರು, ನೋಡಿ, ಕನಸುಗಳ ಒಡೆಯ ಈತ ಬರುತ್ತಿದ್ದಾನೆ.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ಹೇಳಿದರು"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ಒಬ್ಬರು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ತಮ್ಮ ಸಹೋದರನಿಗೆ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ನೋಡಿ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ಒಡೆಯ"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "ಕನಸುಗಳ"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "ಈತ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ಬರುತ್ತಿದ್ದಾನೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:28:14.379968607Z",
+  "model": "glm-5.3"
+}

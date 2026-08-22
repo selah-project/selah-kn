@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಒಂದು ಕರು, ಹಿಂಡಿನ ಮಗು; ಒಂದು ಕುರಿರಾಮು; ಒಂದು ಒಂದು ವರ್ಷದ ಕುರಿಮರಿ, ಸುಡುಹಾರಕ್ಕೆ.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ಕರು"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗು"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ಹಿಂಡಿನ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ಕುರಿರಾಮು"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ಕುರಿಮರಿ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಒಂದು ವರ್ಷದ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ವರ್ಷದ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ಸುಡುಹಾರಕ್ಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:22:36.458573242Z",
+  "model": "glm-5.3"
+}

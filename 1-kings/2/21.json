@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಆಗ ಆಕೆಯು ಹೇಳಿದಳು — ಅವ್ರಾಹಾಂ... ",
+  "tokens": [],
+  "timestamp": "2026-08-21T23:04:59.466430441Z",
+  "model": "glm-5.3"
+}

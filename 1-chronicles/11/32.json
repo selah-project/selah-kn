@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಚೂರಾಯ್ ಗಾಅಶ್‌ನ ಕಣಿವೆ-ತೊರೆಗಳಿಂದ, ಅಬಿಯೇಲ್ ⟨the⟩ ಅರ್ಬಾತಿಯ,",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "ಚೂರಾಯ್"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "ಕಣಿವೆ-ತೊರೆಗಳಿಂದ"
+    },
+    {
+      "surface": "געש",
+      "gloss": "ಗಾಅಶ್"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "ಅಬಿಯೇಲ್"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "ಅರ್ಬಾತಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:26.924891736Z",
+  "model": "glm-5.3"
+}

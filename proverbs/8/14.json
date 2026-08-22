@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ನನಗೆ ⟨is⟩ ಆಲೋಚನೆಯೂ ಸ್ಥಿರ ಜ್ಞಾನವೂ ಇವೆ; ನಾನೇ ತಿಳುವಳಿಕೆ; ನನಗೆ ⟨is⟩ ಬಲವಿದೆ.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ಆಲೋಚನೆಯೂ"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "ಸ್ಥಿರ ಜ್ಞಾನವೂ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ನಾನೇ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ತಿಳುವಳಿಕೆ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "ಬಲವಿದೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:18:55.023465724Z",
+  "model": "glm-5.3"
+}

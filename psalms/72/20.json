@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 72,
+  "translation": "ಮುಕ್ತಾಯಗೊಂಡವು ಪ್ರಾರ್ಥನೆಗಳು, ದಾವೀದನವು, ಯಿಶೈಯ ಮಗನದು.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ಮುಕ್ತಾಯಗೊಂಡವು"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "ಪ್ರಾರ್ಥನೆಗಳು"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ದಾವೀದನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…ಮಗ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ಯಿಶೈಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:54:48.144740885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 118,
+  "translation": "ಇದು ⟨the⟩ ದಿನ, ಯಾಹ್ವೆ ಮಾಡಿದನು; ನಾವು ಹರ್ಷಿಸೋಣ ಮತ್ತು ಅದರಲ್ಲಿ ಸಂತೋಷಪಡೋಣ.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ಇದು"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ದಿನ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ಮಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "ಹರ್ಷಿಸೋಣ"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "ಮತ್ತು ಸಂತೋಷಪಡೋಣ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ಅದರಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:42:32.965123577Z",
+  "model": "glm-5.3"
+}

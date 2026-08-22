@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಖನೋಕ್‌ನ ಎಲ್ಲಾ ದಿನಗಳು ಐದು ಮತ್ತು ಅರವತ್ತೈದು ವರ್ಷ ಮತ್ತು ಮೂರು ನೂರು ವರ್ಷ ಆಗಿವೆ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಗಿವೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ದಿನಗಳು"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ಖನೋಕ್‌ನ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ಐದು"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ಮತ್ತು ಅರವತ್ತೈದು"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ವರ್ಷ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ಮತ್ತು ಮೂರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ವರ್ಷ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:09:43.768579358Z",
+  "model": "glm-5.3"
+}

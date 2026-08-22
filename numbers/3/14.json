@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಯಾಹ್ವೆ ಸೀನಾಯ್ ಅರಣ್ಯದಲ್ಲಿ ಮೋಶೆಗೆ ಹೇಳುತ್ತಿದ್ದನು:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಹೇಳುತ್ತಿದ್ದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ಅರಣ್ಯದಲ್ಲಿ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ಸೀನಾಯ್"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಗೆಂದು"
+    }
+  ],
+  "timestamp": "2026-08-22T04:12:55.364055355Z",
+  "model": "glm-5.3"
+}

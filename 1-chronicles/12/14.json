@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಯಿರ್ಮೆಯಾಹು ಹತ್ತನೆಯವನು, ಮಖ್‌ಬನ್ನಾಯ್ ಹನ್ನೊಂದನೆಯವನು.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "ಯಿರ್ಮೆಯಾಹು"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ಹತ್ತನೆಯವನು"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "ಮಖ್‌ಬನ್ನಾಯ್"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ಹನ್ನೊಂದರ-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…ಒಂದು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:36:35.704997785Z",
+  "model": "glm-5.3"
+}

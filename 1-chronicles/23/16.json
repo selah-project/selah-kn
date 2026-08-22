@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಗೆರೆಶೋಮನ ಮಕ್ಕಳು — ಶೆಬುಎಲ್ ⟨the⟩ ಮುಖ್ಯಸ್ಥ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ಗೆರೆಶೋಮನ"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "ಶೆಬುಎಲ್"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ಮುಖ್ಯಸ್ಥ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:41:12.309287417Z",
+  "model": "glm-5.3"
+}

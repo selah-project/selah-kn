@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಈ ದಿನ ಮಾಡಿದಂತೆ ಯಾಹ್ವೆ ಆಜ್ಞಾಪಿಸಿದನು — ನಿಮಗೋಸ್ಕರ ಪ್ರಾಯಶ್ಚಿತ್ತ ಮಾಡಲು.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ಹೇಗೆ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ಮಾಡಿದಂತೆ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ದಿನ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ಆಜ್ಞಾಪಿಸಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ಮಾಡಲು"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ಪ್ರಾಯಶ್ಚಿತ್ತ ಮಾಡಲು"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ನಿಮಗೋಸ್ಕರ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:05:28.597917985Z",
+  "model": "glm-5.3"
+}

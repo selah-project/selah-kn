@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಕಾಲೇಬನ — ಯೆಫುನ್ನೆಯ ಮಗನ — ಮಕ್ಕಳು ಇರು, ಏಲಾ ಮತ್ತು ನಾಅಮ್; ಏಲಾನ ಮಕ್ಕಳು ಕೆನಾಜ಼್.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ಕಾಲೇಬನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ಯೆಫುನ್ನೆಯ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ಇರು"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ಏಲಾ"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "ಮತ್ತು ನಾಅಮ್"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ಏಲಾನ"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "ಮತ್ತು ಕೆನಾಜ಼್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:30:45.138670398Z",
+  "model": "glm-5.3"
+}

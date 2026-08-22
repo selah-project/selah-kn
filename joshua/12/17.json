@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ತಪ್ಪುವಾಖ್‌ನ ರಾಜ — ಒಬ್ಬನು; ಖೆಫೆರ್‌ನ ರಾಜ — ಒಬ್ಬನು.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜ"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "ತಪ್ಪುವಾಖ್‌ನ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜ"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ಖೆಫೆರ್‌ನ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    }
+  ],
+  "timestamp": "2026-08-21T22:08:51.187226087Z",
+  "model": "glm-5.3"
+}

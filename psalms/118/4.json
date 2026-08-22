@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 118,
+  "translation": "ಯಾಹ್ವೆಯನ್ನು ಭಯಪಡುವವರು ಈಗ ಹೇಳಲಿ — ಕೇರಣ ಸದಾ ಕಾಲಕ್ಕೂ ಆತನ ಹೆಸೆದ್.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ಹೇಳಲಿ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ಈಗ"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ಭಯಪಡುವವರು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯನ್ನು"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಕೇರಣ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ಸದಾ ಕಾಲಕ್ಕೂ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ಆತನ ಹೆಸೆದ್"
+    }
+  ],
+  "timestamp": "2026-08-22T02:08:51.496240489Z",
+  "model": "glm-5.3"
+}

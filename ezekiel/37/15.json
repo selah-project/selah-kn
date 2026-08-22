@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 37:15",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 37,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ನನಗೆ ಉಂಟಾಯಿತು, ಹೇಳುತ್ತಾ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಮತ್ತು ಉಂಟಾಯಿತು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:03:21.810091446Z",
+  "model": "glm-5.3"
+}

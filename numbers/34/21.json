@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 34,
+  "translation": "ಬಿನ್ಯಾಮೀನ್ ಕುಲಕ್ಕೆ — ಕಿಸ್ಲೋನ್ ಮಗನಾದ ಎಲಿದಾದ್.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ಕುಲಕ್ಕೆ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ಬಿನ್ಯಾಮೀನ್"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "ಎಲಿದಾದ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನಾದ"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "ಕಿಸ್ಲೋನ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:40:17.995789134Z",
+  "model": "glm-5.3"
+}

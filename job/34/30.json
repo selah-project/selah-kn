@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 34:30",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 34,
+  "translation": "ಅಧಾರ್ಮಿಕ ಮನುಷ್ಯನು ಆಳುವುದರಿಂದ, ಜನರ ಬಲೆಗಳಿಂದ.",
+  "tokens": [
+    {
+      "surface": "ממלך",
+      "gloss": "ಆಳುವುದರಿಂದ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ಮನುಷ್ಯನು"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "ಅಧಾರ್ಮಿಕ"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "ಬಲೆಗಳಿಂದ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ಜನರ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:44:12.696888547Z",
+  "model": "glm-5.3"
+}

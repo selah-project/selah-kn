@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಮತ್ತು ಕರೆದನು ಹೆಸರನ್ನು ⟨the⟩ ಆ ಸ್ಥಳದ, ತಾಬೆರಾಹ್, ಯಾಕ ಉರಿಯಿತು ಅವರಲ್ಲಿ ಯಾಹ್ವೆಯ ಬೆಂಕಿ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ಮತ್ತು ಕರೆದನು"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ಹೆಸರನ್ನು"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨the⟩ ಸ್ಥಳದ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "ತಾಬೆರಾಹ್"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕ"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "ಉರಿಯಿತು"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ಅವರಲ್ಲಿ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ಬೆಂಕಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:26:07.718923497Z",
+  "model": "glm-5.3"
+}

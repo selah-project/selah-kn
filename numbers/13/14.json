@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ನಫ್ತಾಲಿ ಬುಡಕಟ್ಟಿಗೆ — ನಖ್ಬಿ, ವೊಫ್ಸಿಯ ಮಗನು.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ಬುಡಕಟ್ಟಿಗೆ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ನಫ್ತಾಲಿ"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "ನಖ್ಬಿ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "ವೊಫ್ಸಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:13:48.123716531Z",
+  "model": "glm-5.3"
+}

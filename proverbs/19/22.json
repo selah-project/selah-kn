@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 19,
+  "translation": "ಮನುಷ್ಯನ ಆಸೆ ⟨ಅವನ⟩ ಹೆಸೆದ್; ಬಡವನು ಸುಳ್ಳುಗಾರನಿಗಿಂತ ಒಳ್ಳೆಯವನು.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ಆಸೆ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ಮನುಷ್ಯನ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ಹೆಸೆದ್"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ಒಳ್ಳೆಯವನು"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ಬಡವನು"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "...ಗಿಂತ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ಸುಳ್ಳುಗಾರನಿಗಿಂತ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:24:48.386907156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಯಾಕೆಂದರೆ ಅವನು ದುಃಖಿಸಿದರೂ, ತನ್ನ ಹೆಸೆದ್‌ನ ಅಧಿಕ್ಯದಂತೆ ಕರುಣೆ ತೋರಿಸುವನು.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ಆದರೂ"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "ದುಃಖಿಸಿದರೂ"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "ಕರುಣೆ ತೋರಿಸುವನು"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ಅಧಿಕ್ಯದಂತೆ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ತನ್ನ ಹೆಸೆದ್"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:27.295669705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 19,
+  "translation": "ಅದಾಮಾಹ್, ರಾಮಾಹ್ ಮತ್ತು ಹಾಜೋರ್.",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "ಮತ್ತು ಅದಾಮಾಹ್"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "ಮತ್ತು ರಾಮಾಹ್"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "ಮತ್ತು ಹಾಜೋರ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:12:59.064581384Z",
+  "model": "glm-5.3"
+}

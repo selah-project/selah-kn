@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 35,
+  "translation": "ರಾಹೆಲ್ ಸತ್ತಳು ಮತ್ತು ಎಫ್ರಾತಾ — ಅದು ⟨is⟩ ಬೇತ್-ಲೆಖೆಮ್ — ದಾರಿಯಲ್ಲಿ ಹೂಳಲ್ಪಟ್ಟಳು.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "ಸತ್ತಳು"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ರಾಹೆಲ್"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "ಹೂಳಲ್ಪಟ್ಟಳು"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ದಾರಿಯಲ್ಲಿ"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "ಎಫ್ರಾತಾ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಬೇತ್"
+    },
+    {
+      "surface": "ಲחם",
+      "gloss": "ಲೆಖೆಮ್"
+    }
+  ],
+  "timestamp": "2026-08-21T20:27:38.121953150Z",
+  "model": "glm-5.3"
+}

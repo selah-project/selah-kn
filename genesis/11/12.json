@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಮತ್ತು ಅರ್ಪಕ್ಷಾದನು ಮೂವತ್ತೈದು ವರ್ಷ ಬಾಳಿ, ⟨את⟩ ಶೆಲಾಖನ್ನು ಪಡೆದನು.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ಮತ್ತು ಅರ್ಪಕ್ಷಾದನು"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ಬಾಳಿ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ಐದು"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ಮೂವತ್ತು"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ವರ್ಷ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ಪಡೆದನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಶೆಲಾಖನ್ನು"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ಶೆಲಾಖನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:12:49.106122306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 30,
+  "translation": "ಬಿಲ್ಹಾ ಗರ್ಭಿಣಿಯಾದಳು ಮತ್ತು ಯಾಕೋವ್‌ಗೆ ಒಬ್ಬ ಮಗನನ್ನು ಹೆತ್ತಳು.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ಗರ್ಭಿಣಿಯಾದಳು"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ಬಿಲ್ಹಾ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ಹೆತ್ತಳು"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ಯಾಕೋವ್‌ಗೆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:23:30.027257147Z",
+  "model": "glm-5.3"
+}

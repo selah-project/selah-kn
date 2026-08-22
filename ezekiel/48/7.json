@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 48,
+  "translation": "ರೆಉಬೆನ್‌ನ ಗಡಿಯ ಮೇಲೆ, ಪೂರ್ವ ದಿಕ್ಕಿನಿಂದ ಪಶ್ಚಿಮ ದಿಕ್ಕಿನವರೆಗೆ, ಯೆಹೂದಾ — ಒಂದು ⟨ಭಾಗ⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ಗಡಿಯ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ರೆಉಬೆನ್‌ನ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ದಿಕ್ಕಿನಿಂದ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ಪೂರ್ವ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ವರೆಗೆ"
+    },
+    {
+      "surface": "ತאת",
+      "gloss": "ದಿಕ್ಕಿನ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ಪಶ್ಚಿಮ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ಯೆಹೂದಾ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    }
+  ],
+  "timestamp": "2026-08-22T01:08:28.668980632Z",
+  "model": "glm-5.3"
+}

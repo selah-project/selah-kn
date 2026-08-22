@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 42,
+  "translation": "ಅವರಿಗೆ ಹೇಳಿದನು — ಇಲ್ಲ, ಆದರೆ ದೇಶದ ನಗ್ನತೆಯನ್ನು ನೋಡಲು ನೀವು ಬಂದಿರಿ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ಅವರಿಗೆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಆದರೆ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ನಗ್ನತೆಯನ್ನು"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ದೇಶದ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "ನೀವು ಬಂದಿರಿ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ನೋಡಲು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:31:13.645302114Z",
+  "model": "glm-5.3"
+}

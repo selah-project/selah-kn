@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ನೀನು, ಯಾಹ್ವೆ, ಸರ್ವಕಾಲ ಆಸೀನನು; ನಿನ್ನ ಸಿಂಹಾಸನ ತಲೆಮರಿಯಿಂದ ತಲೆಮರಿಗೆ ⟨ಉಳಿದಿದೆ⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ನೀನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ಸರ್ವಕಾಲ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ಆಸೀನನು"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ನಿನ್ನ ಸಿಂಹಾಸನ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ತಲೆಮರಿಯಿಂದ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ತಲೆಮರಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:02.100792933Z",
+  "model": "glm-5.3"
+}

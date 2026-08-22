@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಆಗ ವೇಶ್ಯೆಯರಾದ ಎರಡು ಹೆಂಗಸರು ರಾಜನ ಬಳಿ ಬಂದು ಅವನ ಮುಂದೆ ನಿಂತರು.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ಆಗ"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "ಬಂದರು"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ಎರಡು"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ಹೆಂಗಸರು"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "ವೇಶ್ಯೆಯರಾದ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ರಾಜನ"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "ನಿಂತರು"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ಅವನ ಮುಂದೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:04:58.701093218Z",
+  "model": "glm-5.3"
+}

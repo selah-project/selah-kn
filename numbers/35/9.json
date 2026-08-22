@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 35:9",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 35,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಯೊಡನೆ ಆಡಿ ಹೇಳುವುದು ಹೀಗೆ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಆಡಿ ಹೇಳಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಡನೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯೊಡನೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುವುದು ಹೀಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:41:09.762182161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 27,
+  "translation": "ಮತ್ತು ಮೋಶೆ ಅವರ ತೀರ್ಪನ್ನು ⟨את⟩ ಯಾಹ್ವೆಯ ಮುಂದೆ ಸಮೀಪಿಸಿದನು.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ಸಮೀಪಿಸಿದನು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಅವರ ತೀರ್ಪನ್ನು"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "ಅವರ ತೀರ್ಪನ್ನು"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ಮುಂದೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:37:15.465399798Z",
+  "model": "glm-5.3"
+}

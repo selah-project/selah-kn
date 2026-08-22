@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 17,
+  "translation": "ಮೋಶೆ ಮತ್ತು ಅಹರೋನರು ಸಭಾಮಂದಿರದ ಮುಂಭಾಗಕ್ಕೆ ಬಂದರು.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ಬಂದರು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "ಕוהרן",
+      "gloss": "ಮತ್ತು ಅಹರೋನರು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಡೆಗೆ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ಮುಂಭಾಗಕ್ಕೆ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ಸಭಾಮಂದಿರದ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "(ಸಭೆಯ)"
+    }
+  ],
+  "timestamp": "2026-08-21T21:29:32.291597640Z",
+  "model": "glm-5.3"
+}

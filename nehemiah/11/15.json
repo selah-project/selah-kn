@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಮತ್ತು ಲೇವಿಯರಲ್ಲಿ ಶೆಮಯ್ಯ, ಖಶ್ಶೂಬ್ ಮಗ, ಅಜ್ರಿಕಾಮ್ ಮಗ, ಖಶಬ್ಯಾ ಮಗ, ಬುನ್ನಿ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ಮತ್ತು ... ಲ್ಲಿ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ಲೇವಿಯರ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ಶೆಮಯ್ಯ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "ಖಶ್ಶೂಬ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "ಅಜ್ರಿಕಾಮ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ಖಶಬ್ಯಾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "ಬುನ್ನಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:27:14.694988866Z",
+  "model": "glm-5.3"
+}

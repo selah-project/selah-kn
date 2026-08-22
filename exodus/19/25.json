@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 19,
+  "translation": "ಆಗ ಮೋಶೆ ಜನರ ಬಳಿಗೆ ಇಳಿದನು ಮತ್ತು ಅವರಿಗೆ ಹೇಳಿದನು.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ಇಳಿದನು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿಗೆ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನರ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಮತ್ತು ಹೇಳಿದನು"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ಅವರಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:45:07.287770080Z",
+  "model": "glm-5.3"
+}

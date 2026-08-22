@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಆದರೆ ಅದರ ರಕ್ತವನ್ನು ಮಾತ್ರ ⟨את⟩ ತಿನ್ನಬೇಡ; ಭೂಮಿಯ ಮೇಲೆ ಅದನ್ನು ನೀರಿನಂತೆ ಚೆಲ್ಲು.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ಆದರೆ...ಮಾತ್ರ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಅದರ ರಕ್ತವನ್ನು"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ಅದರ ರಕ್ತವನ್ನು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ತಿನ್ನ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿಯ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ಅದನ್ನು ಚೆಲ್ಲು"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ನೀರಿನಂತೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:49:41.974980900Z",
+  "model": "glm-5.3"
+}

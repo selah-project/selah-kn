@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 7:18",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಬಾ, ಬೆಳಗಾಗುವವರೆಗೆ ಪ್ರಣಯದಿಂದ ತೃಪ್ತರಾಗೋಣ; ಪ್ರೀತಿಯ ಆಟದಲ್ಲಿ ನಲಿಯೋಣ.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "ಬಾ"
+    },
+    {
+      "surface": "נרוה",
+      "gloss": "ತೃಪ್ತರಾಗೋಣ"
+    },
+    {
+      "surface": "דדים",
+      "gloss": "ಪ್ರಣಯದಿಂದ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ವರೆಗೆ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ಬೆಳಗು"
+    },
+    {
+      "surface": "נתעלסה",
+      "gloss": "ನಲಿಯೋಣ"
+    },
+    {
+      "surface": "באהבים",
+      "gloss": "ಪ್ರೀತಿಯ ಆಟದಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:19:28.439191546Z",
+  "model": "glm-5.3"
+}

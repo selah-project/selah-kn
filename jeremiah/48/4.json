@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 48,
+  "translation": "ಮೋಆಬ್ ಮುರಿದುಬಿತ್ತು; ಅದರ ಚಿಕ್ಕವರು ಕೂಗನ್ನು ಕೇಳಿಸಿದರು.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ಮುರಿದುಬಿತ್ತು"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ಮೋಆಬ್"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "ಕೇಳಿಸಿದರು"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "ಕೂಗನ್ನು"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "ಅದರ ಚಿಕ್ಕವರು"
+    }
+  ],
+  "timestamp": "2026-08-22T00:34:02.018125295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಅತೇರ್, ಖಿಸ್ಕಿಯಾ, ಅಸ್ಸೂರ್,",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "ಅತೇರ್"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ಖಿಸ್ಕಿಯಾ"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "ಅಸ್ಸೂರ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:25:37.632938396Z",
+  "model": "glm-5.3"
+}

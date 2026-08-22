@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಮಂತ್ರವಿಲ್ಲದೆ ಹಾವು ಕಡಿದರೆ, ನಾಲಿಗೆಯ ಒಡೆಯನಿಗೆ ಯಾವ ಪ್ರಯೋಜನವೂ ಇಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ವೇಳೆ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ಕಡಿದರೆ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ಹಾವು"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ಇಲ್ಲದೆ"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "ಮಂತ್ರ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ಮತ್ತು ಇಲ್ಲ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ಪ್ರಯೋಜನ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ಒಡೆಯನಿಗೆ"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "ನಾಲಿಗೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:57:33.833374381Z",
+  "model": "glm-5.3"
+}

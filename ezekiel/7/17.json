@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಎಲ್ಲ ಕೈಗಳು ಸಡಿಲವಾಗುವವು, ಮತ್ತು ಎಲ್ಲ ಮಂಡಿಗಳು ನೀರಾಗಿ ಹೋಗುವವು.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "ಕೈಗಳು"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ಸಡಿಲವಾಗುವವು"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ಮತ್ತು ಎಲ್ಲ"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "ಮಂಡಿಗಳು"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "ಹೋಗುವವು"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ನೀರು"
+    }
+  ],
+  "timestamp": "2026-08-22T00:41:37.070824482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಈ ಎಲ್ಲರೂ ಸಿದ್ದೀಮ್ ಕಣಿವೆಗೆ ಸೇರಿದರು — ಅದುವೇ ⟨the⟩ ಉಪ್ಪಿನ ಸಮುದ್ರ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ಸೇರಿದರು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ಕಣಿವೆ"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "ಸಿದ್ದೀಮ್"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅದುವೇ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ಸಮುದ್ರ"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ಉಪ್ಪಿನ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:14:14.300198038Z",
+  "model": "glm-5.3"
+}

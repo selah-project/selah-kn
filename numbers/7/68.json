@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಚಿನ್ನದ ಒಂದು ಚಮಚ, ಹತ್ತು ⟨ಶೇಕೆಲ್⟩, ಧೂಪದ್ರವ್ಯದಿಂದ ತುಂಬಿದ್ದದ್ದು.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ಚಮಚ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ಹತ್ತು"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ಚಿನ್ನದ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ತುಂಬಿದ್ದದ್ದು"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ಧೂಪದ್ರವ್ಯದಿಂದ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:25:07.156939919Z",
+  "model": "glm-5.3"
+}

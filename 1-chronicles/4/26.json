@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 4:26",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಮಿಶ್ಮಾನ ಮಕ್ಕಳು: ಹಮ್ಮುವೇಲ್ ಅವನ ಮಗ, ಝಕ್ಕೂರ್ ಅವನ ಮಗ, ಶಿಮ್ಈ ಅವನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ಮಿಶ್ಮಾನ"
+    },
+    {
+      "surface": "חמואל",
+      "gloss": "ಹಮ್ಮುವೇಲ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ಝಕ್ಕೂರ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ಶಿಮ್ಈ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:30:17.196611903Z",
+  "model": "glm-5.3"
+}

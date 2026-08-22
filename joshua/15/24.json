@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಝಿಫ್, ಟೆಲೆಮ್, ಬೆಅಲೋತ್.",
+  "tokens": [
+    {
+      "surface": "זיף",
+      "gloss": "ಝಿಫ್"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "ಟೆಲೆಮ್"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "ಬೆಅಲೋತ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:10:46.999850059Z",
+  "model": "glm-5.3"
+}

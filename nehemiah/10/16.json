@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 10:16",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಬುನ್ನಿ, ಅಜ್ಗದ್, ಬೇಬಾಯ್.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಬುನ್ನಿ"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "ಅಜ್ಗದ್"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "ಬೇಬಾಯ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:25:46.012233635Z",
+  "model": "glm-5.3"
+}

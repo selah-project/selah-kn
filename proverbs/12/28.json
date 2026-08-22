@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ನೀತಿಯ ಹಾದಿಯಲ್ಲಿ ಜೀವವಿದೆ, ಮತ್ತು ಅದರ ದಾರಿಯಲ್ಲಿ ಮರಣವಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "ಹಾದಿಯಲ್ಲಿ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ನೀತಿಯ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ಜೀವವಿದೆ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ಮತ್ತು ದಾರಿಯಲ್ಲಿ"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "ಅದರ ದಾರಿ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ಮರಣ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:21:11.930736663Z",
+  "model": "glm-5.3"
+}

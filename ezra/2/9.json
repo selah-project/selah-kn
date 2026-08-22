@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಜಕ್ಕಾಯಿನ ಮಕ್ಕಳು — ಏಳು ನೂರ ಅರವತ್ತು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ಜಕ್ಕಾಯಿನ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ಏಳು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ಮತ್ತು ಅರವತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:21.761932407Z",
+  "model": "glm-5.3"
+}

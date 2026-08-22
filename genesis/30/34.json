@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 30,
+  "translation": "ಆಗ ಲಾವಣನು ಹೇಳಿದನು: ಇಗೋ, ನಿನ್ನ ಮಾತಿನಂತೆ ⟨ಆಗಲಿ⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಆಗ ಹೇಳಿದನು"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ಲಾವಣ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ಇಗೋ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಆಗಬೇಕೇನೋ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ಆಗಲಿ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ನಿನ್ನ ಮಾತಿನಂತೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:07:12.847834917Z",
+  "model": "glm-5.3"
+}

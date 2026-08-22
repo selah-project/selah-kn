@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "nehemiah 7:57",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಶೆಲೋಮೋಹನ ಸೇವಕರ ಮಕ್ಕಳು — ಸೋತಾಯಿಯ ಮಕ್ಕಳು, ಸೋಫೆರೆತನ ಮಕ್ಕಳು, ಪೆರಿದಾನ ಮಕ್ಕಳು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ಸೇವಕರ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ಶೆಲೋಮೋಹನ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "סוטי",
+      "gloss": "ಸೋತಾಯಿಯ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "סופרת",
+      "gloss": "ಸೋಫೆರೆತನ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "פרידא",
+      "gloss": "ಪೆರಿದಾನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:24:20.677527201Z",
+  "model": "glm-5.3"
+}

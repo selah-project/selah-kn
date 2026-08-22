@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 1:24",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಶೆಮ್, ಅರ್ಪಕ್ಷಾದ್, ಶೆಲಾಖ್",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ಶೆಮ್"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "ಅರ್ಪಕ್ಷಾದ್"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ಶೆಲಾಖ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:27:59.139930581Z",
+  "model": "glm-5.3"
+}

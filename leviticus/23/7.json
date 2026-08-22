@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಮೊದಲ ದಿನದಲ್ಲಿ ನಿಮಗೆ ಪವಿತ್ರ ಸಭೆ ⟨ಇರುವುದು⟩; ಯಾವುದೇ ದುಡಿಮೆಯ ಕೆಲಸವನ್ನು ಮಾಡಬೇಡಿ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ದಿನದಲ್ಲಿ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ಮೊದಲ"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ಸಭೆ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ಪವಿತ್ರ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ಆಗಿರಲಿ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ನಿಮಗೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ಕೆಲಸ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ದುಡಿಮೆಯ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ಮಾಡಬೇಡಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:14:41.860823826Z",
+  "model": "glm-5.3"
+}

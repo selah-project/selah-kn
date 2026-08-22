@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನಾನು ನಿನ್ನ ನಾಮವನ್ನು ಯಾಹ್ವೆ ಎಂದು ಕೆಳಗಿನ ಬಾವಿಯಿಂದ ಕೂಗಿ ಕರೆದೆನು.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "ನಾನು ಕರೆದೆನು"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ನಿನ್ನ ನಾಮವನ್ನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ಬಾವಿಯಿಂದ"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ಕೆಳಗಿನ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:47.211571008Z",
+  "model": "glm-5.3"
+}

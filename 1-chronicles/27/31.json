@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 27:31",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 27,
+  "translation": "ಮತ್ತು ಕುರಿಗಳ ಮೇಲೆ ಯಾಝಿಝ್ ⟨ಹಾಗರಿ⟩; ಇವೆಲ್ಲರೂ ದಾವೀದ್ ರಾಜನಿಗೆ ಇದ್ದ ಆಸ್ತಿಯ ಅಧಿಕಾರಿಗಳು.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ಕುರಿಗಳ"
+    },
+    {
+      "surface": "יזיז",
+      "gloss": "ಯಾಝಿಝ್"
+    },
+    {
+      "surface": "ההגרי",
+      "gloss": "⟨ಹಾಗರಿ⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ಇವರು"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ಅಧಿಕಾರಿಗಳು"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "ಆಸ್ತಿಯ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಇದ್ದ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ರಾಜನಿಗೆ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ದಾವೀದ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:43:38.823268123Z",
+  "model": "glm-5.3"
+}

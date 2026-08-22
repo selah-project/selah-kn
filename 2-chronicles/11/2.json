@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 11:2",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ⟨ಆಗಿತ್ತು⟩ ದೇವರ ಮನುಷ್ಯನಾದ ಶೆಮಯಾಹುವಿಗೆ, ಹೀಗೆ ಹೇಳುತ್ತಾ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನಿಗೆ"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "ಶೆಮಯಾಹುವಿಗೆ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ಮನುಷ್ಯನಾದ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ದೇವರ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:50:25.605698530Z",
+  "model": "glm-5.3"
+}

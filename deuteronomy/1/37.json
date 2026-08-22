@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ನಿಮ್ಮ ಕಾರಣದಿಂದ ಯಾಹ್ವೆ ನನ್ನ ಮೇಲೂ ಕೋಪಗೊಂಡನು, ಹೀಗೆ ಹೇಳುತ್ತಾ: ನೀನೂ ಸಹ ಅಲ್ಲಿಗೆ ಬರುವುದಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ಸಹ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ನನ್ನ ಮೇಲೂ"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "ಕೋಪಗೊಂಡನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "ನಿಮ್ಮ ಕಾರಣದಿಂದ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ಸಹ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ನೀನು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ಬರುವುದಿಲ್ಲ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ಅಲ್ಲಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:42:23.913233866Z",
+  "model": "glm-5.3"
+}

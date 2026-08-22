@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 25,
+  "translation": "ಮಿಶ್ಮಾ, ಮತ್ತು ದೂಮಾ, ಮತ್ತು ಮಾಸ್ಸಾ.",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "ಮಿಶ್ಮಾ"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "ದೂಮಾ"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "ಮಾಸ್ಸಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:20:11.053077022Z",
+  "model": "glm-5.3"
+}

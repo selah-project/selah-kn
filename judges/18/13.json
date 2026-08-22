@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 18:13",
+  "book": "judges",
+  "lang": "kn",
+  "chapter": 18,
+  "translation": "ಅಲ್ಲಿಂದ ಅವರು ಎಫ್ರಾಯಿಮ್ ಬೆಟ್ಟವನ್ನು ದಾಟಿ ಮೀಖಾನ ಮನೆಯವರೆಗೆ ಬಂದರು.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "ದಾಟಿದರು"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ಅಲ್ಲಿಂದ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ಬೆಟ್ಟ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ಎಫ್ರಾಯಿಮ್"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ಬಂದರು"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ವರೆಗೆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಮನೆ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ಮೀಖಾನ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:28:06.307801764Z",
+  "model": "glm-5.3"
+}

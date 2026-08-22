@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಅತಿಯಾಗಿ ದುಷ್ಟತನ ಮಾಡಬೇಡ, ಮತ್ತು ಮೂರ್ಖನಾಗಬೇಡ; ನಿನ್ನ ಕಾಲವಲ್ಲದ್ದರಲ್ಲಿ ಏಕೆ ಸಾಯಬೇಕು?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "ದುಷ್ಟತನ ಮಾಡ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ಅತಿಯಾಗಿ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ಮತ್ತು ... ಬೇಡ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ಆಗು"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ಮೂರ್ಖ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ಏಕೆ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ಸಾಯಬೇಕು"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ಅಲ್ಲದ"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "ನಿನ್ನ ಕಾಲ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:58:35.427676246Z",
+  "model": "glm-5.3"
+}

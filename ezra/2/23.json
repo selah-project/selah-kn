@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಅನಾತೋತಿನ ಜನರು — ನೂರು ಇಪ್ಪತ್ತು ಎಂಟು.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ಅನಾತೋತಿನ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ಇಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ಎಂಟು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:04.013126364Z",
+  "model": "glm-5.3"
+}

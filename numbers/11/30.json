@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಮೋಶೆ ಇಸ್ರಾಯೇಲಿನ ಹಿರಿಯರೊಡನೆ ಪಾಳೆಯಕ್ಕೆ ಹಿಂದಿರುಗಿದನು.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ಹಿಂದಿರುಗಿದನು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನು"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ಪಾಳೆಯಕ್ಕೆ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅವನೇ"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ಹಿರಿಯರೊಡನೆ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಇಸ್ರಾಯೇಲಿನ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:28:24.829958574Z",
+  "model": "glm-5.3"
+}

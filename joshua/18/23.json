@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 18,
+  "translation": "ಹಅವ್ವೀಂ, ಹಪ್ಪಾರಾ ಮತ್ತು ಒಫ್ರಾ.",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "ಹಅವ್ವೀಂ"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "ಹಪ್ಪಾರಾ"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "ಒಫ್ರಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:11:09.206964372Z",
+  "model": "glm-5.3"
+}

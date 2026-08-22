@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಯೋರಾಹನ ಮಕ್ಕಳು — ನೂರು ಹನ್ನೆರಡು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ಯೋರಾಹ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ಎರಡು"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ಹತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:19.779320475Z",
+  "model": "glm-5.3"
+}

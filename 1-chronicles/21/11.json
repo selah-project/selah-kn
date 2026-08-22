@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 21,
+  "translation": "ಆಗ ಗಾದ ದಾವೀದನ ಬಳಿ ಬಂದು ಅವನಿಗೆ ಹೇಳಿದನು: ಯಾಹ್ವೆ ಹೀಗೆ ಹೇಳುತ್ತಾನೆ — ನಿನಗೆ ಬೇಕಾದುದನ್ನು ತೆಗೆದುಕೊ",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ಬಂದು"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ಗಾದ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ದಾವೀದನ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಅವನಿಗೆ"
+    },
+    {
+      "surface": "ಛה",
+      "gloss": "ಹೀಗೆ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಹೇಳುತ್ತಾನೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ತೆಗೆದುಕೊ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನಿನಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:40:26.434802097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಮತ್ತು ⟨the⟩ ವಿಗ್ರಹಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಮಾಯವಾಗುವವು.",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "ಮತ್ತು ವಿಗ್ರಹಗಳು"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ಸಂಪೂರ್ಣವಾಗಿ"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ಮಾಯವಾಗುವವು"
+    }
+  ],
+  "timestamp": "2026-08-21T23:36:44.984470632Z",
+  "model": "glm-5.3"
+}

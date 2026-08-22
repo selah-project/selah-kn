@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಚರೀಫನ ಮಕ್ಕಳು ನೂರು ಹನ್ನೆರಡು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "ಚರೀಫ್"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ಎರಡು"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ಹತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:39.527963245Z",
+  "model": "glm-5.3"
+}

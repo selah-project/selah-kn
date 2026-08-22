@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಮತ್ತು ನೋವಾಖ್ ಪ್ರವಾಹದ ನಂತರ ಮೂರು ನೂರು ವರ್ಷ ಮತ್ತು ಐವತ್ತು ವರ್ಷ ಬದುಕಿದನು.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ಮತ್ತು ಬದುಕಿದನು"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ನೋವಾಖ್"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ನಂತರ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ಪ್ರವಾಹದ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ಮೂರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ವರ್ಷ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ಮತ್ತು ಐವತ್ತು"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ವರ್ಷ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:10:16.363721984Z",
+  "model": "glm-5.3"
+}

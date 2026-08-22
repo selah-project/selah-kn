@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಮತ್ತು ನೋಗಹ್, ಮತ್ತು ನೆಫೆಗ್, ಮತ್ತು ಯಾಫಿಯ.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "ಮತ್ತು ನೋಗಹ್"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ಮತ್ತು ನೆಫೆಗ್"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "ಮತ್ತು ಯಾಫಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:30:22.683536864Z",
+  "model": "glm-5.3"
+}

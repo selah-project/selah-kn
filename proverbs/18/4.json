@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 18,
+  "translation": "ಮನುಷ್ಯನ ಬಾಯ ಮಾತುಗಳು ಆಳವಾದ ನೀರುಗಳು; ಜ್ಞಾನದ ಊರ್ಜೆ ⟨ಆಗಿದೆ⟩ ಹರಿಯುವ ತೊರೆ.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ನೀರುಗಳು"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "ಆಳವಾದ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ಮಾತುಗಳು"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ಬಾಯ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ಮನುಷ್ಯನ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ತೊರೆ"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "ಹರಿಯುವ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ಊರ್ಜೆ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ಜ್ಞಾನದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:23:54.416276341Z",
+  "model": "glm-5.3"
+}

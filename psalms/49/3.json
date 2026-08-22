@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 49,
+  "translation": "ಮಾನವರ ಕುಮಾರರೂ ಸರಿ, ಮಹಾಪುರುಷರ ಕುಮಾರರೂ ಸರಿ, ಒಟ್ಟಿಗೆ — ಶ್ರೀಮಂತ ಮತ್ತು ಬಡವ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "…ಸರಿ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಕುಮಾರರ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ಮಾನವ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…ಸರಿ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಕುಮಾರರ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ಮಹಾಪುರುಷ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ಒಟ್ಟಿಗೆ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ಶ್ರೀಮಂತ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ಮತ್ತು ಬಡವ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:40:34.978441303Z",
+  "model": "glm-5.3"
+}

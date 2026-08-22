@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಯೊಡನೆ ಮಾತನಾಡಿ ಹೇಳುತ್ತಾನೆ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮಾತನಾಡಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಡನೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾನೆ:"
+    }
+  ],
+  "timestamp": "2026-08-22T04:08:50.376213213Z",
+  "model": "glm-5.3"
+}

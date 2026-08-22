@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಗೆರ್ಶೋನ್ ಮಕ್ಕಳಿಗೆ — ಲಾದಾನ್ ಮತ್ತು ಶಿಮ್ಈ.",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "ಗೆರ್ಶೋನ್ ಮಕ್ಕಳಿಗೆ"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ಲಾದಾನ್"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ಮತ್ತು ಶಿಮ್ಈ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:40:49.046447161Z",
+  "model": "glm-5.3"
+}

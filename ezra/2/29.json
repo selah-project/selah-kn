@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ನೆಬೊವಿನ ಪುತ್ರರು — ಐವತ್ತೆರಡು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಪುತ್ರರು"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ನೆಬೊವಿನ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ಐವತ್ತು"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ಮತ್ತು ಎರಡು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:07.933163557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಮತ್ತು ಶೆಬುವೇಲು — ಗೆರ್ಶೋಮನ ಮಗ, ಮೋಶೆಯ ಮಗ — ಭಂಡಾರಗಳ ಮೇಲೆ ಪ್ರಧಾನಿಯಾಗಿದ್ದನು.",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "ಮತ್ತು ಶೆಬುವೇಲು"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ಗೆರ್ಶೋಮನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ಪ್ರಧಾನಿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "ಭಂಡಾರಗಳ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:43:05.166224303Z",
+  "model": "glm-5.3"
+}

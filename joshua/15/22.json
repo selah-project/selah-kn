@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಕೀನಾ, ದಿಮೋನಾ, ಅದ್ಅದಾ.",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "ಕೀನಾ"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "ದಿಮೋನಾ"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "ಅದ್ಅದಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:10:46.999508291Z",
+  "model": "glm-5.3"
+}

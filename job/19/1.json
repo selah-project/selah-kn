@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 19:1",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 19,
+  "translation": "ಮತ್ತು ಇಯ್ಯೋಬ್ ಉತ್ತರಿಸಿ ಹೇಳಿದನು —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ಮತ್ತು ಉತ್ತರಿಸಿದನು"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ಇಯ್ಯೋಬ್"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಮತ್ತು ಹೇಳಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:37:27.918797385Z",
+  "model": "glm-5.3"
+}

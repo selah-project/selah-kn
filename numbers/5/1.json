@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 5:1",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆ ಮೋಶೆಯ ಬಳಿ ಮಾತನಾಡಿದನು, ಹೇಳುತ್ತಾ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮತ್ತು ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:24:08.568263417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಫಲ್ಲುವಿನ ಮಕ್ಕಳು — ಎಲಿಯಾಬ್.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "ಫಲ್ಲುವಿನ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ಎಲಿಯಾಬ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:34:32.624822051Z",
+  "model": "glm-5.3"
+}

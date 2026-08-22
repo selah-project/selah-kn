@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 26:52",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಗೆ ಆಡಲು ಈ ರೀತಿ ಉಸಿರಿದನು:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮತ್ತು ಉಸಿರಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಆಡಲು ಈ ರೀತಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:14:54.770282813Z",
+  "model": "glm-5.3"
+}

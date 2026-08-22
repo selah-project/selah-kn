@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ನಾವು ಅನಾಥರಾಗಿ ಆದೆವು, ತಂದೆ ಇಲ್ಲ; ನಮ್ಮ ತಾಯಂದಿರು ವಿಧವೆಯರಂತೆ.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "ಅನಾಥರು"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ಆದೆವು"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ತಂದೆ"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "ನಮ್ಮ ತಾಯಂದಿರು"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "ವಿಧವೆಯರಂತೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:01.074972321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಮತ್ತು ⟨ಆ ನಂತರ⟩ ಯೋಆಶ್‌ನ ಹೃದಯದ ಮೇಲೆ ಯಾಹ್ವೆಯ ಮನೆಯನ್ನು ⟨את⟩ ನವೀಕರಿಸುವ ಮನಸ್ಸು ಬಂತು.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಮತ್ತು ಆಯಿತು"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ನಂತರ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ಜೊತೆಗೆ\/ಮೇಲೆ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ಹೃದಯದ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ಯೋಆಶ್‌ನ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ನವೀಕರಿಸುವ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಮನೆಯನ್ನು"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಮನೆಯನ್ನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:54:56.949844469Z",
+  "model": "glm-5.3"
+}

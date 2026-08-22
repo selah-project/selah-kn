@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಗುಂಡಿ ತೋಡುವವನು ಅದರೊಳಗೆ ಬೀಳುವನು, ಮತ್ತು ಬೇಲಿಯನ್ನು ಕೆಡವುವವನನ್ನು ಹಾವು ಕಡಿಯುವುದು।",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ತೋಡುವವನು"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "ಗುಂಡಿ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ಅದರೊಳಗೆ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ಬೀಳುವನು"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "ಮತ್ತು ಕೆಡವುವವನನ್ನು"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ಬೇಲಿಯನ್ನು"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ಕಡಿಯುವುದು"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ಹಾವು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:57:18.909771467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಉಣ್ಣೆ ಮತ್ತು ನಾರಗಸ ಒಟ್ಟಿಗೆ ಹೆಣಿದ ಶಾಟ್ನೆಜ್ ಬಟ್ಟೆಯನ್ನು ಧರಿಸಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "ಧರಿಸಬೇಡ"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "ಶಾಟ್ನೆಜ್"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ಉಣ್ಣೆ"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "ಮತ್ತು ನಾರಗಸ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ಒಟ್ಟಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:52:38.700945386Z",
+  "model": "glm-5.3"
+}

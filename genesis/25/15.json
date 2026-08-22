@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 25,
+  "translation": "ಹದದ್, ಮತ್ತು ತೇಮಾ, ಯೆತೂರ್, ನಾಫೀಶ್, ಮತ್ತು ಕೇದೆಮಾ.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "ಹದದ್"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "ತೇಮಾ"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "ಯೆತೂರ್"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "ನಾಫೀಶ್"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "ಕೇದೆಮಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:20:11.053208669Z",
+  "model": "glm-5.3"
+}

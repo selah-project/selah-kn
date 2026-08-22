@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಅನೇಕ ದಿನಗಳವರೆಗೆ ಯೆಹೋಶುವನು ⟨את⟩ ಎಲ್ಲಾ ಈ ರಾಜರೊಂದಿಗೆ ಯುದ್ಧ ಮಾಡಿದನು.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ದಿನಗಳು"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ಅನೇಕ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ಮಾಡಿದನು"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ಯೆಹೋಶುವನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಎಲ್ಲಾ ಈ ರಾಜರೊಂದಿಗೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ರಾಜರು"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ಯುದ್ಧ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:10:27.288752834Z",
+  "model": "glm-5.3"
+}

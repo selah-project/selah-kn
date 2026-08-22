@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "kn",
+  "chapter": 21,
+  "translation": "ಅವನು ಎದ್ದು ಹೊರಟನು; ಯೆಹೋನಾತಾನ್ ನಗರಕ್ಕೆ ಹೋದನು.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ಎದ್ದು"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ಹೊರಟನು"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ಯೆಹೋನಾತಾನ್"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ಹೋದನು"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ನಗರಕ್ಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:43:12.349753005Z",
+  "model": "glm-5.3"
+}

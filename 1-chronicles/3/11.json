@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಯೋರಾಮ್ ಅವನ ಮಗ, ಅಹಜ್ಯಾಹು ಅವನ ಮಗ, ಯೋಆಶ್ ಅವನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "ಯೋರಾಮ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "ಅಹಜ್ಯಾಹು"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ಯೋಆಶ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:30:12.093732358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ನೀನು ಸುಳ್ಳಾದ ಸುದ್ದಿಯನ್ನು ಎತ್ತಿಕೊಳ್ಳಬೇಡ; ದುಷ್ಟನೊಡನೆ ಕೈಯನ್ನು ಇಡಬೇಡ — ಹಿಂಸೆಯ ಸಾಕ್ಷಿಯಾಗಲು.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ಎತ್ತಿಕೊಳ್ಳಬೇಡ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ಸುದ್ದಿ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ಸುಳ್ಳಾದ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "ಇಡಬೇಡ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ಕೈಯನ್ನು"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ಒಡನೆ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ದುಷ್ಟನ"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ಆಗಲು"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ಸಾಕ್ಷಿ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ಹಿಂಸೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:49:29.324372563Z",
+  "model": "glm-5.3"
+}

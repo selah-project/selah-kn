@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 5:14",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಮತ್ತು ಮಾತನಾಡಿದನು ಯಾಹ್ವೆ ಮೋಶೆಗೆ ಹೇಳುತ್ತಾ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:04:50.758002386Z",
+  "model": "glm-5.3"
+}

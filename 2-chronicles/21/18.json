@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 21:18",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 21,
+  "translation": "ಈ ಎಲ್ಲದರ ನಂತರವೂ ಯಾಹ್ವೆ ಅವನನ್ನು ಅವನ ಕರುಳುಗಳಲ್ಲಿ ಗುಣವಿಲ್ಲದ ರೋಗದಿಂದ ಹೊಡೆದನು.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "ನಂತರವೂ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ಇದರ"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "ಹೊಡೆದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "במעיו",
+      "gloss": "ಅವನ ಕರುಳುಗಳಲ್ಲಿ"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "ರೋಗದಿಂದ"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "ಇಲ್ಲದ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ಗುಣ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:56:13.314942098Z",
+  "model": "glm-5.3"
+}

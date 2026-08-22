@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಮಲ್ಲೂಕ್, ಚಾರಿಮ್, ಬಾಅನಾ.",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "ಮಲ್ಲೂಕ್"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ಚಾರಿಮ್"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "ಬಾಅನಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:25:42.012571186Z",
+  "model": "glm-5.3"
+}

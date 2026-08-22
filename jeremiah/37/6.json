@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 37,
+  "translation": "ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ಪ್ರವಾದಿ ಯಿರ್ಮೆಯಾಹುವಿಗೆ ಹೀಗೆಂದು ಬಂದಿತು:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಮತ್ತು ಆಯಿತು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನಿಗೆ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ಯಿರ್ಮೆಯಾಹುವಿಗೆ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ಪ್ರವಾದಿ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಗೆಂದು"
+    }
+  ],
+  "timestamp": "2026-08-22T00:29:22.686018601Z",
+  "model": "glm-5.3"
+}

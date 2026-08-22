@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "kn",
+  "chapter": 27,
+  "translation": "ದಾವೀದ್ ಎದ್ದು, ತಾನೂ ತನ್ನೊಡನಿದ್ದ ಆರುನೂರು ಜನರೂ ಗತ್‌ನ ರಾಜ ಮಾಖ್‌ನ ಮಗ ಅಖೀಶ್‌ನ ಬಳಿಗೆ ಹೊರಟು ಹೋದನು.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ಎದ್ದು"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ದಾವೀದ್"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ಹೊರಟು ಹೋದನು"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ತಾನೂ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ಆರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ಜನ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಎಂಬ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ತನ್ನೊಡನಿದ್ದ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿಗೆ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "ಅಖೀಶ್‌ನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "ಮಾಖ್‌ನ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ಗತ್‌ನ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:46:38.172085811Z",
+  "model": "glm-5.3"
+}

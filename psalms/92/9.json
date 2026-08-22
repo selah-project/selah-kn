@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 92,
+  "translation": "ಆದರೆ ನೀನು ಮೇಲ್ಮಟ್ಟದಲ್ಲಿ ಎಂದೆಂದಿಗೂ ⟨ಆಗಿರುವೆ⟩, ಯಾಹ್ವೆ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ಆದರೆ ನೀನು"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ಮೇಲ್ಮಟ್ಟದಲ್ಲಿ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ಎಂದೆಂದಿಗೂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:01:03.236694914Z",
+  "model": "glm-5.3"
+}

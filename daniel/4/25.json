@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಎಲ್ಲವೂ ನೆಬುಕದ್ನೆಸ್ಸರ್ ⟨the⟩ ರಾಜನ ಮೇಲೆ ಬಂದು ತಲುಪಿತು.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "ಎಲ್ಲವೂ"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "ಬಂದು ತಲುಪಿತು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "ನೆಬುಕದ್ನೆಸ್ಸರ್"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ರಾಜನ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:48:25.012760604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಶೆಫತ್ಯಾಹನ ಮಕ್ಕಳು ಮೂರು ನೂರ ಎಪ್ಪತ್ತೆರಡು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ಶೆಫತ್ಯಾಹನ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ಮೂರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ಎಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ಮತ್ತು ಎರಡು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:21:54.199887352Z",
+  "model": "glm-5.3"
+}

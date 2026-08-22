@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 42,
+  "translation": "ಮತ್ತು ಅವನು ⟨את⟩ ಅವರನ್ನು ಬಂಧನದೊಳಗೆ ಮೂರು ದಿನಗಳವರೆಗೆ ಇಟ್ಟನು.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ಇಟ್ಟನು"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ಅವರನ್ನು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಳಗೆ"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ಬಂಧನ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ಮೂರು"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ದಿನಗಳವರೆಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:31:46.328314019Z",
+  "model": "glm-5.3"
+}

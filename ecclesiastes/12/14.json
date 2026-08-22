@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಯಾಕೆಂದರೆ ⟨the⟩ ಎಲೋಹೀಂ ⟨את⟩ ಎಲ್ಲಾ ಕೃತ್ಯವನ್ನೂ ತೀರ್ಪಿಗೆ ತರುವನು, ಮರೆಯಾದ ಪ್ರತಿಯೊಂದರ ಮೇಲೆ — ಒಳ್ಳೆಯದಾಗಲಿ, ಕೆಟ್ಟದಾಗಲಿ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಎಲ್ಲಾ ಕೃತ್ಯವನ್ನೂ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ಕೃತ್ಯವನ್ನೂ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨the⟩ ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ತರುವನು"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ತೀರ್ಪಿಗೆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಪ್ರತಿಯೊಂದರ"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "ಮರೆಯಾದ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ಆಗಲಿ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ಒಳ್ಳೆಯದು"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ಆಗಲಿ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ಕೆಟ್ಟದು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:59:32.444714231Z",
+  "model": "glm-5.3"
+}

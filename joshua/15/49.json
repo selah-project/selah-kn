@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಮತ್ತು ದನ್ನಾ, ಮತ್ತು ಕಿರ್ಯತ್-ಸನ್ನಾ — ಅದು ದೆಬೀರ್.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "ಮತ್ತು ದನ್ನಾ"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "ಮತ್ತು ಕಿರ್ಯತ್"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "ಸನ್ನಾ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ದೆಬೀರ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:10:45.339533164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ತಖತ್‌ನ ಮಗನು ಅಸ್ಸೀರ್, ಅವನ ಮಗನು ಎಬ್ಯಾಸಾಫ್, ಅವನ ಮಗನು ಕೋರಖ್.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ತಖತ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ಅಸ್ಸೀರ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "ಎಬ್ಯಾಸಾಫ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ಕೋರಖ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:09.096920941Z",
+  "model": "glm-5.3"
+}

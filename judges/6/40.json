@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಎಲೋಹೀಂ ಆ ರಾತ್ರಿ ಹಾಗೇ ಮಾಡಿದನು; ರವಿಕೆಯ ಮೇಲೆ ಮಾತ್ರ ಒಣಗಿತ್ತು, ಇಡೀ ಭೂಮಿಯ ಮೇಲೆ ಮಂಜು ಆಗಿತ್ತು.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ಮಾಡಿದನು"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ಹಾಗೇ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ರಾತ್ರಿ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಗಿತ್ತು"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ಒಣಗಿತ್ತು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "ರವಿಕೆಯ"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "ಮಾತ್ರ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಇಡೀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿಯ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ಆಗಿತ್ತು"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ಮಂಜು"
+    }
+  ],
+  "timestamp": "2026-08-21T22:19:26.840417640Z",
+  "model": "glm-5.3"
+}

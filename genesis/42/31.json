@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 42,
+  "translation": "ನಾವು ಅವನಿಗೆ, ನಾವು ಪ್ರಾಮಾಣಿಕರು, ನಾವು ಗೂಢಚರರಲ್ಲ ಎಂದು ಹೇಳಿದೆವು.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "ಹೇಳಿದೆವು"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ಅವನಿಗೆ"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ಪ್ರಾಮಾಣಿಕರು"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ನಾವು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಲ್ಲ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ಆಗಿದ್ದೆವು"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ಗೂಢಚರರು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:32:00.422859061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಒಟ್ಸೆಮ್ ಆರನೆಯವನು, ದಾವೀದ್ ಏಳನೆಯವನು.",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "ಒಟ್ಸೆಮ್"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ಆರನೆಯವನು"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ದಾವೀದ್"
+    },
+    {
+      "surface": "ಓשבעי",
+      "gloss": "ಏಳನೆಯವನು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:55.457505721Z",
+  "model": "glm-5.3"
+}

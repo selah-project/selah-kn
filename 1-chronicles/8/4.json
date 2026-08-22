@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಅವಿಶುವಾ, ನಾಮಾನ್, ಅಖೋಖ್.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "ಅವಿಶುವಾ"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "ನಾಮಾನ್"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "ಅಖೋಖ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:30.892841344Z",
+  "model": "glm-5.3"
+}

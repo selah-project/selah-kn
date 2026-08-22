@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಹೀಗೆ ಹೇಳಿದನು ಯಾಹ್ವೆ ನನ್ನ ಎಲೋಹೀ: ವಧೆಗಾಗಿ ಗೊತ್ತಾದ ⟨את⟩ ಮಂದೆಯನ್ನು ಮೇಯಿಸು.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ಹೀಗೆ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ನನ್ನ ಎಲೋಹೀ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ಮೇಯಿಸು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಮಂದೆಯನ್ನು"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ಮಂದೆ"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "ವಧೆಗಾಗಿ ಗೊತ್ತಾದ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:31:15.665999884Z",
+  "model": "glm-5.3"
+}

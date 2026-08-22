@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಜ್ಞಾನಿಗಳ ತುಟಿಗಳು ಜ್ಞಾನವನ್ನು ಚೆಲ್ಲುತ್ತವೆ; ಆದರೆ ಮೂರ್ಖರ ಹೃದಯವು ಹಾಗೆ ⟨is⟩ ಅಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ತುಟಿಗಳು"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ಜ್ಞಾನಿಗಳ"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "ಚೆಲ್ಲುತ್ತವೆ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ಜ್ಞಾನವನ್ನು"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ಆದರೆ ಹೃದಯವು"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ಮೂರ್ಖರ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಅಲ್ಲ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ಹಾಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:22:29.876249154Z",
+  "model": "glm-5.3"
+}

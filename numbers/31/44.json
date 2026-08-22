@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 31,
+  "translation": "ಮತ್ತು ದನಗಳು ಮೂವತ್ತಾರು ಸಾವಿರ.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ಮತ್ತು ದನಗಳು"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ಆರು"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ಮತ್ತು ಮೂವತ್ತ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ಸಾವಿರ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:38:06.618944364Z",
+  "model": "glm-5.3"
+}

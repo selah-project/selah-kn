@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಶಾವೂಲ್ ಸತ್ತನು, ಅವನ ಮೂವರು ಕುಮಾರರು ಮತ್ತು ಅವನ ಸಂಪೂರ್ಣ ಕುಟುಂಬವೂ ಒಟ್ಟಿಗೆ ಸತ್ತರು.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ಸತ್ತನು"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ಶಾವೂಲ್"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ಮೂವರು"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ಅವನ ಕುಮಾರರು"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ಸಂಪೂರ್ಣ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ಅವನ ಕುಟುಂಬವೂ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ಒಟ್ಟಿಗೆ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ಸತ್ತರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:35:02.407135354Z",
+  "model": "glm-5.3"
+}

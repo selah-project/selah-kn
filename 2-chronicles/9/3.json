@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಶೇಬಾ ರಾಣಿಯು ಶಲೋಮೋನ ⟨את⟩ ಜ್ಞಾನವನ್ನೂ ಅವನು ಕಟ್ಟಿದ ಮನೆಯನ್ನೂ ನೋಡಿದಾಗ",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ನೋಡಿದಾಗ"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ರಾಣಿ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ಶೇಬಾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಜ್ಞಾನ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ಜ್ಞಾನ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ಶಲೋಮೋ"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ಮತ್ತು ಮನೆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾವ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ಕಟ್ಟಿದ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:50:55.636864318Z",
+  "model": "glm-5.3"
+}

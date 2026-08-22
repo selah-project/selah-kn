@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಶಲ್ಲೂಮ್‌ನ ಮಗ, ಸಾದೋಕ್‌ನ ಮಗ, ಅಖಿತೂಬ್‌ನ ಮಗ,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ಶಲ್ಲೂಮ್‌ನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ಸಾದೋಕ್‌ನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ಅಖಿತೂಬ್‌ನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:17:50.139917326Z",
+  "model": "glm-5.3"
+}

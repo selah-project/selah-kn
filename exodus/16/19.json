@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ಮೋಶೆ ಅವರಿಗೆ ಹೇಳಿದನು: ಯಾವನೂ ಅದರಿಂದ ಬೆಳಿಗ್ಗೆ ತನಕ ಉಳಿಸಿಕೊಳ್ಳಬೇಡಿ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ಅವರಿಗೆ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ಯಾವನೂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡಿ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ಉಳಿಸಿಕೊಳ್ಳಬೇಡ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ಅದರಿಂದ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ತನಕ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ಬೆಳಿಗ್ಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:45:32.986965646Z",
+  "model": "glm-5.3"
+}

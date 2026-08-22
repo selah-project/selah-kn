@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಮತ್ತನ್ಯಾ, ಮತ್ತೆನೈ, ಮತ್ತು ಯಾಸಾವ್,",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "ಮತ್ತನ್ಯಾ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "ಮತ್ತೆನೈ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ಮತ್ತು ಯಾಸಾವ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:18:36.835672407Z",
+  "model": "glm-5.3"
+}

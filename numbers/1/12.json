@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ದಾನ್‌ಗೆ — ಅಖಿಯೆಜೆರ್, ಅಮ್ಮಿಶದ್ದಾಯ್‌ನ ಮಗನು.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "ದಾನ್‌ಗೆ"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "ಅಖಿಯೆಜೆರ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "ಅಮ್ಮಿಶದ್ದಾಯ್‌ನ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:18:00.532691617Z",
+  "model": "glm-5.3"
+}

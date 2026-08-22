@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಬಾಗಿದ್ದನ್ನು ಸರಿಪಡಿಸಲಾಗುವುದಿಲ್ಲ, ಮತ್ತು ಕೊರಕೆಯನ್ನು ಎಣಿಸಲಾಗುವುದಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "ಬಾಗಿದ್ದನ್ನು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ಸಾಧ್ಯವಿಲ್ಲ"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ಸರಿಪಡಿಸಲು"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "ಮತ್ತು ಕೊರಕೆಯನ್ನು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ಸಾಧ್ಯವಿಲ್ಲ"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "ಎಣಿಸಲು"
+    }
+  ],
+  "timestamp": "2026-08-22T06:31:12.612421270Z",
+  "model": "glm-5.3"
+}

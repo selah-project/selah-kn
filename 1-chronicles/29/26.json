@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 29,
+  "translation": "ಮತ್ತು ಯಿಷಾಯ್‌ನ ಮಗ ದಾವಿದ್ ಸಂಪೂರ್ಣ ಯಿಸ್ರಾಯೇಲಿನ ಮೇಲೆ ಆಳಿದನು.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "ಮತ್ತು ದಾವಿದ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ಯಿಷಾಯ್‌ನ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ಆಳಿದನು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಸಂಪೂರ್ಣ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಯಿಸ್ರಾಯೇಲಿನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:44:00.192185989Z",
+  "model": "glm-5.3"
+}

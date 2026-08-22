@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 25,
+  "translation": "ಆಗ ಇಸ್ರಾಯೇಲಲ್ಲಿ ಅವನ ಹೆಸರು 'ಪಾದುಕೆ-ಕಿತ್ತವನ ⟨the⟩ ಮನೆ' ಎಂದು ಕರೆಯಲ್ಪಡುವುದು.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "ಕರೆಯಲ್ಪಡುವುದು"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ಅವನ ಹೆಸರು"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ಇಸ್ರಾಯೇಲಲ್ಲಿ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಮನೆ"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "ಪಾದುಕೆ-ಕಿತ್ತವನ"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "ಪಾದುಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:55:47.471378187Z",
+  "model": "glm-5.3"
+}

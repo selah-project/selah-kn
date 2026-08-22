@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಕೋಪದಲ್ಲಿ ಮುಚ್ಚಿ ನಮ್ಮನ್ನು ಬೆನ್ನಟ್ಟಿದೆ; ಕೊಂದೆ, ಕರುಣೆ ತೋರಲಿಲ್ಲ।",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "ಮುಚ್ಚಿದೆ"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ಕೋಪದಲ್ಲಿ"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "ಬೆನ್ನಟ್ಟಿದೆ"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "ಕೊಂದೆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "ಕರುಣೆ ತೋರಿಸಿಲ್ಲ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:35.745892340Z",
+  "model": "glm-5.3"
+}

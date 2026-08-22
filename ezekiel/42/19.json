@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 42,
+  "translation": "ಪಶ್ಚಿಮ ದಿಕ್ಕಿಗೆ ತಿರುಗಿ ⟨ಅವನು⟩ ಅಳೆದನು — ಐದು ನೂರು ಕೊಳವೆಗಳು, ಅಳತೆಯ ಕೊಳವೆಯಿಂದ.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "ತಿರುಗಿ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ದಿಕ್ಕಿಗೆ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ಪಶ್ಚಿಮ (ಸಮುದ್ರ)"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "ಅಳೆದನು"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ಐದು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ಕೊಳವೆಗಳು"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ಕೊಳವೆಯಿಂದ"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ಅಳತೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:05:07.695812294Z",
+  "model": "glm-5.3"
+}

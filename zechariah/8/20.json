@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಯಾಹ್ವೆ ಸೈನ್ಯಗಳು ಹೀಗೆ ಹೇಳುತ್ತಾನೆ: ಇನ್ನೂ ಜನಗಳು ಬರುವರು, ಮತ್ತು ಅನೇಕ ಪಟ್ಟಣಗಳ ನಿವಾಸಿಗಳು.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ಹೀಗೆ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಹೇಳುತ್ತಾನೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ಸೈನ್ಯಗಳು"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ಇನ್ನೂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ಬರುವರು"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ಜನಗಳು"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ಮತ್ತು ನಿವಾಸಿಗಳು"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ಪಟ್ಟಣಗಳ"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ಅನೇಕ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:30:01.698233793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 100,
+  "translation": "ಕೃತಜ್ಞತೆಯ ಕೀರ್ತನೆ. ಯಾಹ್ವೆಗೆ ಜಯಘೋಷ ಮಾಡಿ, ಸಕಲ ⟨the⟩ ಭೂಮಿಯೇ.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ಕೀರ್ತನೆ"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "ಕೃತಜ್ಞತೆಯ"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ಜಯಘೋಷ ಮಾಡಿ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ಯಾಹ್ವೆಗೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಸಕಲ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿಯೇ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:02:55.921537428Z",
+  "model": "glm-5.3"
+}

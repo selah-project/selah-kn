@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 30,
+  "translation": "ಕೀರ್ತನೆ, ಹಾಡು — ಮನೆಯ ಉದ್ಘಾಟನೆಯದು — ದಾವಿದ್‌ಗೆ",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ಕೀರ್ತನೆ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ಹಾಡು"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "ಉದ್ಘಾಟನೆಯ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ಮನೆಯ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ದಾವಿದ್‌ಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:39:47.904914295Z",
+  "model": "glm-5.3"
+}

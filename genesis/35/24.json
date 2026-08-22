@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 35,
+  "translation": "ರಾಕೇಲಳ ಮಕ್ಕಳು: ಯೋಸೇಫ್ ಮತ್ತು ಬಿನ್ಯಾಮಿನ್.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ರಾಕೇಲಳ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ಯೋಸೇಫ್"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ಮತ್ತು ಬಿನ್ಯಾಮಿನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T04:07:37.683099310Z",
+  "model": "glm-5.3"
+}

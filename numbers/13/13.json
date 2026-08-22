@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 13:13",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಆಶೇರ್ ಬುಡಕಟ್ಟಿಗೆ — ಸೆತೂರ್, ಮಿಖಾಯೇಲನ ಮಗನು.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ಬುಡಕಟ್ಟಿಗೆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಆಶೇರ್"
+    },
+    {
+      "surface": "סתור",
+      "gloss": "ಸೆತೂರ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "ಮಿಖಾಯೇಲನ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:13:48.123507971Z",
+  "model": "glm-5.3"
+}

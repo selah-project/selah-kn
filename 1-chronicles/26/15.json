@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಒಬೇದ್-ಎದೋಮನಿಗೆ ದಕ್ಷಿಣಕ್ಕೆ; ಮತ್ತು ಅವನ ಮಕ್ಕಳಿಗೆ ಸಂಗ್ರಹಗೃಹವು.",
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "ಒಬೇದ್-ನಿಗೆ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ಎದೋಮ"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ದಕ್ಷಿಣಕ್ಕೆ"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ಮತ್ತು ಅವನ ಮಕ್ಕಳಿಗೆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಗೃಹ"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "ಸಂಗ್ರಹಗಳ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:41:56.952142363Z",
+  "model": "glm-5.3"
+}

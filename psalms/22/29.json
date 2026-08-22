@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಖಂಡಿತ ಯಾಹ್ವೆಯದೇ ⟨the⟩ ರಾಜ್ಯ, ಮತ್ತು ಅವನೇ ಜನಪದಗಳ ⟨among⟩ ಆಳುವವನು.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಖಂಡಿತ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ಯಾಹ್ವೆಯದೇ"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ರಾಜ್ಯ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ಮತ್ತು ಆಳುವವನು"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ಜನಪದಗಳಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:39:41.083024986Z",
+  "model": "glm-5.3"
+}

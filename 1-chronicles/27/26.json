@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 27,
+  "translation": "ಮತ್ತು ಭೂಮಿಯ ಸೇವೆಗಾಗಿ ಹೊಲದ ಕೆಲಸ ಮಾಡುವವರ ಮೇಲೆ ಎಜ್ರಿ, ಕೆಲೂಬನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ಮತ್ತು...ಮೇಲೆ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ಮಾಡುವವರ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ಕೆಲಸ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ಹೊಲದ"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "ಸೇವೆಗಾಗಿ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ಭೂಮಿಯ"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ಎಜ್ರಿ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "ಕೆಲೂಬನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:43:04.518877263Z",
+  "model": "glm-5.3"
+}

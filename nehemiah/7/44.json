@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಹಾಡುಗಾರರು — ಆಸಾಫ್‌ನ ಮಕ್ಕಳು — ನೂರು ನಲವತ್ತೆಂಟು.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "ಹಾಡುಗಾರರು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ಆಸಾಫ್"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ನಲವತ್ತು"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ಮತ್ತು ಎಂಟು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:43.493243351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 25,
+  "translation": "⟨את⟩ ಎದೋಮ್ ಮತ್ತು ⟨את⟩ ಮೋಆಬ್ ಮತ್ತು ⟨את⟩ ಅಮ್ಮೋನ್ ಮಕ್ಕಳ",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಎದೋಮ್"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ಎದೋಮ್"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ಮತ್ತು ⟨את⟩",
+      "marks": "ಮೋಆಬ್"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ಮೋಆಬ್"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ಮತ್ತು ⟨את⟩",
+      "marks": "ಅಮ್ಮೋನ್ ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ಅಮ್ಮೋನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T00:20:16.372254380Z",
+  "model": "glm-5.3"
+}

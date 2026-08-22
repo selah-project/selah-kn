@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಇದನ್ನು ನಾನು ನನ್ನ ಹೃದಯಕ್ಕೆ ಹಿಂದಿರುಗಿಸುವೆನು, ಆದ್ದರಿಂದ ನಾನು ನಿರೀಕ್ಷಿಸುವೆನು.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ಇದನ್ನು"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ಹಿಂದಿರುಗಿಸುವೆನು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಕೆಡ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ನನ್ನ ಹೃದಯಕ್ಕೆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ಆದ್ದರಿಂದ"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "ನಿರೀಕ್ಷಿಸುವೆನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:53:00.754622675Z",
+  "model": "glm-5.3"
+}

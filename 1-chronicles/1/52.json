@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಅಲೂಫ್ ಒಹೊಲಿಬಾಮಾ, ಅಲೂಫ್ ಎಲಾ, ಅಲೂಫ್ ಪಿನೋನ್.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ಅಲೂಫ್"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "ಒಹೊಲಿಬಾಮಾ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ಅಲೂಫ್"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ಎಲಾ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ಅಲೂಫ್"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "ಪಿನೋನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T04:50:19.023806765Z",
+  "model": "glm-5.3"
+}

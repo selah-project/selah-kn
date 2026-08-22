@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಇದರಿಂದ ನಮ್ಮ ಹೃದಯ ರೋಗಗ್ರಸ್ತವಾಯಿತು; ಇವುಗಳಿಂದ ನಮ್ಮ ಕಣ್ಣುಗಳು ಕತ್ತಲಾದವು.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ಇದರಿಂದ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ಇದು"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "ರೋಗಗ್ರಸ್ತವಾಗಿ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ನಮ್ಮ ಹೃದಯ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಇವುಗಳಿಂದ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ಇವುಗಳು"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "ಕತ್ತಲಾದವು"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ನಮ್ಮ ಕಣ್ಣುಗಳು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:02.100415634Z",
+  "model": "glm-5.3"
+}

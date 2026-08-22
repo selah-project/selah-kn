@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಮತ್ತು ಅವನ ನಂತರ ಹೊಲದ ಪುರುಷರಾದ ಪುರೋಹಿತರು ಬಲಪಡಿಸಿದರು.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "ಮತ್ತು ಅವನ ನಂತರ"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "ಬಲಪಡಿಸಿದರು"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ಪುರೋಹಿತರು"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ಪುರುಷರಾದ"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ಹೊಲದ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:21:24.557549210Z",
+  "model": "glm-5.3"
+}

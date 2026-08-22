@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಮತ್ತು ಹೇಳಿದನು ಯಾಹ್ವೆ ನನಗೆ — ಈ ಜನರ ಒಳಿತಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಮತ್ತು ಹೇಳಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "ಪ್ರಾರ್ಥಿಸಬೇಡ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ಸಲುವಾಗಿ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನರ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ಒಳಿತಿಗಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:15:30.481259271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 49,
+  "translation": "ಫಲವತ್ತಾದ ಮಗನು ಯೋಸೇಫ್, ಕಣ್ಣೀರ ಬುಗ್ಗೆಯ ಮೇಲೆ ಫಲವತ್ತಾದ ಮಗನು; ಹೆಣ್ಣುಮಕ್ಕಳು ⟨branches⟩ ಗೋಡೆಯ ಮೇಲೆ ನಡೆಯುತ್ತವೆ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ಫಲವತ್ತಾದ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ಯೋಸೇಫ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ಫಲವತ್ತಾದ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ಬುಗ್ಗೆ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ಹೆಣ್ಣುಮಕ್ಕಳು"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "ನಡೆಯುತ್ತವೆ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ಗೋಡೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:35:48.895916201Z",
+  "model": "glm-5.3"
+}

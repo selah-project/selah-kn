@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 27,
+  "translation": "ಆ ದಿನದಲ್ಲಿ — ಸೊಗಸಿನ ದ್ರಾಕ್ಷಿತೋಟ; ಅದಕ್ಕೆ ಪ್ರತ್ಯುತ್ತರಿಸಿ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ಆ ದಿನದಲ್ಲಿ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ದ್ರಾಕ್ಷಿತೋಟ"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "ಸೊಗಸಿನ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ಪ್ರತ್ಯುತ್ತರಿಸಿ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ಅದಕ್ಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:48:21.226840831Z",
+  "model": "glm-5.3"
+}

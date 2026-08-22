@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ನನ್ನ ಮುಖದ ಮುಂದೆ ನಿನಗೆ ಬೇರೆ ದೇವರುಗಳು ಇರಬೇಕಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ಇರಬೇಕಿಲ್ಲ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನಿನಗೆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ದೇವರುಗಳು"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ಬೇರೆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ಮುಖದ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:44:25.939446181Z",
+  "model": "glm-5.3"
+}

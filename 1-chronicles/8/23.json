@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಮತ್ತು ಅಬ್ದೋನ್, ಮತ್ತು ಜಿಕ್ರಿ, ಮತ್ತು ಖಾನಾನ್.",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "ಮತ್ತು ಅಬ್ದೋನ್"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ಮತ್ತು ಜಿಕ್ರಿ"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "ಮತ್ತು ಖಾನಾನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:41.822811801Z",
+  "model": "glm-5.3"
+}

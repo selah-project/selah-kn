@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ನೀವು ಯುದ್ಧಕ್ಕೆ ಹತ್ತಿರವಾದಾಗ, ಕೊಹೇನ್ ಹತ್ತಿರ ಬಂದು ಜನರೊಂದಿಗೆ ಮಾತನಾಡುವನು.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ಆಗ"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "ನೀವು ಹತ್ತಿರವಾದಾಗ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ಯುದ್ಧ"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "ಮತ್ತು ಹತ್ತಿರ ಬಂದು"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ಕೊಹೇನ್"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ಮತ್ತು ಮಾತನಾಡುವನು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಜೊತೆ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನರ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:54:13.957776646Z",
+  "model": "glm-5.3"
+}

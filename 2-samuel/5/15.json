@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಇಬ್ಹಾರ್, ಎಲೀಶುಅ, ನೆಫೆಗ್, ಯಾಫೀಯ —",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ಇಬ್ಹಾರ್"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "ಎಲೀಶುಅ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ನೆಫೆಗ್"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "ಯಾಫೀಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:50:44.701991607Z",
+  "model": "glm-5.3"
+}

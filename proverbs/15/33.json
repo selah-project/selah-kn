@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 15:33",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಯಾಹ್ವೆಯ ಭಯವು ಬುದ್ಧಿಯ ಶಿಕ್ಷಣವು; ಮತ್ತು ಗೌರವದ ಮುಂದೆ ವಿನಮ್ರತೆ ⟨ಇದೆ⟩.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ಭಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ಶಿಕ್ಷಣವು"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ಬುದ್ಧಿಯ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ಮತ್ತು ಮುಂದೆ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ಗೌರವದ"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "ವಿನಮ್ರತೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:22:09.250537541Z",
+  "model": "glm-5.3"
+}

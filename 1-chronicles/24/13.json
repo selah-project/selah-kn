@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 24:13",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಹುಪ್ಪಾನಿಗೆ ಹದಿಮೂರನೆಯದು, ಯಿಶೆಬೆಆವ್‌ನಿಗೆ ಹದಿನಾಲ್ಕನೆಯದು.",
+  "tokens": [
+    {
+      "surface": "לחפה",
+      "gloss": "ಹುಪ್ಪಾನಿಗೆ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ಮೂರು"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ಹದಿ"
+    },
+    {
+      "surface": "לישבאב",
+      "gloss": "ಯಿಶೆಬೆಆವ್‌ನಿಗೆ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ನಾಲ್ಕು"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ಹದಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:41:04.307661270Z",
+  "model": "glm-5.3"
+}

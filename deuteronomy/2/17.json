@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಯಾಹ್ವೆ ನನಗೆ ಮಾತನಾಡಿದನು, ಹೇಳುವುದನ್ನಾಗಿ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುವುದನ್ನಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:42:22.647927741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಹೋದೀಯಾ, ಬಾನಿ, ಬೆನಿನು.",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "ಹೋದೀಯಾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಬಾನಿ"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "ಬೆನಿನು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:25:46.012026049Z",
+  "model": "glm-5.3"
+}

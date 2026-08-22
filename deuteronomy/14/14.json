@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಮತ್ತು ⟨את⟩ ಎಲ್ಲಾ ಕಾಗೆಯನ್ನು ಅದರ ಜಾತಿಯಂತೆ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ಎಲ್ಲಾ ಕಾಗೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ಕಾಗೆ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ಅದರ ಜಾತಿಯಂತೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:49:40.756303702Z",
+  "model": "glm-5.3"
+}

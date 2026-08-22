@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 118,
+  "translation": "ಅಹರೋನನ ಮನೆಯವರು ಈಗ ಹೇಳಲಿ — ಕೇರಣ ಸದಾ ಕಾಲಕ್ಕೂ ಆತನ ಹೆಸೆದ್.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ಹೇಳಲಿ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ಈಗ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಮನೆಯವರು"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ಅಹರೋನನ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಕೇರಣ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ಸದಾ ಕಾಲಕ್ಕೂ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ಆತನ ಹೆಸೆದ್"
+    }
+  ],
+  "timestamp": "2026-08-22T02:08:51.496129592Z",
+  "model": "glm-5.3"
+}

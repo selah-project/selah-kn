@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 119,
+  "translation": "ಆಗ ನಿನ್ನ ಎಲ್ಲ ಆಜ್ಞೆಗಳತ್ತ ನೋಡುವಾಗ ನಾನು ನಾಚಿಕೆಪಡುವುದಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ಆಗ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ನಾಚಿಕೆಪಡುವೆನು"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "ನೋಡುವಾಗ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ತ್ತ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ನಿನ್ನ ಆಜ್ಞೆಗಳತ್ತ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:08:29.666253869Z",
+  "model": "glm-5.3"
+}

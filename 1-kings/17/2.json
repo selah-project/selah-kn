@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "kn",
+  "chapter": 17,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆಯ ಮಾತು ಅವನಿಗೆ ಹೀಗೆ ಆಯಿತು, ಹೇಳುತ್ತಾ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಮತ್ತು-ಆಯಿತು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ಮಾತು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ಅವನಿಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:16:18.830382013Z",
+  "model": "glm-5.3"
+}

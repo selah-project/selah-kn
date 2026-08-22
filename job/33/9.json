@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 33,
+  "translation": "ಶುದ್ಧನು ನಾನು, ದಂಗೆ ಇಲ್ಲದವನು; ನಿರಪರಾಧಿಯು ನಾನು, ನನಗೆ ಅಕ್ರಮವಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "ಶುದ್ಧನು"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ಇಲ್ಲದವನು"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ದಂಗೆ"
+    },
+    {
+      "surface": "חף",
+      "gloss": "ನಿರಪರಾಧಿಯು"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ಅಕ್ರಮ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ನನಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:42:25.629529188Z",
+  "model": "glm-5.3"
+}

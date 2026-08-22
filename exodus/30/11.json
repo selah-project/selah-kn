@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 30:11",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 30,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಯೊಂದಿಗೆ ಮಾತನಾಡಿದನು, ಹೇಳುತ್ತಾ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮತ್ತು ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನೊಂದಿಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:53:20.392954820Z",
+  "model": "glm-5.3"
+}

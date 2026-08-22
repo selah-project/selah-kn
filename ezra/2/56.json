@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezra 2:56",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಯಾಲಾದ ಮಕ್ಕಳು, ದರ್ಕೋನ್‌ನ ಮಕ್ಕಳು, ಗಿದ್ದೇಲ್‌ನ ಮಕ್ಕಳು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ಯಾಲಾದ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "ದರ್ಕೋನ್‌ನ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ಗಿದ್ದೇಲ್‌ನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:15:29.631098646Z",
+  "model": "glm-5.3"
+}

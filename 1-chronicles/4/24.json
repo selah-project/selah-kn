@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಶಿಮ್ಯೋನನ ಮಕ್ಕಳು: ನೆಮುವೇಲ್, ಯಾಮೀನ್, ಯಾರೀಬ್, ಜೆರಾಹ್, ಶಾವುಲ್.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ಶಿಮ್ಯೋನ"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "ನೆಮುವೇಲ್"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ಯಾಮೀನ್"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ಯಾರೀಬ್"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ಜೆರಾಹ್"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ಶಾವುಲ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:30:42.994871559Z",
+  "model": "glm-5.3"
+}

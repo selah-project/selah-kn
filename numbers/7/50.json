@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಹತ್ತು ⟨ಶೆಕೆಲ್⟩ ಚಿನ್ನದ ಒಂದು ಅರಿಗಲು, ಧೂಪದ್ರವ್ಯದಿಂದ ತುಂಬಿದ್ದು.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ಅರಿಗಲು"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ಹತ್ತು"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ಚಿನ್ನದ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ತುಂಬಿದ್ದು"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ಧೂಪದ್ರವ್ಯದಿಂದ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:23:45.419288529Z",
+  "model": "glm-5.3"
+}

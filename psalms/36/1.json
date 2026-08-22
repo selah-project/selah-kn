@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 36,
+  "translation": "ಸಂಚಾಲಕನಿಗೆ; ಸೇವಕನಿಗೆ ಯಾಹ್ವೆಯ, ದಾವೀದನಿಗೆ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ಸಂಚಾಲಕನಿಗೆ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ಸೇವಕನಿಗೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ದಾವೀದನಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:43:44.219555666Z",
+  "model": "glm-5.3"
+}

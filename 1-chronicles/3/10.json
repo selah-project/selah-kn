@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಮತ್ತು ಶ್ಲೋಮೋಹನ ಮಗ ರೆಹಬ್ಅಾಮ್, ಅಬಿಯಾ ಅವನ ಮಗ, ಅಸಾ ಅವನ ಮಗ, ಯೆಹೋಶಾಫಾಟ್ ಅವನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ಮತ್ತು ಮಗ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ಶ್ಲೋಮೋಹನ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ರೆಹಬ್ಅಾಮ್"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ಅಬಿಯಾ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ಅಸಾ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ಯೆಹೋಶಾಫಾಟ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:30:12.093618829Z",
+  "model": "glm-5.3"
+}

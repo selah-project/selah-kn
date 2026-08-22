@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಓ ಅದೋನಾಯ್, ಇಸ್ರಾಯೇಲ್ ತನ್ನ ಶತ್ರುಗಳ ಮುಂದೆ ಬೆನ್ನು ತೋರಿಸಿದ ಮೇಲೆ ನಾನು ಏನು ಹೇಳಲಿ?",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "ಓ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ಅದೋನಾಯ್"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ಏನು"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಹೇಳಲಿ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಆದ"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "ತೋರಿಸಿದ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಇಸ್ರಾಯೇಲ್"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ಬೆನ್ನು"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ಮುಂದೆ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ಶತ್ರುಗಳ"
+    }
+  ],
+  "timestamp": "2026-08-22T06:19:27.199503801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ಮನುಷ್ಯನ ಉಸಿರು ⟨⟨is⟩⟩ ಯಾಹ್ವೆಯ ದೀಪ — ಒಡಲ ಎಲ್ಲಾ ಒಳಕೋಣೆಗಳನ್ನು ಹುಡುಕುತ್ತದೆ.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "ದೀಪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "ಉಸಿರು"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ಮನುಷ್ಯನ"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "ಹುಡುಕುತ್ತದೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ಒಳಕೋಣೆಗಳನ್ನು"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "ಒಡಲ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:24:16.326552021Z",
+  "model": "glm-5.3"
+}

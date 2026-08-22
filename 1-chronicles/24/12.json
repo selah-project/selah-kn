@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಹನ್ನೊಂದನೆಯದು ಎಲ್ಯಾಶೀಬ್‌ಗೆ, ಹನ್ನೆರಡನೆಯದು ಯಾಕೀಮ್‌ಗೆ.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "ಎಲ್ಯಾಶೀಬ್‌ಗೆ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ಹನ್ನೊಂದು"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨…⟩"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "ಯಾಕೀಮ್‌ಗೆ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ಎರಡು"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ಹನ್ನೆರಡು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:40:42.555751733Z",
+  "model": "glm-5.3"
+}

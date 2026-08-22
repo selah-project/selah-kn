@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 30,
+  "translation": "ದಾಸನು ಆಳ್ವಿಗೆ ಬಂದಾಗ, ಮತ್ತು ಮೂರ್ಖನು ಆಹಾರದಿಂದ ತೃಪ್ತನಾದಾಗ —",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ಅಡಿಯಲ್ಲಿ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ದಾಸ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಆಗ"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "ಆಳ್ವಿಗೆ ಬರುತ್ತಾನೆ"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "ಮತ್ತು ಮೂರ್ಖ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಆಗ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ತೃಪ್ತನಾಗುತ್ತಾನೆ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ಆಹಾರ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:43:50.130078439Z",
+  "model": "glm-5.3"
+}

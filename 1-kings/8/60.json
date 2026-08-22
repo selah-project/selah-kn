@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಭೂಮಿಯ ಎಲ್ಲಾ ಜನರು ತಿಳಿಯಲಿ — ಯಾಹ್ವೆಯೇ ⟨ಆತನೇ⟩ ಎಲೋಹೀಂ, ಬೇರೆ ⟨ಯಾವುದೂ⟩ ⟨ಇಲ್ಲ⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "—"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ತಿಳಿಯಲಿ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿಯ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯೇ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ಆತನೇ⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ಬೇರೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:23:58.378567584Z",
+  "model": "glm-5.3"
+}

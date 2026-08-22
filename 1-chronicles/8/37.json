@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಮತ್ತು ಮೋಜಾ ⟨את⟩ ಬಿನೆಅವನ್ನು ಹೆರಟನು; ರಾಪಾ ಅವನ ಮಗ, ಎಲ್ಆಸಾ ಅವನ ಮಗ, ಅತ್ಸೇಲ್ ಅವನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "ಮತ್ತು ಮೋಜಾ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ಹೆರಟನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಬಿನೆಅ"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "ಬಿನೆಅ"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "ರಾಪಾ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ಎಲ್ಆಸಾ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ಅತ್ಸೇಲ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:38.400642862Z",
+  "model": "glm-5.3"
+}

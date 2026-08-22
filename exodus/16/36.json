@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ಒಮೆರ್ ⟨is⟩ ಎಫಾದ ಹತ್ತನೇ ಭಾಗ.",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "ಮತ್ತು ಒಮೆರ್"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "ಹತ್ತನೇ ಭಾಗ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ಎಫಾದ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅದು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:45:42.866771291Z",
+  "model": "glm-5.3"
+}

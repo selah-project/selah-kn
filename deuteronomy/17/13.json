@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 17,
+  "translation": "ಆದರೆ ಎಲ್ಲಾ ⟨the⟩ ಜನರು ಕೇಳಿ ಭಯಪಡುವರು, ಮತ್ತು ಇನ್ನು ಮುಂದೆ ಉದ್ಧಟತನ ಮಾಡುವುದಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ಮತ್ತು ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ಕೇಳುವರು"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ಮತ್ತು ಭಯಪಡುವರು"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ಮತ್ತು ಇಲ್ಲ"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "ಉದ್ಧಟತನ ಮಾಡುವರು"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ಇನ್ನು ಮುಂದೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:53:08.944146104Z",
+  "model": "glm-5.3"
+}

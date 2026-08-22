@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 21,
+  "translation": "ಇಸ್ರಾಯೇಲ್ ಅಮೋರಿಯರ ⟨ದೇಶ⟩ದಲ್ಲಿ ವಾಸಮಾಡಿತು.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ವಾಸಮಾಡಿತು"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಇಸ್ರಾಯೇಲ್"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ದೇಶದಲ್ಲಿ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ಅಮೋರಿಯರ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:32:42.365110914Z",
+  "model": "glm-5.3"
+}

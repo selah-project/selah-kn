@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಹಗಬನ ಮಕ್ಕಳು, ಶಮ್ಲೈಯ ಮಕ್ಕಳು, ಹನನ್‌ನ ಮಕ್ಕಳು,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "ಹಗಬ್"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "ಶಮ್ಲೈ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ಹನನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:15:27.018070033Z",
+  "model": "glm-5.3"
+}

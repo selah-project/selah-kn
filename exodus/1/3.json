@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 1:3",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಯಿಸ್ಸಾಖರ್, ಜೆವೂಲೂನ್ ಮತ್ತು ಬಿನ್ಯಾಮಿನ್.",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "ಯಿಸ್ಸಾಖರ್"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ಜೆವೂಲೂನ್"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ಮತ್ತು ಬಿನ್ಯಾಮಿನ್"
+    }
+  ],
+  "timestamp": "2026-08-21T20:36:31.026146579Z",
+  "model": "glm-5.3"
+}

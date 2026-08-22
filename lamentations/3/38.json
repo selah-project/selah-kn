@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಎಲ್ಯೋನ್‌ನ ⟨ಬಾಯಿಯಿಂದ⟩ ಕೆಟ್ಟದ್ದು ಮತ್ತು ಒಳ್ಳೆಯದು ಹೊರಡುವುದಿಲ್ಲವೇ?",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "⟨ಬಾಯಿಯಿಂದ⟩"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ಎಲ್ಯೋನ್‌ನ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ಹೊರಡುವುದಿಲ್ಲ"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "ಕೆಟ್ಟದ್ದು"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "ಮತ್ತು ಒಳ್ಳೆಯದು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:26.974682489Z",
+  "model": "glm-5.3"
+}

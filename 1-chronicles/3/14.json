@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಅಮೋನ್ ಆತನ ಮಗ, ಯೋಶಿಯಾಹು ಆತನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "ಅಮೋನ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಆತನ ಮಗ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ಯೋಶಿಯಾಹು"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಆತನ ಮಗ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:30:17.639807161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ಶಪಿಸಲ್ಪಡುವಿಯಾ ನೀನು ಪಟ್ಟಣದಲ್ಲಿ, ಮತ್ತು ಶಪಿಸಲ್ಪಡುವಿಯಾ ನೀನು ಹೊಲದಲ್ಲಿ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ಶಪಿಸಲ್ಪಡುವಿಯಾ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ನೀನು"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ಪಟ್ಟಣದಲ್ಲಿ"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ಮತ್ತು ಶಪಿಸಲ್ಪಡುವಿಯಾ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ನೀನು"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ಹೊಲದಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:58:53.962639661Z",
+  "model": "glm-5.3"
+}

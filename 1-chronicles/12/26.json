@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಶಿಮ್ಯೋನ್ ಮಕ್ಕಳಿಂದ ಸೈನ್ಯಕ್ಕೆ ಪರಾಕ್ರಮಿ ವೀರರು — ಏಳು ಸಾವಿರ ಮತ್ತು ನೂರು.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ಇಂದ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ಶಿಮ್ಯೋನ್"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ಪರಾಕ್ರಮಿ ವೀರರು"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ಬಲದ"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ಸೈನ್ಯಕ್ಕೆ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ಏಳು"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ಸಾವಿರ"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ಮತ್ತು ನೂರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:36:03.614669330Z",
+  "model": "glm-5.3"
+}

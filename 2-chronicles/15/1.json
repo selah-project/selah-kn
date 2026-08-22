@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ವಾಝರ್ಯಾಹುವಿನ — ಓದೆದನ ಮಗನ — ಮೇಲೆ ಎಲೋಹೀಂನ ರೂಅಖ್ ⟨ಆಗಿತ್ತು⟩.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "ವಾಝರ್ಯಾಹು"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನ"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "ಓದೆದನ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ಆಗಿತ್ತು"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ರೂಅಖ್"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ಎಲೋಹೀಂನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:53:28.089451289Z",
+  "model": "glm-5.3"
+}

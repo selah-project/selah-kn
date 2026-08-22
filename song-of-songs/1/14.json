@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಹೆನ್ನಾ ಹೂವಿನ ಗೊಂಚಲು ನನ್ನ ಪ್ರಿಯನು ನನಗೆ, ಏನ್-ಗೆದಿಯ ದ್ರಾಕ್ಷಿತೋಟಗಳಲ್ಲಿ.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "ಗೊಂಚಲು"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "ಹೆನ್ನಾ ಹೂವಿನ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ನನ್ನ ಪ್ರಿಯನು"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "ದ್ರಾಕ್ಷಿತೋಟಗಳಲ್ಲಿ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ಏನ್"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ಗೆದಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:47:40.741266804Z",
+  "model": "glm-5.3"
+}

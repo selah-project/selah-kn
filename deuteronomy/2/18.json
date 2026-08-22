@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ನೀನು ಇಂದು ⟨את⟩ ಮೋಆಬ್‌ನ ಗಡಿಯನ್ನು — ⟨את⟩ ಅರ್‌ನ್ನು — ದಾಟುತ್ತೀಯೆ",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ನೀನು"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ದಾಟುತ್ತೀಯೆ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ಇಂದು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಗಡಿಯನ್ನು"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ಗಡಿಯನ್ನು"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ಮೋಆಬ್‌ನ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಅರ್‌ನ್ನು"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ಅರ್‌ನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:42:22.648260613Z",
+  "model": "glm-5.3"
+}

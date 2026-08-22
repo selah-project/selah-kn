@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಹತ್ತು ಶೆಕೆಲ್ ತೂಕದ ಒಂದು ಚಿನ್ನದ ಹಿಡಿಕೆ, ಧೂಪದ್ರವ್ಯದಿಂದ ತುಂಬಿದ್ದಾಗಿತ್ತು.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ಹಿಡಿಕೆ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ಹತ್ತು"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ಚಿನ್ನದ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ತುಂಬಿದ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ಧೂಪದ್ರವ್ಯದಿಂದ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:24:33.085045133Z",
+  "model": "glm-5.3"
+}

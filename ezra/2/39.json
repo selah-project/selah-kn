@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಹಾರಿಮನ ಮಕ್ಕಳು — ಸಾವಿರ ಹದಿನೇಳು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ಹಾರಿಮನ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ಸಾವಿರ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ಮತ್ತು ಏಳು"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ಹತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:34.175973600Z",
+  "model": "glm-5.3"
+}

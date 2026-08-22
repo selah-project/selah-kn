@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 28:43",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ನಿನ್ನೊಳಗಿರುವ ಪರಾರಿ ನಿನ್ನ ಮೇಲೆ ಮೇಲೆ ಮೇಲೇರುವನು, ಮತ್ತು ನೀನು ಕೆಳಗೆ ಕೆಳಗಿಳಿಯುವೆ.",
+  "tokens": [
+    {
+      "surface": "הגר",
+      "gloss": "ಪರಾರಿ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾವನು"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ನಿನ್ನೊಳಗಿರುವ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ಮೇಲೇರುವನು"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ನಿನ್ನ ಮೇಲೆ"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ಮೇಲೇರುವನು"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ಮತ್ತು ನೀನು"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "ಇಳಿಯುವೆ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ಕೆಳಗೆ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ಕೆಳಗಿಳಿಯುವೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:58:27.073387315Z",
+  "model": "glm-5.3"
+}

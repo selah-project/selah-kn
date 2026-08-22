@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಪಶ್ಚೂರ್‌ನ ಮಕ್ಕಳು — ಸಾವಿರ ಎರಡು ನೂರು ನಲವತ್ತೇಳು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "ಪಶ್ಚೂರ್"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ಸಾವಿರ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ಎರಡು ನೂರು"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ನಲವತ್ತು"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ಮತ್ತು ಏಳು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:43.492856734Z",
+  "model": "glm-5.3"
+}

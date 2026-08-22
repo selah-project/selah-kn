@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 12:17",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ನನಗೆ ಹೀಗೆಂದು ಬಂದಿತು:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಮತ್ತು ಆಯಿತು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಗೆಂದು"
+    }
+  ],
+  "timestamp": "2026-08-22T00:43:55.765261788Z",
+  "model": "glm-5.3"
+}

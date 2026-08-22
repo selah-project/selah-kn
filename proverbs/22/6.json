@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಬಾಲಕನಿಗೆ ಅವನ ದಾರಿಯ ಬಾಯಿ ಪ್ರಕಾರ ಹೇಳಿಕೊಡು; ಅವನು ವೃದ್ಧನಾದರೂ ಅದರಿಂದ ತಿರುಗಿ ಬಾರದು.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "ಹೇಳಿಕೊಡು"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ಬಾಲಕನಿಗೆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ಮೇಲೆ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ಬಾಯಿ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ಅವನ ದಾರಿಯ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…ಸಹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ಆದರೂ"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "ವೃದ್ಧನಾಗುವನು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ತಿರುಗಿ ಬಾರದು"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ಅದರಿಂದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:25:49.644431497Z",
+  "model": "glm-5.3"
+}

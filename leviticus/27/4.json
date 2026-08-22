@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 27,
+  "translation": "ಹೆಣ್ಣಾದರೆ — ನಿನ್ನ ನಿರ್ಧಾರಿತ ಬೆಲೆ ಮೂವತ್ತು ಶೇಕಲುಗಳು.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ಆದರೆ"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ಹೆಣ್ಣಾದರೆ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ಆಗಿರಲಿ"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ನಿನ್ನ ನಿರ್ಧಾರಿತ ಬೆಲೆ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ಮೂವತ್ತು"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ಶೇಕಲುಗಳು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:19:32.340081182Z",
+  "model": "glm-5.3"
+}

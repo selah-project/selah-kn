@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ಎರಡನೇ ಸಾಲು — ನೋಫೆಕ್, ಸಪ್ಪೀರ್, ಯಹಲೋಮ್.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ಸಾಲು"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ಎರಡನೇ"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "ನೋಫೆಕ್"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "ಸಪ್ಪೀರ್"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "ಯಹಲೋಮ್"
+    }
+  ],
+  "timestamp": "2026-08-21T20:51:56.207817218Z",
+  "model": "glm-5.3"
+}

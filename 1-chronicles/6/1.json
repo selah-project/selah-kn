@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಲೇವಿಯ ಮಕ್ಕಳು — ಗೆರೆಶೋಮ್, ಕೆಹಾತ್ ಮತ್ತು ಮೆರಾರಿ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ಲೇವಿಯ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ಗೆರೆಶೋಮ್"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ಕೆಹಾತ್"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ಮತ್ತು ಮೆರಾರಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:50:13.949924804Z",
+  "model": "glm-5.3"
+}

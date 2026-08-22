@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 46:20",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 46,
+  "translation": "ಮಿಸ್ರಾಯಿಮ್ ಅತ್ಯಂತ ಸುಂದರವಾದ ಹಾಲುಗರು; ಉತ್ತರದಿಂದ ನಾಶವು ಬಂದಿದೆ, ಬಂದಿದೆ.",
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "ಹಾಲುಗರು"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ಸುಂದರವಾದ"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ಅತ್ಯಂತ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ಮಿಸ್ರಾಯಿಮ್"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "ನಾಶವು"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ಉತ್ತರದಿಂದ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ಬಂದಿದೆ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ಬಂದಿದೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:32:56.040134569Z",
+  "model": "glm-5.3"
+}

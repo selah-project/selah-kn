@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ಆ ವರ್ಷದಲ್ಲೇ, ಏಳನೇ ತಿಂಗಳಲ್ಲಿ, ನವಿಯಾದ ಖನನ್ಯಾಹ್ ಸತ್ತನು.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ಸತ್ತನು"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ಖನನ್ಯಾಹ್"
+    },
+    {
+      "surface": "ಹנביא",
+      "gloss": "ನವಿಯಾದ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ವರ್ಷದಲ್ಲೇ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ತಿಂಗಳಲ್ಲಿ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ಏಳನೇ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:22:44.799712598Z",
+  "model": "glm-5.3"
+}

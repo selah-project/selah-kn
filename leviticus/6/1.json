@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 6:1",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆ ಮೋಶೆಯೊಡನೆ ಆಡುತ್ತಾ ಹೇಳುತ್ತಾನೆ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮತ್ತು ಆಡುತ್ತಾನೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ೊಡನೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:04:23.241120479Z",
+  "model": "glm-5.3"
+}

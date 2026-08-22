@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಏಕೆಂದರೆ ನೋಡು, ⟨the⟩ ಚಳಿಗಾಲ ⟨has⟩ ದಾಟಿಹೋಗಿದೆ, ⟨the⟩ ಮಳೆ ತಪ್ಪಿಹೋಗಿ ನಡಿಸಿದೆ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಏಕೆಂದರೆ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ನೋಡು"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "ಚಳಿಗಾಲ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ದಾಟಿಹೋಗಿದೆ"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ಮಳೆ"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "ತಪ್ಪಿಹೋಗಿದೆ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ನಡಿಸಿದೆ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಅದರದೇ ದಾರಿಯಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:48:05.049899524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ನನಗೆ ⟨is⟩ ಬೆಳ್ಳಿ, ಮತ್ತು ನನಗೆ ⟨is⟩ ಚಿನ್ನ, ಸೇನೆಗಳ ಯಾಹ್ವೆಯ ನುಡಿ.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ಬೆಳ್ಳಿ"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ಮತ್ತು ನನಗೆ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ಚಿನ್ನ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ನುಡಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ಸೇನೆಗಳ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:26:51.724191714Z",
+  "model": "glm-5.3"
+}

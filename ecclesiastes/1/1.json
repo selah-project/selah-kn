@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಕೊಹೆಲೆತ್‌ನ ಮಾತುಗಳು — ದಾವೀದ್‌ನ ಮಗನದು, ಯೆರೂಶಾಲಾಯಿಂನಲ್ಲಿನ ರಾಜನದು.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ಮಾತುಗಳು"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ಕೊಹೆಲೆತ್‌ನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನದು"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ದಾವೀದ್‌ನ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನದು"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ಯೆರೂಶಾಲಾಯಿಂನಲ್ಲಿನ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:35.866477392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಹೇಗೆಂದರೆ ಜ್ಞಾನಿಗೆ ಮೂರ್ಖನಿಗಿಂತ ಏನು ಹೆಚ್ಚು? ಜೀವಂತರೆದುರು ನಡೆಯುವುದನ್ನು ತಿಳಿದ ಬಡವನಿಗೆ ಏನು?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಹೇಗೆಂದರೆ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ಏನು"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ಹೆಚ್ಚು"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ಜ್ಞಾನಿಗೆ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ಇಂದ"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ಮೂರ್ಖನಿಗಿಂತ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ಏನು"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ಬಡವನಿಗೆ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ತಿಳಿದ"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ನಡೆಯುವುದನ್ನು"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ಎದುರು"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ಜೀವಂತರ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:47:05.856925419Z",
+  "model": "glm-5.3"
+}

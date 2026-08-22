@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಯಾಕೆಂದರೆ ಪ್ರತಿ ಇಚ್ಛೆಗೆ ಒಂದು ಕಾಲವೂ ⟨ಉಂಟು⟩ ನ್ಯಾಯವೂ ⟨ಉಂಟು⟩; ಯಾಕೆಂದರೆ ಮನುಷ್ಯನ ಕೇಡು ಅವನ ಮೇಲೆ ಬಹಳವಿದೆ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ಪ್ರತಿ...ಗೆ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ಇಚ್ಛೆ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ಉಂಟು"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ಕಾಲವೂ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ನ್ಯಾಯವೂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ಕೇಡು"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ಮನುಷ್ಯನ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ಬಹಳ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ಅವನ ಮೇಲೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:47:10.544960951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಮತ್ತು ಶಿಲೋಮೋಹನು ರಾಜ್ಯದ ಸಿಂಹಾಸನದ ಮೇಲೆ ಕುಳಿತನು.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ಮತ್ತು"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ಕುಳಿತನು"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ಶಿಲೋಮೋಹನು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ಸಿಂಹಾಸನದ"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ರಾಜ್ಯದ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:04:09.205353608Z",
+  "model": "glm-5.3"
+}

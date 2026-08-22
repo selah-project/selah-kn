@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 7:18",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಎರಡನೇ ದಿನದಲ್ಲಿ ಸೂಅರನ ಮಗ ನೆತನೆಲ್, ಯಿಸ್ಸಾಕಾರಿನ ನಾಯಕ, ಹತ್ತಿರ ತಂದನು.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ದಿನದಲ್ಲಿ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ಎರಡನೇ"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "ಹತ್ತಿರ ತಂದನು"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ನೆತನೆಲ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ಸೂಅರನ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ನಾಯಕ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ಯಿಸ್ಸಾಕಾರ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:22:48.501011309Z",
+  "model": "glm-5.3"
+}

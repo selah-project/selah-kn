@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಮತ್ತು ಯಾಜಕರಲ್ಲಿ — ಯದಆಯಾ, ಯಿಹೋಯಾರಿವ್, ಯಾಖಿನ್.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ಮತ್ತು...ಅಲ್ಲಿ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ಯಾಜಕರ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ಯದಆಯಾ"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "ಯಿಹೋಯಾರಿವ್"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "ಯಾಖಿನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:52.938536109Z",
+  "model": "glm-5.3"
+}

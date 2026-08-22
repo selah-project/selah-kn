@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಇವೆಲ್ಲಾ ದಾವೀದನ ಮಕ್ಕಳು, ಉಪಪತ್ನಿಯರ ಮಕ್ಕಳನ್ನು ಬಿಟ್ಟು, ಮತ್ತು ಅವರ ತಂಗಿ ತಾಮಾರ್.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ಇವೆಲ್ಲಾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ದಾವೀದನ"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ಬಿಟ್ಟು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳನ್ನು"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "ಉಪಪತ್ನಿಯರ"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "ಮತ್ತು ತಾಮಾರ್"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ಅವರ ತಂಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:30:12.093344780Z",
+  "model": "glm-5.3"
+}

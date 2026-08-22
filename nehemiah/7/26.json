@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಬೇತ್-ಲೆಖೆಮ್ ಮತ್ತು ನೆತೋಫಾ ಜನರು — ನೂರೆಂಬತ್ತೆಂಟು.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಬೇತ್"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ಲೆಖೆಮ್"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "ಮತ್ತು ನೆತೋಫಾ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ಎಂಬತ್ತು"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ಮತ್ತು ಎಂಟು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:58.150313434Z",
+  "model": "glm-5.3"
+}

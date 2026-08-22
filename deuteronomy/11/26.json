@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ನೋಡಿ, ನಾನು ಈ ದಿನ ನಿಮ್ಮ ಮುಂದೆ ಆಶೀರ್ವಾದ ಮತ್ತು ಶಾಪವನ್ನು ಇಡುತ್ತಿದ್ದೇನೆ.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ನೋಡಿ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ಇಡುತ್ತಿದ್ದೇನೆ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ನಿಮ್ಮ ಮುಂದೆ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ಈ ದಿನ"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ಆಶೀರ್ವಾದ"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "ಮತ್ತು ಶಾಪವನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:48:33.591423476Z",
+  "model": "glm-5.3"
+}

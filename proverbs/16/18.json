@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ಧ್ವಂಸದ ಮುಂದೆ ಸೊಕ್ಕು, ಮತ್ತು ಕುಸಿತದ ಮುಂದೆ ಎತ್ತರದ ರೂಅಖ್.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "ಮುಂದೆ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ಧ್ವಂಸದ"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ಸೊಕ್ಕು"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ಮತ್ತು ಮುಂದೆ"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "ಕುಸಿತದ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ಎತ್ತರದ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ರೂಅಖ್"
+    }
+  ],
+  "timestamp": "2026-08-22T02:23:31.872483443Z",
+  "model": "glm-5.3"
+}

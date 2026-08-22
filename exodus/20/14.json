@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ನೀ ವ್ಯಭಿಚಾರ ಮಾಡಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "ನೀ ವ್ಯಭಿಚಾರ ಮಾಡ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:45:18.479637313Z",
+  "model": "glm-5.3"
+}

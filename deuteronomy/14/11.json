@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಶುದ್ಧವಾದ ಎಲ್ಲ ಹಕ್ಕಿಗಳನ್ನು ನೀವು ತಿನ್ನಬಹುದು.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ಹಕ್ಕಿಗಳನ್ನು"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "ಶುದ್ಧವಾದ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ನೀವು ತಿನ್ನಬಹುದು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:49:43.807616069Z",
+  "model": "glm-5.3"
+}

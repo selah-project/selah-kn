@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 31,
+  "translation": "ವಾದ್ಯವೃಂದದ ಮುಖಂಡನಿಗೆ; ದಾವೀದನ ಒಂದು ಮಜ್ಮೋರ್.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ವಾದ್ಯವೃಂದದ ಮುಖಂಡನಿಗೆ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ಮಜ್ಮೋರ್"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ದಾವೀದನಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:41:54.904283278Z",
+  "model": "glm-5.3"
+}

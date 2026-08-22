@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ನೋಡಿ, ನೀವು ನಿಮಗೆ ಸುಳ್ಳಿನ ಮಾತುಗಳ ಮೇಲೆ ನಂಬಿಕೆ ಇಡುತ್ತೀರ — ಯಾವುದೇ ಲಾಭವಿಲ್ಲದೆ",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ನೋಡಿ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ನೀವು"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "ನಂಬಿಕೆ ಇಡುತ್ತೀರ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ನಿಮಗೆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ಮಾತುಗಳ"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "ಸುಳ್ಳಿನ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ಇಲ್ಲದೆ"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "ಲಾಭವಿಲ್ಲ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:10:18.023405024Z",
+  "model": "glm-5.3"
+}

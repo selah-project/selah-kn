@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 14:2",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಇದೇ ಶುದ್ಧೀಕರಣದ ದಿನದಂದು ಚರ್ಮರೋಗಿಯ ⟨the⟩ ತೋರಾ ಆಗಿರಲಿಿ — ಅವನನ್ನು ಯಾಜಕನ ಬಳಿ ⟨את⟩ ತರಲಾಗುವುದು",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ಇದೇ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ಆಗಿರಲಿ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ತೋರಾ"
+    },
+    {
+      "surface": "המצרע",
+      "gloss": "ಚರ್ಮರೋಗಿಯ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ದಿನದಂದು"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "ಅವನ ಶುದ್ಧೀಕರಣದ"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "ತರಲಾಗುವುದು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ಯಾಜಕನ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:08:24.188016337Z",
+  "model": "glm-5.3"
+}

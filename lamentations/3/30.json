@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಹೊಡೆದವನಿಗೆ ತನ್ನ ಕೆನ್ನೆಯನ್ನು ಕೊಡಲಿ; ನಿಂದೆಯಿಂದ ⟨ಅವನು⟩ ತೃಪ್ತನಾಗಲಿ.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ಕೊಡಲಿ"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "ಹೊಡೆದವನಿಗೆ"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ಕೆನ್ನೆಯನ್ನು"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ತೃಪ್ತನಾಗಲಿ"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "ನಿಂದೆಯಿಂದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:27.295428583Z",
+  "model": "glm-5.3"
+}

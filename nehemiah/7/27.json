@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಅನಾತೋತ್ ಜನರು — ನೂರ್ ಇಪ್ಪತ್ತೆಂಟು.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ಅನಾತೋತ್"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ಇಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ಮತ್ತು ಎಂಟು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:58.150434962Z",
+  "model": "glm-5.3"
+}

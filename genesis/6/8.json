@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಆದರೆ ನೋವಾಖ್ ಯಾಹ್ವೆಯ ಕಣ್ಣುಗಳಲ್ಲಿ ಅನುಗ್ರಹವನ್ನು ಕಂಡನು.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "ಆದರೆ ನೋವಾಖ್"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ಕಂಡನು"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ಅನುಗ್ರಹವನ್ನು"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ಕಣ್ಣುಗಳಲ್ಲಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:10:51.542128871Z",
+  "model": "glm-5.3"
+}

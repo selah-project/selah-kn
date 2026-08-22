@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 25,
+  "translation": "ಗೋಡೆಯಿಲ್ಲದ ಒಡೆದ ಪಟ್ಟಣ — ತನ್ನ ರೂಅಖಿಗೆ ನಿಗ್ರಹವಿಲ್ಲದ ಮನುಷ್ಯ.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "ಪಟ್ಟಣ"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "ಒಡೆದ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "ಗೋಡೆಯಿಲ್ಲದ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ಮನುಷ್ಯ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅವನ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ಇಲ್ಲದ"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "ನಿಗ್ರಹವಿಲ್ಲದ"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "ತನ್ನ ರೂಅಖಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:27:06.443331318Z",
+  "model": "glm-5.3"
+}

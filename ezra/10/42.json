@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಶಲ್ಲೂಮ್, ಅಮರ್ಯಾ, ಯೋಸೇಫ್.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "ಶಲ್ಲೂಮ್"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ಅಮರ್ಯಾ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ಯೋಸೇಫ್"
+    }
+  ],
+  "timestamp": "2026-08-22T04:49:07.003110643Z",
+  "model": "glm-5.3"
+}

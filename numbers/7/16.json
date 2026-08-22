@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಆಡುಗಳ ಒಂದು ಗಂಡುಮರಿ, ಪಾಪಾರ್ಪಣೆಗಾಗಿ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ಗಂಡುಮರಿ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ಆಡುಗಳ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ಪಾಪಾರ್ಪಣೆಗಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:22:32.194405495Z",
+  "model": "glm-5.3"
+}

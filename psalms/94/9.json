@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 94,
+  "translation": "ಕಿವಿಯನ್ನು ನೆಟ್ಟವನು ⟨he⟩ ಕೇಳಲಾರನೇ? ಅಥವಾ ಕಣ್ಣನ್ನು ರೂಪಿಸಿದವನು ⟨he⟩ ನೋಡಲಾರನೇ?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "ನೆಟ್ಟವನು"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ಕಿವಿಯನ್ನು"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ಅಲ್ಲವೇ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ಕೇಳಲಾರನೇ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ಅಥವಾ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ರೂಪಿಸಿದವನು"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ಕಣ್ಣನ್ನು"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ಅಲ್ಲವೇ"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ನೋಡಲಾರನೇ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:01:49.207664517Z",
+  "model": "glm-5.3"
+}

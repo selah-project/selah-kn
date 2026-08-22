@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 13:15",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಮೋಶೆಯು ರೆಯೂಬೇನ್ ಮಕ್ಕಳ ಕೋಮಕ್ಕೆ ಅವರ ಕುಲಗಳಿಗೆ ಅನುಸಾರವಾಗಿ ⟨gave⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ನೀಡಿದನು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯು"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ಕೋಮಕ್ಕೆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ರೆಯೂಬೇನ್"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ಅವರ ಕುಲಗಳಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:09:21.666941855Z",
+  "model": "glm-5.3"
+}

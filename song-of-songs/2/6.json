@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಅವನ ಎಡಗೈ ⟨the⟩ ನನ್ನ ತಲೆಯ ಕೆಳಗೆ ⟨is⟩, ಅವನ ಬಲಗೈ ನನ್ನನ್ನು ಆಲಂಗಿಸುತ್ತದೆ.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "ಅವನ ಎಡಗೈ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ಕೆಳಗೆ"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "ನನ್ನ ತಲೆಯ"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "ಅವನ ಬಲಗೈ"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "ನನ್ನನ್ನು ಆಲಂಗಿಸುತ್ತದೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:49:11.813482808Z",
+  "model": "glm-5.3"
+}

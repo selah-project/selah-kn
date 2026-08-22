@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 144,
+  "translation": "ಅವರ ಬಾಯಿ ⟨ಸುಳ್ಳನ್ನು⟩ ಆಡುತ್ತದೆ ಮತ್ತು ಅವರ ಬಲಗೈ ಸುಳ್ಳಿನ ಬಲಗೈ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ಅವರ"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ಅವರ ಬಾಯಿ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ಆಡುತ್ತದೆ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ಸುಳ್ಳನ್ನು"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ಮತ್ತು ಅವರ ಬಲಗೈ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ಬಲಗೈ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ಸುಳ್ಳಿನ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:15:43.535578592Z",
+  "model": "glm-5.3"
+}

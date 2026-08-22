@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 39,
+  "translation": "ಮೂರನೇ ಸಾಲು — ಲೆಶೆಮ್, ಶೆಬೋ ಮತ್ತು ಅಚ್ಲಾಮಾ.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ಸಾಲು"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ಮೂರನೇ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ಲೆಶೆಮ್"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ಶೆಬೋ"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "ಅಚ್ಲಾಮಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:58:30.856001357Z",
+  "model": "glm-5.3"
+}

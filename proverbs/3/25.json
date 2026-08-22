@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಆಕಸ್ಮಿಕ ಭಯದಿಂದ ಹೆದರಬೇಡ; ದುಷ್ಟರ ವಿನಾಶವು ಬರುವಾಗಲೂ ಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ಹೆದರಬೇಡ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ಭಯದಿಂದ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ಆಕಸ್ಮಿಕ"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "ಮತ್ತು ವಿನಾಶವು"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ದುಷ್ಟರ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಯಾವಾಗ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ಬರುವಾಗ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:17:28.290123708Z",
+  "model": "glm-5.3"
+}

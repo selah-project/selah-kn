@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಮತ್ತು ಇಫ್ದೆಯಾ ಮತ್ತು ಪೆನುಎಲ್ — ಶಶಾಕನ ಪುತ್ರರು.",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "ಮತ್ತು ಇಫ್ದೆಯಾ"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "ಮತ್ತು ಪೆನುಎಲ್"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಪುತ್ರರು"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "ಶಶಾಕ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:51.973599435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಈ ತಿಂಗಳು ನಿಮಗೆ ತಿಂಗಳುಗಳ ಶಿರವು; ಅದು ನಿಮಗೆ ವರ್ಷದ ತಿಂಗಳುಗಳಲ್ಲಿ ಮೊದಲನೆಯದು.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "ಈ ತಿಂಗಳು"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ನಿಮಗೆ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ಶಿರವು"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ತಿಂಗಳುಗಳ"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ಮೊದಲನೆಯದು"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ನಿಮಗೆ"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "ತಿಂಗಳುಗಳಲ್ಲಿ"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ವರ್ಷದ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:42:56.412448766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಬೆತ್-ಎಲ್ ಮತ್ತು ಹಾಯಿಯ ಪುರುಷರು — ಇನ್ನೂರು ಇಪ್ಪತ್ತು ಮೂರು.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ಪುರುಷರು"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಬೆತ್-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಲ್"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "ಮತ್ತು ಹಾಯಿ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ಇನ್ನೂರು"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ಇಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ಮೂರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:32.443796633Z",
+  "model": "glm-5.3"
+}

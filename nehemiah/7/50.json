@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ರೆಅಯ್ಯಾಹನ ಮಕ್ಕಳು, ರೆತ್ಸಿನನ ಮಕ್ಕಳು, ನೆಕೋದಾನ ಮಕ್ಕಳು,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "ರೆಅಯ್ಯಾಹನ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ರೆತ್ಸಿನನ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "ನೆಕೋದಾನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:53.940993909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 127,
+  "translation": "ನೋಡಿರಿ, ಮಕ್ಕಳು ಯಾಹ್ವೆಯ ಸ್ವಾಸ್ಥ್ಯ; ಗರ್ಭದ ಫಲ ಬಹುಮಾನ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ನೋಡಿರಿ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ಸ್ವಾಸ್ಥ್ಯ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ಬಹುಮಾನ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ಫಲ"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "ಗರ್ಭದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:12:08.887205028Z",
+  "model": "glm-5.3"
+}

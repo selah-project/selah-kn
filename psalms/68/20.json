@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 68,
+  "translation": "ಅದೋನಾಯ್ ಧನ್ಯನು, ದಿನದಿನವೂ ನಮಗೆ ಹೊರುವನು; ನಮ್ಮ ವಿಮೋಚನೆಯ ಎಲ್. ಸೆಲಾ.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ಧನ್ಯನು"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ಅದೋನಾಯ್"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ದಿನ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ದಿನವೂ"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "ಹೊರುವನು"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ನಮಗೆ"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ಎಲ್"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "ನಮ್ಮ ವಿಮೋಚನೆಯ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ಸೆಲಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:54:11.348576785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 3:16",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಏಳು ದಿನಗಳು ಮುಗಿದ ಮೇಲೆ ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ನನಗೆ ಬಂದಿತು, ಹೇಳುತ್ತಾ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ಮುಗಿದ ಮೇಲೆ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ಏಳು"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ದಿನಗಳು"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:41:29.801036942Z",
+  "model": "glm-5.3"
+}

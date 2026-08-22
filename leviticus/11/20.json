@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ನಾಲ್ಕರ ಮೇಲೆ ನಡೆಯುವ ಎಲ್ಲಾ ಹಾರುವ ಸರಿಸುವ ಪ್ರಾಣಿ — ಅದು ನಿಮಗೆ ಅಸಹ್ಯಕರವಾದುದು",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ಸರಿಸುವ ಪ್ರಾಣಿ"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ಹಾರುವ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ನಡೆಯುವ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ನಾಲ್ಕರ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ಅಸಹ್ಯಕರವಾದುದು"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ನಿಮಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:06:01.446886864Z",
+  "model": "glm-5.3"
+}

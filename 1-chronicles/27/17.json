@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 27,
+  "translation": "ಲೇವಿಯ ಮೇಲೆ ಕೆಮುವೇಲನ ಮಗನಾದ ಚಶಬ್ಯಾ; ಅಹರೋನನ ಮೇಲೆ ಸಾದೋಕ್.",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "ಲೇವಿಯ ಮೇಲೆ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ಚಶಬ್ಯಾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನಾದ"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "ಕೆಮುವೇಲನ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ಅಹರೋನನ ಮೇಲೆ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ಸಾದೋಕ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:43:06.881287886Z",
+  "model": "glm-5.3"
+}

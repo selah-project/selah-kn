@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಯಿಸ್ಸಾಖಾರ್‌ಗೆ: ನೆತನೆಯೆಲ್, ತ್ಸುಅಾರ್‌ನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "ಯಿಸ್ಸಾಖಾರ್‌ಗೆ"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ನೆತನೆಯೆಲ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ತ್ಸುಅಾರ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:18:08.974864383Z",
+  "model": "glm-5.3"
+}

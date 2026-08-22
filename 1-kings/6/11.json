@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಆಗ ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ಶೆಲೋಮೋಹ್‌ಗೆ ಬಂದಿತು, ಹೇಳುತ್ತಾ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಗ...ಆಯಿತು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ಶೆಲೋಮೋಹ್"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:07:29.662272745Z",
+  "model": "glm-5.3"
+}

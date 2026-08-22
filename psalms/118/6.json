@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 118,
+  "translation": "ಯಾಹ್ವೆ ನನಗಾಗಿದ್ದಾನೆ; ನಾನು ಹೆದರುವುದಿಲ್ಲ — ಮನುಷ್ಯನು ನನಗೆ ಏನು ಮಾಡಲಿ?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ನನಗಾಗಿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ನಾನು ಹೆದರುವುದಿಲ್ಲ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ಏನು"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ಮಾಡಲಿ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ಮನುಷ್ಯನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:08:51.752149054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 15:42",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಲಿಬ್ನಾ, ಮತ್ತು ಎತೆರ್, ಮತ್ತು ಅಶಾನ್.",
+  "tokens": [
+    {
+      "surface": "לבנה",
+      "gloss": "ಲಿಬ್ನಾ"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "ಮತ್ತು ಎತೆರ್"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "ಮತ್ತು ಅಶಾನ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:10:44.669527779Z",
+  "model": "glm-5.3"
+}

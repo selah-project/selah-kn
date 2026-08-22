@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಮತ್ತು ಶೆಮೆರನ ಮಕ್ಕಳು: ಅಖಿ, ರೋಹಗಾ, ಯೆಖುಬ್ಬಾ ಮತ್ತು ಅರಾಮ್.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ಶೆಮೆರನ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ಅಖಿ"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "ಮತ್ತು ರೋಹಗಾ"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "ಯೆಖುಬ್ಬಾ"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ಮತ್ತು ಅರಾಮ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:10.985572942Z",
+  "model": "glm-5.3"
+}

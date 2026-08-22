@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ನಫ್ತಾಲಿಗೆ — ಅಖಿರಾ, ಏನಾನನ ಮಗನು.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "ನಫ್ತಾಲಿಗೆ"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "ಅಖಿರಾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ಏನಾನ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:18:22.559199614Z",
+  "model": "glm-5.3"
+}

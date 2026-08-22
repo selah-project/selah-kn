@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 27:6",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 27,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆ ಮೋಶೆಯ ಕಡೆಗೆ ಹೇಳುವುದಕ್ಕೆ ಹೀಗೆ ಹೇಳಿದನು.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಕಡೆಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುವುದಕ್ಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:37:15.465630920Z",
+  "model": "glm-5.3"
+}

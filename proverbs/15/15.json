@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ದುಃಖಿತನ ⟨the⟩ ಎಲ್ಲ ದಿನಗಳು ಕೆಟ್ಟವು; ಆದರೆ ಸದ್‌ಹೃದಯದವನಿಗೆ ನಿರಂತರ ಹಬ್ಬದ ಊಟ",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ದಿನಗಳು"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ದುಃಖಿತನ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ಕೆಟ್ಟವು"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ಆದರೆ ಸದ್"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ಹೃದಯದವನಿಗೆ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ಹಬ್ಬದ ಊಟ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ನಿರಂತರ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:43:16.524508096Z",
+  "model": "glm-5.3"
+}

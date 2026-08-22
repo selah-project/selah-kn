@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನನ್ನ ತಲೆಯ ಮೇಲೆ ನೀರು ಮೈದುವಹಿಸಿತು; ನಾನು ಕಳಚಿಹೋದೆನೆಂದು ಹೇಳಿಕೊಂಡೆನು.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "ಮೈದುವಹಿಸಿತು"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ನೀರು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ನನ್ನ ತಲೆಯ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ನಾನು ಹೇಳಿಕೊಂಡೆನು"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "ಕಳಚಿಹೋದೆನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:47.211442296Z",
+  "model": "glm-5.3"
+}

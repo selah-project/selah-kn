@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 115,
+  "translation": "ಯಾಕೆ ಜನತೆಗಳು ಹೇಳುವರು — ಎಲ್ಲಿ⟨ಯಾರು⟩ ನಾ ಅವರ ದೇವರು?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ಯಾಕೆ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ಹೇಳುವರು"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ಜನತೆಗಳು"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ಎಲ್ಲಿ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ನಾ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ಅವರ ದೇವರು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:06:45.872868838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 109,
+  "translation": "ಅವನ ಮಕ್ಕಳು ಅನಾಥರಾಗಲಿ, ಮತ್ತು ಅವನ ಹೆಂಡತಿ ವಿಧವೆಯಾಗಲಿ.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ಆಗಲಿ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ಅವನ ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ಅನಾಥರು"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ಮತ್ತು ಅವನ ಹೆಂಡತಿ"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ವಿಧವೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:07:42.855669766Z",
+  "model": "glm-5.3"
+}

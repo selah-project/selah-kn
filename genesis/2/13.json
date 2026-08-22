@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಎರಡನೇ ನದಿಯ ಹೆಸರು ಗಿಹೋನ್; ಅದು ಕುಶ್ ದೇಶವನ್ನು ⟨את⟩ ಸುತ್ತುವವು.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ಮತ್ತು ಹೆಸರು"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ನದಿಯ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ಎರಡನೇ"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "ಗಿಹೋನ್"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "ಸುತ್ತುವವು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಕುಶ್ ದೇಶವನ್ನು"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಸಂಪೂರ್ಣ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ದೇಶ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ಕುಶ್"
+    }
+  ],
+  "timestamp": "2026-08-21T20:07:36.353577666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ಶಾಪಗ್ರಸ್ತವಾಗಲಿ ನಿನ್ನ ಬುಟ್ಟಿ ಮತ್ತು ನಿನ್ನ ಕಲಸಪಾತ್ರೆ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ಶಾಪಗ್ರಸ್ತವಾಗಲಿ"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "ನಿನ್ನ ಬುಟ್ಟಿ"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ಮತ್ತು ನಿನ್ನ ಕಲಸಪಾತ್ರೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:59:23.143017234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಬೇಟೆಯಾಡಿದರು ನನ್ನನ್ನು ನನ್ನ ವೈರಿಗಳು ಹಕ್ಕಿಯಂತೆ, ಕಾರಣವಿಲ್ಲದೆ.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "ಬೇಟೆಯಾಡಿದರು"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "ನನ್ನನ್ನು ಬೇಟೆಯಾಡಿದರು"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "ಹಕ್ಕಿಯಂತೆ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ನನ್ನ ವೈರಿಗಳು"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ಕಾರಣವಿಲ್ಲದೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:24.928761779Z",
+  "model": "glm-5.3"
+}

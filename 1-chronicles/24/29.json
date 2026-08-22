@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಲಕೀಶನಿಗೆ — ಕೀಶನ ಕುಮಾರರು: ಯೆರಖ್ಮೆಯೆಲ್.",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "ಲಕೀಶನಿಗೆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಕುಮಾರರು"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "ಕೀಶನ"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "ಯೆರಖ್ಮೆಯೆಲ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:41:43.616022887Z",
+  "model": "glm-5.3"
+}

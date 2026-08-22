@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 4:14",
+  "book": "zechariah",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಆಗ ಆತನು ಹೇಳಿದನು: ಇವು ಎಣ್ಣೆಯ ಇಬ್ಬರು ಕುಮಾರರು — ಭೂಮಿಯ ಎಲ್ಲಾ ಅಧಿಪತಿಯ ಬಳಿ ನಿಂತಿರುವವರು.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಆಗ ಆತನು ಹೇಳಿದನು"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ಇವು"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ಇಬ್ಬರು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಕುಮಾರರು"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "ಎಣ್ಣೆಯ"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ನಿಂತಿರುವವರು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಬಳಿ"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ಅಧಿಪತಿಯ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:28:03.921096743Z",
+  "model": "glm-5.3"
+}

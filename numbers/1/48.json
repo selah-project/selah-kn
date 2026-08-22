@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಗೆ ಆಜ್ಞಾಪಿಸಿದನು, ಹೇಳುತ್ತಾ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "ಙהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:18:24.857744540Z",
+  "model": "glm-5.3"
+}

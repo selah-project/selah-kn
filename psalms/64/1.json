@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 64,
+  "translation": "ಸಂಗೀತ ನಿರ್ದೇಶಕನಿಗೆ — ಕೀರ್ತನೆ, ದಾವಿದ್‌ಗೆ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ಸಂಗೀತ ನಿರ್ದೇಶಕನಿಗೆ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ಕೀರ್ತನೆ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ದಾವಿದ್‌ಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:52:27.177989929Z",
+  "model": "glm-5.3"
+}

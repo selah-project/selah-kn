@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 109,
+  "translation": "ಇದು ನಿನ್ನ ಕೈ ಎಂದು ಅವರು ತಿಳಿಯಲಿ; ನೀನೇ ಯಾಹ್ವೆ, ನೀನು ⟨את⟩ ಅದನ್ನು ಮಾಡಿದೆ।",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ಅವರು ತಿಳಿಯಲಿ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಎಂದು"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ನಿನ್ನ ಕೈ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ಇದು"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ನೀನೇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ಮಾಡಿದೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:07:25.404110646Z",
+  "model": "glm-5.3"
+}

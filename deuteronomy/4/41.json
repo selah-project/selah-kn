@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಆಗ ಮೋಶೆ ಯರ್ದನ್‌ನ ಆಚೆ ಸೂರ್ಯೋದಯ ದಿಕ್ಕಿಗೆ ಮೂರು ಪಟ್ಟಣಗಳನ್ನು ಬೇರ್ಪಡಿಸಿದನು.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ಆಗ"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "ಬೇರ್ಪಡಿಸಿದನು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ಮೂರು"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ಪಟ್ಟಣಗಳನ್ನು"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ಆಚೆ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ಯರ್ದನ್‌ನ"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ಸೂರ್ಯೋದಯ ದಿಕ್ಕಿಗೆ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ಸೂರ್ಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:44:32.689093246Z",
+  "model": "glm-5.3"
+}

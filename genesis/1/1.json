@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಆದಿಯಲ್ಲಿ ಎಲೋಹೀಂ ⟨את⟩ ಆಕಾಶವನ್ನೂ ⟨את⟩ ಭೂಮಿಯನ್ನೂ ಸೃಷ್ಟಿಸಿದನು.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "ಆದಿಯಲ್ಲಿ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ಸೃಷ್ಟಿಸಿದನು"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಆಕಾಶವನ್ನೂ"
+    },
+    {
+      "surface": "ಔರ್ šāmayim — incorrect"
+    }
+  ],
+  "timestamp": "2026-08-21T20:06:54.743633007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ನಿಂತಿದೆ ನಮ್ಮ ಹೃದಯದ ಸಂತೋಷವು; ನಮ್ಮ ನೃತ್ಯವು ವಿಲಾಪವಾಗಿ ಮಾರ್ಪಟ್ಟಿದೆ.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "ನಿಂತಿದೆ"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ಸಂತೋಷವು"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ನಮ್ಮ ಹೃದಯದ"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ಮಾರ್ಪಟ್ಟಿದೆ"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "ವಿಲಾಪವಾಗಿ"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "ನಮ್ಮ ನೃತ್ಯವು"
+    }
+  ],
+  "timestamp": "2026-08-22T04:46:47.654359820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ತಿರ್ಸಾಹ್‌ನ ರಾಜ ಒಬ್ಬನು; ಎಲ್ಲಾ ರಾಜರು ಮೂವತ್ತೊಂದು ಜನ.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜ"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ತಿರ್ಸಾಹ್‌ನ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ರಾಜರು"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ಮೂವತ್ತು"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ಮತ್ತು ಒಂದು"
+    }
+  ],
+  "timestamp": "2026-08-21T22:08:42.977142276Z",
+  "model": "glm-5.3"
+}

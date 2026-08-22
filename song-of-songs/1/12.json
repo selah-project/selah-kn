@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ರಾಜನು ತನ್ನ ಆಸನದಲ್ಲಿ ಇರುವವರೆಗೆ ನನ್ನ ನರ್ದು ತನ್ನ ಸುಗಂಧವನ್ನು ಬಿಟ್ಟಿತು.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ಇರುವವರೆಗೆ"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "ತನ್ನ ಆಸನದಲ್ಲಿ"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "ನನ್ನ ನರ್ದು"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ಬಿಟ್ಟಿತು"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "ತನ್ನ ಸುಗಂಧವನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:47:32.841667484Z",
+  "model": "glm-5.3"
+}

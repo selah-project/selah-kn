@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಮತ್ತು ⟨את⟩ ಹಿವ್ವೀಯನ್ನೂ ⟨את⟩ ಅರ್ಕೀಯನ್ನೂ ⟨את⟩ ಸೀನೀಯನ್ನೂ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ಹಿವ್ವೀಯನ್ನೂ"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ಹಿವ್ವೀಯನ್ನೂ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ಅರ್ಕೀಯನ್ನೂ"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ಅರ್ಕೀಯನ್ನೂ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ಸೀನೀಯನ್ನೂ"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ಸೀನೀಯನ್ನೂ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:17.830012938Z",
+  "model": "glm-5.3"
+}

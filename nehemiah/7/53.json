@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಬಕ್ಬುಕ್‌ನ ಮಕ್ಕಳು, ಚಕುಪ್ಫಾನ ಮಕ್ಕಳು, ಚರ್ಚುರ್‌ನ ಮಕ್ಕಳು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "ಬಕ್ಬುಕ್‌ನ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "ಚಕುಪ್ಫಾನ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "ಚರ್ಚುರ್‌ನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:24:08.604901426Z",
+  "model": "glm-5.3"
+}

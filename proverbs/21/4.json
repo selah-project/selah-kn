@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 21,
+  "translation": "ಎತ್ತರದ ಕಣ್ಣುಗಳು ಮತ್ತು ಅಹಂಕಾರದ ಹೃದಯ — ದುರ್ಜನರ ⟨ನೇಗಿಲೇ⟩ ಪಾಪವು.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "ಎತ್ತರದ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ಕಣ್ಣುಗಳು"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ಮತ್ತು ಅಹಂಕಾರದ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ಹೃದಯ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "⟨ನೇಗಿಲೇ⟩"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ದುರ್ಜನರ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ಪಾಪವು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:25:16.664171286Z",
+  "model": "glm-5.3"
+}

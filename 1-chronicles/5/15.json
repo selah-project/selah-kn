@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಅಖಿ — ಅವ್ದಿಯೆಲ್‌ನ ಮಗ, ಗೂನಿಯ ಮಗ — ಅವರ ತಂದೆಯರ ಮನೆತನಗಳ ಮುಖ್ಯಸ್ಥ.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "ಅಖಿ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "ಅವ್ದಿಯೆಲ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "ಗೂನಿ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ಮುಖ್ಯಸ್ಥ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ಮನೆತನಗಳ"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ಅವರ ತಂದೆಯರ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:08.113687638Z",
+  "model": "glm-5.3"
+}

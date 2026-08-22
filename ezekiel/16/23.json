@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ಮತ್ತು ನಿನ್ನ ಎಲ್ಲ ಕೇಡಿನ ನಂತರ ಆಯಿತು — ನಿನಗೆ ಹಾಯ್, ಹಾಯ್, ಅದೋನಾಯ್ ಯಾಹ್ವೆಯ ನುಡಿ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ನಂತರ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ನಿನ್ನ ಕೇಡಿನ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ಹಾಯ್"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ಹಾಯ್"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನಿನಗೆ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ನುಡಿ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ಅದೋನಾಯ್"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:46:21.912698734Z",
+  "model": "glm-5.3"
+}

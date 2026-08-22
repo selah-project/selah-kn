@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಒಳ್ಳೆಯದು — ಯಾಹ್ವೆಯ ⟨the⟩ ರಕ್ಷಣೆಗಾಗಿ ನಿರೀಕ್ಷಿಸುವುದೂ ಮೌನವಾಗಿ ಕಾಯುವುದೂ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ಒಳ್ಳೆಯದು"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "ನಿರೀಕ್ಷಿಸುವುದೂ"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "ಮೌನವಾಗಿ ಕಾಯುವುದೂ"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "ರಕ್ಷಣೆಗಾಗಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:46:42.424804206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ನಾಲ್ಕನೇ ದಿನದಲ್ಲಿ ರೆಮೆನ್ನ ಮಕ್ಕಳ ನಾಯಕನಾದ ಶೆದೆಯೂರ್ ಮಗ ಎಲಿತ್ಸೂರ್.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ದಿನದಲ್ಲಿ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ನಾಲ್ಕನೇ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ನಾಯಕ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ರೆಮೆನ್ನ"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "ಎಲಿತ್ಸೂರ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "ಶೆದೆಯೂರ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:23:27.418880074Z",
+  "model": "glm-5.3"
+}

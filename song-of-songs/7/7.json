@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಎಷ್ಟು ಸುಂದರಿ ನೀನು, ಎಷ್ಟು ಮನೋಹರಿ ನೀನೇ, ಪ್ರಿಯೇ, ಸುಖಗಳಲ್ಲಿ!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ಎಷ್ಟು"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "ಸುಂದರಿ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ಮತ್ತು ಎಷ್ಟು"
+    },
+    {
+      "surface": "נעಪת",
+      "gloss": "ಮನೋಹರಿ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ಪ್ರಿಯೇ"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "ಸುಖಗಳಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:50:20.171286434Z",
+  "model": "glm-5.3"
+}

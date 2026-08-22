@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 30,
+  "translation": "ಅವನು — ನಿನ್ನ ಕೂಲಿಯನ್ನು ನನಗಾಗಿ ನಿಗದಿಸು, ನಾನು ಕೊಡುವೆನು ಎಂದನು.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಎಂದನು"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ನಿಗದಿಸು"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "ನಿನ್ನ ಕೂಲಿ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ನನಗಾಗಿ"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ನಾನು ಕೊಡುವೆನು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:24:05.470461630Z",
+  "model": "glm-5.3"
+}

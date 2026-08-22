@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಈ ದಿನ ನೀವು ಹೊರಟಿದ್ದೀರೆ, ಅಬೀವ್ ತಿಂಗಳಲ್ಲಿ.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ಈ ದಿನ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ನೀವು"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "ಹೊರಟಿದ್ದೀರೆ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ತಿಂಗಳಲ್ಲಿ"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ಅಬೀವ್"
+    }
+  ],
+  "timestamp": "2026-08-22T04:09:07.837817602Z",
+  "model": "glm-5.3"
+}

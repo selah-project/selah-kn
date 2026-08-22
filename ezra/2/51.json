@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "ezra 2:51",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಬಕ್ಬೂಕನ ಮಕ್ಕಳು, ಖಕೂಫಾನ ಮಕ್ಕಳು, ಖರ್ಖೂರನ ಮಕ್ಕಳು,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "ಬಕ್ಬೂಕ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "ಖಕೂಫಾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "ಖರ್ಖೂರ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:15:43.594379233Z",
+  "model": "glm-5.3"
+}

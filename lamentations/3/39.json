@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಏಕೆ ದೂರುತ್ತಾನೆ ಬದುಕಿರುವ ಮನುಷ್ಯನು, ಪುರುಷನು, ತನ್ನ ಪಾಪದ ದಂಡನೆಯ ವಿಷಯದಲ್ಲಿ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ಏಕೆ"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "ದೂರುತ್ತಾನೆ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ಮನುಷ್ಯನು"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ಬದುಕಿರುವ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ಪುರುಷನು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ವಿಷಯದಲ್ಲಿ"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ತನ್ನ ಪಾಪದ ದಂಡನೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:26.974823815Z",
+  "model": "glm-5.3"
+}

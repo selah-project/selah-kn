@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಯರಾಬ್ಆಮ್ ರಾಜನ ಹದಿನೆಂಟನೆಯ ವರ್ಷದಲ್ಲಿ ಅಬಿಯಾ ⟨ಅವನು⟩ ಯೆಹೂದಾದ ಮೇಲೆ ಆಳಿದನು.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ವರ್ಷದಲ್ಲಿ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ಎಂಟು"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ಹತ್ತು"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ರಾಜನ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ಯರಾಬ್ಆಮ್"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ಮತ್ತು ಆಳಿದನು"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ಅಬಿಯಾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ಯೆಹೂದಾದ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:52:50.603929961Z",
+  "model": "glm-5.3"
+}

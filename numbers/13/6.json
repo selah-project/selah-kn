@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಯೆಹೂದಾ ಗೋತ್ರಕ್ಕೆ ಸೇರಿದವನು ಯೆಫುನ್ನೆಯ ಮಗ ಕಾಲೆವ್.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ಗೋತ್ರಕ್ಕೆ ಸೇರಿದವನು"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ಯೆಹೂದಾ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ಕಾಲೆವ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ಯೆಫುನ್ನೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:26:27.243476895Z",
+  "model": "glm-5.3"
+}

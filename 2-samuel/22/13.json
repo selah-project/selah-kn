@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಅವನ ಸನ್ನಿಧಿಯ ಪ್ರಭೆಯಿಂದ ಬೆಂಕಿಯ ಕಿಡಿಗಳು ಉರಿದವು.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "ಪ್ರಭೆಯಿಂದ"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ಅವನ ಸನ್ನಿಧಿಯ"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "ಉರಿದವು"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "ಕಿಡಿಗಳು"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ಬೆಂಕಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:01:54.658725453Z",
+  "model": "glm-5.3"
+}

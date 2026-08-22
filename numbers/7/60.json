@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 7:60",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಒಂಬತ್ತನೇ ದಿನ ಬಿನ್ಯಾಮೀನ್ ಮಕ್ಕಳ ನಾಯಕ ಅಬೀದಾನ್, ಅವನು ಗಿದ್ಯೋನಿಯ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ದಿನ"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "ಒಂಬತ್ತನೇ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ನಾಯಕ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ಬಿನ್ಯಾಮೀನ್"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "ಅಬೀದಾನ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "ಗಿದ್ಯೋನಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:23:23.164626486Z",
+  "model": "glm-5.3"
+}

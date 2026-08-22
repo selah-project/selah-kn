@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 3:33",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಮೆರಾರಿಯದ್ದು — ಮಹ್ಲಿ ಕುಲ ಮತ್ತು ಮೂಶಿ ಕುಲ; ಇವೇ ⟨ಅವು⟩ ಮೆರಾರಿಯ ಕುಲಗಳು.",
+  "tokens": [
+    {
+      "surface": "למררי",
+      "gloss": "ಮೆರಾರಿಯದ್ದು"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ಕುಲ"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "ಮಹ್ಲಿ"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "ಮತ್ತು ಕುಲ"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "ಮೂಶಿ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ಇವೇ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ಅವು⟩"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ಕುಲಗಳು"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ಮೆರಾರಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:20:47.792334306Z",
+  "model": "glm-5.3"
+}

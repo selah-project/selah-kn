@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 34,
+  "translation": "ಕರಗಿಸಿದ ಲೋಹದ ದೇವರುಗಳನ್ನು ನಿನಗೆ ಮಾಡಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ದೇವರುಗಳನ್ನು"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ಕರಗಿಸಿದ ಲೋಹದ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ಮಾಡ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನಿನಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:10:51.429812259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 7:13",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಜ಼ತ್ತೂವಿನ ಮಕ್ಕಳು — ಎಂಟು ನೂರು ನಲವತ್ತೈದು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ಜ಼ತ್ತೂ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ಎಂಟು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ನಲವತ್ತು"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ಐದು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:41.546372584Z",
+  "model": "glm-5.3"
+}

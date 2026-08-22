@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನೆನಪು ಮಾಡು ನೆನಪು ಮಾಡು, ಮತ್ತು ಕುಗ್ಗಿಹೋಗುತ್ತದೆ ನನ್ನೊಳಗೆ ನನ್ನ ನೆಫೆಶ್.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ನೆನಪು ಮಾಡು"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "ನೆನಪು ಮಾಡು"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "ಮತ್ತು ಕುಗ್ಗಿಹೋಗುತ್ತದೆ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ನನ್ನೊಳಗೆ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ನನ್ನ ನೆಫೆಶ್"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:59.436955829Z",
+  "model": "glm-5.3"
+}

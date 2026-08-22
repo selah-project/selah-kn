@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಭಯವೂ ಬಿದ್ದಿಗೂ ಬಲೆಯೂ ನಿನ್ನ ಮೇಲೆ, ಭೂಮಿಯ ವಾಸಿಯೇ.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ಭಯವೂ"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "ಬಿದ್ದಿಗೂ"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "ಬಲೆಯೂ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ನಿನ್ನ ಮೇಲೆ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ವಾಸಿಯೇ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:28:35.074391675Z",
+  "model": "glm-5.3"
+}

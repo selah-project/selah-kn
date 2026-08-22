@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಅವ್ರಾಹಾಂನ ಮಕ್ಕಳು: ಯಿತ್ಸಾಕ್ ಮತ್ತು ಯಿಶ್ಮಾಏಲ್.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ಅವ್ರಾಹಾಂನ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ಯಿತ್ಸಾಕ್"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "ಮತ್ತು ಯಿಶ್ಮಾಏಲ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:27:54.077741248Z",
+  "model": "glm-5.3"
+}

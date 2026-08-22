@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ನಿನಗೆ ಯಾವುದೇ ಮರವನ್ನಾದರೂ ಅಶೇರಾಹ್ ಆಗಿ ನೆಡಬೇಡ; ನಿನಗೆ ನಿರ್ಮಿಸುವ ನಿನ್ನ ದೇವರಾದ ಯಾಹ್ವೆಯ ಬಲಿಪೀಠದ ಹತ್ತಿರ ⟨the⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "ನೆಡಬೇಡ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನಿನಗೆ"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "ಅಶೇರಾಹ್"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಯಾವುದೇ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ಮರವನ್ನಾದರೂ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ಹತ್ತಿರ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ಬಲಿಪೀಠದ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ನಿನ್ನ ದೇವರಾದ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ನಿರ್ಮಿಸುವ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನಿನಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:52:23.409927359Z",
+  "model": "glm-5.3"
+}

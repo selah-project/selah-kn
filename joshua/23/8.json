@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 23:8",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಬದಲಾಗಿ ಯಾಹ್ವೆ ನಿಮ್ಮ ಎಲೋಹೀಂಗೆ ಅಂಟಿಕೊಂಡಿರಿ, ಈ ದಿನದವರೆಗೆ ಮಾಡಿದಂತೆ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಬದಲಾಗಿ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…ಹೊರತು"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ಯಾಹ್ವೆಗೆ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ನಿಮ್ಮ ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "תדבקו",
+      "gloss": "ಅಂಟಿಕೊಂಡಿರಿ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…ಎಂದಂತೆ"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ಮಾಡಿದ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ವರೆಗೆ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ಈ ದಿನದ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಈ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:15:53.482067565Z",
+  "model": "glm-5.3"
+}

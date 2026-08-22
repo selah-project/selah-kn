@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಮೂರನೆಯದು ಹಾರೀಮನಿಗೆ, ನಾಲ್ಕನೆಯದು ಸೆಯೋರೀಮನಿಗೆ.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "ಹಾರೀಮನಿಗೆ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ಮೂರನೆಯದು"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "ಸೆಯೋರೀಮನಿಗೆ"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "ನಾಲ್ಕನೆಯದು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:41:38.270018220Z",
+  "model": "glm-5.3"
+}

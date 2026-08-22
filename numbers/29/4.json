@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 29,
+  "translation": "ಮತ್ತು ಏಳು ಕುರಿಮರಿಗಳಿಗೆ — ಒಂದೊಂದು ಕುರಿಮರಿಗೆ ಒಂದು ದಶಾಂಶ.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "ಮತ್ತು ಒಂದು ದಶಾಂಶ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ಕುರಿಮರಿಗೆ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ಒಂದೊಂದು"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ಏಳಕ್ಕೆ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ಕುರಿಮರಿಗಳ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:37:51.367967176Z",
+  "model": "glm-5.3"
+}

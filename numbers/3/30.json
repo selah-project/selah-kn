@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಕೆಹಾತಿಗಳ ಕುಲಗಳ ಪಿತೃಗೃಹದ ನಾಯಕನು ಉಜ್ಜಿಯೇಲನ ಮಗ ಎಲಿತ್ಸಾಫಾನ್.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "ಮತ್ತು ನಾಯಕನು"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಗೃಹದ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ಪಿತೃ"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "ಕುಲಗಳ"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "ಕೆಹಾತಿಗಳ"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "ಎಲಿತ್ಸಾಫಾನ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ಉಜ್ಜಿಯೇಲನ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:21:19.364989618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ವರ್ಷದಲ್ಲಿ ಮೂರು ಬಾರಿ ನೀನು ನನಗೆ ಹಬ್ಬ ಆಚರಿಸು.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ಮೂರು"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ಬಾರಿ"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "ನೀನು-ಹಬ್ಬ-ಆಚರಿಸು"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ವರ್ಷದಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:49:29.054829526Z",
+  "model": "glm-5.3"
+}

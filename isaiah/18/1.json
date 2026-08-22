@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 18,
+  "translation": "ಓ ರೆಕ್ಕೆಗಳ ಘಲ್ಲನ ಘಲ್ಲನ ಸದ್ದಿನ ⟨the⟩ ದೇಶವೇ, ಕೂಶ್‌ನ ನದಿಗಳ ಆಚೆ ಇರುವವನೇ",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ಓ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ದೇಶವೇ"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "ಘಲ್ಲನ ಘಲ್ಲನ ಸದ್ದಿನ"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ರೆಕ್ಕೆಗಳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಇರುವವನೇ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ಆಚೆ"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "ನದಿಗಳ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ಕೂಶ್‌ನ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:45:41.073280735Z",
+  "model": "glm-5.3"
+}

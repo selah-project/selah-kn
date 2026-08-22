@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ನ್ಯಾಯಿಕರ ಆಲೋಚನೆಗಳು ನ್ಯಾಯತೀರ್ಪು; ದುಷ್ಟರ ತಂತ್ರಗಳು ವಂಚನೆ.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "ಆಲೋಚನೆಗಳು"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ನ್ಯಾಯಿಕರ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ನ್ಯಾಯತೀರ್ಪು"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "ತಂತ್ರಗಳು"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ದುಷ್ಟರ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ವಂಚನೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:21:11.238422102Z",
+  "model": "glm-5.3"
+}

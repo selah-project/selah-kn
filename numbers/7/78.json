@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಹನ್ನೆರಡನೆಯ ದಿನದಂದು ನಫ್ತಾಲಿಯ ಮಕ್ಕಳ ನಾಯಕ ಅಖಿರ ಬೆನ್ ಎನಾನ್ ⟨ಆತನು⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ದಿನದಂದು"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ಹನ್ನೆರಡನೆಯ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ಹನ್ನೆರಡನೆಯ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ದಿನ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ನಾಯಕ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ನಫ್ತಾಲಿಯ"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "ಅಖಿರ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಬೆನ್"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ಎನಾನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T06:17:17.560310235Z",
+  "model": "glm-5.3"
+}

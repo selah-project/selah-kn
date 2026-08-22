@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಆದರೆ ಶೆಓಲ್‌ಗೆ ಇಳಿಸಲ್ಪಡುವಿ, ಗುಂಡಿನ ತಳಭಾಗಗಳಿಗೆ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ಆದರೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ಶೆಓಲ್"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ಇಳಿಸಲ್ಪಡುವಿ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇಂದ"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ತಳಭಾಗಗಳಿಗೆ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ಗುಂಡಿನ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:42:21.290079269Z",
+  "model": "glm-5.3"
+}

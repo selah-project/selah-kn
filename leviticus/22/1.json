@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಗೆ ಹೇಳುತ್ತಾ ಆದೇಶಿಸಿದನು:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಹೇಳುತ್ತಾ ಆದೇಶಿಸಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನಿಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಗೆಂದು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:14:37.512158725Z",
+  "model": "glm-5.3"
+}

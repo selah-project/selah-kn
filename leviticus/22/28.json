@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಮತ್ತು ಎತ್ತು ಅಥವಾ ಮರಿ — ⟨את⟩ ಅದನ್ನೂ ⟨את⟩ ಅದರ ಮಗುವನ್ನೂ ಒಂದೇ ದಿನದಲ್ಲಿ ವಧಿಸಬೇಡಿ.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "ಎತ್ತು"
+    },
+    {
+      "surface": "או",
+      "gloss": "ಅಥವಾ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ಮರಿ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ಅದನ್ನೂ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ಮಗುವನ್ನೂ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅದರ ಮಗುವನ್ನೂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡಿ"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "ವಧಿಸಬೇಡಿ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ದಿನದಲ್ಲಿ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದೇ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:13:44.206409619Z",
+  "model": "glm-5.3"
+}

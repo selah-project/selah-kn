@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಒಂದು ಆಡಿನ ಮರಿ, ಪಾಪಬಲಿಗಾಗಿ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ಆಡಿನ ಮರಿ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ಆಡುಗಳ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ಪಾಪಬಲಿಗಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:23:15.147891017Z",
+  "model": "glm-5.3"
+}

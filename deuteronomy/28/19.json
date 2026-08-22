@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ನೀನು ಪ್ರವೇಶಿಸುವಾಗ ಶಾಪಗ್ರಸ್ತನು, ಮತ್ತು ನೀನು ಹೊರಡುವಾಗ ಶಾಪಗ್ರಸ್ತನು.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ಶಾಪಗ್ರಸ್ತನು"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ನೀನು"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "ಪ್ರವೇಶಿಸುವಾಗ"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ಮತ್ತು ಶಾಪಗ್ರಸ್ತನು"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ನೀನು"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ಹೊರಡುವಾಗ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:59:23.143367819Z",
+  "model": "glm-5.3"
+}

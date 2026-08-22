@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಆದರೆ ರಕ್ತವನ್ನು ತಿನ್ನಬೇಡಿ; ಅದನ್ನು ನೀರಿನಂತೆ ಭೂಮಿಯ ಮೇಲೆ ಸುರಿಯಿರಿ.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ಆದರೆ ಮಾತ್ರ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ರಕ್ತವನ್ನು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡಿ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ತಿನ್ನಬೇಡಿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿಯ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ಅದನ್ನು ಸುರಿಯಿರಿ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ನೀರಿನಂತೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:50:31.012503543Z",
+  "model": "glm-5.3"
+}

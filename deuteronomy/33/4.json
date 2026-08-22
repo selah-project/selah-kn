@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 33,
+  "translation": "ತೋರಾವನ್ನು ಮೋಶೆ ನಮಗೆ ಆಜ್ಞಾಪಿಸಿದನು; ಯಾಕೋವನ ಸಭೆಯ ಪಿತ್ರಾರ್ಜಿತವಾಗಿ.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "ತೋರಾವನ್ನು"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ಆಜ್ಞಾಪಿಸಿದನು"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ನಮಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "ಪಿತ್ರಾರ್ಜಿತವಾಗಿ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ಸಭೆಯ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ಯಾಕೋವನ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:02:09.814418506Z",
+  "model": "glm-5.3"
+}

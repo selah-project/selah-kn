@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 46,
+  "translation": "ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ಯಿರ್ಮೆಯಾಹು ಪ್ರವಾದಿಗೆ ಜನತೆಗಳ ವಿಷಯದಲ್ಲಿ ಆದದ್ದು.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ಆದದ್ದು"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನಿಗೆ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ಯಿರ್ಮೆಯಾಹು"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ಪ್ರವಾದಿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ವಿಷಯದಲ್ಲಿ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ಜನತೆಗಳ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:32:45.102864512Z",
+  "model": "glm-5.3"
+}

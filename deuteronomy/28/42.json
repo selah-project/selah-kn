@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ನಿನ್ನೆಲ್ಲ ಮರಗಳನ್ನೂ ನಿನ್ನ ಭೂಮಿಯ ಫಲವನ್ನೂ ದುಂಬಿಯು ⟨the⟩ ಆಕ್ರಮಿಸುವುದು.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ನಿನ್ನೆಲ್ಲ"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "ಮರಗಳನ್ನೂ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ಫಲವನ್ನೂ"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ನಿನ್ನ ಭೂಮಿಯ"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ಆಕ್ರಮಿಸುವುದು"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "ದುಂಬಿಯು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:58:27.073208927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಎಲ್ಕಾನಾ ಅವನ ಮಗ, ಎಬ್ಯಾಸಾಫ್ ಅವನ ಮಗ, ಅಸ್ಸೀರ್ ಅವನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "ಎಲ್ಕಾನಾ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "ಮತ್ತು ಎಬ್ಯಾಸಾಫ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "ಮತ್ತು ಅಸ್ಸೀರ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:01.705726712Z",
+  "model": "glm-5.3"
+}

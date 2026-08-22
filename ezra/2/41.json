@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಹಾಡುಗಾರರು — ಆಸಾಫನ ಮಕ್ಕಳು — ನೂರ್ ಇಪ್ಪತ್ತೆಂಟು.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "ಹಾಡುಗಾರರು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ಆಸಾಫನ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ಇಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ಮತ್ತು ಎಂಟು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:15:32.285055413Z",
+  "model": "glm-5.3"
+}

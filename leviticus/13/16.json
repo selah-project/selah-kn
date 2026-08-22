@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಅಥವಾ ಹಸಿ ಮಾಂಸವು ಹಿಂದಿರುಗಿ ಬಿಳಿಗೆ ತಿರುಗಿದರೆ, ಅವನು ಯಾಜಕನ ಬಳಿಗೆ ಬರಬೇಕು.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ಅಥವಾ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಆದರೆ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ಹಿಂದಿರುಗಿದರೆ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ಮಾಂಸವು"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ಹಸಿ"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ತಿರುಗಿದರೆ"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ಬಿಳಿಗೆ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ಬರಬೇಕು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿಗೆ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ಯಾಜಕನ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:07:59.910094278Z",
+  "model": "glm-5.3"
+}

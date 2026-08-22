@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಅಂತ್ಯ ಬಂದಿದೆ, ಬಂದಿದೆ ⟨the⟩ ಅಂತ್ಯ; ಅದು ನಿನ್ನ ವಿರುದ್ಧ ಎಚ್ಚರಗೊಂಡಿದೆ; ಇಗೋ, ಬರುತ್ತಿದೆ.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "ಅಂತ್ಯ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ಬಂದಿದೆ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ಬಂದಿದೆ"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "⟨the⟩ ಅಂತ್ಯ"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "ಎಚ್ಚರಗೊಂಡಿದೆ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ನಿನ್ನ ವಿರುದ್ಧ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ಇಗೋ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ಬರುತ್ತಿದೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:41:00.456070681Z",
+  "model": "glm-5.3"
+}

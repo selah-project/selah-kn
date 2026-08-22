@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 19,
+  "translation": "ಎಲ್ತೋಲದ್, ಬೆತೂಲ್ ಮತ್ತು ಖೋರ್ಮಾ.",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "ಮತ್ತು ಎಲ್ತೋಲದ್"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "ಮತ್ತು ಬೆತೂಲ್"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "ಮತ್ತು ಖೋರ್ಮಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:12:01.392086264Z",
+  "model": "glm-5.3"
+}

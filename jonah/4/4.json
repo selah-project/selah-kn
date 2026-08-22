@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಯಾಹ್ವೆ ಹೇಳಿದನು — ನಿನಗೆ ಸರಿಯಾಗಿ ಕೋಪಗೊಳ್ಳುವುದೇ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "ಸರಿಯಾಗಿ... ಎಂದು"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ಕೋಪಗೊಳ್ಳುವುದು"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:20:28.528626796Z",
+  "model": "glm-5.3"
+}

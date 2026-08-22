@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಎಲಿಯಾಬ್ ಅವನ ಮಗ, ಯೆರೋಖಾಮ್ ಅವನ ಮಗ, ಎಲ್ಕಾನಾ ಅವನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "ಎಲಿಯಾಬ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ಯೆರೋಖಾಮ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ಎಲ್ಕಾನಾ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:18.299895954Z",
+  "model": "glm-5.3"
+}

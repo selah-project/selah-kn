@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಇಪ್ಪತ್ತೆಂಟನೆಯದು ಯಾಖೀನನಿಗೆ, ಇಪ್ಪತ್ತೆರಡನೆಯದು ಗಾಮೂಲನಿಗೆ.",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "ಯಾಖೀನನಿಗೆ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ಮತ್ತು ಇಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "ಗಾಮೂಲನಿಗೆ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ಎರಡು"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ಮತ್ತು ಇಪ್ತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:41:27.623813212Z",
+  "model": "glm-5.3"
+}

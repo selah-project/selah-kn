@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 23:26",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆ ಮೋಶೆಯೊಂದಿಗೆ ಮಾತನಾಡಿ ಹೇಳಿದನು:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮತ್ತು ... ಮಾತನಾಡಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಂದಿಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:17:30.196419065Z",
+  "model": "glm-5.3"
+}

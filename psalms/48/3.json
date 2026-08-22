@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 48,
+  "translation": "ಸುಂದರವಾದ ಎತ್ತರ, ಇಡೀ ಭೂಮಿಯ ಸಂತೋಷ, ⟨ಅದೇ⟩ ಸೀಯೋನ್ ಪರ್ವತ, ಉತ್ತರದ ತುದಿಗಳು, ಮಹಾ ರಾಜನ ನಗರ",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "ಸುಂದರವಾದ"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "ಎತ್ತರ"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ಸಂತೋಷ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಇಡೀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿಯ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ಪರ್ವತ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ಸೀಯೋನ್"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ತುದಿಗಳು"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ಉತ್ತರದ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ನಗರ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ಮಹಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:48:07.151252264Z",
+  "model": "glm-5.3"
+}

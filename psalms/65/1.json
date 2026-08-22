@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 65,
+  "translation": "ಸಂಗೀತ-ನಿರ್ದೇಶಕನಿಗೆ, ಮಿಜ್ಮೋರ್, ದಾವೀದನದು, ಹಾಡು",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ಸಂಗೀತ-ನಿರ್ದೇಶಕನಿಗೆ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ಮಿಜ್ಮೋರ್"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ದಾವೀದನದು"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ಹಾಡು"
+    }
+  ],
+  "timestamp": "2026-08-22T01:52:10.188091169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ನಾನು ಒಬ್ಬನೇ ⟨את⟩ ಈ ಸಮಸ್ತ ಜನರನ್ನು ಹೊರಲು ಸಮರ್ಥನಲ್ಲ, ಯಾಕೆಂದರೆ ಅದು ನನಗಿಂತ ಭಾರವಾಗಿದೆ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ಸಮರ್ಥನಲ್ಲ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ಒಬ್ಬನೇ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ಹೊರಲು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಈ ಸಮಸ್ತ ಜನರನ್ನು"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಸಮಸ್ತ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನರನ್ನು"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ಭಾರವಾಗಿದೆ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ನನಗಿಂತ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:28:08.156371430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ತ್ಸೆನಾನ್, ಮತ್ತು ಹದಾಶಾ, ಮತ್ತು ಮಿಗ್ದಾಲ್-ಗಾದ್,",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "ತ್ಸೆನಾನ್"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "ಮತ್ತು ಹದಾಶಾ"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "ಮತ್ತು ಮಿಗ್ದಾಲ್"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ಗಾದ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:10:56.394923632Z",
+  "model": "glm-5.3"
+}

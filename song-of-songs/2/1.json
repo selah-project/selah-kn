@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ನಾನು ಶಾರೋನ್‌ನ ಕೇಸರ-ಹೂವು, ಕಣಿವೆಗಳ ಲಿಲ್ಲಿ-ಹೂವು.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "ಕೇಸರ-ಹೂವು"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "ಶಾರೋನ್‌ನ"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "ಲಿಲ್ಲಿ-ಹೂವು"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "ಕಣಿವೆಗಳ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:48:36.197164959Z",
+  "model": "glm-5.3"
+}

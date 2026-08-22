@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಬಾ, ನನ್ನ ಪ್ರಿಯ, ಕ್ಷೇತ್ರಕ್ಕೆ ಹೊರಟು ಹೋಣ, ಹಳ್ಳಿಗಳಲ್ಲಿ ರಾತ್ರಿ ಕಳೆಯೋಣ.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "ಬಾ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ನನ್ನ ಪ್ರಿಯ"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "ಹೊರಟು ಹೋಣ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ಕ್ಷೇತ್ರಕ್ಕೆ"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "ರಾತ್ರಿ ಕಳೆಯೋಣ"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "ಹಳ್ಳಿಗಳಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:50:24.380401229Z",
+  "model": "glm-5.3"
+}

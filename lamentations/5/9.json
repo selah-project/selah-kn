@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ನಮ್ಮ ಪ್ರಾಣಗಳ ⟨ಮೇಲೆ⟩ ನಾವು ನಮ್ಮ ಬಟ್ಟನ್ನು ತಂದೆವು, ಅರಣ್ಯದ ಕತ್ತಿಯ ಮುಖದಿಂದ.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "ನಮ್ಮ ಪ್ರಾಣಗಳ ಮೇಲೆ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ನಾವು ತಂದೆವು"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "ನಮ್ಮ ಬಟ್ಟನ್ನು"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ಮುಖದಿಂದ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ಕತ್ತಿಯ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ಅರಣ್ಯದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:14.600766593Z",
+  "model": "glm-5.3"
+}

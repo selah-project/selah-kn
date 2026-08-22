@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 6:23",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಅವನ ಮಗನು ಯಿತ್ಸ್ಹಾರ್, ಅವನ ಮಗನು ಕೆಹಾತ್, ಅವನ ಮಗನು ಲೇವಿ, ಅವನ ಮಗನು ಯಿಸ್ರಾಎಲ್.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ಯಿತ್ಸ್ಹಾರ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ಕೆಹಾತ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ಲೇವಿ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಯಿಸ್ರಾಎಲ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:09.097042065Z",
+  "model": "glm-5.3"
+}

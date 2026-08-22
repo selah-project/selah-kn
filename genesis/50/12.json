@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 50,
+  "translation": "ಆತನ ಕುಮಾರರು ಆತನು ತಮಗೆ ಆಜ್ಞಾಪಿಸಿದಂತೆಯೇ ಆತನಿಗಾಗಿ ಅದನ್ನು ಮಾಡಿದರು.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ಮಾಡಿದರು"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ಆತನ ಕುಮಾರರು"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಆತನಿಗಾಗಿ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ಅದನ್ನು"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ಅಂತೆಯೇ"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ಆಜ್ಞಾಪಿಸಿದ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:37:13.675605922Z",
+  "model": "glm-5.3"
+}

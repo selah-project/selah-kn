@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಯಾಕೆ ಸರ್ವಕಾಲ ನೀನು ನಮ್ಮನ್ನು ಮರೆತೆ? ಬಹು ದಿನಗಳವರೆಗೆ ನಮ್ಮನ್ನು ತೊರೆದೆ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ಯಾಕೆ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ಸರ್ವಕಾಲ"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "ನೀನು ನಮ್ಮನ್ನು ಮರೆತೆ"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "ನಮ್ಮನ್ನು ತೊರೆದೆ"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "ಬಹು ದಿನಗಳವರೆಗೆ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ದಿನಗಳು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:02.100918058Z",
+  "model": "glm-5.3"
+}

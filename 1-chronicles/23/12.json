@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಕೆಹಾತನ ಮಕ್ಕಳು — ಅಮ್ರಾಮ್, ಯಿತ್ಸಹರ್, ಖೆಬ್ರೋನ್, ಉಜಿಯೆಲ್; ನಾಲ್ವರು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ಕೆಹಾತನ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ಅಮ್ರಾಮ್"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ಯಿತ್ಸಹರ್"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ಖೆಬ್ರೋನ್"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ಉಜಿಯೆಲ್"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ನಾಲ್ವರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:41:11.480609849Z",
+  "model": "glm-5.3"
+}

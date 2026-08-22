@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಎಲ್ಲಾ ವಿಧವೆಯನ್ನೂ ಅನಾಥನನ್ನೂ ನೀವು ಪೀಡಿಸಬೇಡಿ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ವಿಧವೆಯನ್ನೂ"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ಅನಾಥನನ್ನೂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡಿ-ಇಲ್ಲ"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "ನೀವು ಪೀಡಿಸಬೇಡಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:48:52.215877147Z",
+  "model": "glm-5.3"
+}

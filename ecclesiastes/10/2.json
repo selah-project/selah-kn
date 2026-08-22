@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಬುದ್ಧಿವಂತನ ಹೃದಯ ⟨ಅವನ⟩ ಬಲಗಡೆಗೆ, ಮೂರ್ಖನ ಹೃದಯ ⟨ಅವನ⟩ ಎಡಗಡೆಗೆ.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ಹೃದಯ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ಬುದ್ಧಿವಂತನ"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "ಬಲಗಡೆಗೆ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ಮತ್ತು ಹೃದಯ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ಮೂರ್ಖನ"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "ಎಡಗಡೆಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:58:08.737164805Z",
+  "model": "glm-5.3"
+}

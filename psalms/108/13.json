@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 108,
+  "translation": "ನಮಗೆ ಸಂಕಟದಿಂದ ಸಹಾಯ ಕೊಡು; ಮಾನವನ ವಿಮೋಚನೆಯು ವ್ಯರ್ಥವಾಗಿದೆ.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "ಕೊಡು"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ನಮಗೆ"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ಸಹಾಯ"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ಸಂಕಟದಿಂದ"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ಮತ್ತು ವ್ಯರ್ಥ"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ವಿಮೋಚನೆಯು"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ಮಾನವನ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:06:25.722950369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 115,
+  "translation": "ಅವರ ವಿಗ್ರಹಗಳು — ಬೆಳ್ಳಿಯೂ ಚಿನ್ನವೂ, ಮಾನವರ ಕೈಗಳ ಕೆಲಸ.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "ಅವರ ವಿಗ್ರಹಗಳು"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ಬೆಳ್ಳಿ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ಮತ್ತು ಚಿನ್ನ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ಕೆಲಸ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ಕೈಗಳ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ಮಾನವ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:06:45.873086905Z",
+  "model": "glm-5.3"
+}

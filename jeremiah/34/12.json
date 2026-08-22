@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 34,
+  "translation": "ಆಗ ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ಯಿರ್ಮೆಯಾಹುವಿಗೆ ⟨את⟩ ಯಾಹ್ವೆಯಿಂದ ಬಂದಿತು, ಹೇಳುತ್ತಾ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಗ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ಯಿರ್ಮೆಯಾಹುವಿ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯಿಂದ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:32:15.513377437Z",
+  "model": "glm-5.3"
+}

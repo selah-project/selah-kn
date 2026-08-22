@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 31:2",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 31,
+  "translation": "ಮಾನವನ ಮಗನೇ, ಮಿತ್ಸ್ರಾಯಿಮ್ನ ರಾಜನಾದ ಪರ್ವೊಹನಿಗೂ ಅವನ ಜನಸಮೂಹಕ್ಕೂ ಹೇಳು — ನಿನ್ನ ಮಹತ್ವದಲ್ಲಿ ನೀನು ಯಾರಿಗೆ ಹೋಲಿಸಲ್ಪಟ್ಟಿದ್ದೀಯೆ?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನೇ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ಮಾನವನ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಹೇಳು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ಪರ್ವೊಹನಿಗೂ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನಾದ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ಮಿತ್ಸ್ರಾಯಿಮ್ನ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ಗೂ"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "ಅವನ ಜನಸಮೂಹಕ್ಕೂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ಯಾರಿಗೆ"
+    },
+    {
+      "surface": "ದಮಿತ",
+      "gloss": ""
+    },
+    {
+      "surface": "בגדלך",
+      "gloss": ""
+    },
+    {
+      "surface": "ಲ",
+      "gloss": ""
+    },
+    {
+      "surface": "ל",
+      "gloss": ""
+    },
+    {
+      "surface": "אמ",
+      "gloss": ""
+    },
+    {
+      "surface": "ר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-22T00:57:35.609948065Z",
+  "model": "glm-5.3"
+}

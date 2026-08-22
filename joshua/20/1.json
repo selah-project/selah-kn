@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ಆಗ ಮಾತನಾಡಿದನು ಯಾಹ್ವೆ ಯೆಹೋಶುವನಿಗೆ ಹೇಳುವುದಕ್ಕಾಗಿ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನಿಗೆ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ಯೆಹೋಶುವ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುವುದಕ್ಕಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:13:16.938141994Z",
+  "model": "glm-5.3"
+}

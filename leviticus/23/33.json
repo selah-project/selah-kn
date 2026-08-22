@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 23:33",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಗೆ ಆ ಹೀಗೆಂದು ಹೇಳಿದನು",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವರಿಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಆ ಹೀಗೆಂದು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:15:51.690662919Z",
+  "model": "glm-5.3"
+}

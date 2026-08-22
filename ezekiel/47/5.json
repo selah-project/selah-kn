@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 47:5",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 47,
+  "translation": "ಮತ್ತು ⟨ಅವನು⟩ ಸಾವಿರವನ್ನು ಅಳೆದನು — ದಾಟಲಾರದ ಹೊಳೆ ⟨ಅದು⟩; ಏಕೆಂದರೆ ಏರಿದವು ನೀರು — ಈಜುವ ನೀರು — ದಾಟಲಾಗದ ಹೊಳೆ.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ಮತ್ತು ಅಳೆದನು"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ಸಾವಿರ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ಹೊಳೆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಅಲ್ಲ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ನಾನು ಸಮರ್ಥ"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "ದಾಟಲು"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಏಕೆಂದರೆ"
+    },
+    {
+      "surface": "גאו",
+      "gloss": "ಏರಿದವು"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ನೀರು"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ನೀರು"
+    },
+    {
+      "surface": "שחו",
+      "gloss": "ಈಜುವ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ಹೊಳೆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಅಲ್ಲ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ದಾಟಬಹುದು"
+    }
+  ],
+  "timestamp": "2026-08-22T01:06:39.826118401Z",
+  "model": "glm-5.3"
+}

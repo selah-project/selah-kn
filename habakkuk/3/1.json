@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಹಬಕ್ಕೂಕ್ ನವಿಯ ಪ್ರಾರ್ಥನೆ, ಶಿಗ್ಯೋನೋತ್ ಕುರಿತು.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "ಪ್ರಾರ್ಥನೆ"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "ಹಬಕ್ಕೂಕ್‌ಗೆ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ನವಿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಕುರಿತು"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "ಶಿಗ್ಯೋನೋತ್"
+    }
+  ],
+  "timestamp": "2026-08-22T01:26:05.582761757Z",
+  "model": "glm-5.3"
+}

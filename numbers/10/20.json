@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಗಾದ್ ಮಕ್ಕಳ ಗೋತ್ರದ ಸೈನ್ಯದ ಮೇಲೆ ದೆಯೂವೆಲ್ನ ಮಗನಾದ ಎಲ್ಯಾಸಾಫ್ ⟨ಇದ್ದನು⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ಮತ್ತು ಮೇಲೆ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ಸೈನ್ಯದ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ಗೋತ್ರದ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ಗಾದ್"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ಎಲ್ಯಾಸಾಫ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನಾದ"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "ದೆಯೂವೆಲ್ನ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:25:03.955972149Z",
+  "model": "glm-5.3"
+}

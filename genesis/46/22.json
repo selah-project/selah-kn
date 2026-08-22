@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 46,
+  "translation": "ಇವರು ರಾಖೇಲನ ಮಕ್ಕಳು, ಯಾಕೋವನಿಗೆ ಹುಟ್ಟಿದವರು; ಎಲ್ಲಾ ನೆಫೆಶುಗಳು ಹದಿನಾಲ್ಕು.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ಇವರು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ರಾಖೇಲನ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅವರು"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ಹುಟ್ಟಿದವರು"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ಯಾಕೋವನಿಗೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ನೆಫೆಶುಗಳು"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ನಾಲ್ಕು"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ಹತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:33:11.237714556Z",
+  "model": "glm-5.3"
+}

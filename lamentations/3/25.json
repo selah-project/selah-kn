@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಯಾಹ್ವೆ ⟨is⟩ ಒಳ್ಳೆಯವನು ಅವನಿಗೆ ಅವನನ್ನು ಕಾಯುವವರಿಗೆ, ಅವನನ್ನು ಹುಡುಕುವ ನೆಫೆಶ್‌ಗೆ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ಒಳ್ಳೆಯವನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "ಅವನಿಗೆ ಕಾಯುವವರಿಗೆ"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ನೆಫೆಶ್‌ಗೆ"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "ಅವನನ್ನು ಹುಡುಕುವ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:46:42.424578194Z",
+  "model": "glm-5.3"
+}

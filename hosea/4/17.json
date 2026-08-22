@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ವಿಗ್ರಹಗಳಿಗೆ ಸೇರಿಕೊಂಡಿದೆ ಎಫ್ರಾಯಿಂ; ಅವನನ್ನು ಬಿಡಿ.",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "ಸೇರಿಕೊಂಡಿದೆ"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "ವಿಗ್ರಹಗಳಿಗೆ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ಎಫ್ರಾಯಿಂ"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "ಬಿಡಿ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಅವನನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T01:09:25.393015711Z",
+  "model": "glm-5.3"
+}

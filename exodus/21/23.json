@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 21,
+  "translation": "ಮತ್ತು ಅಪಾಯ ಆದರೆ, ನೀನು ಪ್ರಾಣಕ್ಕೆ ಪ್ರಾಣವನ್ನು ಕೊಡುವಿ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ಮತ್ತು ಆದರೆ"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ಅಪಾಯ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ಆಗುವುದಾದರೆ"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ನೀನು ಕೊಡುವಿ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ಪ್ರಾಣ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ಬದಲಿಗೆ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ಪ್ರಾಣ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:48:24.562873672Z",
+  "model": "glm-5.3"
+}

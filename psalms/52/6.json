@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 52,
+  "translation": "ನುಂಗುವ ಎಲ್ಲ ಮಾತುಗಳನ್ನೂ ನೀನು ಪ್ರೀತಿಸಿದೆ, ಮೋಸದ ನಾಲಿಗೆಯೇ.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ನೀನು ಪ್ರೀತಿಸಿದೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ಮಾತುಗಳನ್ನೂ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ನುಂಗುವ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ನಾಲಿಗೆಯೇ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ಮೋಸದ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:50:37.594300950Z",
+  "model": "glm-5.3"
+}

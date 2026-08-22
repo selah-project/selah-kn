@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 4:44",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಇದೇ ತೋರಾಹ್ — ಮೋಶೆ ಯಿಸ್ರಾಯೇಲ್ ಮಕ್ಕಳ ಮುಂದೆ ಇಟ್ಟದ್ದು.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ಇದೇ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ತೋರಾಹ್"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದನ್ನು"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ಇಟ್ಟದ್ದು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ಮುಂದೆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಯಿಸ್ರಾಯೇಲ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:44:32.689777126Z",
+  "model": "glm-5.3"
+}

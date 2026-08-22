@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 21:15",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 21,
+  "translation": "ಮತ್ತು ನದಿಗಳ ಇಳಿಜಾರು, ಅದು ಆರ್‌ನ ನೆಲೆಯತ್ತ ವಾಲಿ ಮೋಆಬ್‌ನ ಗಡಿಗೆ ಒರಗಿತು.",
+  "tokens": [
+    {
+      "surface": "ואשד",
+      "gloss": "ಮತ್ತು ಇಳಿಜಾರು"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "ನದಿಗಳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ವಾಲಿ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ನೆಲೆಯತ್ತ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ಆರ್‌ನ"
+    },
+    {
+      "surface": "ונשען",
+      "gloss": "ಒರಗಿತು"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "ಗಡಿಗೆ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ಮೋಆಬ್‌ನ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:32:04.069578686Z",
+  "model": "glm-5.3"
+}

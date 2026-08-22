@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಯೋಆಶನ ಮಗ ಗಿದ್ಯೋನ್ ಯುದ್ಧದಿಂದ, ಹೇರೆಸ್ ⟨the⟩ ಏರುದಾರಿಯಿಂದ ಹಿಂದಿರುಗಿದನು.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ಹಿಂದಿರುಗಿದನು"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "ಗಿದ್ಯೋನ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ಯೋಆಶನ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ಇಂದ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ಯುದ್ಧದಿಂದ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ಏರುದಾರಿಯಿಂದ"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "ಹೇರೆಸ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:22:07.089663774Z",
+  "model": "glm-5.3"
+}

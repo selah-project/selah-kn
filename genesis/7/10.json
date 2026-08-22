@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಏಳು ದಿನಗಳ ನಂತರ ಪ್ರವಾಹದ ನೀರುಗಳು ಭೂಮಿಯ ಮೇಲೆ ಬಂದವು.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ಏಳು"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ದಿನಗಳ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ಮತ್ತು ನೀರುಗಳು"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ಪ್ರವಾಹದ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ಬಂದವು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:10:37.385483271Z",
+  "model": "glm-5.3"
+}

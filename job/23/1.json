@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 23:1",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಆಗ ಇಯ್ಯೋಬ್ ಉತ್ತರಿಸಿ ಹೇಳಿದನು.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ಉತ್ತರಿಸಿದನು"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ಇಯ್ಯೋಬ್"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:39:05.458325189Z",
+  "model": "glm-5.3"
+}

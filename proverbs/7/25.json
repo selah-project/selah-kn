@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಅವಳ ದಾರಿಗಳತ್ತ ನಿನ್ನ ಹೃದಯ ತಿರುಗಲಿ ಇಲ್ಲ, ಅವಳ ಹಾದಿಗಳಲ್ಲಿ ದಾರಿ ತಪ್ಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "ತಿರುಗಲಿ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ತ್ತ"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "ಅವಳ ದಾರಿಗಳ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ನಿನ್ನ ಹೃದಯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "ದಾರಿ ತಪ್ಪು"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "ಅವಳ ಹಾದಿಗಳಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:19:07.079976153Z",
+  "model": "glm-5.3"
+}

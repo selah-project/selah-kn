@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಒಂದು ದಿನ — ನಿನ್ನ ಗೋಡೆಗಳನ್ನು ಕಟ್ಟುವ ದಿನ; ಆ ದಿನ ಗಡಿ ದೂರವಾಗುವವು.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ದಿನ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ಕಟ್ಟುವ"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "ನಿನ್ನ ಗೋಡೆಗಳನ್ನು"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ದಿನ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "ದೂರವಾಗುವವು"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ಗಡಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:23:06.937254730Z",
+  "model": "glm-5.3"
+}

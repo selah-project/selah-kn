@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಯೆರಿಕೋದ ರಾಜನು ಒಬ್ಬನು; ಬೇತ್-ಎಲ್‌ನ ಪಕ್ಕದಲ್ಲಿರುವ ಹಾಯಿಯ ರಾಜನು ಒಬ್ಬನು;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "ಯೆರಿಕೋ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ಹಾಯಿಯ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಇರುವ"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "ಪಕ್ಕದಲ್ಲಿ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಬೇತ್-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಲ್‌ನ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    }
+  ],
+  "timestamp": "2026-08-21T22:08:38.607641416Z",
+  "model": "glm-5.3"
+}

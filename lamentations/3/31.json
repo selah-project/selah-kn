@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಯಾಕೆಂದರೆ ಅದೋನಾಯ್ ಎಂದೆಂದಿಗೂ ತಿರಸ್ಕರಿಸುವುದಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "ತಿರಸ್ಕರಿಸುವನು"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ಎಂದೆಂದಿಗೂ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ಅದೋನಾಯ್"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:27.295530804Z",
+  "model": "glm-5.3"
+}

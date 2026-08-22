@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಯೊಂದಿಗೆ ಮಾತನಾಡಿ ಹೇಳಿದನು.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಂದಿಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:03:19.973128873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನಾನು ನನ್ನ ಎಲ್ಲಾ ಜನರಿಗೆ ನಗೆಪಾಟಲಾಗಿದ್ದೇನೆ, ಅವರ ಹಾಡಾಗಿ ಎಲ್ಲಾ ದಿನವೂ.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "ನಾನಾಗಿದ್ದೇನೆ"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ನಗೆಪಾಟಲು"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ಎಲ್ಲಾ...ಗೆ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ನನ್ನ ಜನರ"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "ಅವರ ಹಾಡು"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ದಿನವೂ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:46:33.999623324Z",
+  "model": "glm-5.3"
+}

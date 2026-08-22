@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 32,
+  "translation": "ನಾನು ಆಕಾಶದೆಡೆಗೆ ನನ್ನ ಕೈ ಎತ್ತುತ್ತೇನೆ ಮತ್ತು ಹೇಳುತ್ತೇನೆ — ನಾನು ಶಾಶ್ವತವಾಗಿ ಬದುಕಿದ್ದೇನೆ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ಎತ್ತುತ್ತೇನೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಡೆಗೆ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ಆಕಾಶ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ನನ್ನ ಕೈ"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ಮತ್ತು ಹೇಳುತ್ತೇನೆ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ಬದುಕಿದ್ದೇನೆ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ಶಾಶ್ವತವಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:00:37.126504317Z",
+  "model": "glm-5.3"
+}

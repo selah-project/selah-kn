@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 3:15",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಮತ್ತು ಅವನು ಮನೆಯ ಮುಂದೆ ಎರಡು ಕಂಬಗಳನ್ನು ಮಾಡಿದನು — ಮೂವತ್ತೈದು ಮೊಳ ಉದ್ದ; ಮತ್ತು ಅದರ ತುದಿಯ ⟨the⟩ ಒಪ್ಪಣೆ ಐದು ಮೊಳ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ಮತ್ತು ಮಾಡಿದನು"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ಮುಂದೆ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ಮನೆಯ"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "ಕಂಬಗಳನ್ನು"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ಎರಡು"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ಮೊಳ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ಮೂವತ್ತು"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ಮತ್ತು ಐದು"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ಉದ್ದ"
+    },
+    {
+      "surface": "והצפת",
+      "gloss": "ಮತ್ತು ಒಪ್ಪಣೆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ಅದರ ತುದಿಯ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ಮೊಳ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ಐದು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:46:29.340225164Z",
+  "model": "glm-5.3"
+}

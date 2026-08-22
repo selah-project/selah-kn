@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 10:1",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಗೆ ಹೇಳುತ್ತಾ ಆದೇಶಿಸಿದನು:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಹೇಳುತ್ತಾ ಆದೇಶಿಸಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:25:12.711253630Z",
+  "model": "glm-5.3"
+}

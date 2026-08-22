@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 18,
+  "translation": "ನಿನ್ನ ದೇವರಾದ ಯಾಹ್ವೆ ನಿನ್ನ ಎಲೋಹೀಂನೊಡನೆ ನೀನು ನಿಷ್ಕಳಂಕನಾಗಿರಬೇಕು.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "ನಿಷ್ಕಳಂಕನಾಗಿ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ಇರಬೇಕು"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ಒಡನೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ನಿನ್ನ ಎಲೋಹೀಂ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:53:36.747666253Z",
+  "model": "glm-5.3"
+}

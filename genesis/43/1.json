@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 43,
+  "translation": "ಮತ್ತು ಕ್ಷಾಮವು ದೇಶದಲ್ಲಿ ತೀವ್ರವಾಗಿತ್ತು.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "ಮತ್ತು ಕ್ಷಾಮವು"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ತೀವ್ರವಾಗಿತ್ತು"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ದೇಶದಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:32:24.101478884Z",
+  "model": "glm-5.3"
+}

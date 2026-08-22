@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 29,
+  "translation": "ಯಾಹ್ವೆಯ ಸ್ವರ ಬಲದೊಡನೆ ⟨ಇದೆ⟩; ಯಾಹ್ವೆಯ ಸ್ವರ ಮಹಾರ್ಘದೊಡನೆ ⟨ಇದೆ⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ಸ್ವರ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ಬಲದೊಡನೆ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ಸ್ವರ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "ಮಹಾರ್ಘದೊಡನೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:41:57.770263096Z",
+  "model": "glm-5.3"
+}

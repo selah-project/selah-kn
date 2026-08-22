@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಆರೋಗ್ಯದ ಹೃದಯ ⟨⟨is⟩⟩ ದೇಹದ ಜೀವನ; ಆದರೆ ಅಸೂಯೆ ⟨⟨is⟩⟩ ಮೂಳೆಗಳ ಕೊಳೆತ.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "ಜೀವನ"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "ದೇಹದ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ಹೃದಯ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ಆರೋಗ್ಯದ"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "ಆದರೆ ಕೊಳೆತ"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ಮೂಳೆಗಳ"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ಅಸೂಯೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:22:37.957060059Z",
+  "model": "glm-5.3"
+}

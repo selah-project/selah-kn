@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಮತ್ತು ಪಿನ್ಹಾಸ್, ಎಲಿಯಾಜರನ ಮಗ, ⟨was⟩ ಹಿಂದೆ ಅವರ ಮೇಲೆ ನಾಯಕನು; ಯಾಹ್ವೆ ಅವನೊಡನೆ ಇದ್ದನು.",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "ಮತ್ತು ಪಿನ್ಹಾಸ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ಎಲಿಯಾಜರ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ನಾಯಕನು"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨was⟩ ಆಗಿದ್ದನು"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ಅವರ ಮೇಲೆ"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ಹಿಂದೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ಅವನೊಡನೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:34:48.215313867Z",
+  "model": "glm-5.3"
+}

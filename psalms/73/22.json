@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 73,
+  "translation": "ಆದರೆ ನಾನು ಮೂರ್ಖನು, ಅರಿಯೆ ನಾನು; ನಿನ್ನೊಡನೆ ಮೃಗವಾಗಿದ್ದೆನು ನಾನು.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ಆದರೆ ನಾನು"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ಮೂರ್ಖನು"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ಅಲ್ಲ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ಅರಿಯೆ ನಾನು"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ಮೃಗ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ಆಗಿದ್ದೆನು"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ನಿನ್ನೊಡನೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:55:15.359047645Z",
+  "model": "glm-5.3"
+}

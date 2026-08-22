@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ನನಗೆ ಬಂದು ಹೇಳಿತು:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಮತ್ತು-ಆಯಿತು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳಿತು"
+    }
+  ],
+  "timestamp": "2026-08-22T00:55:48.904949504Z",
+  "model": "glm-5.3"
+}

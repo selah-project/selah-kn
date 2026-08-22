@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಬಿಗ್ವೈಯ ಮಕ್ಕಳು ಎರಡು ಸಾವಿರ ಅರವತ್ತೇಳು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ಬಿಗ್ವೈಯ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ಎರಡು ಸಾವಿರ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ಅರವತ್ತು"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ಏಳು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:53.709980119Z",
+  "model": "glm-5.3"
+}

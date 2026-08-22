@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಬೆನಾಯಾ, ವೇದಾಯಾ, ಕೆಲೂಹಾಯ್.",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "ಬೆನಾಯಾ"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "ವೇದಾಯಾ"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "ಕೆಲೂಹಾಯ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:18:53.274135981Z",
+  "model": "glm-5.3"
+}

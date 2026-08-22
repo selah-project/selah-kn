@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 32,
+  "translation": "ಯಾಹ್ವೆಯ ಭಾಗ ಆತನ ಜನವೇ; ಯಾಕೋವ್ ಆತನ ಪರಂಪರೆಯ-ಸ್ವತ್ತಿನ ಹಗ್ಗ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ಭಾಗ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ಆತನ ಜನ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ಯಾಕೋವ್"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ಹಗ್ಗ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ಆತನ ಪರಂಪರೆಯ-ಸ್ವತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-22T04:18:59.073267571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಅವ್ರಾಮ್ — ಅವನೇ ಅವ್ರಾಹಾಂ.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "ಅವ್ರಾಮ್"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅವನೇ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ಅವ್ರಾಹಾಂ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:27:54.077577908Z",
+  "model": "glm-5.3"
+}

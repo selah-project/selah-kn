@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಮತ್ತು ಅಚಿಯಾ, ಚಾನಾನ್, ಅನಾನ್,",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "ಮತ್ತು ಅಚಿಯಾ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ಚಾನಾನ್"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ಅನಾನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:25:42.012434077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ನಮ್ಮ ಪಿತೃಗಳು ಪಾಪ ಮಾಡಿದರು — ಅವರು ⟨ಈಗ⟩ ಇಲ್ಲ; ಅವರ ಅಕ್ರಮಗಳನ್ನು ನಾವು ಹೊತ್ತೆವು.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "ನಮ್ಮ ಪಿತೃಗಳು"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ಪಾಪ ಮಾಡಿದರು"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ಅವರು ಇಲ್ಲ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ನಾವು"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "ಅವರ ಅಕ್ರಮಗಳನ್ನು"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "ಹೊತ್ತೆವು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:54:58.120176842Z",
+  "model": "glm-5.3"
+}

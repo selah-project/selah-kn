@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಜನರು ಮೋಶೆಯ ವಿರುದ್ಧ ದೂರುಣುದರು — ಹೀಗೆ ಹೇಳುತ್ತಾ: ನಾವೇನು ಕುಡಿಯಲಿ?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "ದೂರುಣುದರು"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "ಢל",
+      "gloss": "ವಿರುದ್ಧ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ಏನು"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "ನಾವು ಕುಡಿಯಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:43:35.363946057Z",
+  "model": "glm-5.3"
+}

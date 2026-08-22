@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ರಾಮಾ ಮತ್ತು ಗೆಬಾದ ಮಕ್ಕಳು — ಆರು ನೂರ ಇಪ್ಪತ್ತು ಒಂದು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ರಾಮಾ"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "ಮತ್ತು ಗೆಬಾ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ಆರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ಇಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ಒಂದು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:32.443542265Z",
+  "model": "glm-5.3"
+}

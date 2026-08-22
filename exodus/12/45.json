@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಅಲೆಮಾರ್ಗಿ ಮತ್ತು ಕೂಲಿಯಾಳು ಅದರಲ್ಲಿ ತಿನ್ನಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "ಅಲೆಮಾರ್ಗಿ"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ಮತ್ತು ಕೂಲಿಯಾಳು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ತಿನ್ನಬೇಡ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ಅದರಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:43:19.683877663Z",
+  "model": "glm-5.3"
+}

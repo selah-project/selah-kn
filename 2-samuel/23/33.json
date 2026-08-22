@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಶಮ್ಮಾ ⟨the⟩ ಹರಾರಿ; ಅಖಿಯಾಮ್, ಶರಾರ್ ಮಗ — ⟨the⟩ ಅರಾರಿ.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ಶಮ್ಮಾ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ಹರಾರಿ"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "ಅಖಿಯಾಮ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "ಶರಾರ್"
+    },
+    {
+      "surface": "ಹאררי",
+      "gloss": "ಅರಾರಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:02:21.816618273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 51,
+  "translation": "ಕೂಗಿನ ಸದ್ದು ಬಾಬೆಲ್‌ನಿಂದ, ಮತ್ತು ಮಹಾ ನುಚ್ಚುನೂರು ಕಸ್ದಿಯರ ದೇಶದಿಂದ.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ಸದ್ದು"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "ಕೂಗಿನ"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "ಬಾಬೆಲ್‌ನಿಂದ"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ಮತ್ತು ನುಚ್ಚುನೂರು"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ಮಹಾ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ದೇಶದಿಂದ"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ಕಸ್ದಿಯರ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:38:56.180570012Z",
+  "model": "glm-5.3"
+}

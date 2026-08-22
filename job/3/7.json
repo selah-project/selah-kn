@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಇಗೋ, ಆ ರಾತ್ರಿಯು ಬಂಜೆಯಾಗಿರಲಿ; ಹರ್ಷಗೀತೆಯು ಅದರಲ್ಲಿ ಬರದಿರಲಿ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ಇಗೋ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "⟨the⟩ ರಾತ್ರಿ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ಆಗಿರಲಿ"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "ಬಂಜೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ಬರದಿರಲಿ"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "ಹರ್ಷಗೀತೆಯು"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ಅದರಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:30:04.080722965Z",
+  "model": "glm-5.3"
+}

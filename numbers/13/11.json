@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಯೋಸೆಫ್ ಗೋತ್ರಕ್ಕೆ — ಮೆನಶ್ಶೆ ಗೋತ್ರಕ್ಕೆ ಸೇರಿದವನು ಸೂಸಿ ಮಗ ಗದ್ದಿ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ಗೋತ್ರಕ್ಕೆ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ಯೋಸೆಫ್"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ಗೋತ್ರಕ್ಕೆ ಸೇರಿದವನು"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ಮೆನಶ್ಶೆ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ಗದ್ದಿ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "ಸೂಸಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:26:28.673402026Z",
+  "model": "glm-5.3"
+}

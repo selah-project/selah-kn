@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 34,
+  "translation": "ಮತ್ತು ಆಶೇರ್ ಮಕ್ಕಳ ಬುಡಕಟ್ಟಿಗೆ ನಾಯಕನಾಗಿ ಶೆಲೋಮಿಯ ಮಗನಾದ ಅಖಿಹೂದ್.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ಮತ್ತು…ಬುಡಕಟ್ಟಿಗೆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಆಶೇರ್"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ನಾಯಕನಾಗಿ"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "ಅಖಿಹೂದ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನಾದ"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "ಶೆಲೋಮಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:40:17.478153428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಶಿಮೆಆ ಅವನ ಮಗ, ಹಗ್ಗಿಯಾ ಅವನ ಮಗ, ಅಸಾಯಾ ಅವನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "ಶಿಮೆಆ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "ಹಗ್ಗಿಯಾ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "ಅಸಾಯಾ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:55.190885227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಹೆಲಾಳ ಮಕ್ಕಳು — ತ್ಸೆರೆತ್, ಯಿತ್ಸಹರ್ ಮತ್ತು ಎತ್ನಾನ್.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "ಹೆಲಾಳ"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "ತ್ಸೆರೆತ್"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "ಯಿತ್ಸಹರ್"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "ಮತ್ತು ಎತ್ನಾನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:30:39.746863192Z",
+  "model": "glm-5.3"
+}

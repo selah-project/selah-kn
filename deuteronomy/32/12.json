@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 32,
+  "translation": "ಯಾಹ್ವೆ ಒಬ್ಬನೇ ⟨the⟩ ಅವನನ್ನು ನಡೆಸಿದನು, ಮತ್ತು ⟨the⟩ ಅವನೊಡನೆ ಬೇರೆ ಯಾವ ಅನ್ಯ ದೇವರೂ ಇರಲಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ಒಬ್ಬನೇ"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ನಡೆಸಿದನು"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ಮತ್ತು... ಇರಲಿಲ್ಲ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ಅವನೊಡನೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ದೇವರೂ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ಅನ್ಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:18:02.765105524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ರೆಯುವೆನ್, ಶಿಮ್ಯೋನ್, ಲೆವಿ ಮತ್ತು ಯೆಹೂದಾ.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "ರೆಯುವೆನ್"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ಶಿಮ್ಯೋನ್"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ಲೆವಿ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ಮತ್ತು ಯೆಹೂದಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:36:31.026016655Z",
+  "model": "glm-5.3"
+}

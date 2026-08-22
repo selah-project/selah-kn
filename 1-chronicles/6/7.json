@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಕೆಹಾತನ ಮಕ್ಕಳು: ಅಮ್ಮೀನಾದಾಬ್ ಅವನ ಮಗ, ಕೋರಖ್ ಅವನ ಮಗ, ಅಸ್ಸೀರ್ ಅವನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ಕೆಹಾತನ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ಅಮ್ಮೀನಾದಾಬ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ಕೋರಖ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ಅಸ್ಸೀರ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:01.705613292Z",
+  "model": "glm-5.3"
+}

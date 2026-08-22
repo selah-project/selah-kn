@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 114,
+  "translation": "ಅದೋನ್‌ನ ಮುಂದೆ, ಭೂಮಿಯೇ, ನಡುಗು; ಯಾಕೋವ್‌ನ ಎಲೋಅಹ್‌ನ ಮುಂದೆ!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "ಮುಂದೆ"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ಅದೋನ್"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "ನಡುಗು"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ಭೂಮಿಯೇ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ಮುಂದೆ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ಎಲೋಅಹ್"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ಯಾಕೋವ್"
+    }
+  ],
+  "timestamp": "2026-08-22T02:07:18.620428990Z",
+  "model": "glm-5.3"
+}

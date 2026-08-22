@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 48:35",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 48,
+  "translation": "ಸುತ್ತಲೂ ಹದಿನೆಂಟು ಸಾವಿರ; ಆ ದಿನದಿಂದ ನಗರದ ಹೆಸರು — ಯಾಹ್ವೆ ಶಮ್ಮಾ.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "ಸುತ್ತಲೂ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ಹದಿನೆಂಟು"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ಸಾವಿರ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ಮತ್ತು ಹೆಸರು"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ನಗರದ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ಆ ದಿನದಿಂದ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ಶಮ್ಮಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:09:51.008439437Z",
+  "model": "glm-5.3"
+}

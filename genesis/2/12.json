@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಮತ್ತು ಆ ದೇಶದ ಚಿನ್ನವು ಒಳ್ಳೆಯದು; ಅಲ್ಲಿ ಬ್ದೋಲಾಖ್ ಮತ್ತು ಶೋಹಾಮ್ ಕಲ್ಲು ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "ಮತ್ತು ಚಿನ್ನವು"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಆ ದೇಶದ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ಒಳ್ಳೆಯದು"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ಅಲ್ಲಿ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ಬ್ದೋಲಾಖ್"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ಮತ್ತು ಕಲ್ಲು"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ಶೋಹಾಮ್"
+    }
+  ],
+  "timestamp": "2026-08-22T04:06:32.175207064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಮತ್ತು ಶಮುವೇಲನ ಮಕ್ಕಳು — ಹಿರಿಯನಾದ ⟨he⟩ ವಶ್ನೀ, ಮತ್ತು ಅಬಿಯಾ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ಶಮುವೇಲನ"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "ಹಿರಿಯನು"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ಮತ್ತು ವಶ್ನೀ"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "ಮತ್ತು ಅಬಿಯಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:55.190481846Z",
+  "model": "glm-5.3"
+}

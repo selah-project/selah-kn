@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 10:27",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಮತ್ತು ನಫ್ತಾಲಿ ಕುಮಾರರ ಕೋಲಿನ ಸೈನ್ಯದ ಮೇಲೆ ಅಖಿರ — ಏನಾನ್‌ನ ಮಗ — ⟨ಆಗಿದ್ದನು⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ಮತ್ತು...ಮೇಲೆ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ಸೈನ್ಯದ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ಕೋಲಿನ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಕುಮಾರರ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ನಫ್ತಾಲಿ"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "ಅಖಿರ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ಏನಾನ್‌ನ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:24:54.440423403Z",
+  "model": "glm-5.3"
+}

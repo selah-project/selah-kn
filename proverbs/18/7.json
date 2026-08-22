@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 18,
+  "translation": "ಮೂರ್ಖನ ಬಾಯಿ ಅವನಿಗೆ ನಾಶ, ಅವನ ತುಟಿಗಳು ಅವನ ನೆಫೆಶಿಗೆ ಬಲೆ.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ಬಾಯಿ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ಮೂರ್ಖನ"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "ನಾಶ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಅವನಿಗೆ"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "ಅವನ ತುಟಿಗಳು"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ಬಲೆ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ಅವನ ನೆಫೆಶ್"
+    }
+  ],
+  "timestamp": "2026-08-22T02:23:47.221367204Z",
+  "model": "glm-5.3"
+}

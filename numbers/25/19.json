@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 25,
+  "translation": "ಮತ್ತು ಮಹಾಮಾರಿಯ ನಂತರ ⟨ಅದು⟩ ಆಯಿತು",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಮತ್ತು ಆಯಿತು"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ನಂತರ"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ಮಹಾಮಾರಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:33:46.627482422Z",
+  "model": "glm-5.3"
+}

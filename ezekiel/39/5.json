@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 39,
+  "translation": "ಹೊಲದ ಮೇಲೆ ನೀನು ಬೀಳುವಿ, ಯಾಕೆಂದರೆ ನಾನೇ ಆಡಿದ್ದೇನೆ, ಅದೋನಾಯ್ ಯಾಹ್ವೆಯ ಅರುಳಿಕೆ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ಮುಖದ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ಹೊಲ"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "ನೀನು ಬೀಳುವಿ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ನಾನೇ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ಆಡಿದ್ದೇನೆ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ಅರುಳಿಕೆ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ಅದೋನಾಯ್"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:02:56.873774132Z",
+  "model": "glm-5.3"
+}

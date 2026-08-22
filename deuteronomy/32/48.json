@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 32:48",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 32,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆ ಅದೇ ದಿನದ ಮಧ್ಯದಲ್ಲೇ ಮೋಶೆಗೆ ಹೀಗೆ ಹೇಳಿದನು:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮತ್ತು ಹೇಳಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನಿಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಗೆ"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ಮಧ್ಯದಲ್ಲೇ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ದಿನದ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಅದೇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:00:54.946665023Z",
+  "model": "glm-5.3"
+}

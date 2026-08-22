@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 36:16",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 36,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ನನಗೆ ಉಂಟಾಯಿತು, ಹೇಳುವುದಕ್ಕೆ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಮತ್ತು...ಉಂಟಾಯಿತು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುವುದಕ್ಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:01:05.819070420Z",
+  "model": "glm-5.3"
+}

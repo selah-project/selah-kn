@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ನೀ ನಿನ್ನ ನೆರೆಯವನ ವಿರುದ್ಧ ಸುಳ್ಳು ಸಾಕ್ಷಿ ಹೇಳಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ನೀ ... ಉತ್ತರಿಸು\/ಹೇಳು"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ನಿನ್ನ ನೆರೆಯವನ ವಿರುದ್ಧ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ಸಾಕ್ಷಿ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ಸುಳ್ಳು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:45:18.479856514Z",
+  "model": "glm-5.3"
+}

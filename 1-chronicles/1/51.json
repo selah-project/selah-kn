@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಹದ್ದದು ಸತ್ತನು; ಆಗ ಎದೋಮಿನ ಅಲೂಫರು ಇದ್ದರು — ಅಲೂಫ್ ತಿಮ್ನಾ, ಅಲೂಫ್ ಅಲ್ವಾ, ಅಲೂಫ್ ಯೆತೇತ್.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ಸತ್ತನು"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ಹದ್ದದು"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ಆಗ ಇದ್ದರು"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ಅಲೂಫರು"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ಎದೋಮಿನ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ಅಲೂಫ್"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ತಿಮ್ನಾ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ಅಲೂಫ್"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ಅಲ್ವಾ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ಅಲೂಫ್"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "ಯೆತೇತ್"
+    }
+  ],
+  "timestamp": "2026-08-22T04:50:19.023552748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಎಲ್ಲಕ್ಕೂ ಒಂದು ಕಾಲ, ಮತ್ತು ಆಕಾಶದ ಕೆಳಗೆ ಎಲ್ಲ ಇಚ್ಛೆಗೂ ಒಂದು ಸಮಯ.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ಎಲ್ಲಕ್ಕೂ"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "ಒಂದು ಕಾಲ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ಮತ್ತು ಒಂದು ಸಮಯ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ಇಚ್ಛೆಗೂ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ಕೆಳಗೆ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ಆಕಾಶದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:56:03.674457398Z",
+  "model": "glm-5.3"
+}

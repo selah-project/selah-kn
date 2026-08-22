@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 4:18",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ನೆಲದ ಮೇಲೆ ತೆವಳುವ ಎಲ್ಲಾ ಪ್ರಾಣಿಯ ರೂಪ, ಭೂಮಿಯ ಕೆಳಗಿನ ನೀರಿನಲ್ಲಿರುವ ಎಲ್ಲಾ ಮೀನಿನ ರೂಪ —",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "ರೂಪ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ತೆವಳುವ"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "ನೆಲದ ಮೇಲೆ"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ರೂಪ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "דגה",
+      "gloss": "ಮೀನಿನ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಎಂಬುದರ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ನೀರಿನಲ್ಲಿರುವ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ಕೆಳಗಿನ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ಭೂಮಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:45:56.173195489Z",
+  "model": "glm-5.3"
+}

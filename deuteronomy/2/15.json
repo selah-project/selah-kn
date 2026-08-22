@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಯಾಹ್ವೆಯ ಕೈ ಕೂಡ ಅವರ ಮೇಲೆ ಇತ್ತು, ಪಾಳೆಯದ ಮಧ್ಯದಿಂದ ಅವರು ಸಂಪೂರ್ಣ ನಾಶವಾಗುವವರೆಗೆ ಅವರನ್ನು ನಾಶಮಾಡಲು.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ಕೂಡ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ಕೈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ಇತ್ತು"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ಅವರ ಮೇಲೆ"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "ನಾಶಮಾಡಲು"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ಮಧ್ಯದಿಂದ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ಪಾಳೆಯದ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ವರೆಗೆ"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ಸಂಪೂರ್ಣ ನಾಶವಾಗುವ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:42:07.382477859Z",
+  "model": "glm-5.3"
+}

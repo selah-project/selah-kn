@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 22:17",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ನನಗೆ ಹೀಗೆಂದು ಬಂದೊದಗಿತು:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಗ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಗೆಂದು"
+    }
+  ],
+  "timestamp": "2026-08-22T00:54:44.655696273Z",
+  "model": "glm-5.3"
+}

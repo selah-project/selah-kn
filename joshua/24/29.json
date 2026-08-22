@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 24:29",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಆ ಸಂಗತಿಗಳ ನಂತರ ಯಾಹ್ವೆಯ ದಾಸನಾದ ನೂನನ ಮಗ ಯೆಹೋಶುವ ನೂರು ಹತ್ತು ವರ್ಷಗಳ ಮಗನಾಗಿ ತೀರಿಕೊಂಡನು.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ನಂತರ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ಸಂಗತಿಗಳ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ತೀರಿಕೊಂಡನು"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ಯೆಹೋಶುವ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ನೂನನ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ದಾಸನಾದ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನಾಗಿ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ಹತ್ತು"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ವರ್ಷಗಳ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:16:39.347835809Z",
+  "model": "glm-5.3"
+}

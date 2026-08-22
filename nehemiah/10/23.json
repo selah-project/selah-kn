@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಪೆಲತ್ಯಾ, ಖಾನಾನ್, ಅನಾಯಾ,",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "ಪೆಲತ್ಯಾ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ಖಾನಾನ್"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "ಅನಾಯಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:25:30.497898360Z",
+  "model": "glm-5.3"
+}

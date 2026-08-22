@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 21,
+  "translation": "ಯಿರ್ಮೆಯಾಹು ಅವರಿಗೆ ಹೇಳಿದನು: ಸಿದ್ಕಿಯಾಹುವಿಗೆ ಹೀಗೆ ಹೇಳಿರಿ —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಮತ್ತು ಹೇಳಿದನು"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ಯಿರ್ಮೆಯಾಹು"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ಅವರಿಗೆ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ಹೀಗೆ"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "ಹೇಳಿರಿ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನಿಗೆ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ಸಿದ್ಕಿಯಾಹು"
+    }
+  ],
+  "timestamp": "2026-08-22T00:19:01.496137439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 18,
+  "translation": "ಆಗ ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ನನಗೆ ಬಂದು ಹೇಳುವುದೇನೆಂದರೆ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಗ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "ಹೇಳುವುದೇನೆಂದರೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:18:22.078503151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 19,
+  "translation": "ಸೂರ್ಯನು ಭೂಮಿಯ ಮೇಲೆ ಉದಯಿಸಿದನು, ಮತ್ತು ಲೋಟ್ ತ್ಸೋಅರ್‌ಗೆ ಬಂದನು.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "ಸೂರ್ಯನು"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ಉದಯಿಸಿದನು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿಯ"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ಮತ್ತು ಲೋಟ್"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ಬಂದನು"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "ತ್ಸೋಅರ್‌ಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:06:11.596088521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-chronicles 2:50",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಇವರು ಎಫ್ರಾತಾಳ ಮೊದಲನೆಯ ಮಗನಾದ ಹೂರನ ಮಗ ಕಾಲೆವನ ಮಕ್ಕಳು ⟨is⟩: ಕಿರ್ಯತ್-ಯೆಅರೀಮಿನ ತಂದೆ ಶೋಬಾಲ್.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ಇವರು"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨is⟩-ಆಗಿದ್ದಾರೆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ಕಾಲೆವನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ಹೂರನ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ಮೊದಲನೆಯ-ಮಗ"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "ಎಫ್ರಾತಾಳ"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "ಶೋಬಾಲ್"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ತಂದೆ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ಕಿರ್ಯತ್"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "ಯೆಅರೀಮಿನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:39.186738720Z",
+  "model": "glm-5.3"
+}

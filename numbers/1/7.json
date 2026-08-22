@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಯೆಹೂದಾಹ್‌ಗೆ: ನಾಖ್ಶೋನ್, ಅಮ್ಮೀನಾದಾಬ್‌ನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "ಯೆಹೂದಾಹ್‌ಗೆ"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ನಾಖ್ಶೋನ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ಅಮ್ಮೀನಾದಾಬ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:18:08.974762403Z",
+  "model": "glm-5.3"
+}

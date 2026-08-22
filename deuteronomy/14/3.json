@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಯಾವುದೇ ಅಸಹ್ಯಕರ ವಸ್ತುವನ್ನು ತಿನ್ನಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ತಿನ್ನಬೇಡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಯಾವುದೇ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ಅಸಹ್ಯಕರ ವಸ್ತುವನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:49:53.908818812Z",
+  "model": "glm-5.3"
+}

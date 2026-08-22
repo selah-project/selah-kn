@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಯಾಹ್ವೆ ನನಗೆ ನಾಲ್ಕು ಕುಶಲಕರ್ಮಿಗಳನ್ನು ತೋರಿಸಿದನು।",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "ನನಗೆ ತೋರಿಸಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ನಾಲ್ಕು"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ಕುಶಲಕರ್ಮಿಗಳನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T01:29:38.997060025Z",
+  "model": "glm-5.3"
+}

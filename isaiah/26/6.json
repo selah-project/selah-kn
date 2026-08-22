@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಕಾಲು ಅದನ್ನು ತುಳಿಯುವುದು — ದೀನರ ಕಾಲುಗಳು, ಬಡವರ ಹೆಜ್ಜೆಗಳು.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "ತುಳಿಯುವುದು"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ಕಾಲು"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ಕಾಲುಗಳು"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ದೀನರ"
+    },
+    {
+      "surface": "ಪಾಪಮಿ"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ಹೆಜ್ಜೆಗಳು"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ಬಡವರ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:46:47.987367525Z",
+  "model": "glm-5.3"
+}

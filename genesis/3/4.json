@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಆ ಹಾವು ಆ ಹೆಣ್ಣಿಗೆ ಹೇಳಿತು: ನೀವು ಸಾಯದೇ ಸಾಯುವುದಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಮತ್ತು ಹೇಳಿತು"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ಆ ಹಾವು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ಆ ಹೆಣ್ಣಿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ಸಾಯದೇ"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ಸಾಯುವುದಿಲ್ಲ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:09:01.705617791Z",
+  "model": "glm-5.3"
+}

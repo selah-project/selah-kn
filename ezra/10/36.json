@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ವನ್ಯಾ, ಮೆರೆಮೋತ್, ಎಲ್ಯಾಶೀವ್.",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "ವನ್ಯಾ"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "ಮೆರೆಮೋತ್"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "ಎಲ್ಯಾಶೀವ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:18:53.274257329Z",
+  "model": "glm-5.3"
+}

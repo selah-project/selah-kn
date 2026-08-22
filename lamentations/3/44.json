@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಮೋಡದಿಂದ ನಿನ್ನನ್ನು ಮುಚ್ಚಿಕೊಂಡೆ, ಪ್ರಾರ್ಥನೆಯು ದಾಟದಂತೆ।",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "ಮುಚ್ಚಿಕೊಂಡೆ"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ಮೋಡದಿಂದ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನಿನ್ನನ್ನು"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "ದಾಟದಂತೆ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ಪ್ರಾರ್ಥನೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:35.746097812Z",
+  "model": "glm-5.3"
+}

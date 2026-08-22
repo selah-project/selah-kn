@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 32,
+  "translation": "⟨ಅವನು⟩ ಅವನಿಗೆ ಹೇಳಿದನು, ನಿನ್ನ ಹೆಸರು ಏನು? ⟨ಅವನು⟩ ಹೇಳಿದನು, ಯಾಕೋವ್.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ಅವನಿಗೆ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ಏನು"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ನಿನ್ನ ಹೆಸರು"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ಯಾಕೋವ್"
+    }
+  ],
+  "timestamp": "2026-08-21T20:25:40.885058300Z",
+  "model": "glm-5.3"
+}

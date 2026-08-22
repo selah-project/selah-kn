@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ಮೋಶೆ ಅದನ್ನು ಕೇಳಿದನು, ಮತ್ತು ತನ್ನ ಮುಖದ ಮೇಲೆ ಬಿದ್ದನು.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ಕೇಳಿದನು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ಬಿದ್ದನು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ತನ್ನ ಮುखದ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:14:42.398834226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 28:1",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಯೊಡನೆ ಆಡುತ್ತಾ ಹೇಳುವುದು ಹೀಗೆ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಆಡುತ್ತಾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಡನೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುವುದು ಹೀಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:14:47.377875070Z",
+  "model": "glm-5.3"
+}

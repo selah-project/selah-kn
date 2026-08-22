@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಎಲ್ಲಾ ಶುದ್ಧ ಹಕ್ಕಿಗಳನ್ನು ನೀವು ತಿನ್ನಿರಿ",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ಹಕ್ಕಿಗಳನ್ನು"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ಶುದ್ಧ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ನೀವು ತಿನ್ನಿರಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:49:49.513117456Z",
+  "model": "glm-5.3"
+}

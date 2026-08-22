@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 23:30",
+  "book": "2-samuel",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಬೆನಾಯಾಹ್ ಪಿರ್ಆತೋನಿ; ಹಿದ್ದಾಯ್ ಗಾಅಶ್‌ನ ಹೊಳೆಗಳಿಂದ;",
+  "tokens": [
+    {
+      "surface": "בניהו",
+      "gloss": "ಬೆನಾಯಾಹ್"
+    },
+    {
+      "surface": "פרעתני",
+      "gloss": "ಪಿರ್ಆತೋನಿ"
+    },
+    {
+      "surface": "הדי",
+      "gloss": "ಹಿದ್ದಾಯ್"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "ಹೊಳೆಗಳಿಂದ"
+    },
+    {
+      "surface": "געש",
+      "gloss": "ಗಾಅಶ್"
+    }
+  ],
+  "timestamp": "2026-08-22T04:22:29.233705136Z",
+  "model": "glm-5.3"
+}

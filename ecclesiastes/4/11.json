@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಅಲ್ಲದೆ, ಇಬ್ಬರು ಮಲಗಿದರೆ ಅವರಿಗೆ ಬೆಚ್ಚಗೆ ⟨ಇದೆ⟩; ಮತ್ತು ಒಬ್ಬನಿಗೆ ಹೇಗೆ ಬೆಚ್ಚಗಾಗುವುದು?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ಅಲ್ಲದೆ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…ದಲ್ಲಿ"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ಮಲಗುವರು"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ಇಬ್ಬರು"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ಮತ್ತು ಬೆಚ್ಚಗೆ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ಅವರಿಗೆ"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "ಮತ್ತು ಒಬ್ಬನಿಗೆ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ಹೇಗೆ"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ಬೆಚ್ಚಗಾಗುವನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:56:01.072786195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಖೆತ್ಸ್ರೋನ್, ⟨the⟩ ಖೆತ್ಸ್ರೋನಿ ಕುಲದವರು; ಕರ್ಮಿ, ⟨the⟩ ಕರ್ಮಿ ಕುಲದವರು.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "ಖೆತ್ಸ್ರೋನ್"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ಕುಲದವರು"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "ಖೆತ್ಸ್ರೋನಿ"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "ಕರ್ಮಿ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ಕುಲದವರು"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "ಕರ್ಮಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:34:32.624514198Z",
+  "model": "glm-5.3"
+}

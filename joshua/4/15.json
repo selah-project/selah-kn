@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆ ಯೆಹೋಶುವಿಗೆ ಹೇಳುತ್ತಾ ಆದನು.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಮತ್ತು...ಹೇಳುತ್ತಾ ಆದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ಯೆಹೋಶುವಿ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:03:31.033846012Z",
+  "model": "glm-5.3"
+}

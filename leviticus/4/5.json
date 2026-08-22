@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಮತ್ತು ಅಭಿಷಿಕ್ತ ಯಾಜಕನು ಕರುವಿನ ರಕ್ತದಿಂದ ತೆಗೆದು ಅದನ್ನು ⟨את⟩ ಮೀಟುವ ಗುಡಾರದೊಳಕ್ಕೆ ತಂದನು.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ತೆಗೆದು"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ಯಾಜಕನು"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "ಅಭಿಷಿಕ್ತ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ರಕ್ತದಿಂದ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ಕರುವಿನ"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ತಂದನು"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ಅದನ್ನು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಳಕ್ಕೆ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ಗುಡಾರದ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ಮೀಟುವ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:04:19.342504315Z",
+  "model": "glm-5.3"
+}

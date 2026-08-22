@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಆದರೆ ಅವನಲ್ಲಿ ಹಸಿ ಮಾಂಸ ಕಾಣಿಸಿಕೊಂಡ ದಿನ ಅವನು ಅಶುದ್ಧನು.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ಮತ್ತು ದಿನ"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "ಕಾಣಿಸಿಕೊಂಡ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ಅವನಲ್ಲಿ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ಮಾಂಸ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ಹಸಿ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ಅವನು ಅಶುದ್ಧನು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:07:59.909838597Z",
+  "model": "glm-5.3"
+}

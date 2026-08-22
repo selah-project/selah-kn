@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 19,
+  "translation": "ಮಾತು ಇಲ್ಲ, ಮತ್ತು ಪದಗಳಿಲ್ಲ; ಅವುಗಳ ಧ್ವನಿ ಕೇಳಿಸುವುದಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಮಾತು"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ಮತ್ತು ... ಇಲ್ಲ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ಪದಗಳಿಲ್ಲ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ಇಲ್ಲದೆ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ಕೇಳಿಸುವುದಿಲ್ಲ"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ಅವುಗಳ ಧ್ವನಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:39:21.197958974Z",
+  "model": "glm-5.3"
+}

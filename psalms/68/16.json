@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 68,
+  "translation": "ಎಲೋಹೀಂನ ಪರ್ವತ ⟨ಆಗಿದೆ⟩ ಬಾಶಾನ್ ಪರ್ವತ; ಶಿಖರಗಳ ಪರ್ವತ ⟨ಆಗಿದೆ⟩ ಬಾಶಾನ್ ಪರ್ವತ.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "ಪರ್ವತ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ಎಲೋಹೀಂನ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ಪರ್ವತ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ಬಾಶಾನ್"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ಪರ್ವತ"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "ಶಿಖರಗಳ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ಪರ್ವತ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ಬಾಶಾನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T04:40:25.817969809Z",
+  "model": "glm-5.3"
+}

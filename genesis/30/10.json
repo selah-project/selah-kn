@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 30,
+  "translation": "ಮತ್ತು ಲೇಯಾಳ ದಾಸಿ ಝಿಲ್ಪಾ ಯಾಕೋವನಿಗೆ ಒಂದು ಮಗನನ್ನು ಹೆತ್ತಳು.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ಮತ್ತು ಹೆತ್ತಳು"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ಝಿಲ್ಪಾ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ದಾಸಿ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ಲೇಯಾಳ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ಯಾಕೋವನಿಗೆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:21:54.047722679Z",
+  "model": "glm-5.3"
+}

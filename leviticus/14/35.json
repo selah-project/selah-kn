@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 14:35",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಮನೆಯ ಒಡೆಯನು ಬಂದು ಅರ್ಚಕನಿಗೆ ತಿಳಿಸಿ ಹೇಳುವನು — ಮನೆಯಲ್ಲಿ ಹೊಡೆತವಿರುವಂತೆ ನನಗೆ ಕಾಣಿಸಿದೆ.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ಬಂದು"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾರ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಅವನ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ಮನೆ"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "ತಿಳಿಸಿ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ಅರ್ಚಕನಿಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುವನು"
+    },
+    {
+      "surface": "כנגע",
+      "gloss": "ಹೊಡೆತವಿರುವಂತೆ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ಕಾಣಿಸಿದೆ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ಮನೆಯಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:08:57.767479116Z",
+  "model": "glm-5.3"
+}

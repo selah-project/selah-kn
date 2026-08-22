@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಎಗ್ಲೋನ್‌ನ ರಾಜನು ಒಬ್ಬನು; ಗೆಜೆರ್‌ನ ರಾಜನು ಒಬ್ಬನು;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "ಎಗ್ಲೋನ್‌ನ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ಗೆಜೆರ್‌ನ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    }
+  ],
+  "timestamp": "2026-08-21T22:08:38.608077890Z",
+  "model": "glm-5.3"
+}

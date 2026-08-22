@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಮಅಜ್ಯಾಹ್, ಬಿಲ್ಗಾಯ್, ಶೆಮಅ್ಯಾಹ್ — ಇವರೇ ⟨ಆ⟩ ಯಾಜಕರು.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "ಮಅಜ್ಯಾಹ್"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "ಬಿಲ್ಗಾಯ್"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ಶೆಮಅ್ಯಾಹ್"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ಇವರೇ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ಯಾಜಕರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:25:33.419825307Z",
+  "model": "glm-5.3"
+}

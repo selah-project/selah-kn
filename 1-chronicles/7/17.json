@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಮತ್ತು ಉಲಾಮನ ಮಕ್ಕಳು: ಬೇದಾನ್. ಇವರು ಗಿಲ್‌ಅದನ ಮಕ್ಕಳು, ಮಾಖೀರನ ಮಗ, ಮೆನಶ್ಶೆಯ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ಉಲಾಮನ"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "ಬೇದಾನ್"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ಇವರು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ಗಿಲ್‌ಅದನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ಮಾಖೀರನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ಮೆನಶ್ಶೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:52.690229233Z",
+  "model": "glm-5.3"
+}

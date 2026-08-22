@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಎಲ್ಲವೂ ಒಂದೇ ಸ್ಥಳಕ್ಕೆ ಹೋಗುತ್ತದೆ; ಎಲ್ಲವೂ ಧೂಳಿನಿಂದ ⟨was⟩, ಮತ್ತು ಎಲ್ಲವೂ ಧೂಳಿಗೆ ಹಿಂತಿರುಗುತ್ತದೆ.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ಎಲ್ಲವೂ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ಹೋಗುತ್ತದೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಕ್ಕೆ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ಸ್ಥಳ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದೇ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ಎಲ್ಲವೂ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ಆಗಿತ್ತು"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ನಿಂದ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ಧೂಳಿ"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "ಮತ್ತು ಎಲ್ಲವೂ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ಹಿಂತಿರುಗುತ್ತದೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಕ್ಕೆ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ಧೂಳಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:56:29.456390800Z",
+  "model": "glm-5.3"
+}

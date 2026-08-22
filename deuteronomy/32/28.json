@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 32,
+  "translation": "ಕಾರಣ ⟨ಅವರು⟩ ಆಲೋಚನೆಯನ್ನು ಕಳೆದುಕೊಂಡ ಜನರು, ಅವರಲ್ಲಿ ತಿಳುವಳಿಕೆ ಇಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಕಾರಣ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ಕಳೆದುಕೊಂಡ"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "ಆಲೋಚನೆಯನ್ನು"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ಅವರು"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ಮತ್ತು…ಇಲ್ಲ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ಅವರಲ್ಲಿ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ತಿಳುವಳಿಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:01:10.107334040Z",
+  "model": "glm-5.3"
+}

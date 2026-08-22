@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಕಾಲೆವನ ಉಪಪತ್ನಿ ಮಾಅಖಾ ⟨את⟩ ಶೆಬೆರ್ ಮತ್ತು ⟨את⟩ ತಿರ್ಹಾನಾಳನ್ನು ಹೆತ್ತಳು.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "ಉಪಪತ್ನಿ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ಕಾಲೆವನ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ಮಾಅಖಾ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ಹೆತ್ತಳು"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ಶೆಬೆರ್"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ತಿರ್ಹಾನಾ"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "ತಿರ್ಹಾನಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:50:12.310924362Z",
+  "model": "glm-5.3"
+}

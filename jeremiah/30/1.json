@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 30,
+  "translation": "ಯಿರ್ಮೆಯಾಹುವಿಗೆ ಯಾಹ್ವೆಯ ⟨את⟩-ನೆಡೆಯಿಂದ ಆದ ವಾಕ್ಯ, ಹೀಗೆ ಹೇಳುವುದು:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ವಾಕ್ಯ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ಯಿರ್ಮೆಯಾಹುವಿಗೆ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-ನೆಡೆಯಿಂದ",
+      "marks": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಗೆ ಹೇಳುವುದು"
+    }
+  ],
+  "timestamp": "2026-08-22T00:24:01.960962241Z",
+  "model": "glm-5.3"
+}

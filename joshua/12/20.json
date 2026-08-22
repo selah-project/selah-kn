@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಶಿಮ್ರೋನ್-ಮೆರೋನ್‌ನ ರಾಜ — ಒಬ್ಬನು; ಅಖ್ಶಾಫ್‌ನ ರಾಜ — ಒಬ್ಬನು.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ಶಿಮ್ರೋನ್-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "ಮೆರೋನ್‌ನ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜ"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "ಅಖ್ಶಾಫ್‌ನ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    }
+  ],
+  "timestamp": "2026-08-21T22:08:51.187678141Z",
+  "model": "glm-5.3"
+}

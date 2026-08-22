@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ದಾನ ಮತ್ತು ನಫ್ತಾಲಿ, ಗಾದ ಮತ್ತು ಆಶೇರ್.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "ದಾನ"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ಮತ್ತು ನಫ್ತಾಲಿ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ಗಾದ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ಮತ್ತು ಆಶೇರ್"
+    }
+  ],
+  "timestamp": "2026-08-21T20:36:31.026280491Z",
+  "model": "glm-5.3"
+}

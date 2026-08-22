@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಕಣ್ಣುಗಳ ನೋಡುವಿಕೆಯು ನೆಫೆಶಿನ ಸಂಚಾರಕ್ಕಿಂತ ಒಳ್ಳೆಯದು; ಇದೂ ಹೆಬೆಲ್ ಮತ್ತು ರೂಅಖಿನ ಕೆಟ್ಟತನ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ಒಳ್ಳೆಯದು"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ನೋಡುವಿಕೆ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ಕಣ್ಣುಗಳ"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ಸಂಚಾರ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ನೆಫೆಶಿನ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ಇದೂ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ಇದು"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ಹೆಬೆಲ್"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ಮತ್ತು ಕೆಟ್ಟತನ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ರೂಅಖಿನ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:46:31.904108799Z",
+  "model": "glm-5.3"
+}

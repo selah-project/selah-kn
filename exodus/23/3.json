@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಮತ್ತು ಬಡವನನ್ನು ಅವನ ವ್ಯಾಜ್ಯದಲ್ಲಿ ಗೌರವಿಸಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "ಮತ್ತು ಬಡವನನ್ನು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "ಗೌರವಿಸಬೇಡ"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ಅವನ ವ್ಯಾಜ್ಯದಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:49:29.324794922Z",
+  "model": "glm-5.3"
+}

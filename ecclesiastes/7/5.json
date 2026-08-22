@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಜ್ಞಾನಿಯ ಬೈಗುಳವನ್ನು ಕೇಳುವುದು ಒಳ್ಳೆಯದು, ಮೂರ್ಖರ ಹಾಡನ್ನು ಕೇಳುವ ⟨ಒಬ್ಬ⟩ ಮನುಷ್ಯನಿಗಿಂತ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ಒಳ್ಳೆಯದು"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ಕೇಳುವುದಕ್ಕೆ"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "ಬೈಗುಳ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ಜ್ಞಾನಿ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ಮನುಷ್ಯನಿಗಿಂತ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ಕೇಳುವ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ಹಾಡು"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ಮೂರ್ಖರ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:57:31.469351464Z",
+  "model": "glm-5.3"
+}

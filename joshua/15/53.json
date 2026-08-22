@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಯಾನೂಮ್, ಬೇತ್-ತಪ್ಪೂಅಖ್ ಮತ್ತು ಅಪೆಕಾ.",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "ಯಾನೂಮ್"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ಬೇತ್-"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "ತಪ್ಪೂಅಖ್"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "ಅಪೆಕಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:10:48.605380468Z",
+  "model": "glm-5.3"
+}

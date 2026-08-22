@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 9:14",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಮತ್ತು ಲೇವಿಯರಲ್ಲಿ — ಶೆಮಯ್ಯಾ, ಖಶ್ಶೂಬ್‌ನ ಮಗ, ಅಜ್ರೀಕಾಮ್‌ನ ಮಗ, ಖಶಬ್ಯಾಹ್‌ನ ಮಗ, ಮೆರಾರಿಯ ಮಕ್ಕಳಲ್ಲಿ;",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ಮತ್ತು ... ಲ್ಲಿ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ಲೇವಿಯರ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ಶೆಮಯ್ಯಾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "ಖಶ್ಶೂಬ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "ಅಜ್ರೀಕಾಮ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ಖಶಬ್ಯಾಹ್"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ಲ್ಲಿ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ಮೆರಾರಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:34:35.845169838Z",
+  "model": "glm-5.3"
+}

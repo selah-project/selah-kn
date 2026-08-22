@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಬೇತ್-ಎಲ್ ಮತ್ತು ಹಾಯ್‌ನ ಜನರು — ನೂರು ಇಪ್ಪತ್ತು ಮೂರು.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಬೇತ್"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಲ್"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "ಮತ್ತು ಹಾಯ್"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ಇಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ಮೂರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:53.731049588Z",
+  "model": "glm-5.3"
+}

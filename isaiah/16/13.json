@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ಇದು ಆ ವಾಕ್ಯವು, ಯಾಹ್ವೆ ಮೊದಲಿನಿಂದಲೇ ಮೋಆಬ್‌ನ ವಿಷಯವಾಗಿ ಆಡಿದ್ದು.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ಇದು"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ಆ ವಾಕ್ಯ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ಆಡಿದ್ದು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ವಿಷಯವಾಗಿ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ಮೋಆಬ್‌ನ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ಮೊದಲಿನಿಂದಲೇ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:43:49.459779024Z",
+  "model": "glm-5.3"
+}

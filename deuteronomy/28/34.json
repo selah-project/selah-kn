@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ನಿನ್ನ ಕಣ್ಣುಗಳು ನೋಡುವ ದೃಶ್ಯದಿಂದ ನೀನು ಹುಚ್ಚನಾಗುವಿ.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "ಮತ್ತು ನೀನು ಆಗುವಿ"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "ಹುಚ್ಚನಾಗಿ"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "ದೃಶ್ಯದಿಂದ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ನಿನ್ನ ಕಣ್ಣುಗಳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದನ್ನು"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ನೀನು ನೋಡುವ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:58:54.951503916Z",
+  "model": "glm-5.3"
+}

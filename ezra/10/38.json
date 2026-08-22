@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಮತ್ತು ಬಾನಿ, ಮತ್ತು ಬಿನ್ನುಯ್, ಶಿಮೆಯ್,",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಬಾನಿ"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "ಮತ್ತು ಬಿನ್ನುಯ್"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ಶಿಮೆಯ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:18:36.835928609Z",
+  "model": "glm-5.3"
+}

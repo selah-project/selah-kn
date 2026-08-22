@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಇದು ನೀವು ತಿನ್ನಬಹುದಾದ ಪ್ರಾಣಿ — ಎತ್ತು, ಕುರಿಮರಿ ಮತ್ತು ಮೇಕೆಮರಿ.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ಇದು"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ಪ್ರಾಣಿ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾವುದನ್ನು"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ನೀವು ತಿನ್ನಬಹುದಾದ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ಎತ್ತು"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ಮರಿ"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "ಕುರಿಗಳ"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ಮತ್ತು ಮರಿ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ಮೇಕೆಗಳ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:49:53.908949686Z",
+  "model": "glm-5.3"
+}

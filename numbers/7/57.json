@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "numbers 7:57",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಒಂದು ಕರು, ಹಿಂಡಿನ ಮಗ, ಒಂದು ಕುರಿರಾಮು, ಒಂದು ಕುರಿಮರಿ, ತನ್ನ ವರ್ಷದ ಮಗ, ಸುಟ್ಟ ಅರ್ಪಣೆಗೆ.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ಕರು"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ಹಿಂಡು"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ಕುರಿರಾಮು"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ಕುರಿಮರಿ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ತನ್ನ ವರ್ಷದ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ಸುಟ್ಟ ಅರ್ಪಣೆಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:23:23.164132277Z",
+  "model": "glm-5.3"
+}

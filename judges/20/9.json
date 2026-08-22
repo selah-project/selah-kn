@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 20:9",
+  "book": "judges",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ಈಗ ⟨ಇದು⟩ ಆ ಮಾತು — ಗಿಬ್ಆಹ್‌ಗೆ ನಾವು ಮಾಡುವುದು — ಅದರ ಮೇಲೆ ಗೂರಲಿನ ಮೂಲಕ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ಈಗ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ಇದು"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ಆ ಮಾತು"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ನಾವು ಮಾಡುವುದು"
+    },
+    {
+      "surface": "לגבעה",
+      "gloss": "ಗಿಬ್ಆಹ್‌ಗೆ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ಅದರ ಮೇಲೆ"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ಗೂರಲಿನ ಮೂಲಕ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:28:32.296933686Z",
+  "model": "glm-5.3"
+}

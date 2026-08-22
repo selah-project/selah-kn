@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಅರವತ್ತು ರಾಣಿಯರು ⟨ಅವರು⟩, ಎಂಬತ್ತು ಉಪಪತ್ನಿಯರು, ಮತ್ತು ಲೆಕ್ಕವಿಲ್ಲದ ಕನ್ಯೆಯರು.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "ಅರವತ್ತು"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨ಅವರು⟩"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ರಾಣಿಯರು"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ಎಂಬತ್ತು"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "ಉಪಪತ್ನಿಯರು"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "ಮತ್ತು ಕನ್ಯೆಯರು"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ಲೆಕ್ಕ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:48:40.092746633Z",
+  "model": "glm-5.3"
+}

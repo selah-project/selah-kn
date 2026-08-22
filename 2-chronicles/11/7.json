@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಮತ್ತು ⟨את⟩ ಬೇತ್-ತ್ಸೂರ್, ಮತ್ತು ⟨את⟩ ಶೋಖೋ, ಮತ್ತು ⟨את⟩ ಅದುಲ್ಲಾಮ್.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ಮತ್ತು ⟨את⟩",
+      "marks": "ಬೇತ್-ತ್ಸೂರ್"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಬೇತ್"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ತ್ಸೂರ್"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ಮತ್ತು ⟨את⟩",
+      "marks": "ಶೋಖೋ"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "ಶೋಖೋ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ಮತ್ತು ⟨את⟩",
+      "marks": "ಅದುಲ್ಲಾಮ್"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "ಅದುಲ್ಲಾಮ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:48:33.406431249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಮಹರಾಯ್ ⟨the⟩ ನೆತೋಫಾತಿಯ, ಚೇಲೆದ್ ಬಾನಾಹನ ಮಗ ⟨the⟩ ನೆತೋಫಾತಿಯ,",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "ಮಹರಾಯ್"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "ನೆತೋಫಾತಿಯ"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ಚೇಲೆದ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "ಬಾನಾಹ"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "ನೆತೋಫಾತಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:26.924600942Z",
+  "model": "glm-5.3"
+}

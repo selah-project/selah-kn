@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಆಗ ಯಿಸ್ರಾಯೇಲಿನ ಎಲ್ಲ ಜನರು ರಾಜನೆಡೆಗೆ ಹಬ್ಬದಲ್ಲಿ ಒಟ್ಟುಗೂಡಿದರು — ಅದು ಏಳನೆಯ ತಿಂಗಳು.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "ಒಟ್ಟುಗೂಡಿದರು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಡೆಗೆ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ರಾಜನ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ಜನ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಯಿಸ್ರಾಯೇಲಿನ"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "ಹಬ್ಬದಲ್ಲಿ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ತಿಂಗಳು"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ಏಳನೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:48:22.356716237Z",
+  "model": "glm-5.3"
+}

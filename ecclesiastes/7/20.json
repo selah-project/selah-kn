@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಏಕೆಂದರೆ ಭೂಮಿಯ ಮೇಲೆ ಒಳ್ಳೆಯದನ್ನು ಮಾಡಿ ಪಾಪ ಮಾಡದ ನೀತಿವಂತ ಮನುಷ್ಯ ಇಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಏಕೆಂದರೆ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ಮನುಷ್ಯ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ನೀತಿವಂತ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ಭೂಮಿಯ ಮೇಲೆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅವನು"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ಮಾಡಿ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ಒಳ್ಳೆಯದನ್ನು"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ಮಾಡದ"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "ಪಾಪ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:58:35.428200407Z",
+  "model": "glm-5.3"
+}

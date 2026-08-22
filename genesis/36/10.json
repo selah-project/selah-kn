@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 36,
+  "translation": "ಇವು ಎಸಾವನ ಕುಮಾರರ ಹೆಸರುಗಳು: ಎಲಿಫಾಜ್ — ಎಸಾವನ ಹೆಂಡತಿ ಅದಾಳ ಮಗ; ರೆಉವೇಲ್ — ಎಸಾವನ ಹೆಂಡತಿ ಬಸ್ಮತಳ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ಇವು"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ಹೆಸರುಗಳು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಕುಮಾರರ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ಎಸಾವನ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ಎಲಿಫಾಜ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ಅದಾಳ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ಹೆಂಡತಿ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ಎಸಾವನ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ರೆಉವೇಲ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "ಬಸ್ಮತಳ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ಹೆಂಡತಿ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ಎಸಾವನ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:26:51.402132861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಯಾಹ್ವೆಯಿಂದ ⟨את⟩ ಯಿರ್ಮೆಯಾಹುವಿಗೆ ಆದ ವಾಕ್ಯ, ಹೇಳುವುದು:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ವಾಕ್ಯ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾವುದು"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇಂದ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ಯಿರ್ಮೆಯಾಹುವಿಗೆ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ಇಂದ",
+      "marks": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುವುದು"
+    }
+  ],
+  "timestamp": "2026-08-22T00:14:13.896077587Z",
+  "model": "glm-5.3"
+}

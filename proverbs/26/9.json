@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಮುಳ್ಳೊಂದು ಕುಡುಕನ ಕೈಯಲ್ಲಿ ಏರಿದಂತೆ, ಹಾಗೆಯೇ ಗಾದೆಯೊಂದು ಮೂರ್ಖರ ಬಾಯಲ್ಲಿ ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "ಮುಳ್ಳು"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ಏರಿದಂತೆ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ಕೈಯಲ್ಲಿ"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "ಕುಡುಕನ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ಹಾಗೆಯೇ ಗಾದೆಯೊಂದು"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ಬಾಯಲ್ಲಿ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ಮೂರ್ಖರ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:27:17.517729012Z",
+  "model": "glm-5.3"
+}

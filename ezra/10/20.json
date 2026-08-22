@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಇಮ್ಮೆರನ ಮಕ್ಕಳಲ್ಲಿ ಖನಾನಿ ಮತ್ತು ಜೆಬದ್ಯಾ.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ಮಕ್ಕಳಲ್ಲಿ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಇಮ್ಮೆರನ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ಖನಾನಿ"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "ಜೆಬದ್ಯಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:18:49.298060669Z",
+  "model": "glm-5.3"
+}

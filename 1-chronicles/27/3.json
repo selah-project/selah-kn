@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 27,
+  "translation": "ಪೆರೆತ್ಸಿನ ಮಕ್ಕಳಿಂದ ⟨ಅವನು⟩ — ಸೈನ್ಯಗಳ ಎಲ್ಲಾ ಪ್ರಭುಗಳಿಗೆ ಮುಖ್ಯಸ್ಥ, ಮೊದಲ ತಿಂಗಳಿಗೆ.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ಇಂದ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ಪೆರೆತ್ಸಿನ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ಮುಖ್ಯಸ್ಥ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ಪ್ರಭುಗಳಿಗೆ"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "ಸೈನ್ಯಗಳ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ತಿಂಗಳಿಗೆ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ಮೊದಲ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:43:44.556400205Z",
+  "model": "glm-5.3"
+}

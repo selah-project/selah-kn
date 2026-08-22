@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ನೆತ್ಸಿಯಚ್‌ನ ಮಕ್ಕಳು, ಚತಿಪ್ಫಾನ ಮಕ್ಕಳು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "ನೆತ್ಸಿಯಚ್‌ನ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ಚತಿಪ್ಫಾನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:24:08.605280749Z",
+  "model": "glm-5.3"
+}

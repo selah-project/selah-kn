@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 26:24",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಲೆಯಾಶುಬ್ — ಯಾಶುಬಿಯರ ಕುಲ, ಲೆಶಿಮ್ರೋನ್ — ಶಿಮ್ರೋನಿಯರ ಕುಲ.",
+  "tokens": [
+    {
+      "surface": "לישוב",
+      "gloss": "ಲೆಯಾಶುಬ್"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ಕುಲ"
+    },
+    {
+      "surface": "הישובי",
+      "gloss": "ಯಾಶುಬಿಯರ"
+    },
+    {
+      "surface": "לשמרן",
+      "gloss": "ಲೆಶಿಮ್ರೋನ್"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ಕುಲ"
+    },
+    {
+      "surface": "השמרני",
+      "gloss": "ಶಿಮ್ರೋನಿಯರ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:33:45.170148039Z",
+  "model": "glm-5.3"
+}

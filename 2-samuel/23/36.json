@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಯಿಗ್ಆಲ್, ನಾತಾನ್ ಮಗ — ತ್ಸೋವಾದವನು; ಬಾನಿ ⟨the⟩ ಗಾದಿ.",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "ಯಿಗ್ಆಲ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ನಾತಾನ್"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ತ್ಸೋವಾದವನು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಬಾನಿ"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "ಗಾದಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:02:21.817118156Z",
+  "model": "glm-5.3"
+}

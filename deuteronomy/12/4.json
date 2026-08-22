@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ನಿಮ್ಮ ದೇವರಾದ ಯಾಹ್ವೆ ಎಲೋಹೀಂಗೆ ಹಾಗೆ ಮಾಡಬೇಡಿ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡಿ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ಮಾಡಬೇಡಿ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ಹಾಗೆ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ಯಾಹ್ವೆಗೆ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ನಿಮ್ಮ ದೇವರಾದ ಎಲೋಹೀಂ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:51:25.498047974Z",
+  "model": "glm-5.3"
+}

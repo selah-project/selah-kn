@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ನಾನು ನನ್ನ ಪ್ರಿಯನಿಗೆ ಸೇರಿದವಳು, ಮತ್ತು ನನ್ನ ಮೇಲೆ ಅವನ ಬಯಕೆ ⟨ಇದೆ⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "ನನ್ನ ಪ್ರಿಯನಿಗೆ ಸೇರಿದವಳು"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ಮತ್ತು ನನ್ನ ಮೇಲೆ"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "ಅವನ ಬಯಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:50:24.380265153Z",
+  "model": "glm-5.3"
+}

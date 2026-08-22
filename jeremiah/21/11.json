@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 21,
+  "translation": "ಮತ್ತು ಯೆಹೂದಾದ ರಾಜನ ⟨the⟩ ಮನೆಗೆ — ಯಾಹ್ವೆಯ ಮಾತನ್ನು ಕೇಳಿ.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "ಮತ್ತು ಮನೆಗೆ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ಯೆಹೂದಾದ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ಕೇಳಿ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ಮಾತನ್ನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:31:37.899196468Z",
+  "model": "glm-5.3"
+}

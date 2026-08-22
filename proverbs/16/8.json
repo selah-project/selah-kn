@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ನ್ಯಾಯದೊಡನೆ ಸ್ವಲ್ಪವೇ ⟨ಉತ್ತಮ⟩, ನ್ಯಾಹೀನತೆ ಇಲ್ಲದ ಹೇರಳ ಫಸಲಿಗಿಂತ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ಉತ್ತಮ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ಸ್ವಲ್ಪವೇ"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ನ್ಯಾಯದೊಡನೆ"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ಹೇರಳ…ಕಿಂತ"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "ಫಸಲು"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ಇಲ್ಲದ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ನ್ಯಾಹೀನತೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:23:27.465599820Z",
+  "model": "glm-5.3"
+}

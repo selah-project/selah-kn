@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 92,
+  "translation": "ಯಾಹ್ವೆ ನೇರನೆಂದು ತಿಳಿಸಲು — ನನ್ನ ಬಂಡೆ; ಮತ್ತು ಅವನಲ್ಲಿ ಅನೀತಿ ಇಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "ತಿಳಿಸಲು"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಎಂದು"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ನೇರ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ನನ್ನ ಬಂಡೆ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ಮತ್ತು ... ಇಲ್ಲ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ಅನೀತಿ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ಅವನಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:01:08.706045894Z",
+  "model": "glm-5.3"
+}

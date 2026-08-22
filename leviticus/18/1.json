@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 18,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಯೊಂದಿಗೆ ಮಾತನಾಡಿ ಹೀಗೆ ಹೇಳಿದನು.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಂದಿಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯೊಂದಿಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಗೆ ಹೇಳಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:11:01.213088851Z",
+  "model": "glm-5.3"
+}

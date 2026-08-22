@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 48,
+  "translation": "ಕಾರಣ ಇಗೋ, ⟨the⟩ ರಾಜರು ಒಟ್ಟುಗೂಡಿದರು, ಒಟ್ಟಿಗೆ ದಾಟಿಹೋದರು.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಕಾರಣ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ಇಗೋ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ರಾಜರು"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ಒಟ್ಟುಗೂಡಿದರು"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ದಾಟಿಹೋದರು"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ಒಟ್ಟಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:47:40.387600216Z",
+  "model": "glm-5.3"
+}

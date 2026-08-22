@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಆಡುಗಳ ಒಂದು ಗಂಡುಮರಿ, ಪಾಪಬಲಿಗಾಗಿ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ಗಂಡುಮರಿ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ಆಡುಗಳ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ಪಾಪಬಲಿಗಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:23:45.419546985Z",
+  "model": "glm-5.3"
+}

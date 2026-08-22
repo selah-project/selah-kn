@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಮೋಶೆಯ ಮಕ್ಕಳು ಗೆರೆಶೋಮ್ ಮತ್ತು ಎಲೀಎಜೆರ್.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ಗೆರೆಶೋಮ್"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "ಮತ್ತು ಎಲೀಎಜೆರ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:41:12.309182493Z",
+  "model": "glm-5.3"
+}

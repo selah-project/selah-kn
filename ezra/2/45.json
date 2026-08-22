@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezra 2:45",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಲೆಬನಾಹನ ಮಕ್ಕಳು, ಹಗಬಾಹನ ಮಕ್ಕಳು, ಅಕ್ಕೂಬನ ಮಕ್ಕಳು,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ಲೆಬನಾಹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "ಹಗಬಾಹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "ಅಕ್ಕೂಬ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:15:27.017867967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 58,
+  "translation": "ಸಂಗೀತ ನಿರ್ದೇಶಕನಿಗೆ — ನಾಶಪಡಿಸಬೇಡಿ — ದಾವೀದನಿಗೆ — ಮಿಕ್ತಾಂ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ಸಂಗೀತ ನಿರ್ದೇಶಕನಿಗೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ನಾಶಪಡಿಸ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ದಾವೀದನಿಗೆ"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ಮಿಕ್ತಾಂ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:50:49.453633279Z",
+  "model": "glm-5.3"
+}

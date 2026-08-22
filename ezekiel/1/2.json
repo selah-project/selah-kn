@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 1:2",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ತಿಂಗಳ ಐದನೆಯ ದಿನದಂದು — ಅದು ರಾಜ ಯೆಹೋಯಾಕೀನನ ಗೋಲಾಹಳದ ಐದನೆಯ ವರ್ಷ.",
+  "tokens": [
+    {
+      "surface": "בחמשה",
+      "gloss": "ಐದನೆಯ ದಿನದಂದು"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ತಿಂಗಳ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ವರ್ಷ"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "ಐದನೆಯ"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "ಗೋಲಾಹಳದ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ರಾಜ"
+    },
+    {
+      "surface": "יויכין",
+      "gloss": "ಯೆಹೋಯಾಕೀನನ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:39:57.693804225Z",
+  "model": "glm-5.3"
+}

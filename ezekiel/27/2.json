@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 27,
+  "translation": "ನೀನು ಮನುಷ್ಯಪುತ್ರನೇ, ತ್ಸೋರ್ ಕುರಿತು ಒಂದು ವಿಲಾಪವನ್ನು ಎತ್ತಿಕೊ,",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ನೀನು"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಪುತ್ರನೇ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ಮನುಷ್ಯ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ಎತ್ತಿಕೊ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಕುರಿತು"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ತ್ಸೋರ್"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ವಿಲಾಪವನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T00:55:29.109167364Z",
+  "model": "glm-5.3"
+}

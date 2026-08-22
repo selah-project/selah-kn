@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 5:13",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಯುವಕರು ಜಜ್ಜುವ ಕಲ್ಲನ್ನು ಹೊತ್ತರು, ಬಾಲಕರು ಕಟ್ಟಿಗೆಯ ಕೆಳಗೆ ತೊದರಿದರು.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "ಯುವಕರು"
+    },
+    {
+      "surface": "טחון",
+      "gloss": "ಜಜ್ಜುವ ಕಲ್ಲು"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ಹೊತ್ತರು"
+    },
+    {
+      "surface": "ונערים",
+      "gloss": "ಬಾಲಕರು"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "ಕಟ್ಟಿಗೆಯ ಕೆಳಗೆ"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ತೊದರಿದರು"
+    }
+  ],
+  "timestamp": "2026-08-22T04:46:32.670926231Z",
+  "model": "glm-5.3"
+}

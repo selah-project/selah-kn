@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಮತ್ತು ಇದು ಬರೆಯಲ್ಪಟ್ಟ ಬರಹ: ಮೆನೆ, ಮೆನೆ, ಟೆಕೆಲ್, ಉಫರ್ಸಿನ್.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "ಮತ್ತು ಇದು"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "ಬರಹ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ಬರೆಯಲ್ಪಟ್ಟ"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "ಬರೆಯಲ್ಪಟ್ಟ"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "ಮೆನೆ"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "ಮೆನೆ"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "ಟೆಕೆಲ್"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "ಮತ್ತು ಉಫರ್ಸಿನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:06:20.180574612Z",
+  "model": "glm-5.3"
+}

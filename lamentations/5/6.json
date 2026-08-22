@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಮಿತ್ಸ್ರಾಯಿಮಿಗೆ ನಾವು ಕೈ ಕೊಟ್ಟೆವು, ಅಶ್ಶೂರಿಗೆ — ಅನ್ನ ತೃಪ್ತಿಗಾಗಿ.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "ಮಿತ್ಸ್ರಾಯಿಮ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ನಾವು ಕೊಟ್ಟೆವು"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ಕೈ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ಅಶ್ಶೂರ"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ತೃಪ್ತಿಗಾಗಿ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ಅನ್ನ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:54:58.120048300Z",
+  "model": "glm-5.3"
+}

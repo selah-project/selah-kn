@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಮತ್ತು ಯಿಫ್ತಾ, ಮತ್ತು ಅಶ್ನಾ, ಮತ್ತು ನೆತ್ಸೀಬ್.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "ಮತ್ತು ಯಿಫ್ತಾ"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "ಮತ್ತು ಅಶ್ನಾ"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "ಮತ್ತು ನೆತ್ಸೀಬ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:10:44.669639047Z",
+  "model": "glm-5.3"
+}

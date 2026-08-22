@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಅವನು ತನ್ನ ಬಾಯನ್ನು ಧೂಳಿನಲ್ಲಿ ಇಡಲಿ — ಬಹುಶಃ ಆಶೆ ಇರಬಹುದು.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ಇಡಲಿ"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ಧೂಳಿನಲ್ಲಿ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ತನ್ನ ಬಾಯನ್ನು"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ಬಹುಶಃ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ಇರಬಹುದು"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ಆಶೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:27.295245144Z",
+  "model": "glm-5.3"
+}

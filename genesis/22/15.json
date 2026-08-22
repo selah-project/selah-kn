@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಆಗ ಯಾಹ್ವೆಯ ದೂತನು ಆಕಾಶದಿಂದ ಅವ್ರಾಹಾಂಗೆ ಎರಡನೇ ಬಾರಿಗೆ ಕರೆದನು.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ಕರೆದನು"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ದೂತನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನಿಗೆ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ಅವ್ರಾಹಾಂಗೆ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ಎರಡನೇ ಬಾರಿಗೆ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ದಿಂದ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ಆಕಾಶದ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:19:12.033040052Z",
+  "model": "glm-5.3"
+}

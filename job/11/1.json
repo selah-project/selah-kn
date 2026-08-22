@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 11:1",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಅದಕ್ಕೆ ತ್ಸೋಫರ್ ನಅಮಾತಿ ಉತ್ತರಿಸಿ ಹೇಳಿದನು —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ಉತ್ತರಿಸಿದನು"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "ತ್ಸೋಫರ್"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "ನಅಮಾತಿ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:34:37.452553874Z",
+  "model": "glm-5.3"
+}

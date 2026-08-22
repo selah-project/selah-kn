@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ವಿಶ್ರಾಂತಿ ಪಡೆದಿದೆ, ಶಾಂತವಾಗಿದೆ ಇಡೀ ಭೂಮಿ; ⟨they⟩ ಜಯಘೋಷ ಹಾಕಿದವು.",
+  "tokens": [
+    {
+      "surface": "נחה",
+      "gloss": "ವಿಶ್ರಾಂತಿ ಪಡೆದಿದೆ"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ಶಾಂತವಾಗಿದೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಇಡೀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿ"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "ಜಯಘೋಷ ಹಾಕಿದವು"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ಹರ್ಷಧ್ವನಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:41:59.927950912Z",
+  "model": "glm-5.3"
+}

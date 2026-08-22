@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಯಾಹ್ವೆ ⟨את⟩ ನದಿಯನ್ನು ಹೊಡೆದ ನಂತರ ಏಳು ದಿನಗಳು ತುಂಬಿಹೋದವು.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "ತುಂಬಿಹೋದವು"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ಏಳು"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ದಿನಗಳು"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ನಂತರ"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "ಹೊಡೆದ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ನದಿಯನ್ನು"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ನದಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:40:41.442487263Z",
+  "model": "glm-5.3"
+}

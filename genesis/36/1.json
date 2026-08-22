@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 36,
+  "translation": "ಮತ್ತು ಇವುಗಳು ಎಸಾವನ ವಂಶಾವಳಿ — ⟨ಅವನೇ⟩ ಎದೋಂ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ಮತ್ತು ಇವುಗಳು"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ವಂಶಾವಳಿ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ಎಸಾವನ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅವನೇ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ಎದೋಂ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:27:21.708953030Z",
+  "model": "glm-5.3"
+}

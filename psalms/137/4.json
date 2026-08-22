@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 137,
+  "translation": "ಹೇಗೆ ನಾವು ಹಾಡುವೆವೋ — ಯಾಹ್ವೆಯ ⟨את⟩ ಹಾಡನ್ನು, ಪರದೇಶದ ಮಣ್ಣಿನ ಮೇಲೆ?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ಹೇಗೆ"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "ನಾವು ಹಾಡುವೆವೋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಹಾಡನ್ನು"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ಹಾಡನ್ನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ಮಣ್ಣಿನ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ಪರದೇಶದ"
+    }
+  ],
+  "timestamp": "2026-08-22T06:29:00.261456001Z",
+  "model": "glm-5.3"
+}

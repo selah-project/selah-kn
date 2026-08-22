@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ನೀತಿವಂತರ ಆಸೆಯು ಕೇವಲ ಒಳ್ಳೇಯದೇ; ಆದರೆ ದುರ್ಜನರ ನಿರೀಕ್ಷೆಯು ಕ್ರೋಧ.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ಆಸೆಯು"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ನೀತಿವಂತರ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ಕೇವಲ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ಒಳ್ಳೇಯದೇ"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "ನಿರೀಕ್ಷೆಯು"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ದುರ್ಜನರ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ಕ್ರೋಧ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:21:23.890905916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಗೋಮೆರ್‌ನ ಮಕ್ಕಳು: ಅಶ್ಕೆನಾಸ್, ದೀಫತ್ ಮತ್ತು ತೋಗರ್ಮಾಹ್.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ಗೋಮೆರ್‌ನ"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "ಅಶ್ಕೆನಾಸ್"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "ದೀಫತ್"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "ತೋಗರ್ಮಾಹ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:07.405128355Z",
+  "model": "glm-5.3"
+}

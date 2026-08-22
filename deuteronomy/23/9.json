@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಅವರಿಗೆ ಹುಟ್ಟಿದ ಮಕ್ಕಳು — ಅವರ ಮೂರನೆಯ ಪೀಳಿಗೆ — ಯಾಹ್ವೆಯ ಸಭೆಯೊಳಗೆ ಪ್ರವೇಶಿಸಬಹುದು.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾರು"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "ಹುಟ್ಟುವರು"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ಅವರಿಗೆ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ಪೀಳಿಗೆ"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "ಮೂರನೆಯ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ಪ್ರವೇಶಿಸುವನು"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ಅವರಿಗೆ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ಸಭೆಯೊಳಗೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:55:47.979171344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಪಾಪಾರ್ಪಣೆಗಾಗಿ ಒಂದು ಆಡುಕೋಣ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ಆಡುಕೋಣ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ಆಡುಗಳ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ಪಾಪಾರ್ಪಣೆಗಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:23:32.872258536Z",
+  "model": "glm-5.3"
+}

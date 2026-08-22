@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಕೊಂಚ ನಿದ್ರೆ, ಕೊಂಚ ತೂಕಡಿಕೆ, ಕೊಂಚ ಕೈಗಳನ್ನು ಮಡಚಿಕೊಂಡು ಮಲಗುವುದು",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "ಕೊಂಚ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ನಿದ್ರೆ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ಕೊಂಚ"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "ತೂಕಡಿಕೆ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ಕೊಂಚ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ಮಡಚಿಕೊಂಡು"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ಕೈಗಳನ್ನು"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "ಮಲಗುವುದಕ್ಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:18:57.011851203Z",
+  "model": "glm-5.3"
+}

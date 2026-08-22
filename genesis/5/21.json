@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಖನೋಕ್ ಐದು ಮತ್ತು ಅರವತ್ತೈದು ವರ್ಷ ಬಾಳಿ ⟨את⟩ ಮೆತೂಶೆಲಖನ್ನು ಪಡೆದನು.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ಬಾಳಿ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ಖನೋಕ್"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ಐದು"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ಮತ್ತು ಅರವತ್ತೈದು"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ವರ್ಷ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ಪಡೆದನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಮೆತೂಶೆಲಖನ್ನು"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "ಮೆತೂಶೆಲಖ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:09:43.768163484Z",
+  "model": "glm-5.3"
+}

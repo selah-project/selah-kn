@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ಆಗ ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ಹನಾನಿ ಮಗ ಯೆಹೂವಿನ ಬಳಿಗೆ ಬಆಶಾನ ವಿರುದ್ಧ ಹೇಳುವುದಾಗಿ ಬಂದಿತು.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಗ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿಗೆ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ಯೆಹೂ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ಹನಾನಿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ವಿರುದ್ಧ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ಬಆಶಾನ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುವುದಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:16:43.938023939Z",
+  "model": "glm-5.3"
+}

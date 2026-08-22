@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಒಂದು ಆಡುಕುರಿ, ಪಾಪಾರ್ಪಣೆಗಾಗಿ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ಆಡುಕುರಿ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ಆಡುಗಳ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ಪಾಪಾರ್ಪಣೆಗಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:24:35.813341808Z",
+  "model": "glm-5.3"
+}

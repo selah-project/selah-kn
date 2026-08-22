@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಮತ್ತು ಅದಾಯಾ, ಮತ್ತು ಬೆರಾಯಾ, ಮತ್ತು ಶಿಮ್ರಾತ್ — ಇವರು ಶಿಮ್ಇಯ ಮಕ್ಕಳು.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "ಮತ್ತು ಅದಾಯಾ"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "ಮತ್ತು ಬೆರಾಯಾ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ಮತ್ತು ಶಿಮ್ರಾತ್"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ಶಿಮ್ಇಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:41.822445031Z",
+  "model": "glm-5.3"
+}

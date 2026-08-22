@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಅವನು ಒಂಟಿಯಾಗಿ ಕುಳಿತುಕೊಂಡು ಮೌನ ವಹಿಸಲಿ, ಏಕೆಂದರೆ ಅದನ್ನು ಅವನ ಮೇಲೆ ಹೊರಿಸಲಾಗಿದೆ.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ಕುಳಿತುಕೊಳ್ಳಲಿ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ಒಂಟಿಯಾಗಿ"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "ಮೌನ ವಹಿಸಲಿ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಏಕೆಂದರೆ"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "ಹೊರಿಸಲಾಗಿದೆ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ಅವನ ಮೇಲೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:46:50.501897260Z",
+  "model": "glm-5.3"
+}

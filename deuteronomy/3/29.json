@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನಾವು ಬೆತ್-ಪೆಓರ್‌ನ ⟨ಎದುರಿಗೆ⟩ ಕಣಿವೆಯಲ್ಲಿ ವಾಸಿಸಿದೆವು.",
+  "tokens": [
+    {
+      "surface": "ונשב",
+      "gloss": "ವಾಸಿಸಿದೆವು"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ಕಣಿವೆಯಲ್ಲಿ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ಎದುರಿಗೆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಬೆತ್-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "ಪೆಓರ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:43:53.388689140Z",
+  "model": "glm-5.3"
+}

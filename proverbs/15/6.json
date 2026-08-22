@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ನೀತಿವಂತನ ಮನೆಯಲ್ಲಿ ಹೇರಳ ಸಂಪತ್ತು; ಆದರೆ ದುಷ್ಟರ ಆದಾಯದಲ್ಲಿ ಅಡಚಣೆ ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ಮನೆಯಲ್ಲಿ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ನೀತಿವಂತನ"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "ಸಂಪತ್ತು"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ಹೇರಳ"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "ಆದರೆ ಆದಾಯದಲ್ಲಿ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ದುಷ್ಟರ"
+    },
+    {
+      "surface": "נעಛרת",
+      "gloss": "ಅಡಚಣೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:22:29.876134659Z",
+  "model": "glm-5.3"
+}

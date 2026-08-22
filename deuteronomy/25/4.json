@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 25,
+  "translation": "ತನ್ನ ಕಣಜದಲ್ಲಿ ಮೆಣಸುವ ಎತ್ತಿಗೆ ಬಾಯಿಕಟ್ಟ ಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "ಬಾಯಿಕಟ್ಟು"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ಎತ್ತು"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "ತನ್ನ ಕಣಜದಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:56:30.539254647Z",
+  "model": "glm-5.3"
+}

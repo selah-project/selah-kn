@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 27:28",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 27,
+  "translation": "ನಿನ್ನ ಕಡಲ್ಗಾರರ ಕೂಗಿನ ಸದ್ದಿಗೆ ಹೊರವಲಯಗಳು ನಡುಗುವವು.",
+  "tokens": [
+    {
+      "surface": "לקול",
+      "gloss": "ಸದ್ದಿಗೆ"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "ಕೂಗಿನ"
+    },
+    {
+      "surface": "חבליך",
+      "gloss": "ನಿನ್ನ ಕಡಲ್ಗಾರರ"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "ನಡುಗುವವು"
+    },
+    {
+      "surface": "מגרשות",
+      "gloss": "ಹೊರವಲಯಗಳು"
+    }
+  ],
+  "timestamp": "2026-08-22T00:56:24.055727836Z",
+  "model": "glm-5.3"
+}

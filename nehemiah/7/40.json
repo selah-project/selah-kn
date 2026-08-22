@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಇಮ್ಮೇರ್‌ನ ಮಕ್ಕಳು — ಸಾವಿರ ಐವತ್ತೆರಡು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಇಮ್ಮೇರ್"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ಸಾವಿರ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ಐವತ್ತು"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ಮತ್ತು ಎರಡು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:24:09.336034111Z",
+  "model": "glm-5.3"
+}

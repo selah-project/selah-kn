@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಮತ್ತು ಇದು ಶಾಂತಿ-ಬಲಿಗಳ ಧರ್ಮಾಜ್ಞೆ, ಅದನ್ನು ಯಾಹ್ವೆಗೆ ಸಮೀಪಿಸುವನು.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ಮತ್ತು ಇದು"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ಧರ್ಮಾಜ್ಞೆ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ಬಲಿ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ಶಾಂತಿ-ಬಲಿಗಳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದನ್ನು"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ಸಮೀಪಿಸುವನು"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ಯಾಹ್ವೆಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:03:07.181609031Z",
+  "model": "glm-5.3"
+}

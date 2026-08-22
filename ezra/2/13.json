@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 2:13",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಅದೋನಿಕಾಮನ ಮಕ್ಕಳು ಆರು ನೂರು ಅರವತ್ತಾರು ಆರು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "ಅದೋನಿಕಾಮನ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ಆರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ಅರವತ್ತಾರು"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ಮತ್ತು ಆರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:08.466647292Z",
+  "model": "glm-5.3"
+}

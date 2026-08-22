@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ನೀವೂ ಸಹ, ಕುಶೀಯರೇ — ನನ್ನ ಕತ್ತಿಯಿಂದ ಕೊಲ್ಲಲ್ಪಟ್ಟವರು ಅವರೇ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ಸಹ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ನೀವೂ"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "ಕುಶೀಯರೇ"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ಕೊಲ್ಲಲ್ಪಟ್ಟವರು"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "ನನ್ನ ಕತ್ತಿಯಿಂದ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ಅವರೇ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:26:10.946317809Z",
+  "model": "glm-5.3"
+}

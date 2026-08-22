@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 36,
+  "translation": "ಒಂದು ಹಲಗೆಯ ಉದ್ದ ಹತ್ತು ಮೊಳ, ಮತ್ತು ಒಂದು ಮೊಳ ಮತ್ತು ಅರ್ಧ ಮೊಳ ಒಂದು ಹಲಗೆಯ ಅಗಲ.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ಹತ್ತು"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ಮೊಳ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ಉದ್ದ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ಹಲಗೆಯ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ಮತ್ತು ಒಂದು ಮೊಳ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ಮತ್ತು ಅರ್ಧ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ಮೊಳ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ಅಗಲ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ಹಲಗೆಯ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ಒಂದು"
+    }
+  ],
+  "timestamp": "2026-08-22T04:10:34.674102732Z",
+  "model": "glm-5.3"
+}

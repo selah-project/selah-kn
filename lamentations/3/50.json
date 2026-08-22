@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಯಾಹ್ವೆ ಆಕಾಶದಿಂದ ಕೆಳಗೆ ನೋಡಿ ಕಾಣುವವರೆಗೂ.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ಆವರೆಗೂ"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "ಕೆಳಗೆ ನೋಡುತ್ತಾನೆ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ಮತ್ತು ಕಾಣುತ್ತಾನೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ಆಕಾಶದಿಂದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:24.928497632Z",
+  "model": "glm-5.3"
+}

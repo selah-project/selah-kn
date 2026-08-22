@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಸಲ್ಲಾಯ್‌ಗೆ ಕಲ್ಲಾಯ್; ಅಮೋಕ್‌ಗೆ ಏವೆರ್.",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "ಸಲ್ಲಾಯ್‌ಗೆ"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "ಕಲ್ಲಾಯ್"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "ಅಮೋಕ್‌ಗೆ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ಏವೆರ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:26:38.868058993Z",
+  "model": "glm-5.3"
+}

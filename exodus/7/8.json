@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಗೂ ಅಹರೋನಿಗೂ ಹೇಳಿದನು, ಹೀಗೆಂದು:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ಗೂ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ಅಹರೋನಿ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಗೆಂದು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:38:07.753487100Z",
+  "model": "glm-5.3"
+}

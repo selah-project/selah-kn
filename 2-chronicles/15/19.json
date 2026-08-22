@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಮತ್ತು ಯುದ್ಧವು ಇರಲಿಲ್ಲ, ಅಸಾನ ರಾಜ್ಯಾಡಳಿತದ ಮೂವತ್ತೈದನೆಯ ವರ್ಷದವರೆಗೆ.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "ಮತ್ತು ಯುದ್ಧವು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ಇರಲಿಲ್ಲ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ವರೆಗೆ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ವರ್ಷದ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ಮೂವತ್ತು"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ಮತ್ತು ಐದು"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "ರಾಜ್ಯಾಡಳಿತದ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ಅಸಾನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:51:53.053955618Z",
+  "model": "glm-5.3"
+}

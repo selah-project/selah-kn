@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಎಲೋಹೀಂ ಮೇಲಿರುವ ನನ್ನ ಗುರಾಣಿ, ನೇರ ಹೃದಯದವರನ್ನು ರಕ್ಷಿಸುವವನು.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "ನನ್ನ ಗುರಾಣಿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲಿರುವ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ರಕ್ಷಿಸುವವನು"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ನೇರ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ಹೃದಯದವರನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T01:33:53.970713895Z",
+  "model": "glm-5.3"
+}

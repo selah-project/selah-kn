@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಆದರೆ ಎಲ್ಲಾ ⟨the⟩ ದನಕರು ಮತ್ತು ⟨the⟩ ನಗರಗಳ ಲೂಟಿಯನ್ನು ನಮಗೋಸ್ಕರ ಲೂಟಿಮಾಡಿಕೊಂಡೆವು.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ಆದರೆ ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ದನಕರು"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ಮತ್ತು ಲೂಟಿ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ನಗರಗಳ"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "ಲೂಟಿಮಾಡಿಕೊಂಡೆವು"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ನಮಗೋಸ್ಕರ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:43:31.096793861Z",
+  "model": "glm-5.3"
+}

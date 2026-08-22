@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಯೊಡನೆ ಮತ್ತು ಅಹರೋನೊಡನೆ ಮಾತನಾಡಿ ಹೀಗೆ ಹೇಳುತ್ತಾ ಆದನು,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಡನೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ಮತ್ತು... ಒಡನೆ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ಅಹರೋನ್"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:20:03.348128656Z",
+  "model": "glm-5.3"
+}

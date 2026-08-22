@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 19,
+  "translation": "ಹಫರಾಯಿಮ್, ಶಿಯೋನ್, ಅನಾಹರತ್.",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "ಮತ್ತು ಹಫರಾಯಿಮ್"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "ಮತ್ತು ಶಿಯೋನ್"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "ಮತ್ತು ಅನಾಹರತ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:12:18.371777602Z",
+  "model": "glm-5.3"
+}

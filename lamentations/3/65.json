@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನೀನು ಅವರಿಗೆ ಹೃದಯದ ಮಬ್ಬನ್ನು ಕೊಡು, ನಿನ್ನ ಶಾಪವು ಅವರ ಮೇಲೆ ಇರಲಿ.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "ಕೊಡು"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ಅವರಿಗೆ"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "ಮಬ್ಬನ್ನು"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ಹೃದಯದ"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "ನಿನ್ನ ಶಾಪ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ಅವರ ಮೇಲೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:35.525287813Z",
+  "model": "glm-5.3"
+}

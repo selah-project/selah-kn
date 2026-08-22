@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 20:1",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ಆಗ ತ್ಸೊಫರ್ ಹನ್ನಅಮತಿಯು ಉತ್ತರಿಸಿ ಹೇಳಿದನು —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ಉತ್ತರಿಸಿದನು"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "ತ್ಸೊಫರ್"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "ಹನ್ನಅಮತಿ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:38:54.128444154Z",
+  "model": "glm-5.3"
+}

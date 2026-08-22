@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ದುಷ್ಟರು ಹಾಗಿಲ್ಲ — ಬದಲಾಗಿ ಗಾಳಿ ಕೊಂಡೊಯ್ಯುವ ಹೊಟ್ಟಿನಂತಿದ್ದಾರೆ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ಹಾಗೆ"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ದುಷ್ಟರು"
+    },
+    {
+      "surface": "כי",
+      "gloss": "— (ಬದಲಾಗಿ ಒಂದಿಗೆ)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ಹೊಟ್ಟಿನಂತೆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾವುದನ್ನು"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "ಕೊಂಡೊಯ್ಯುವ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ಗಾಳಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:34:46.282822694Z",
+  "model": "glm-5.3"
+}

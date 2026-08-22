@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 27,
+  "translation": "ಸೀನಾಯ್ ಪರ್ವತದಲ್ಲಿ ಯಿಸ್ರಾಯೇಲ್ ಮಕ್ಕಳಿಗೆ ಯಾಹ್ವೆ ಮೋಶೆಗೆ ಆಜ್ಞಾಪಿಸಿದ ⟨את⟩ ಆಜ್ಞೆಗಳಿವು.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ಇವು"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ಆಜ್ಞೆಗಳು"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾವ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ಆಜ್ಞಾಪಿಸಿದ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಮೋಶೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಗೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವರಿಗೆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳಿಗೆ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಯಿಸ್ರಾಯೇಲ್"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ಪರ್ವತದಲ್ಲಿ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ಸೀನಾಯ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:17:47.565007184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಅವರ ಕೈಗಳ ಕೆಲಸಕ್ಕೆ ತಕ್ಕಂತೆ ಪ್ರತಿಫಲವನ್ನು ಅವರಿಗೆ ತಿರುಗಿಸು, ಯಾಹ್ವೆ.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "ತಿರುಗಿಸು"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ಅವರಿಗೆ"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ಪ್ರತಿಫಲವನ್ನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ಕೆಲಸಕ್ಕೆ ತಕ್ಕಂತೆ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ಅವರ ಕೈಗಳ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:22.231523553Z",
+  "model": "glm-5.3"
+}

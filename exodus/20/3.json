@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ನನ್ನ ಮುಖದ ವಿರುದ್ಧ ನಿನಗೆ ಬೇರೆ ದೇವರು ಇರಬಾರದು.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಇರಬಾರದು"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ಇರಬಾರದು"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನಿನಗೆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ದೇವರು"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ಬೇರೆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ವಿರುದ್ಧ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ಮುಖದ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:46:26.911714405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 31,
+  "translation": "ಮತ್ತು ಮಾನವ ಜೀವಿಗಳು ⟨ಸಂಖ್ಯೆ⟩ ಹದಿನಾರು ಸಾವಿರ.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "ಮತ್ತು ಜೀವಿಗಳು"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ಮಾನವ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ಹದಿನಾರು... ಆರು"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ಹತ್ತು"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ಸಾವಿರ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:38:13.405765372Z",
+  "model": "glm-5.3"
+}

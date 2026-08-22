@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಕೇನಾನ್ ಎಪ್ಪತ್ತು ವರ್ಷ ಬಾಳಿ ಮಹಲಲೇಲನ್ನು ⟨את⟩ ಹೆರಟನು.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ಬಾಳಿ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ಕೇನಾನ್"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ಎಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ವರ್ಷ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ಹೆರಟನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಮಹಲಲೇಲನ್ನು"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "ಮಹಲಲೇಲನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:08:30.822532347Z",
+  "model": "glm-5.3"
+}

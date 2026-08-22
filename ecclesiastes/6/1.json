@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಒಂದು ಕೆಡುಕು ⟨ಇದೆ⟩, ಅದನ್ನು ನಾನು ಸೂರ್ಯನ ಕೆಳಗೆ ನೋಡಿದ್ದೇನೆ, ಮತ್ತು ಅದು ಮನುಷ್ಯನ ಮೇಲೆ ಭಾರವಾಗಿದೆ.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ಇದೆ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ಕೆಡುಕು"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದನ್ನು"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ನಾನು ನೋಡಿದ್ದೇನೆ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ಕೆಳಗೆ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ಸೂರ್ಯನ"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ಮತ್ತು ಭಾರವಾಗಿದೆ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ಮನುಷ್ಯನ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:58:09.343309649Z",
+  "model": "glm-5.3"
+}

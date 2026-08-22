@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ದಾಸರು ನಮ್ಮ ಮೇಲೆ ಆಳಿದರು; ಅವರ ಕೈಯಿಂದ ಬಿಡಿಸುವವನು ⟨ಯಾರೂ⟩ ಇಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "ದಾಸರು"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ಆಳಿದರು"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ನಮ್ಮ ಮೇಲೆ"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ಬಿಡಿಸುವವನು"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ಅವರ ಕೈಯಿಂದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:54:58.120299522Z",
+  "model": "glm-5.3"
+}

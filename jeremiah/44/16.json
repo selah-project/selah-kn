@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 44,
+  "translation": "ನೀನು ಯಾಹ್ವೆಯ ನಾಮದಲ್ಲಿ ನಮಗೆ ಆಡಿದ ಮಾತಿಗೆ — ನಾವು ನಿನ್ನನ್ನು ಕೇಳುತ್ತಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ಮಾತಿಗೆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ನೀನು ಆಡಿದ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ನಮಗೆ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ನಾಮದಲ್ಲಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "ಕೇಳುತ್ತಿಲ್ಲ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ನಿನ್ನನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T00:33:21.745411235Z",
+  "model": "glm-5.3"
+}

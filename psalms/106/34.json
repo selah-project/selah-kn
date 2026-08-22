@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 106,
+  "translation": "ಅವರು ⟨ಆ⟩ ಜನರನ್ನು ⟨את⟩ ನಾಶಪಡಿಸಲಿಲ್ಲ, ಯಾಹ್ವೆ ಅವರಿಗೆ ಹೇಳಿದ್ದಂತೆ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ನಾಶಪಡಿಸಲಿಲ್ಲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಜನರನ್ನು"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ಜನರನ್ನು"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅವರ ಬಗ್ಗೆ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಹೇಳಿದ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ಅವರಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:05:30.388843932Z",
+  "model": "glm-5.3"
+}

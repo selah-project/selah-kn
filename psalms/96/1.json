@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 96,
+  "translation": "ಯಾಹ್ವೆಗೆ ಹೊಸ ಹಾಡನ್ನು ಹಾಡಿರಿ; ಭೂಮಿಯೆಲ್ಲಾ ಯಾಹ್ವೆಗೆ ಹಾಡಿರಿ.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ಹಾಡಿರಿ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ಯಾಹ್ವೆಗೆ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ಹಾಡನ್ನು"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ಹೊಸ"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ಹಾಡಿರಿ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ಯಾಹ್ವೆಗೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:02:26.231200775Z",
+  "model": "glm-5.3"
+}

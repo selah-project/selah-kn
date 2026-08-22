@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಇರಾ ಇಕ್ಕೇಶನ ಮಗ, ತೆಕೋವ್ಯ; ಅಬಿಎಜೆರ್ ಅನತೋತ್ಯ.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ಇರಾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "ಢקש",
+      "gloss": "ಇಕ್ಕೇಶನ"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "ತೆಕೋವ್ಯ"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "ಅಬಿಎಜೆರ್"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "ಅನತೋತ್ಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:51.915614360Z",
+  "model": "glm-5.3"
+}

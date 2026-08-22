@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಒಂದು ಪಲ್ಲಕ್ಕಿಯನ್ನು ಅವನಿಗೋಸ್ಕರ ಮಾಡಿದನು ರಾಜ ಶೆಲೋಮೋ, ಲೆಬನೋನ್‌ನ ಮರಗಳಿಂದ.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "ಪಲ್ಲಕ್ಕಿಯನ್ನು"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ಮಾಡಿದನು"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಅವನಿಗೋಸ್ಕರ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ರಾಜ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ಶೆಲೋಮೋ"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "ಮರಗಳಿಂದ"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ಲೆಬನೋನ್‌ನ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:47:59.780811582Z",
+  "model": "glm-5.3"
+}

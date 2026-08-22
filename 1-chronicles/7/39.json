@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಉಲ್ಲಾನ ಮಕ್ಕಳು — ಅರಾಖ್, ವಖನ್ನಿಯೆಲ್ ಮತ್ತು ವರಿತ್ಸ್ಯಾ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "ಉಲ್ಲಾನ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ಅರಾಖ್"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "ವಖನ್ನಿಯೆಲ್"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "ವರಿತ್ಸ್ಯಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:52.724038609Z",
+  "model": "glm-5.3"
+}

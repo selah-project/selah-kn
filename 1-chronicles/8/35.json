@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಮತ್ತು ಮೀಖಾನ ಮಕ್ಕಳು — ಪಿಥೋನ್, ಮೆಲೆಕ್, ತಾರೆಅ ಮತ್ತು ಅಖಾಜ್.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ... ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ಮೀಖಾನ"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "ಪಿಥೋನ್"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ಮೆಲೆಕ್"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "ತಾರೆಅ"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "ಅಖಾಜ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:35.673050225Z",
+  "model": "glm-5.3"
+}

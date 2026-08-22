@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಇನ್ನೊಂದು ನೆಬೊದ ಜನರು — ಐವತ್ತೆರಡು.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ನೆಬೊ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ಇನ್ನೊಂದು"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ಐವತ್ತು"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ಎರಡು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:41.417547705Z",
+  "model": "glm-5.3"
+}

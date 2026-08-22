@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಅವನು ನನಗೆ ಹುಲಿ ಹತ್ತಿಕೊಂಡಿರುವ ಕರಡಿಯಾಗಿದ್ದಾನೆ, ರಹಸ್ಯ ಸ್ಥಳಗಳಲ್ಲಿ ಸಿಂಹವಾಗಿದ್ದಾನೆ.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "ಕರಡಿ"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ಹುಲಿ ಹತ್ತಿಕೊಂಡಿರುವ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅವನು"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ಸಿಂಹ"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ರಹಸ್ಯ ಸ್ಥಳಗಳಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:45.865170907Z",
+  "model": "glm-5.3"
+}

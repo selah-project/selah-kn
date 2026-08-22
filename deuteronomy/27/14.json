@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 27,
+  "translation": "ಲೆವಿಯರು ಉತ್ತರಿಸಿ ಇಸ್ರಾಯೇಲಿನ ಎಲ್ಲ ಪುರುಷರಿಗೆ ಎತ್ತರವಾದ ಸ್ವರದಲ್ಲಿ ಹೇಳಬೇಕು:",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ಉತ್ತರಿಸಿ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ಲೆವಿಯರು"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ಹೇಳಬೇಕು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ಪುರುಷರಿಗೆ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಇಸ್ರಾಯೇಲಿನ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ಸ್ವರದಲ್ಲಿ"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ಎತ್ತರವಾದ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:57:17.661801238Z",
+  "model": "glm-5.3"
+}

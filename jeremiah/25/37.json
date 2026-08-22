@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 25:37",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 25,
+  "translation": "ಮತ್ತು ಸಮಾಧಾನದ ಮೇವಿನ ನೆಲೆಗಳು ಸ್ತಬ್ಧವಾದವು, ಯಾಹ್ವೆಯ ಕೋಪದ ಉರಿಯ ಮುಂದೆ.",
+  "tokens": [
+    {
+      "surface": "ונדמו",
+      "gloss": "ಮತ್ತು ಸ್ತಬ್ಧವಾದವು"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "ಮೇವಿನ ನೆಲೆಗಳು"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "ಸಮಾಧಾನದ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ಮುಂದೆ"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ಉರಿ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ಕೋಪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:20:09.544546724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ಕ್ರೂರ ಮುಖದ ಜನಪದ — ವೃದ್ಧನ ಮುಖವನ್ನು ಅದು ಗೌರವಿಸುವುದಿಲ್ಲ, ತರುಣನಿಗೆ ಕರುಣೆ ತೋರುವುದಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "ಜನಪದ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ಕ್ರೂರ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ಮುಖದ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ಗೌರವಿಸುವುದಿಲ್ಲ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ಮುಖವನ್ನು"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "ವೃದ್ಧನ"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ಮತ್ತು ತರುಣನಿಗೆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "ಕರುಣೆ ತೋರುವುದಿಲ್ಲ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:59:44.475798748Z",
+  "model": "glm-5.3"
+}

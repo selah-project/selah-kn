@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಆತ ಬೇರೆ ದಾರಿಯಲ್ಲಿ ಹೋದನು, ಬೇತ್-ಎಲ್‌ಗೆ ಬಂದ ದಾರಿಯಲ್ಲಿ ಹಿಂತಿರುಗಲಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ಮತ್ತು ಹೋದನು"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ದಾರಿಯಲ್ಲಿ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ಬೇರೆ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ಮತ್ತು ಇಲ್ಲ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ಹಿಂತಿರುಗಿದನು"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ದಾರಿಯಲ್ಲಿ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ಬಂದ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ಅದರಲ್ಲಿ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಬೇತ್"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಲ್"
+    }
+  ],
+  "timestamp": "2026-08-21T23:13:58.139287953Z",
+  "model": "glm-5.3"
+}

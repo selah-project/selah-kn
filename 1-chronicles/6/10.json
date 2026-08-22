@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಮತ್ತು ಎಲ್ಕಾನಾನ ಮಕ್ಕಳು: ಅಮಸಾಯ್ ಮತ್ತು ಅಹಿಮೋತ್.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು …ನ ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ಎಲ್ಕಾನಾ"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "ಅಮಸಾಯ್"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "ಮತ್ತು ಅಹಿಮೋತ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:18.299611103Z",
+  "model": "glm-5.3"
+}

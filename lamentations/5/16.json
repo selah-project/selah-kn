@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಬಿದ್ದಿದೆ ನಮ್ಮ ತಲೆಯ ಕಿರೀಟವು; ಆಹಾ ⟨ಈಗ⟩ ನಮಗೆ, ಯಾಕೆಂದರೆ ನಾವು ಪಾಪ ಮಾಡಿದೆವು.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "ಬಿದ್ದಿದೆ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ಕಿರೀಟವು"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "ನಮ್ಮ ತಲೆಯ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ಆಹಾ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ಈಗ⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ನಮಗೆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "ನಾವು ಪಾಪ ಮಾಡಿದೆವು"
+    }
+  ],
+  "timestamp": "2026-08-22T04:46:47.654565573Z",
+  "model": "glm-5.3"
+}

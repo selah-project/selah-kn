@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಉಜ್ಜೀಯಾ ⟨the⟩ ಅಶ್ತೆರಾತೀಯನು, ಶಾಮಾ ಮತ್ತು ಯೆಇಯೇಲ್ — ಹೋತಾಮಿನ ಮಕ್ಕಳು, ⟨the⟩ ಅರೋವೇರೀಯನು;",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "ಉಜ್ಜೀಯಾ"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "ಅಶ್ತೆರಾತೀಯನು"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ಶಾಮಾ"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "ಯೆಇಯೇಲ್"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "ಹೋತಾಮ್"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "ಅರೋವೇರೀಯನು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:20.728312890Z",
+  "model": "glm-5.3"
+}

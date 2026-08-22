@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಒಂದು ಕರು, ಹೋರಿಯ ಮರಿ, ಒಂದು ಕುರಿರಾಮು, ಒಂದು ಕುರಿಮರಿ, ತನ್ನ ವರ್ಷದ ಮಗು, ಸುಡುಬಲಿಗಾಗಿ.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ಕರು"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮರಿ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ಹೋರಿಯ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ಕುರಿರಾಮು"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ಕುರಿಮರಿ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗು"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ತನ್ನ ವರ್ಷದ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ಸುಡುಬಲಿಗಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:23:45.419425617Z",
+  "model": "glm-5.3"
+}

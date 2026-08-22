@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಆಲಸ್ಯದಿಂದ ಛಾವಣಿಯು ಕುಸಿಯುವುದು, ಮತ್ತು ಕೈಗಳ ಸೋಮಾರಿತನದಿಂದ ಮನೆಯು ಸೋರುವುದು.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "ಆಲಸ್ಯದಿಂದ"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "ಕುಸಿಯುವುದು"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "ಛಾವಣಿಯು"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "ಮತ್ತು ಸೋಮಾರಿತನದಿಂದ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ಕೈಗಳ"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "ಸೋರುವುದು"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ಮನೆಯು"
+    }
+  ],
+  "timestamp": "2026-08-22T04:47:29.042070487Z",
+  "model": "glm-5.3"
+}

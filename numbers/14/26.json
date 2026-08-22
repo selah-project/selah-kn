@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಗೆ ಮತ್ತು ಅಹರೋನನಿಗೆ ಹೀಗೆ ಹೇಳುತ್ತಾ ಆಡಿದನು:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮತ್ತು ಆಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನಿಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಗೆ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ಮತ್ತು ಇವನಿಗೆ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ಅಹರೋನನಿಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:27:37.067135954Z",
+  "model": "glm-5.3"
+}

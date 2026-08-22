@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಇಸ್ರಾಯೇಲನು ದಾಸನೇ? ಮನೆಯಲ್ಲಿ ಹುಟ್ಟಿದ ದಾಸನೇ ⟨הוא⟩? ಆದರೆ ಏಕೆ ಅವನು ಲೂಟಿಗೆ ಈಡಾದನು?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "ದಾಸನೇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಇಸ್ರಾಯೇಲನು"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ಅಥವಾ"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "ಹುಟ್ಟಿದ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಮನೆಯಲ್ಲಿ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅವನೇ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ಏಕೆ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ಆದನು"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "ಲೂಟಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:06:07.178393433Z",
+  "model": "glm-5.3"
+}

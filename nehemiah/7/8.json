@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಪರಅಶ್‌ನ ಮಕ್ಕಳು — ಎರಡು ಸಾವಿರ ನೂರ ಎಪ್ಪತ್ತೆರಡು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ಪರಅಶ್‌ನ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ಎರಡು ಸಾವಿರ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ನೂರ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ಎಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ಎರಡು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:22:34.072308137Z",
+  "model": "glm-5.3"
+}

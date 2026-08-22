@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 29,
+  "translation": "ನಿನ್ನ ಕಣ್ಣುಗಳು ನೋಡಿದ ಮಹಾ ಪರೀಕ್ಷೆಗಳು, ಆ ಚಿಹ್ನೆಗಳು ಮತ್ತು ಆ ಮಹಾ ಅದ್ಭುತಗಳು —",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "ಪರೀಕ್ಷೆಗಳು"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "ಮಹಾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾವ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ನೋಡಿದ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ನಿನ್ನ ಕಣ್ಣುಗಳು"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ಚಿಹ್ನೆಗಳು"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "ಮತ್ತು ಅದ್ಭುತಗಳು"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ಮಹಾ"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ಆ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:00:07.565514991Z",
+  "model": "glm-5.3"
+}

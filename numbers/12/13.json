@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಮೋಶೆ ಯಾಹ್ವೆಯ ಬಳಿ ಕೂಗಿ ಈ ರೀತಿ ಹೇಳಿದನು: ಎಲ್, ದಯವಿಟ್ಟು ಅವಳನ್ನು ಗುಣಪಡಿಸು, ದಯವಿಟ್ಟು.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ಕೂಗಿದನು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುವುದಕ್ಕೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಲ್"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ದಯವಿಟ್ಟು"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "ಗುಣಪಡಿಸು"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ದಯವಿಟ್ಟು"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ಅವಳನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:26:47.856721935Z",
+  "model": "glm-5.3"
+}

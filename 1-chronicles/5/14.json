@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 5:14",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಇವರು ಅವಿಖಾಯಿಲ್‌ನ ಮಕ್ಕಳು — ಖೂರಿಯ ಮಗ, ಯಾರೋವಾಖ್‌ನ ಮಗ, ಗಿಲ್ಆದ್‌ನ ಮಗ, ಮಿಖಾಯೆಲ್‌ನ ಮಗ, ಯೆಶಿಶಾಯ್‌ನ ಮಗ, ಯಾಖ್ದೊವಿನ ಮಗ, ಬೂಜ್‌ನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ಇವರು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "אביחיל",
+      "gloss": "ಅವಿಖಾಯಿಲ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "ಖೂರಿ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "ירוח",
+      "gloss": "ಯಾರೋವಾಖ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ಗಿಲ್ಆದ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "ಮಿಖಾಯೆಲ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "ישישי",
+      "gloss": "ಯೆಶಿಶಾಯ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ಯಾಖ್ದೊ"
+    },
+    {
+      "surface": "ಟוז",
+      "gloss": "ಬೂಜ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:08.113499514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 21,
+  "translation": "ಮತ್ತು ಅವ್ರಾಹಾಂ ಹೇಳಿದನು: ನಾನು ಪ್ರಮಾಣ ಮಾಡುವೆನು.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ಅವ್ರಾಹಾಂ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "ಪ್ರಮಾಣ ಮಾಡುವೆನು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:17:43.105826465Z",
+  "model": "glm-5.3"
+}

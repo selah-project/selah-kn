@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಅವರ ಎಣಿಕೆಗೊಂಡವರು ಎಂಟು ಸಾವಿರ ಐದು ನೂರೆಂಬತ್ತು ಮಂದಿ ಆಗಿದ್ದರು.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ಆಗಿದ್ದರು"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ಅವರ ಎಣಿಕೆಗೊಂಡವರು"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "ಎಂಟು"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ಸಾವಿರ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ಐದು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ಎಂಬತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:22:10.120626728Z",
+  "model": "glm-5.3"
+}

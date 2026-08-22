@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಆಗ ನಾನು ⟨את⟩ ಈಗಾಗಲೇ ಸತ್ತಿರುವ ಸತ್ತವರನ್ನು, ಇನ್ನೂ ಬದುಕಿರುವ ಬದುಕಿದವರಿಗಿಂತ ಹೆಚ್ಚಾಗಿ ಹೊಗಳಿದೆನು.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "ಹೊಗಳಿದೆನು"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಸತ್ತವರನ್ನು"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ಸತ್ತವರನ್ನು"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "ಈಗಾಗಲೇ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ಸತ್ತಿರುವ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ಹೆಚ್ಚಾಗಿ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ಬದುಕಿದವರಿಗಿಂತ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅವರು"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ಅವರೇ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ಬದುಕಿರುವ"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "ಇನ್ನೂ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:56:43.677205676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಮಿಕಾನ ಮಕ್ಕಳು: ಪಿತ್ತೋನ್, ಮೆಲೆಕ್, ತಾಹ್ರೇಅ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ಮಿಕಾ"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "ಪಿತ್ತೋನ್"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ಮತ್ತು ಮೆಲೆಕ್"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "ಮತ್ತು ತಾಹ್ರೇಅ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:34:07.721815489Z",
+  "model": "glm-5.3"
+}

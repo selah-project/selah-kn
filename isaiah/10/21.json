@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಶೇಷವು ಹಿಂತಿರುವುದು, ಯಾಕೋವಿನ ಶೇಷವು, ಬಲಿಷ್ಠ ಎಲ್‌ನೆಡೆಗೆ",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "ಶೇಷವು"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ಹಿಂತಿರುವುದು"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ಶೇಷವು"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ಯಾಕೋವಿನ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಡೆಗೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಲ್"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ಬಲಿಷ್ಠ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:42:41.767938666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಸಂಕಟದ ದಿನದಲ್ಲಿ ನೀನು ಸಡಿಲಗೊಂಡರೆ — ನಿನ್ನ ಬಲವು ಸಣ್ಣದು.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "ನೀನು ಸಡಿಲಗೊಂಡರೆ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ದಿನದಲ್ಲಿ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ಸಂಕಟದ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ಸಣ್ಣ"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "ನಿನ್ನ ಬಲವು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:26:41.943361758Z",
+  "model": "glm-5.3"
+}

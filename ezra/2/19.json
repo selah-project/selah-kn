@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಖಾಶುಮನ ಮಕ್ಕಳು — ಎರಡು ನೂರು ಇಪ್ಪತ್ತು ಮೂರು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ಖಾಶುಮ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ಎರಡು ನೂರು"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ಇಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ಮೂರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:19.779420291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ನಮ್ಮ ನೀರನ್ನು ಬೆಳ್ಳಿಗೆ ಕುಡಿದೆವು; ನಮ್ಮ ಕಟ್ಟಿಗೆಯು ಬೆಲೆಗೆ ಬರುತ್ತದೆ.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "ನಮ್ಮ ನೀರನ್ನು"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ಬೆಳ್ಳಿಗೆ"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "ಕುಡಿದೆವು"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "ನಮ್ಮ ಕಟ್ಟಿಗೆಯು"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "ಬೆಲೆಗೆ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ಬರುತ್ತದೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:01.075115882Z",
+  "model": "glm-5.3"
+}

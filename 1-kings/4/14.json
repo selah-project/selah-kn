@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಅಖಿನದಾಬ್, ಇದ್ದೊ ಮಗ, ಮಖನಾಯಿಮ್‌ನಲ್ಲಿ.",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "ಅಖಿನದಾಬ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "ಇದ್ದೊ"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "ಮಖನಾಯಿಮ್‌ನಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:04:29.832942499Z",
+  "model": "glm-5.3"
+}

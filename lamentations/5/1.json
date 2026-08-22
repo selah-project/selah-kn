@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಯಾಹ್ವೆಯೇ, ನಮಗೆ ಏನಾಯಿತು ಎಂದು ನೆನಪಿಡಿ; ನೋಡು, ⟨את⟩ ನಮ್ಮ ಅವಮಾನವನ್ನು ಕಾಣು.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ನೆನಪಿಡಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯೇ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ಏನು"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ನಮಗೆ"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ನೋಡು"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ಮತ್ತು ಕಾಣು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ನಮ್ಮ ಅವಮಾನವನ್ನು"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "ನಮ್ಮ ಅವಮಾನ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:01.074637796Z",
+  "model": "glm-5.3"
+}

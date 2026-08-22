@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 83,
+  "translation": "ಎಲೋಹೀಂ, ನಿನಗೆ ಮೌನವಾಗಿರಬೇಡ; ಸುಮ್ಮನಿರಬೇಡ ಮತ್ತು ಶಾಂತವಾಗಿರಬೇಡ, ಎಲ್.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ಮೌನ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನಿನಗೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ಸುಮ್ಮನಿರು"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ಮತ್ತು ಬೇಡ"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "ಶಾಂತವಾಗಿರು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಲ್"
+    }
+  ],
+  "timestamp": "2026-08-22T01:57:41.158391960Z",
+  "model": "glm-5.3"
+}

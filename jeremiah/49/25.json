@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 49,
+  "translation": "ಹೇಗೆ ⟨ಅದು⟩ ಬಿಡಲ್ಪಡಲಿಲ್ಲ — ಸ್ತುತಿಯ ನಗರ, ನನ್ನ ಸಂತೋಷದ ನಗರ!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ಹೇಗೆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "ಬಿಡಲ್ಪಡಲಿಲ್ಲ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ನಗರ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ಸ್ತುತಿಯ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ನಗರ"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "ನನ್ನ ಸಂತೋಷದ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:33:36.910077976Z",
+  "model": "glm-5.3"
+}

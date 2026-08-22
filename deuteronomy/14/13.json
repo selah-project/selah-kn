@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಮತ್ತು ಕೆಂಪು ಗಿಡುಗ, ⟨את⟩ ಕಪ್ಪು ಗಿಡುಗ, ಮತ್ತು ಹದ್ದು ಅದರ ಜಾತಿಯಂತೆ",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "ಕೆಂಪು ಗಿಡುಗ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ಕಪ್ಪು ಗಿಡುಗ"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ಕಪ್ಪು ಗಿಡುಗ"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "ಹದ್ದು"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ಅದರ ಜಾತಿಯಂತೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:49:40.756087151Z",
+  "model": "glm-5.3"
+}

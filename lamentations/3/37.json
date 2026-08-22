@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಯಾರು ⟨ಈ⟩ ಹೇಳಿದನು ಮತ್ತು ⟨ಅದು⟩ ಆಯಿತು — ಅದೋನಾಯ್ ಆಜ್ಞೆ ಮಾಡದೆ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ಯಾರು"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ಈ⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ಮತ್ತು ⟨ಅದು⟩ ಆಯಿತು"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ಅದೋನಾಯ್"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ಆಜ್ಞೆ ಮಾಡಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:26.974445214Z",
+  "model": "glm-5.3"
+}

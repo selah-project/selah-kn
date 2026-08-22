@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 89,
+  "translation": "ಯಾಹ್ವೆಯು ನಿತ್ಯವಾಗಿ ಮಂಗಳಮಯನು; ಆಮೆನ್, ಮತ್ತು ಆಮೆನ್.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ಮಂಗಳಮಯನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯು"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ನಿತ್ಯವಾಗಿ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ಆಮೆನ್"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ಮತ್ತು ಆಮೆನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T02:00:49.550214238Z",
+  "model": "glm-5.3"
+}

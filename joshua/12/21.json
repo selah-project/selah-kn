@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ತಾನಾಕ್‌ನ ರಾಜ ಒಬ್ಬನು; ಮೆಗಿದ್ದೋವಿನ ರಾಜ ಒಬ್ಬನು.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜ"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "ತಾನಾಕ್‌ನ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜ"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "ಮೆಗಿದ್ದೋವಿನ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    }
+  ],
+  "timestamp": "2026-08-21T22:08:42.976716423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನಾನು ನಿನ್ನನ್ನು ಕರೆದ ದಿನದಲ್ಲಿ ನೀನು ಹತ್ತಿರ ಬಂದೆ; ನೀನು ಹೇಳಿದೆ — ಭಯಪಡಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "ನೀನು ಹತ್ತಿರ ಬಂದೆ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ದಿನದಲ್ಲಿ"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "ನಾನು ನಿನ್ನನ್ನು ಕರೆದ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ನೀನು ಹೇಳಿದೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ಭಯಪಡಬೇಡ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:46.688815315Z",
+  "model": "glm-5.3"
+}

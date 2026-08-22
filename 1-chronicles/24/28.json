@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಮಾಹ್ಲಿಗೆ ಎಲಾಜಾರ್; ಅವನಿಗೆ ಮಕ್ಕಳು ಇರಲಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "ಮಾಹ್ಲಿಗೆ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ಎಲಾಜಾರ್"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ಇರಲಿಲ್ಲ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ಆಗಲಿಲ್ಲ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಅವನಿಗೆ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ಮಕ್ಕಳು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:40:43.953420982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಆದರೆ ಇವುಗಳನ್ನು ನೀವು ತಿನ್ನಬಾರದು — ⟨the⟩ ಗಿಡುಗ, ⟨the⟩ ಪರ್ಸ್ ಮತ್ತು ⟨the⟩ ಅಜ್ನಿಯಾ.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ಆದರೆ ಇವುಗಳನ್ನು"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಬಾರದು"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ನೀವು ತಿನ್ನ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ಅವುಗಳಲ್ಲಿ"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ಗಿಡುಗ"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "ಮತ್ತು ಪರ್ಸ್"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "ಮತ್ತು ಅಜ್ನಿಯಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:49:43.807771221Z",
+  "model": "glm-5.3"
+}

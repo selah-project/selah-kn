@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 17,
+  "translation": "ಮುದುಕರ ಕಿರೀಟ ⟨is⟩ ಮಕ್ಕಳ ಮಕ್ಕಳು; ಮಕ್ಕಳ ಹೆಮ್ಮೆ ⟨is⟩ ಅವರ ತಂದೆಯರು.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "ಕಿರೀಟ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ಮುದುಕರ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "ಮತ್ತು ಹೆಮ್ಮೆ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ಅವರ ತಂದೆಯರು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:23:33.961199882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 19,
+  "translation": "ಸಂಗೀತಗಾರರ ಮುಖ್ಯಸ್ಥನಿಗೆ; ದಾವಿದ್‌ನ ಮಜ್ಮೋರ್.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ಸಂಗೀತಗಾರರ ಮುಖ್ಯಸ್ಥನಿಗೆ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ಮಜ್ಮೋರ್"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ದಾವಿದ್‌ನ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:39:21.197480036Z",
+  "model": "glm-5.3"
+}

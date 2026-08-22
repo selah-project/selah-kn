@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಯಾಜಕರಲ್ಲಿ ⟨from⟩: ಯೆದಾಯ, ಯೋಯಾರಿಬನ ಮಗ, ಯಾಖೀನ್.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ಲ್ಲಿ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ಯಾಜಕರ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ಯೆದಾಯ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "ಯೋಯಾರಿಬನ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ಯಾಖೀನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:26:27.137254697Z",
+  "model": "glm-5.3"
+}

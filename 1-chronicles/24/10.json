@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಏಳನೆಯದು ಹಕ್ಕೋಸ್‌ಗೆ, ಎಂಟನೆಯದು ಅವಿಯಾಗೆ.",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "ಹಕ್ಕೋಸ್‌ಗೆ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ಏಳನೆಯದು"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "ಅವಿಯಾಗೆ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ಎಂಟನೆಯದು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:40:42.555477729Z",
+  "model": "glm-5.3"
+}

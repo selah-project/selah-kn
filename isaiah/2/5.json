@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಯಾಕೋವನ ಮನೆಯೇ, ಬನ್ನಿ, ಯಾಹ್ವೆಯ ಬೆಳಕಿನಲ್ಲಿ ನಾವು ನಡೆಯೋಣ.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ಮನೆಯೇ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ಯಾಕೋವನ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ಬನ್ನಿ"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ನಾವು ನಡೆಯೋಣ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ಬೆಳಕಿನಲ್ಲಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:36:34.199273173Z",
+  "model": "glm-5.3"
+}

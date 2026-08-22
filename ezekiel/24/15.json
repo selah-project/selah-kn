@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 24:15",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಯಾಹ್ವೆಯ ವಾಣಿ ನನಗೆ ಬಂದು ಹೇಳಿದ್ದು:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಗ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಣಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳಿದ್ದು"
+    }
+  ],
+  "timestamp": "2026-08-22T00:54:34.029435970Z",
+  "model": "glm-5.3"
+}

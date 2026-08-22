@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ನೀತವಂತನ ಸಂಪಾದನೆ ಜೀವನಕ್ಕೆ; ದುರ್ಜನನ ಫಸಲು ಪಾಪಕ್ಕೆ.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "ಸಂಪಾದನೆ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ನೀತವಂತನ"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "ಜೀವನಕ್ಕೆ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ಫಸಲು"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ದುರ್ಜನನ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ಪಾಪಕ್ಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:21:02.287925455Z",
+  "model": "glm-5.3"
+}

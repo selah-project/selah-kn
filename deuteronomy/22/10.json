@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಎತ್ತನ್ನೂ ಕತ್ತೆಯನ್ನೂ ಒಟ್ಟಿಗೆ ಹೊಲ ಉಳಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ಹೊಲ ಉಳಬೇಡ"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "ಎತ್ತನ್ನೂ"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "ಕತ್ತೆಯನ್ನೂ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ಒಟ್ಟಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:52:38.700809121Z",
+  "model": "glm-5.3"
+}

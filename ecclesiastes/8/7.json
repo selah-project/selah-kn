@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಯಾಕೆಂದರೆ ಮುಂದೆ ಏನಾಗುವುದೋ ಅವನು ಅರಿಯುವುದಿಲ್ಲ; ಯಾಕೆಂದರೆ ಅದು ಆದಾಗ ಅವನಿಗೆ ಯಾರು ತಿಳಿಸುವನು?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ಅರಿಯುವುದಿಲ್ಲ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ಏನು"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ಆಗುವುದೋ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ಯಾವಾಗ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ಅದು ಆಗುವುದೋ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ಯಾರು"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ತಿಳಿಸುವನು"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಅವನಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:47:29.660203048Z",
+  "model": "glm-5.3"
+}

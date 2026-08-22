@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆ ನನಗೆ ಹೇಳಿದನು ಹೀಗೆಂದು: ನೋಡಿದೆನು ⟨את⟩ ಈ ಜನರನ್ನು, ಮತ್ತು ಇಗ ⟨ಇವರು⟩ ಬೆನ್ನು ಗಟ್ಟಿಯಾದ ಜನ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಮತ್ತು ಹೇಳಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಗೆಂದು"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ನೋಡಿದೆನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಈ ಜನರನ್ನು"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ಮತ್ತು ಇಗ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ಜನ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ಗಟ್ಟಿಯಾದ"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ಬೆನ್ನು"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅವರು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:47:48.827873013Z",
+  "model": "glm-5.3"
+}

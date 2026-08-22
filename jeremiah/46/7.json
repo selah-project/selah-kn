@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 46:7",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 46,
+  "translation": "ಇದು ಯಾರು, ನದಿಯಂತೆ ಏರುತ್ತಾನೆ, ನದಿಗಳಂತೆ ಅವನ ನೀರುಗಳು ಕುದಿಯುತ್ತಿವೆ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ಯಾರು"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ಇದು"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "ನದಿಯಂತೆ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ಏರುತ್ತಾನೆ"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "ನದಿಗಳಂತೆ"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "ಕುದಿಯುತ್ತಿವೆ"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ಅವನ ನೀರುಗಳು"
+    }
+  ],
+  "timestamp": "2026-08-22T00:32:42.178063445Z",
+  "model": "glm-5.3"
+}

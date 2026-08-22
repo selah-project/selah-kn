@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಆಗ ಅವ್ರಾಹಾಂ ದೇಶದ ಜನರ ಎದುರಿಗೆ ಸಾಷ್ಟಾಂಗ ಬಾಗಿದನು.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "ಸಾಷ್ಟಾಂಗ ಬಾಗಿದನು"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ಅವ್ರಾಹಾಂ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ಎದುರಿಗೆ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ಜನರ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ದೇಶದ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:17:56.765081636Z",
+  "model": "glm-5.3"
+}

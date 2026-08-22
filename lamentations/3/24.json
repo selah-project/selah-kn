@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನನ್ನ ಪಾಲು ⟨ಆಗಿದೆ⟩ ಯಾಹ್ವೆ, ಎಂದು ನನ್ನ ನೆಫೆಶ್ ಹೇಳಿತು; ಆದ್ದರಿಂದ ನಾನು ಆತನಿಗಾಗಿ ನಿರೀಕ್ಷಿಸುವೆನು.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "ನನ್ನ ಪಾಲು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ಹೇಳಿತು"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ನನ್ನ ನೆಫೆಶ್"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ಆದ್ದರಿಂದ"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "ನಿರೀಕ್ಷಿಸುವೆನು"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಆತನಿಗಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:53:00.755174405Z",
+  "model": "glm-5.3"
+}

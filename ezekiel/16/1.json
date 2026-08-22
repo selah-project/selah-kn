@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 16:1",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ನನಗೆ ಉಂಟಾಯಿತು, ಹೇಳುವುದಕ್ಕೆ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುವುದಕ್ಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:34:38.557061961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 10:18",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಯಾಹ್ವೆಯ ಕಾವೋದ್ ಮನೆಯ ⟨the⟩ ಉಗುಳಿನಿಂದ ಹೊರಟು ಕೆರೂಬೀಂ ಮೇಲೆ ನಿಂತಿತು.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ಹೊರಟು"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ಕಾವೋದ್"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ಮೇಲಿಂದ"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "ಉಗುಳಿನ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ಮನೆಯ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ನಿಂದಿತು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ಕೆರೂಬೀಂ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:43:42.954649910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಬೋಅಜ್ ⟨את⟩ ಓಬೇದನ್ನು ಪಡೆದನು, ಮತ್ತು ಓಬೇದ್ ⟨את⟩ ಯಿಶಾಯನ್ನು ಪಡೆದನು.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "ಮತ್ತು ಬೋಅಜ್"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ಪಡೆದನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಓಬೇದನ್ನು"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ಓಬೇದ್"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ಮತ್ತು ಓಬೇದ್"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ಪಡೆದನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಯಿಶಾಯನ್ನು"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ಯಿಶಾಯ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:41.430539376Z",
+  "model": "glm-5.3"
+}

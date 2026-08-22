@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 21,
+  "translation": "ಅಥವಾ ಯಾವ ಪುರುಷನಲ್ಲಿ ಕಾಲಿನ ಮುರಿತವಿರುವುದೋ, ಅಥವಾ ಕೈಯ ಮುರಿತವಿರುವುದೋ.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ಅಥವಾ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ಪುರುಷನಲ್ಲಿ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾವನಲ್ಲಿ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ಇರುವುದೋ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ಅವನಲ್ಲಿ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ಮುರಿತವು"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ಕಾಲಿನ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ಅಥವಾ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ಮುರಿತವು"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ಕೈಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:13:53.054899897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಯೋಸೇಫನ ಮನೆಯವರೂ ⟨they⟩ ಬೇತ್-ಎಲ್‌ನ ವಿರುದ್ಧ ಏರಿಹೋದರು; ಮತ್ತು ಯಾಹ್ವೆ ಅವರೊಂದಿಗೆ ಇದ್ದನು.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ಏರಿಹೋದರು"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಮನೆಯವರು"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ಯೋಸೇಫನ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ಕೂಡ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ಅವರೇ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಬೇತ್"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಲ್"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ಅವರೊಂದಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:15:08.200598160Z",
+  "model": "glm-5.3"
+}

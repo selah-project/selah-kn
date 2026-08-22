@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 49:18",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 49,
+  "translation": "ನಿನ್ನ ವಿಮೋಚನೆಗಾಗಿ ನಾನು ಕಾಯುತ್ತೇನೆ, ಯಾಹ್ವೆ.",
+  "tokens": [
+    {
+      "surface": "לישועתך",
+      "gloss": "ನಿನ್ನ ವಿಮೋಚನೆಗಾಗಿ"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ನಾನು ಕಾಯುತ್ತೇನೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:36:38.393035823Z",
+  "model": "glm-5.3"
+}

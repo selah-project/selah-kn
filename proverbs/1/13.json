@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಎಲ್ಲಾ ಬೆಲೆಬಾಳುವ ಸಂಪತ್ತು ಸಿಗುವುದು; ನಮ್ಮ ಮನೆಗಳನ್ನು ಲೂಟಿಯಿಂದ ತುಂಬಿಸೋಣ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ಸಂಪತ್ತು"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ಬೆಲೆಬಾಳುವ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ಸಿಗುವುದು"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "ತುಂಬಿಸೋಣ"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ನಮ್ಮ ಮನೆಗಳನ್ನು"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ಲೂಟಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:16:32.969454079Z",
+  "model": "glm-5.3"
+}

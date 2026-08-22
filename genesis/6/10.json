@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ನೋವಾಹು ⟨את⟩ ಶೆಮ್, ⟨את⟩ ಖಾಮ್ ಮತ್ತು ⟨את⟩ ಯಾಫೆತ್ ಎಂಬ ಮೂವರು ಪುತ್ರರನ್ನು ಪಡೆದನು.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ಪಡೆದನು"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ನೋವಾಹು"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ಮೂವರು"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ಪುತ್ರರನ್ನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಶೆಮ್"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ಶೆಮ್"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಖಾಮ್"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ಖಾಮ್"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ಮತ್ತು ⟨את⟩",
+      "marks": "ಯಾಫೆತ್"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ಯಾಫೆತ್"
+    }
+  ],
+  "timestamp": "2026-08-21T20:10:07.240026970Z",
+  "model": "glm-5.3"
+}

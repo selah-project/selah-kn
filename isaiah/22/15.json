@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 22:15",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಹೀಗೆ ಹೇಳಿದನು ಅದೋನಾಯ್ ಯಾಹ್ವೆ ಸೈನ್ಯಗಳ: ಹೋಗು, ಈ ಆಡಳಿತಗಾರನ ಬಳಿ ಬಾ, ಮನೆಯ ಮೇಲಿರುವ ಶೆಬ್ನಾನ ಬಳಿ,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ಹೀಗೆ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ಅದೋನಾಯ್"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ಸೈನ್ಯಗಳ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ಹೋಗು"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ಬಾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿ"
+    },
+    {
+      "surface": "הסכן",
+      "gloss": "ಈ ಆಡಳಿತಗಾರನ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲಿರುವ"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "ಶೆಬ್ನಾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾರು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲಿರುವ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ಮನೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:28:26.461509765Z",
+  "model": "glm-5.3"
+}

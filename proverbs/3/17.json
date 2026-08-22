@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಅವಳ ದಾರಿಗಳು ಮನೋಹರತೆಯ ದಾರಿಗಳು, ಮತ್ತು ಅವಳ ಎಲ್ಲಾ ಹಾದಿಗಳು ಶಾಂತಿ.",
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "ಅವಳ ದಾರಿಗಳು"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ದಾರಿಗಳು"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "ಮನೋಹರತೆಯ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ಮತ್ತು ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "ಅವಳ ಹಾದಿಗಳು"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ಶಾಂತಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:17:50.308145912Z",
+  "model": "glm-5.3"
+}

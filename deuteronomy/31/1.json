@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 31,
+  "translation": "ಮೋಶೆ ಹೋದನು ಮತ್ತು ⟨את⟩ ⟨the⟩ ಈ ಮಾತುಗಳನ್ನು ಇಸ್ರಾಯೇಲಿನ ಎಲ್ಲರಿಗೂ ಆಡಿದನು.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ಹೋದನು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ಮತ್ತು ಆಡಿದನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಈ ಮಾತುಗಳನ್ನು"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ಮಾತುಗಳನ್ನು"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವರಿಗೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲರಿಗೂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಇಸ್ರಾಯೇಲಿನ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:17:31.719153531Z",
+  "model": "glm-5.3"
+}

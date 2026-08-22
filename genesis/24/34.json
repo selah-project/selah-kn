@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಆತನು ಹೇಳಿದನು: ನಾನು ಅವ್ರಾಹಾಂನ ಸೇವಕನು.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಆತನು ಹೇಳಿದನು"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ಸೇವಕನು"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ಅವ್ರಾಹಾಂನ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ನಾನು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:19:56.093942186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಇಸ್ರಾಯೇಲಿನ ಸಮಸ್ತ ಸಭೆಯು ⟨את⟩ ಅದನ್ನು ಮಾಡಬೇಕು.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ಸಮಸ್ತ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ಸಭೆಯು"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಇಸ್ರಾಯೇಲಿನ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ಮಾಡಬೇಕು"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ಅದನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:43:19.684257761Z",
+  "model": "glm-5.3"
+}

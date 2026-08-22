@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 46,
+  "translation": "ಎಲೋಹೀಂ ನಮಗೆ ಆಶ್ರಯ ಮತ್ತು ಬಲ, ಸಂಕಟಗಳಲ್ಲಿ ಬಹಳವಾಗಿ ಕಂಡುಬರುವ ಸಹಾಯ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ನಮಗೆ"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "ಆಶ್ರಯ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ಮತ್ತು ಬಲ"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "ಸಹಾಯ"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ಸಂಕಟಗಳಲ್ಲಿ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ಕಂಡುಬರುವ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ಬಹಳವಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:48:05.377126174Z",
+  "model": "glm-5.3"
+}

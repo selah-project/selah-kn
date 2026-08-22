@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 32,
+  "translation": "ಮತ್ತು ⟨ಅವನು⟩ ಹೇಳುವನು — ಎಲ್ಲಿ ಅವರ ದೇವರು? ಅವರು ನೆಂಬಿಕೆಯಿಟ್ಟ ಬಂಡೆ ಎಲ್ಲಿ?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ಮತ್ತು ಹೇಳುವನು"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ಎಲ್ಲಿ"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "ಅವರ ದೇವರು"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ಬಂಡೆ"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "ನೆಂಬಿಕೆಯಿಟ್ಟ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ಅದರಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:00:37.125945074Z",
+  "model": "glm-5.3"
+}

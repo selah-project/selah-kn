@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಆಡುಗಳ ಒಂದು ಗಂಡುಮರಿ, ಪಾಪಬಲಿಗಾಗಿ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ಗಂಡುಮರಿ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ಆಡುಗಳ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ಪಾಪಬಲಿಗಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:22:35.006627642Z",
+  "model": "glm-5.3"
+}

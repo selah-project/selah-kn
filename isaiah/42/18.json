@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 42,
+  "translation": "ಕಿವುಡರೇ, ಕೇಳಿರಿ; ಕುರುಡರೇ, ನೋಡುವುದಕ್ಕೆ ನೋಡಿರಿ.",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "ಕಿವುಡರೇ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ಕೇಳಿರಿ"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "ಕುರುಡರೇ"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "ನೋಡಿರಿ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ನೋಡುವುದಕ್ಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:56:06.918991893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಮೂಶಿಯ ಮಕ್ಕಳು — ಮಾಖ್ಲಿ, ಏದೆರ್ ಮತ್ತು ಯಿರೆಮೋತ್; ಮೂವರು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "ಮೂಶಿಯ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ಮಾಖ್ಲಿ"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "ಮತ್ತು ಏದೆರ್"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "ಮತ್ತು ಯಿರೆಮೋತ್"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ಮೂವರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:40:59.671797498Z",
+  "model": "glm-5.3"
+}

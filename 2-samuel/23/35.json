@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಖೆತ್ಸ್ರೋ ⟨the⟩ ಕರ್ಮೆಲಿ; ಪಾಅರಾಯ್ ⟨the⟩ ಅರ್ಬಿ.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ಖೆತ್ಸ್ರೋ"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ಕರ್ಮೆಲಿ"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "ಪಾಅರಾಯ್"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "ಅರ್ಬಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:02:21.817010706Z",
+  "model": "glm-5.3"
+}

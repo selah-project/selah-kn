@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 141,
+  "translation": "ಯಾಹ್ವೆ, ನನ್ನ ಬಾಯಿಗೆ ಕಾವಲು ನಿಲ್ಲಿಸು; ನನ್ನ ತುಟಿಗಳ ಬಾಗಿಲ ಮೇಲೆ ಕಾಯು.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "ನಿಲ್ಲಿಸು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "ಕಾವಲು"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ನನ್ನ ಬಾಯಿಗೆ"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "ಕಾಯು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ಬಾಗಿಲ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ನನ್ನ ತುಟಿಗಳ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:14:40.294817284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 34,
+  "translation": "ಆದ್ದರಿಂದ ಕುರುಬರೇ, ಯಾಹ್ವೆಯ ವಾಕ್ಯವನ್ನು ಕೇಳಿ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ಆದ್ದರಿಂದ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ಕುರುಬರೇ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ಕೇಳಿ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವನ್ನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:58:37.754071025Z",
+  "model": "glm-5.3"
+}

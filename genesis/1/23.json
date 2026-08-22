@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಮತ್ತು ಸಂಜೆಯಾಯಿತು, ಮತ್ತು ಬೆಳಗಾಯಿತು — ಐದನೇ ದಿನ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಮತ್ತು ಆಯಿತು"
+    },
+    {
+      "surface": "ಢרב",
+      "gloss": "ಸಂಜೆ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ಮತ್ತು ಆಯಿತು"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ಬೆಳಗು"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ದಿನ"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "ಐದನೇ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:07:55.854745772Z",
+  "model": "glm-5.3"
+}

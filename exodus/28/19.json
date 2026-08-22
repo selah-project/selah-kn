@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ಮೂರನೇ ಸಾಲು — ಲೆಶೆಮ್, ಶೆಬೊ, ಅಚ್ಲಾಮಾ.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ಸಾಲು"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ಮೂರನೇ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ಲೆಶೆಮ್"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ಶೆಬೊ"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "ಅಚ್ಲಾಮಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:51:56.207927584Z",
+  "model": "glm-5.3"
+}

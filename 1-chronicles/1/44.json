@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 1:44",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಬೆಲಆ ತೀರಿಕೊಂಡನು; ಅವನ ಬದಲಿಗೆ ಬೊತ್ಸ್ರಾದ ಜೆರಾಹನ ಮಗ ಯೋವಾವ್ ಆಳಿದನು.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ತೀರಿಕೊಂಡನು"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ಬೆಲಆ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ಆಳಿದನು"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ಅವನ ಬದಲಿಗೆ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ಯೋವಾವ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ಜೆರಾಹನ"
+    },
+    {
+      "surface": "מבצרה",
+      "gloss": "ಬೊತ್ಸ್ರಾದ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:24.178143525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಆಗ ಜನರ ಮಧ್ಯದಿಂದ ಯುದ್ಧದ ಪುರುಷರೆಲ್ಲರೂ ಸಾಯುವುದು ಮುಗಿದಾಗ ಆ ಪ್ರಕಾರವಾಯಿತು.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ಆಗ"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ಮುಗಿದಾಗ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲರೂ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ಪುರುಷರ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ಯುದ್ಧದ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ಸಾಯುವುದು"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ಮಧ್ಯದಿಂದ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನರ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:42:07.382594638Z",
+  "model": "glm-5.3"
+}

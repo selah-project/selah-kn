@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಯೋಹಾನಾನ್ ಎಂಟನೆಯವನು, ಎಲ್‌ಜ಼ಾಬಾದ್ ಒಂಬತ್ತನೆಯವನು.",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "ಯೋಹಾನಾನ್"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ಎಂಟನೆಯವನು"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "ಎಲ್‌ಜ಼ಾಬಾದ್"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "ಒಂಬತ್ತನೆಯವನು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:36:35.704823055Z",
+  "model": "glm-5.3"
+}

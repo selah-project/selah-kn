@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಲೇವಿ ಮಕ್ಕಳಿಂದ — ನಾಲ್ಕು ಸಾವಿರ ಮತ್ತು ಆರು ನೂರು.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ಇಂದ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ಲೇವಿ"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ನಾಲ್ಕು"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ಸಾವಿರ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ಮತ್ತು ಆರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂಱು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:36:03.614816626Z",
+  "model": "glm-5.3"
+}

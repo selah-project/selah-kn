@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 38,
+  "translation": "ಆವರಣದ ಸುತ್ತಲಿನ ಎಲ್ಲ ನೇಣಿಕೆಗಳು ಹೆಣೆದ ಸಣ್ಣ ಹತ್ತಿಯವು.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "ನೇಣಿಕೆಗಳು"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ಆವರಣದ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ಸುತ್ತಲಿನ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ಸಣ್ಣ ಹತ್ತಿ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ಹೆಣೆದ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:58:12.310059777Z",
+  "model": "glm-5.3"
+}

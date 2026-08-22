@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಹಾನಾನ್ ಮಾಅಖಾವಿನ ಮಗನು, ಮತ್ತು ಯೋಶಾಪಾತ್ ⟨the⟩ ಮಿತ್ನೀಯನು,",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "ಹಾನಾನ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ಮಾಅಖಾ"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "ಯೋಶಾಪಾತ್"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "ಮಿತ್ನೀಯನು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:20.728196495Z",
+  "model": "glm-5.3"
+}

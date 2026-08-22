@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಜೆರಾಖ್ಯಾನ ಮಗ, ಉಜ್ಜಿಯ ಮಗ, ಬುಕ್ಕಿಯ ಮಗ,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ಜೆರಾಖ್ಯಾನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ಉಜ್ಜಿಯ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ಬುಕ್ಕಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:17:50.140138950Z",
+  "model": "glm-5.3"
+}

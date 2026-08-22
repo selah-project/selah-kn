@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ನಿರರ್ಥಕ ಮನುಷ್ಯನು, ದುಷ್ಟ ಮನುಷ್ಯನು, ತಿರುಚಿದ ಬಾಯಿಯೊಂದಿಗೆ ನಡೆಯುವನು",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ಮನುಷ್ಯನು"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ನಿರರ್ಥಕ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ಮನುಷ್ಯನು"
+    },
+    {
+      "surface": "און",
+      "gloss": "ದುಷ್ಟ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ನಡೆಯುವನು"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "ತಿರುಚಿದ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ಬಾಯಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:18:57.012126612Z",
+  "model": "glm-5.3"
+}

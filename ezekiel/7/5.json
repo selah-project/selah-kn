@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಹೀಗೆ ಹೇಳಿದನು ಅದೋನಾಯ್ ಯಾಹ್ವೆ: ಕೇಡು, ಒಂದೇ ಕೇಡು — ಇಗೋ, ಬರುತ್ತಿದೆ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ಹೀಗೆ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ಅದೋನಾಯ್"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ಕೇಡು"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ಒಂದೇ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ಕೇಡು"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ಇಗೋ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ಬರುತ್ತಿದೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:41:00.455849530Z",
+  "model": "glm-5.3"
+}

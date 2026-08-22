@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಕಾರಣ ಹಲವು ವ್ಯವಹಾರಗಳಿಂದ ಕನಸು ಬರುತ್ತದೆ, ಮತ್ತು ಹಲವು ಮಾತುಗಳಲ್ಲಿ ಮೂರ್ಖನ ಧ್ವನಿ ⟨ಇದೆ⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಕಾರಣ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ಬರುತ್ತದೆ"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ಕನಸು"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ಹಲವು…ಗಳಿಂದ"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "ವ್ಯವಹಾರಗಳು"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ಮತ್ತು ಧ್ವನಿ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ಮೂರ್ಖನ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ಹಲವು…ಗಳಲ್ಲಿ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ಮಾತುಗಳು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:57:02.096788176Z",
+  "model": "glm-5.3"
+}

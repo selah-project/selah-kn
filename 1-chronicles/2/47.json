@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಯೆಹ್ದಾಯಿಯ ಮಕ್ಕಳು: ರೆಗೆಮ್, ಯೋತಾಮ್, ಗೇಶಾನ್, ಪೆಲೆಟ್, ಎಪ್ಪಾ ಮತ್ತು ಶಾಅಫ್.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "ಯೆಹ್ದಾಯಿಯ"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "ರೆಗೆಮ್"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "ಯೋತಾಮ್"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "ಗೇಶಾನ್"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "ಪೆಲೆಟ್"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "ಎಪ್ಪಾ"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "ಶಾಅಫ್"
+    }
+  ],
+  "timestamp": "2026-08-22T04:50:12.310722087Z",
+  "model": "glm-5.3"
+}

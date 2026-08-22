@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಮತ್ತು ಇವು ಅವರ ಹೆಸರುಗಳು: ಹೂರನ ಮಗ — ಎಫ್ರಾಯಿಮ್ ಬೆಟ್ಟದಲ್ಲಿ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ಮತ್ತು ಇವು"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ಅವರ ಹೆಸರುಗಳು"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ಹೂರ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ಬೆಟ್ಟದಲ್ಲಿ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ಎಫ್ರಾಯಿಮ್"
+    }
+  ],
+  "timestamp": "2026-08-21T23:04:46.676797058Z",
+  "model": "glm-5.3"
+}

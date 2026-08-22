@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಆಗ ಶಲೋಮೋ ಹೇಳಿದನು — ಯಾಹ್ವೆ ಗಾಢ ಕತ್ತಲೆಯಲ್ಲಿ ವಾಸಿಸುವುದಕ್ಕಾಗಿ ಹೇಳಿದ್ದಾನೆ.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ಆಗ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ಶಲೋಮೋ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಹೇಳಿದ್ದಾನೆ"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "ವಾಸಿಸುವುದಕ್ಕಾಗಿ"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "ಗಾಢ ಕತ್ತಲೆಯಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:47:48.578893223Z",
+  "model": "glm-5.3"
+}

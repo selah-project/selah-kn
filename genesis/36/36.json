@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 36:36",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 36,
+  "translation": "ಹದಾದ್ ತೀರಿಕೊಂಡನು, ಅವನ ಬದಲಿಗೆ ಮಸ್ರೆಕಾದವನಾದ ಸಮ್ಲಾ ಆಳಿದನು.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ತೀರಿಕೊಂಡನು"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ಹದಾದ್"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ಆಳಿದನು"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ಅವನ ಬದಲಿಗೆ"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "ಸಮ್ಲಾ"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "ಮಸ್ರೆಕಾದಿಂದ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:26:41.340335594Z",
+  "model": "glm-5.3"
+}

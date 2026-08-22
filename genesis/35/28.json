@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 35,
+  "translation": "ಯಿತ್ಸಾಕ್‌ನ ದಿನಗಳು ನೂರು ವರ್ಷ ಮತ್ತು ಎಂಬತ್ತು ವರ್ಷ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ಆದವು"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ದಿನಗಳು"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ಯಿತ್ಸಾಕ್‌ನ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ವರ್ಷ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ಮತ್ತು ಎಂಬತ್ತು"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ವರ್ಷ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:27:58.994668632Z",
+  "model": "glm-5.3"
+}

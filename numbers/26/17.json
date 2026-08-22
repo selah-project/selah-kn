@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 26:17",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಅರೋದನಿಗೆ — ಅರೋದಿಗಳ ಕುಲ; ಅರೆಲಿಗೆ — ಅರೆಲಿಗಳ ಕುಲ.",
+  "tokens": [
+    {
+      "surface": "לארוד",
+      "gloss": "ಅರೋದನಿಗೆ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ಕುಲ"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ಅರೋದಿಗಳ"
+    },
+    {
+      "surface": "לאראלי",
+      "gloss": "ಅರೆಲಿಗೆ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ಕುಲ"
+    },
+    {
+      "surface": "האראלי",
+      "gloss": "ಅರೆಲಿಗಳ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:34:35.545193023Z",
+  "model": "glm-5.3"
+}

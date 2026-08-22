@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಏಕೆಂದರೆ ನೀವು ಎಲೆ ಕುಂದಿದ ಏಲದಂತೆ ಇರುವಿರಿ, ಮತ್ತು ನೀರಿಲ್ಲದ ತೋಟದಂತೆ ಇರುವಿರಿ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಏಕೆಂದರೆ"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ನೀವು ಇರುವಿರಿ"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "ಏಲದಂತೆ"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "ಕುಂದಿದ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ಎಲೆ"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "ಮತ್ತು ತೋಟದಂತೆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದಕ್ಕೆ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ನೀರು"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ಅದಕ್ಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:36:38.846817885Z",
+  "model": "glm-5.3"
+}

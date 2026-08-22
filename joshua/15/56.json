@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಯಿತ್ಸ್ರೆಯೆಲ್, ಯೋಕ್ದೆಯಾಮ್ ಮತ್ತು ತ್ಸಾನೋಅಖ್.",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "ಯಿತ್ಸ್ರೆಯೆಲ್"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "ಯೋಕ್ದೆಯಾಮ್"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "ತ್ಸಾನೋಅಖ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:10:48.605881318Z",
+  "model": "glm-5.3"
+}

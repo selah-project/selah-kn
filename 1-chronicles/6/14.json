@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಮೆರಾರಿಯ ಮಕ್ಕಳು — ಮಾಹ್ಲಿ; ಲಿಬ್ನಿ ಅವನ ಮಗ, ಶಿಮಿ ಅವನ ಮಗ, ಉಜ್ಜಾ ಅವನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ಮೆರಾರಿಯ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ಮಾಹ್ಲಿ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ಲಿಬ್ನಿ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ಶಿಮಿ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ಉಜ್ಜಾ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:55.190740076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 32,
+  "translation": "ಆ ದಿನ ಯಾಹ್ವೆಯ ಕೋಪವು ಉರಿಯಿತು, ಮತ್ತು ಆತನು ಪ್ರಮಾಣ ಮಾಡಿ ಹೇಳಿದನು:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ಉರಿಯಿತು"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ಕೋಪವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ದಿನ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ಪ್ರಮಾಣ ಮಾಡಿದನು"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:38:39.596183002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ರಾಜ ಅಹಾಜನು ತೀರಿಕೊಂಡ ವರ್ಷದಲ್ಲಿ ಈ ಭಾರವು ಉಂಟಾಯಿತು.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ವರ್ಷದಲ್ಲಿ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ತೀರಿಕೊಂಡ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ರಾಜ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ಅಹಾಜನು"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ಉಂಟಾಯಿತು"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ಭಾರವು"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಈ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:42:45.582679941Z",
+  "model": "glm-5.3"
+}

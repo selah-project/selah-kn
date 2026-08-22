@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಶೆಖನ್ಯಾ, ರೆಖೂಮ್, ಮೆರೆಮೋತ್.",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "ಶೆಖನ್ಯಾ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ರೆಖೂಮ್"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "ಮೆರೆಮೋತ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:26:40.981896392Z",
+  "model": "glm-5.3"
+}

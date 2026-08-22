@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 3:19",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಹಾರಗಳನ್ನೂ, ಬಳೆಗಳನ್ನೂ, ಮುಸುಕುಗಳನ್ನೂ",
+  "tokens": [
+    {
+      "surface": "הנטיפות",
+      "gloss": "ಹಾರಗಳನ್ನೂ"
+    },
+    {
+      "surface": "והשירות",
+      "gloss": "ಬಳೆಗಳನ್ನೂ"
+    },
+    {
+      "surface": "והרעלות",
+      "gloss": "ಮುಸುಕುಗಳನ್ನೂ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:39:00.262150318Z",
+  "model": "glm-5.3"
+}

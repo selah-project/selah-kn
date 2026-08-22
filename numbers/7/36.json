@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 7:36",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಐದನೇ ದಿನ — ಶಿಮ್ಆೋನ್ ಮಕ್ಕಳಿಗೆ ನಾಯಕ, ತ್ಸೂರಿಶದ್ದಾಯ್ ಮಗ ಶೆಲುಮಿಯೇಲ್.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ದಿನ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ಐದನೇ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ನಾಯಕ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ಮಕ್ಕಳಿಗೆ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ಶಿಮ್ಆೋನ್"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "ಶೆಲುಮಿಯೇಲ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "ತ್ಸೂರಿಶದ್ದಾಯ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:23:12.542606265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 16:1",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ಆಗ ಇಯ್ಯೋಬ್ ಉತ್ತರಿಸಿ ⟨ಅವನು⟩ ಹೀಗೆಂದನು:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ಉತ್ತರಿಸಿದನು"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ಇಯ್ಯೋಬ್"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೀಗೆಂದನು"
+    }
+  ],
+  "timestamp": "2026-08-22T04:44:21.329518069Z",
+  "model": "glm-5.3"
+}

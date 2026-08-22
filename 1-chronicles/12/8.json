@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಗೆದೋರ್‌ನಿಂದ ಬಂದ ಯೆರೋಖಾಮನ ಮಕ್ಕಳಾದ ಯೋಎಲಾ ಮತ್ತು ಜ಼ೆಬದ್ಯಾ.",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "ಯೋಎಲಾ"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "ಜ಼ೆಬದ್ಯಾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳಾದ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ಯೆರೋಖಾಮನ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ನಿಂದ"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "ಗೆದೋರ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:34:34.285448247Z",
+  "model": "glm-5.3"
+}

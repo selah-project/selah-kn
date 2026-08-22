@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಯೆರೂಶಾಲಾಯಿಂನ ರಾಜನು ಒಬ್ಬನು; ಹೆಬ್ರೋನ್‌ನ ರಾಜನು ಒಬ್ಬನು;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ಯೆರೂಶಾಲಾಯಿಂನ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ಹೆಬ್ರೋನ್‌ನ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    }
+  ],
+  "timestamp": "2026-08-21T22:08:38.607866136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಜೀವದ ಊಟೆ ನೀತಿವಂತನ ಬಾಯಿ; ಆದರೆ ದುಷ್ಟರ ಬಾಯಿ ಹಿಂಸೆಯನ್ನು ಮುಚ್ಚುವುದು.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "ಊಟೆ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ಜೀವದ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ಬಾಯಿ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ನೀತಿವಂತನ"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ಆದರೆ ಬಾಯಿ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ದುಷ್ಟರ"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ಮುಚ್ಚುವುದು"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ಹಿಂಸೆಯನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:20:14.887033862Z",
+  "model": "glm-5.3"
+}

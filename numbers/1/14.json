@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಗಾದಿಗೆ — ಎಲ್ಯಾಸಾಫ್, ದೆಉವೆಲನ ಮಗನು.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "ಗಾದಿಗೆ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ಎಲ್ಯಾಸಾಫ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "ದೆಉವೆಲ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:18:22.559098566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಹೆಜ಼ೀರ್‌ನಿಗೆ ಹದಿನೇಳನೆಯದು, ಹಪ್ಪಿತ್ಸೆಸ್‌ನಿಗೆ ಹದಿನೆಂಟನೆಯದು.",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "ಹೆಜ಼ೀರ್‌ನಿಗೆ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ಏಳು"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ಹದಿ"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "ಹಪ್ಪಿತ್ಸೆಸ್‌ನಿಗೆ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ಎಂಟು"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ಹದಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:41:04.307961114Z",
+  "model": "glm-5.3"
+}

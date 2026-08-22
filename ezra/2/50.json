@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಅಸ್ನಾಹನ ಮಕ್ಕಳು, ಮೆಉನಿಮರ ಮಕ್ಕಳು, ನೆಫಿಸಿಮರ ಮಕ್ಕಳು,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "ಅಸ್ನಾಹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "ಮೆಉನಿಮರ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "ನೆಫಿಸಿಮರ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:15:43.594273586Z",
+  "model": "glm-5.3"
+}

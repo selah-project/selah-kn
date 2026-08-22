@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಯಾರು ತಿನ್ನಬಲ್ಲ, ಮತ್ತು ಯಾರು ಆಸೆಪಡಬಲ್ಲ, ನನ್ನಿಂದ ಹೊರಗೆ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ಯಾರು"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ತಿನ್ನಬಲ್ಲ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ಮತ್ತು ಯಾರು"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "ಆಸೆಪಡಬಲ್ಲ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ಹೊರಗೆ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ನನ್ನಿಂದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:23.973889524Z",
+  "model": "glm-5.3"
+}

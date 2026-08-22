@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 33,
+  "translation": "ಮತ್ತು ಎಸಾವನು ಹೇಳಿದನು: ನನಗೆ ಹೇರಳವಿದೆ, ನನ್ನ ಸಹೋದರನೇ; ನಿನಗಿರುವುದು ನಿನಗೇ ಇರಲಿ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಮತ್ತು ಹೇಳಿದನು"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ಎಸಾವನು"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ಇದೆ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ಹೇರಳ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ನನ್ನ ಸಹೋದರನೇ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ಇರಲಿ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನಿನಗೆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾವುದು"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನಿನಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:25:27.152712931Z",
+  "model": "glm-5.3"
+}

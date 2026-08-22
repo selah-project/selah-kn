@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನೆನಪಿಡು ನನ್ನ ದುಃಖವನ್ನೂ ನನ್ನ ಸಂಕಟವನ್ನೂ, ಕಹಿಗಿಡವನ್ನೂ ಮತ್ತು ವಿಷವನ್ನೂ.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ನೆನಪಿಡು"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ನನ್ನ ದುಃಖವನ್ನು"
+    },
+    {
+      "surface": "ומרודי",
+      "gloss": "ಮತ್ತು ನನ್ನ ಸಂಕಟವನ್ನು"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "ಕಹಿಗಿಡ"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ಮತ್ತು ವಿಷ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:59.436819362Z",
+  "model": "glm-5.3"
+}

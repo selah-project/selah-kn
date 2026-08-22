@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಅವನ ಎಡಗೈ ನನ್ನ ತಲೆಯ ಕೆಳಗೆ ಇರಲಿ, ಮತ್ತು ಅವನ ಬಲಗೈ ನನ್ನನ್ನು ಆಲಂಗಿಸಲಿ.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "ಅವನ ಎಡಗೈ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ಕೆಳಗೆ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ನನ್ನ ತಲೆಯ"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "ಮತ್ತು ಅವನ ಬಲಗೈ"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "ನನ್ನನ್ನು ಆಲಂಗಿಸಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:50:44.170303651Z",
+  "model": "glm-5.3"
+}

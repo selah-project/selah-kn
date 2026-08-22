@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಭೂಮಿಯೇ, ಭೂಮಿಯೇ, ಭೂಮಿಯೇ, ಯಾಹ್ವೆಯ ಮಾತನ್ನು ಕೇಳು.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ಭೂಮಿಯೇ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ಭೂಮಿಯೇ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ಭೂಮಿಯೇ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ಕೇಳು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ಮಾತನ್ನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:16:59.782652194Z",
+  "model": "glm-5.3"
+}

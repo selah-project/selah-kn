@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 30,
+  "translation": "ನಾನು ಇಂದು ನಿನಗೆ ಆಜ್ಞಾಪಿಸುವ ಈ ಆಜ್ಞೆ ನಿನಗೆ ಅತೀತವಾದುದು ⟨ಆಗಿಲ್ಲ⟩, ಅದು ದೂರದಲ್ಲೂ ⟨ಇಲ್ಲ⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ಆಜ್ಞೆ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ನಿನಗೆ ಆಜ್ಞಾಪಿಸುವ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ಇಂದು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಅಲ್ಲ"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "ಅತೀತವಾದುದು"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ನಿನಗೆ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ಮತ್ತು ಅಲ್ಲ"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "ದೂರದಲ್ಲಿ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅದು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:59:20.760652590Z",
+  "model": "glm-5.3"
+}

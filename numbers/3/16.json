@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಯಾಹ್ವೆಯ ವಾಕ್ಯದಂತೆ ಮೋಶೆ ⟨את⟩ ಅವರನ್ನು ಎಣಿಸಿದನು, ಆತನಿಗೆ ಆಜ್ಞಾಪಿಸಿದಂತೆ.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ಎಣಿಸಿದನು"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ಅವರನ್ನು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಪ್ರಕಾರ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ವಾಕ್ಯದಂತೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ಆದಂತೆ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ಆಜ್ಞಾಪಿಸಿದಂತೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:12:56.343917882Z",
+  "model": "glm-5.3"
+}

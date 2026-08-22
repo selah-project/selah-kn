@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ವಿಸ್ಮಯವೂ ಭೀಕರವೂ ಆದುದು ಭೂಮಿಯಲ್ಲಿ ನಡೆದಿದೆ.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ವಿಸ್ಮಯವೂ"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "ಭೀಕರವೂ"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "ನಡೆದಿದೆ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ಭೂಮಿಯಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:09:33.420168290Z",
+  "model": "glm-5.3"
+}

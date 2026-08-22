@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಆದರೆ ನೀನು ಪ್ರತಿಜ್ಞೆ ಮಾಡದಿದ್ದರೆ, ನಿನ್ನಲ್ಲಿ ಪಾಪವಿರುವದಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ಆದರೆ ಯಾವಾಗ"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "ನೀನು ವಿರಮಿಸಿದರೆ"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "ಪ್ರತಿಜ್ಞೆ ಮಾಡುವುದರಿಂದ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ಇರುವದಿಲ್ಲ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ನಿನ್ನಲ್ಲಿ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ಪಾಪ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:55:41.232341975Z",
+  "model": "glm-5.3"
+}

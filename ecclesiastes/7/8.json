@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಒಂದು ಮಾತಿನ ಕೊನೆಯು ಅದರ ಆರಂಭಕ್ಕಿಂತ ಒಳ್ಳೆಯದು; ದೀರ್ಘ ರೂಅಖಿನವನು ಎತ್ತರದ ರೂಅಖಿನವನಿಗಿಂತ ಒಳ್ಳೆಯವನು.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ಒಳ್ಳೆಯದು"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ಕೊನೆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ಮಾತು"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "ಅದರ ಆರಂಭಕ್ಕಿಂತ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ಒಳ್ಳೆಯವನು"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ದೀರ್ಘ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ರೂಅಖ್"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "ಎತ್ತರದ…ಗಿಂತ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ರೂಅಖ್"
+    }
+  ],
+  "timestamp": "2026-08-22T02:57:31.469843341Z",
+  "model": "glm-5.3"
+}

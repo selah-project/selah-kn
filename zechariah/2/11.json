@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಹಾ, ತ್ಸಿಯೋನ್, ಪಾರಾಗು; ಬಬುಲಿನ ಮಗಳೊಂದಿಗೆ ವಾಸಿಸುವವಳೇ",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ಹಾ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ತ್ಸಿಯೋನ್"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "ಪಾರಾಗು"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ವಾಸಿಸುವವಳೇ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ಮಗಳೊಂದಿಗೆ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ಬಬುಲಿನ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:38:30.897033882Z",
+  "model": "glm-5.3"
+}

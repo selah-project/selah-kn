@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ನೆತ್ಸಿಯಖ್‌ನ ಮಕ್ಕಳು, ಖತೀಫಾದ ಮಕ್ಕಳು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "ನೆತ್ಸಿಯಖ್‌ನ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ಖತೀಫಾದ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:15:29.630846823Z",
+  "model": "glm-5.3"
+}

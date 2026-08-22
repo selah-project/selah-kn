@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಅಬಿಮೆಲೆಕ್ ಇಸ್ರಾಯೇಲಿನ ಮೇಲೆ ಮೂರು ವರ್ಷ ಪ್ರಭುತ್ವ ನಡೆಸಿದನು.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "ಪ್ರಭುತ್ವ ನಡೆಸಿದನು"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ಅಬಿಮೆಲೆಕ್"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಇಸ್ರಾಯೇಲಿನ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ಮೂರು"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ವರ್ಷ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:20:58.139465366Z",
+  "model": "glm-5.3"
+}

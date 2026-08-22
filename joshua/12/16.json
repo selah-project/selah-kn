@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಮಕ್ಕೆದಾಹದ ರಾಜನು ಒಬ್ಬನು; ಬೇತ್-ಎಲ್ಲಿನ ರಾಜನು ಒಬ್ಬನು;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "ಮಕ್ಕೆದಾಹದ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಬೇತ್"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಲ್ಲಿನ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    }
+  ],
+  "timestamp": "2026-08-21T22:08:37.861105433Z",
+  "model": "glm-5.3"
+}

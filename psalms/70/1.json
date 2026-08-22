@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 70,
+  "translation": "ಸಂಗೀತ ನಿರ್ದೇಶಕನಿಗೆ; ದಾವೀದನದು; ನೆನಪಿಸಲು.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ಸಂಗೀತ ನಿರ್ದೇಶಕನಿಗೆ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ದಾವೀದನದು"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ನೆನಪಿಸಲು"
+    }
+  ],
+  "timestamp": "2026-08-22T01:53:33.102768691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಬಿನ್ಯಾಮಿನ್ — ಬೆಲಾ, ಬೆಖೆರ್ ಮತ್ತು ಯೆದಿಯಾಯೆಲ್; ಮೂರು ⟨ಪುತ್ರರು⟩.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "ಬಿನ್ಯಾಮಿನ್"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ಬೆಲಾ"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "ಮತ್ತು ಬೆಖೆರ್"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "ಮತ್ತು ಯೆದಿಯಾಯೆಲ್"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ಮೂರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:16.066335500Z",
+  "model": "glm-5.3"
+}

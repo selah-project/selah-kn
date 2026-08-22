@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಹೆದರಿಕೆ ಮತ್ತು ಬಲೆ ⟨ಆಗಿದೆ⟩ ನಮಗೆ — ಹಾನಿ ಮತ್ತು ಮುರಿತ.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ಹೆದರಿಕೆ"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "ಮತ್ತು ಬಲೆ\/ಗುಂಡಿ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ಆಗಿದೆ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ನಮಗೆ"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "ಹಾನಿ\/ಅವನತಿ"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "ಮತ್ತು ಮುರಿತ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:57.488292385Z",
+  "model": "glm-5.3"
+}

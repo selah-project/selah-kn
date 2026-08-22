@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 25,
+  "translation": "ಆಗ ಅವಳ ಕೈಯನ್ನು ⟨את⟩ ಕತ್ತರಿಸಬೇಕು; ನಿನ್ನ ಕಣ್ಣು ⟨he⟩ ಕರುಣೆ ತೋರಬಾರದು.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "ಕತ್ತರಿಸಬೇಕು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಕೈಯನ್ನು"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ಅವಳ ಕೈಯನ್ನು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಬಾರದು"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ಕರುಣೆ ತೋರ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ನಿನ್ನ ಕಣ್ಣು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:55:47.471699173Z",
+  "model": "glm-5.3"
+}

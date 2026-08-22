@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಏಲಾಮಿನ ಮಕ್ಕಳು, ಸಾವಿರ ಎರಡು ನೂರು ಐವತ್ತ್ಮೂರು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ಏಲಾಮ್"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ಸಾವಿರ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ಎರಡು ನೂರು"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ಐವತ್ತು"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ಮತ್ತು ನಾಲ್ಕು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:23.659192793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಗೆ ಮತ್ತು ಅಹರೋನ್‌ಗೆ ಆದೇಶಿಸಿ ಹೇಳಿದನು —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಆದೇಶಿಸಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ಮತ್ತು…ಗೆ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ಅಹರೋನ್"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:09:38.631379152Z",
+  "model": "glm-5.3"
+}

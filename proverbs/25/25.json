@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 25,
+  "translation": "ಆಯಾಸಗೊಂಡ ನೆಫೆಶಿಗೆ ತಂಪಾದ ನೀರ, ದೂರದ ದೇಶದಿಂದ ಬಂದ ಸುವಾರ್ತೆಯೂ ಅಷ್ಟೇ.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ನೀರ"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "ತಂಪಾದ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಗೆ (ಮೇಲೆ)"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ನೆಫೆಶಿಗೆ"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ಆಯಾಸಗೊಂಡ"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "ಮತ್ತು ಸುವಾರ್ತೆ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ಸುವಾರ್ತೆಯೂ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ದೇಶದಿಂದ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ದೂರದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:27:06.442749398Z",
+  "model": "glm-5.3"
+}

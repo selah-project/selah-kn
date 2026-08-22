@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಖರೀಮಿನ ಮಕ್ಕಳು — ಮೂರುನೂರು ಇಪ್ಪತ್ತು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ಖರೀಮಿನ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ಮೂರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ಇಪ್ಪತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:41.417884976Z",
+  "model": "glm-5.3"
+}

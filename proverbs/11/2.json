@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಸೊಕ್ಕು ಬಂದಾಗ ನಾಚಿಕೆ ಬರುವುದು, ಮತ್ತು ⟨את⟩ ವಿನಮರೊಂದಿಗೆ ಜ್ಞಾನವಿರುವುದು.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "ಬಂದಾಗ"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "ಸೊಕ್ಕು"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ಮತ್ತು ಬರುವುದು"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ನಾಚಿಕೆ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ವಿನಮರೊಂದಿಗೆ"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "ವಿನಮರ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ಜ್ಞಾನ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:22:00.889335234Z",
+  "model": "glm-5.3"
+}

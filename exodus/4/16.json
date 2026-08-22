@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಆತ ನಿನಗಾಗಿ ಜನರಿಗೆ ಮಾತನಾಡುವನು; ಆಗಲೇ ⟨ಆತ⟩ ನಿನಗೆ ಬಾಯಾಗಿರುವನು, ನೀನು ಆತನಿಗೆ ದೇವರಾಗಿರುವಿ.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "ಮಾತನಾಡುವನು"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಆತ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನಿನಗಾಗಿ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವರಿಗೆ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನರಿಗೆ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ಆಗಲೇ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಆತ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ಆಗಿರುವನು"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನಿನಗೆ"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "ಬಾಯಾಗಿ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ನೀನು"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ಆಗಿರುವಿ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಆತನಿಗೆ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ದೇವರಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:38:52.891964894Z",
+  "model": "glm-5.3"
+}

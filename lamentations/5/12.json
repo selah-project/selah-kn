@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಪ್ರಭುಗಳು ಅವರ ಕೈಯಿಂದ ನೇತುಹಾಕಲ್ಪಟ್ಟರು; ಹಿರಿಯರ ಮುಖಗಳು ಗೌರವಿಸಲ್ಪಡಲಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "ಪ್ರಭುಗಳು"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ಅವರ ಕೈಯಿಂದ"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "ನೇತುಹಾಕಲ್ಪಟ್ಟರು"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ಮುಖಗಳು"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ಹಿರಿಯರ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "ಗೌರವಿಸಲ್ಪಡಲಿಲ್ಲ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:14.601266071Z",
+  "model": "glm-5.3"
+}

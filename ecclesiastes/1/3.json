@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಮನುಷ್ಯನಿಗೆ ಏನು ಹೆಚ್ಚು, ಸೂರ್ಯನ ಕೆಳಗೆ ಅವನು ಶ್ರಮಿಸುವ ಎಲ್ಲ ತನ್ನ ಶ್ರಮದಲ್ಲಿ ಅವನಿಗೆ ⟨ಯಾವ⟩ ಲಾಭ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ಏನು"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ಹೆಚ್ಚು\/ಲಾಭ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ಮನುಷ್ಯನಿಗೆ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ತನ್ನ ಶ್ರಮದಲ್ಲಿ"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "ಅವನು ಶ್ರಮಿಸುವ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ಕೆಳಗೆ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ಸೂರ್ಯನ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:35.866884478Z",
+  "model": "glm-5.3"
+}

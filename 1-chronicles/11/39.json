@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ತ್ಸೆಲೆಕ್ ⟨the⟩ ಅಮ್ಮೋನಿ; ನಚ್ರಾಯಿ ⟨the⟩ ಬೆರೋತಿ, ತ್ಸೆರುಯಾಹಿನ ಮಗ ಯೋಆವನ ಆಯುಧಗಳನ್ನು ಹೊರುವವನು",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "ತ್ಸೆಲೆಕ್"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "ಅಮ್ಮೋನಿ"
+    },
+    {
+      "surface": "ಠחרי",
+      "gloss": "ನಚ್ರಾಯಿ"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "ಬೆರೋತಿ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ಹೊರುವವನು"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ಆಯುಧಗಳನ್ನು"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ಯೋಆವನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ತ್ಸೆರುಯಾಹಿನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:31.381458331Z",
+  "model": "glm-5.3"
+}

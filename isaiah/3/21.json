@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಮುದ್ರೆ-ಬಳೆಗಳು, ಮೂಗಿನ ಹಾರಗಳು,",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "ಮುದ್ರೆ-ಬಳೆಗಳು"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "ಮೂಗಿನ ಹಾರಗಳು"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ಮೂಗು"
+    }
+  ],
+  "timestamp": "2026-08-21T23:38:56.193761896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 92,
+  "translation": "ಮಿಜ್ಮೋರ್, ಹಾಡು — ಶಬ್ಬಾತ್ ದಿನಕ್ಕೆ।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ಮಿಜ್ಮೋರ್"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ಹಾಡು"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ದಿನಕ್ಕೆ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ಶಬ್ಬಾತ್"
+    }
+  ],
+  "timestamp": "2026-08-22T02:01:46.267737095Z",
+  "model": "glm-5.3"
+}

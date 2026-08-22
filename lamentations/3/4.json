@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನನ್ನ ಮಾಂಸವನ್ನೂ ನನ್ನ ಚರ್ಮವನ್ನೂ ಹಾಳುಮಾಡಿದನು; ನನ್ನ ಎಲುಬುಗಳನ್ನು ಒಡೆದನು.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "ಹಾಳುಮಾಡಿದನು"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ನನ್ನ ಮಾಂಸವನ್ನೂ"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "ನನ್ನ ಚರ್ಮವನ್ನೂ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ಒಡೆದನು"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ನನ್ನ ಎಲುಬುಗಳನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:22.743271660Z",
+  "model": "glm-5.3"
+}

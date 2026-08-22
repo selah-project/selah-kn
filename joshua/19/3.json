@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 19,
+  "translation": "ಖತ್ಸರ್-ಶೂಅಲ್, ಬಾಲಾ ಮತ್ತು ಎಸೆಮ್.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "ಖತ್ಸರ್-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "ಶೂಅಲ್"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "ಮತ್ತು ಬಾಲಾ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ಮತ್ತು ಎಸೆಮ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:12:01.391983213Z",
+  "model": "glm-5.3"
+}

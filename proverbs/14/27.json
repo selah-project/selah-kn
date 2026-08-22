@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಯಾಹ್ವೆಯ ಭಯವು ಜೀವದ ಊರು — ಸಾವಿನ ಬಲೆಗಳಿಂದ ⟨ತಪ್ಪಿಸಿಕೊಳ್ಳಲು⟩.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ಭಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ಊರು"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ಜೀವದ"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "ತಪ್ಪಿಸಿಕೊಳ್ಳಲು"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "ಬಲೆಗಳಿಂದ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ಸಾವಿನ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:22:28.528316302Z",
+  "model": "glm-5.3"
+}

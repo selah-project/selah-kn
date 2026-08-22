@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ಇಗೋ, ನೀವೆಲ್ಲರೂ ಯಿಸ್ರಾಯೇಲಿನ ಮಕ್ಕಳು; ಇಲ್ಲಿ ನಿಮಗೆ ಒಂದು ಮಾತು ಮತ್ತು ಆಲೋಚನೆ ಕೊಡಿ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ಇಗೋ"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ನೀವೆಲ್ಲರೂ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಯಿಸ್ರಾಯೇಲಿನ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ಕೊಡಿ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ನಿಮಗೆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ಮಾತು"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "ಆಲೋಚನೆ"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ಇಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:28:51.077394757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 45,
+  "translation": "ಹೀಗೆ ಹೇಳಿದನು ಯಾಹ್ವೆ, ಯಿಸ್ರಾಯೇಲಿನ ಎಲೋಹೀಂ, ನಿನ್ನ ಬಗ್ಗೆ, ಬಾರೂಕ್:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ಹೀಗೆ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಯಿಸ್ರಾಯೇಲಿನ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ನಿನ್ನ ಬಗ್ಗೆ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ಬಾರೂಕ್"
+    }
+  ],
+  "timestamp": "2026-08-22T00:33:24.079947122Z",
+  "model": "glm-5.3"
+}

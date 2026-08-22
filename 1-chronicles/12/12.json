@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಅತ್ತಾಯ್ ಆರನೆಯವನು, ಎಲಿಯೇಲ್ ಏಳನೆಯವನು.",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "ಅತ್ತಾಯ್"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ಆರನೆಯವನು"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "ಎಲಿಯೇಲ್"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ಏಳನೆಯವನು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:39.379085030Z",
+  "model": "glm-5.3"
+}

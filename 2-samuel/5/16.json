@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಎಲೀಶಾಮಾ, ಎಲ್ಯಾದಾ, ಎಲೀಫಲೆಟ್.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ಎಲೀಶಾಮಾ"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "ಎಲ್ಯಾದಾ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ಎಲೀಫಲೆಟ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:50:44.702097916Z",
+  "model": "glm-5.3"
+}

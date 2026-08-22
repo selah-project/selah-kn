@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 14:33",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಗೆ ಮತ್ತು ಅಹರೋನ್‌ಗೆ ಮಾತನಾಡಿ ಹೇಳುತ್ತಾ,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮಾತನಾಡಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ಮತ್ತು...ಗೆ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ಅಹರೋನ್"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:08:57.767055156Z",
+  "model": "glm-5.3"
+}

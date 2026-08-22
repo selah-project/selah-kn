@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಹಣದ ಕಟ್ಟನ್ನು ಕೈಯಲ್ಲಿ ತೆಗೆದುಕೊಂಡು ಹೋದನು; ಹುಣ್ಣಿಮೆಯ ⟨the⟩ ದಿನ ಮನೆಗೆ ಬರುವನು.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ಕಟ್ಟನ್ನು"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ಹಣದ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ತೆಗೆದುಕೊಂಡು"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ಕೈಯಲ್ಲಿ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ದಿನ"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "ಹುಣ್ಣಿಮೆಯ ⟨the⟩"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ಬರುವನು"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ಮನೆಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:19:28.439444962Z",
+  "model": "glm-5.3"
+}

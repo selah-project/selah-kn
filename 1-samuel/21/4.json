@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "kn",
+  "chapter": 21,
+  "translation": "ಈಗ ನಿನ್ನ ಕೈಕೆಳಗೆ ಏನಿದೆ? ಐದು ರೊಟ್ಟಿಗಳು — ನನ್ನ ಕೈಯಲ್ಲಿ ಕೊಡು, ಅಥವಾ ಸಿಗುವುದನ್ನು.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ಈಗ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ಏನು"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ಇದೆ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ಕೆಳಗೆ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ನಿನ್ನ ಕೈ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ಐದು"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ರೊಟ್ಟಿಗಳು"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ಕೊಡು"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ನನ್ನ ಕೈಯಲ್ಲಿ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ಅಥವಾ"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ಸಿಗುವುದನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-21T22:43:12.350392318Z",
+  "model": "glm-5.3"
+}

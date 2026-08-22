@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಕೋಪದಿಂದ ಅವರನ್ನು ಹಿಂಬಾಲಿಸು, ಯಾಹ್ವೆಯ ಆಕಾಶಗಳ ಕೆಳಗಿನಿಂದ ಅವರನ್ನು ಅಳಿಸಿಹಾಕು.",
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "ಹಿಂಬಾಲಿಸು"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ಕೋಪದಿಂದ"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "ಅವರನ್ನು ಅಳಿಸಿಹಾಕು"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ಕೆಳಗಿನಿಂದ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ಆಕಾಶಗಳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:35.525516651Z",
+  "model": "glm-5.3"
+}

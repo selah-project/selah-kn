@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಯಾಕೆಂದರೆ ನಿನ್ನ ಎಲೋಹೀಂ ಯಾಹ್ವೆ ⟨ಆತನು⟩ ಸೇವಿಸುವ ಬೆಂಕಿ, ಅಸೂಯುಳ್ಳ ಎಲ್.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ನಿನ್ನ ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ಬೆಂಕಿ"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ಸೇವಿಸುವ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಆತನು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಲ್"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ಅಸೂಯುಳ್ಳ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:45:47.301206767Z",
+  "model": "glm-5.3"
+}

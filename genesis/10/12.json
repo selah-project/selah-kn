@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಮತ್ತು ⟨את⟩ ರೆಸೆನ್ ಅನ್ನೂ — ನಿನ್ವೆ ಮತ್ತು ಕಲಹ್ ನಡುವೆ; ಅದೇ ⟨is⟩ ದೊಡ್ಡ ನಗರ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ರೆಸೆನ್"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "ರೆಸೆನ್"
+    },
+    {
+      "surface": "ಬין",
+      "gloss": "ನಡುವೆ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ನಿನ್ವೆ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ಮತ್ತು...ನಡುವೆ"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "ಕಲಹ್"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅದೇ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ನಗರ"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ದೊಡ್ಡ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:13:56.996000074Z",
+  "model": "glm-5.3"
+}

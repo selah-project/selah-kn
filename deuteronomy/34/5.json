@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 34,
+  "translation": "ಮತ್ತು ಅಲ್ಲಿ ಮೋಶೆ ಯಾಹ್ವೆಯ ದಾಸ ಮೋವಾಬ್ ದೇಶದಲ್ಲಿ ಯಾಹ್ವೆಯ ಬಾಯ್‌ಪ್ರಕಾರ ಮರಣಹೊಂದಿದನು.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ಮತ್ತು...ಮರಣಹೊಂದಿದನು"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ಅಲ್ಲಿ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ದಾಸ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ದೇಶದಲ್ಲಿ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ಮೋವಾಬ್"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಪ್ರಕಾರ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ಬಾಯ್"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:02:26.082167040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಆಗ ಎಲೋಹೀಂ ನೋವಾಖನೊಡನೆ ಮಾತನಾಡಿದನು, ಹೇಳುತ್ತಾ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವರೊಡನೆ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ನೋವಾಖನ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:10:43.560750146Z",
+  "model": "glm-5.3"
+}

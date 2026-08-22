@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಅಬ್ಶಾಲೋಮ್ ಪಲಾಯಿಸಿ ಗೆಶುರ್‌ಗೆ ಹೋಗಿ ಅಲ್ಲಿ ಮೂರು ವರ್ಷಗಳು ಇದ್ದನು.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "ಅಬ್ಶಾಲೋಮ್"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ಪಲಾಯಿಸಿ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ಹೋಗಿ"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "ಗೆಶುರ್‌ಗೆ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ಇದ್ದನು"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ಅಲ್ಲಿ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ಮೂರು"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ವರ್ಷಗಳು"
+    }
+  ],
+  "timestamp": "2026-08-21T22:53:04.170663090Z",
+  "model": "glm-5.3"
+}

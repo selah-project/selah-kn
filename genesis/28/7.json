@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ಮತ್ತು ಯಾಕೋವ್ ತಂದೆಯ ಮಾತನ್ನೂ ತಾಯಿಯ ಮಾತನ್ನೂ ಕೇಳಿ ಪದ್ದನ್-ಅರಾಮ್‌ಗೆ ಹೋದನು.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ಕೇಳಿದನು"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ಯಾಕೋವ್"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಂಬ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ತಂದೆಯ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ಮತ್ತು ಎಂಬ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ತಾಯಿಯ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ಮತ್ತು ಹೋದನು"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "ಪದ್ದನ್"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ಅರಾಮ್"
+    }
+  ],
+  "timestamp": "2026-08-22T04:06:39.882870988Z",
+  "model": "glm-5.3"
+}

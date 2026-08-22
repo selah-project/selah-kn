@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಶ್ರೀಮಂತನ ಸಂಪತ್ತು ⟨ಅವನ⟩ ಬಲದ ನಗರ; ಬಡವರ ನಾಶ ಅವರ ಬಡತನ.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ಸಂಪತ್ತು"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ಶ್ರೀಮಂತನ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ನಗರ"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "ಅವನ ಬಲದ"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "ನಾಶ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ಬಡವರ"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "ಅವರ ಬಡತನ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:21:02.287815811Z",
+  "model": "glm-5.3"
+}

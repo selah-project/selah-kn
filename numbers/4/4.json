@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಸಭಾನಿವೇಶದ ಗುಡಾರದಲ್ಲಿ ಕೆಹಾತ್ ಮಕ್ಕಳ ಸೇವೆ ಇದು — ಪರಿಶುದ್ಧರ ಪರಿಶುದ್ಧತೆ:",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ಇದು"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ಸೇವೆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ಕೆಹಾತ್"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ಗುಡಾರದಲ್ಲಿ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ಸಭಾನಿವೇಶ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ಪರಿಶುದ್ಧತೆ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ಪರಿಶುದ್ಧರ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:21:29.292125213Z",
+  "model": "glm-5.3"
+}

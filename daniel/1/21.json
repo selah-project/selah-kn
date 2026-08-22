@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ದಾನಿಯೇಲ್ ಕೊರೆಶ್ ರಾಜನ ⟨ಮೊದಲನೆಯ⟩ ವರ್ಷದವರೆಗೂ ⟨ಇದ್ದನು⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಗ ⟨ಇದ್ದನು⟩"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ದಾನಿಯೇಲ್"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ವರೆಗೂ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ವರ್ಷದ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ಮೊದಲನೆಯ"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "ಕೊರೆಶ್"
+    },
+    {
+      "surface": "ಹמלך",
+      "gloss": "ರಾಜನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:02:40.712881629Z",
+  "model": "glm-5.3"
+}

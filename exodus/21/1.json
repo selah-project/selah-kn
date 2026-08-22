@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 21,
+  "translation": "ಮತ್ತು ಇವು ನೀನು ಅವರ ಮುಂದು ಇಡಬೇಕಾದ ನ್ಯಾಯಗಳು.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ಮತ್ತು ಇವು"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ನ್ಯಾಯಗಳು"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅವು"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ನೀನು ಇಡುವ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ಅವರ ಮುಂದು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:49:28.590965803Z",
+  "model": "glm-5.3"
+}

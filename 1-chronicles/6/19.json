@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 6:19",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಎಲ್ಕಾನನ ಮಗ, ಯೆರೋಹಾಮನ ಮಗ, ಎಲಿಯೇಲನ ಮಗ, ತೋವಾಖನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ಎಲ್ಕಾನನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ಯೆರೋಹಾಮನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "ಎಲಿಯೇಲನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "תוח",
+      "gloss": "ತೋವಾಖನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:06.423497851Z",
+  "model": "glm-5.3"
+}

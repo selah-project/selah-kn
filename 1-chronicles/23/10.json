@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಶಿಮ್‌ಇಯ ಮಕ್ಕಳು — ಯಾಖತ್, ಜಿನಾ, ವಯೀಷ್, ಬೆರೀಯಾ; ಇವರು ಶಿಮ್‌ಇಯ ಮಕ್ಕಳು, ನಾಲ್ವರು.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ಶಿಮ್‌ಇ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ಯಾಖತ್"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "ಜಿನಾ"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "ವಯೀಷ್"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "ಬೆರೀಯಾ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ಇವರು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ಶಿಮ್‌ಇ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ನಾಲ್ವರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:41:11.480348901Z",
+  "model": "glm-5.3"
+}

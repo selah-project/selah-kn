@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ರಾಜ ಶ್ಲೋಮೋ ⟨ಆಗನುಂಟಾದನು⟩ ಇಸ್ರಾಯೇಲ್ ಮೇಲೆ ರಾಜನಾಗಿ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಗನುಂಟಾದನು"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ರಾಜ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ಶ್ಲೋಮೋ"
+    },
+    {
+      "surface": "ಮלך",
+      "gloss": "ರಾಜನಾಗಿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಸಮಸ್ತ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಇಸ್ರಾಯೇಲ್"
+    }
+  ],
+  "timestamp": "2026-08-21T23:04:57.096511354Z",
+  "model": "glm-5.3"
+}

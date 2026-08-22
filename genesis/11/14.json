@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಶೆಲಖ ಮೂವತ್ತು ವರ್ಷ ಬದುಕಿ, ⟨את⟩ ಏವೆರನ್ನು ಪಡೆದನು.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "ಶೆಲಖ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ಬದುಕಿ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ಮೂವತ್ತು"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ವರ್ಷ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ಪಡೆದನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಏವೆರನ್ನು"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ಏವೆರನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:12:38.244620645Z",
+  "model": "glm-5.3"
+}

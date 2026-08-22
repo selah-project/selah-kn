@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಉಜ್ಜಿಯೆಲನು ಮಕ್ಕಳು — ಮೀಖಾ ಮುಖ್ಯನು, ಮತ್ತು ಯಿಶ್ಶಿಯಾ ಎರಡನೆಯವನು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ಉಜ್ಜಿಯೆಲನು"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ಮೀಖಾ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ಮುಖ್ಯನು"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "ಮತ್ತು ಯಿಶ್ಶಿಯಾ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ಎರಡನೆಯವನು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:41:33.011104982Z",
+  "model": "glm-5.3"
+}

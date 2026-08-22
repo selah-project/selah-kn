@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಮಳೆಯು ಭೂಮಿಯ ಮೇಲೆ ನಲವತ್ತು ದಿನ ಮತ್ತು ನಲವತ್ತು ರಾತ್ರಿ ಬಿತ್ತು.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ಮಳೆಯು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿಯ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ನಲವತ್ತು"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ದಿನ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ಮತ್ತು ನಲವತ್ತು"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ರಾತ್ರಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:10:37.386390356Z",
+  "model": "glm-5.3"
+}

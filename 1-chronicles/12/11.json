@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಮಿಶ್ಮನ್ನಾ ನಾಲ್ಕನೆಯವನು, ಯಿರ್ಮೆಯಾ ಐದನೆಯವನು.",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "ಮಿಶ್ಮನ್ನಾ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ನಾಲ್ಕನೆಯವನು"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ಯಿರ್ಮೆಯಾ"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "ಐದನೆಯವನು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:39.378977571Z",
+  "model": "glm-5.3"
+}

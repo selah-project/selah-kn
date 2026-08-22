@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಚಲ್ಚುಲ್, ಬೇತ್-ತ್ಸುರ್ ಮತ್ತು ಗೆದೋರ್.",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "ಚಲ್ಚುಲ್"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಬೇತ್-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ತ್ಸುರ್"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "ಮತ್ತು ಗೆದೋರ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:10:50.472479779Z",
+  "model": "glm-5.3"
+}

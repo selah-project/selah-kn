@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಯೆಹೂದಾಹ್‌ನ ⟨the⟩ ಮುಸುಗನ್ನು ⟨את⟩ ತೆಗೆದನು, ಮತ್ತು ಆ ದಿನ ನೀನು ಕಾಡಿನ ಮನೆಯ ಆಯುಧಗಳ ಕಡೆಗೆ ನೋಡಿದೆ.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ತೆಗೆದನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಮುಸುಗನ್ನು"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ಮುಸುಗನ್ನು"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ಯೆಹೂದಾಹ್‌ನ"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "ನೋಡಿದೆ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ಆ ದಿನ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಕಡೆಗೆ"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "ಆಯುಧಗಳ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಮನೆಯ"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ಕಾಡಿನ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:45:34.569676248Z",
+  "model": "glm-5.3"
+}

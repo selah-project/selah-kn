@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ನೆತನೆಲ್ ನಾಲ್ಕನೆಯವನು, ರದ್ದಾಯ್ ಐದನೆಯವನು.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "ನೆತನೆಲ್"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ನಾಲ್ಕನೆಯವನು"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "ರದ್ದಾಯ್"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ಐದನೆಯವನು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:55.457383051Z",
+  "model": "glm-5.3"
+}

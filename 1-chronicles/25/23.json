@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 25:23",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 25,
+  "translation": "ಹದಿನಾರನೆಯದು ಹನನ್ಯಾಹು — ಆತನ ಕುಮಾರರು ಮತ್ತು ಆತನ ಸಹೋದರರು, ಹನ್ನೆರಡು ಜನ;",
+  "tokens": [
+    {
+      "surface": "לששה",
+      "gloss": "ಆರಕ್ಕೆ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ಹತ್ತು"
+    },
+    {
+      "surface": "לחנניהו",
+      "gloss": "ಹನನ್ಯಾಹು‍ಗೆ"
+    },
+    {
+      "surface": "ಬಪಕೀಯ",
+      "gloss": ""
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ಆತನ ಕುಮಾರರು"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ಮತ್ತು ಆತನ ಸಹೋದರರು"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ಎರಡು"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ಹತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:40:44.815443787Z",
+  "model": "glm-5.3"
+}

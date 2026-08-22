@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ನಾನು ⟨ಹೇಳುತ್ತೇನೆ⟩ — ರಾಜನ ಬಾಯಿಯನ್ನು ಕಾಪಾಡು, ಮತ್ತು ಎಲೋಹೀಂನ ಪ್ರಮಾಣವಚನದ ಸಂಬಂಧದಲ್ಲಿ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ಬಾಯಿಯನ್ನು"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ಕಾಪಾಡು"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ಮತ್ತು ... ಸಂಬಂಧದಲ್ಲಿ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ಸಂಬಂಧದಲ್ಲಿ"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "ಪ್ರಮಾಣವಚನದ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ಎಲೋಹೀಂನ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:57:51.888068654Z",
+  "model": "glm-5.3"
+}

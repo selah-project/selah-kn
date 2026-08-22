@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 10:31",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಮದ್ಮೇನಾ ಓಡಿಹೋಯಿತು; ಗೆಬಿಂ ನಿವಾಸಿಗಳು ಆಶ್ರಯ ಪಡೆದರು.",
+  "tokens": [
+    {
+      "surface": "נדדה",
+      "gloss": "ಓಡಿಹೋಯಿತು"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "ಮದ್ಮೇನಾ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ನಿವಾಸಿಗಳು"
+    },
+    {
+      "surface": "הגבים",
+      "gloss": "ಗೆಬಿಂ"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "ಆಶ್ರಯ ಪಡೆದರು"
+    }
+  ],
+  "timestamp": "2026-08-21T23:41:35.044697552Z",
+  "model": "glm-5.3"
+}

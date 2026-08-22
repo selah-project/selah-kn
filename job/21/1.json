@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 21:1",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 21,
+  "translation": "ಆಗ ಇಯ್ಯೋಬು ಉತ್ತರಿಸಿ ಹೇಳಿದನು:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ಉತ್ತರಿಸಿದನು"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ಇಯ್ಯೋಬು"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:39:09.998640305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಇಬ್ಬರು ಒಟ್ಟಿಗೆ ನಡೆಯುವರೇ ಒಪ್ಪಿಗೆಯಾಗದೆ ಹೊರತು?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "ನಡೆಯುವರೇ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ಇಬ್ಬರು"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ಒಟ್ಟಿಗೆ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ಹೊರತು"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ಒಪ್ಪಿಗೆಯಾಗದೆ"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ಸಂಧಿಸಿದರು"
+    }
+  ],
+  "timestamp": "2026-08-22T01:16:02.945546275Z",
+  "model": "glm-5.3"
+}

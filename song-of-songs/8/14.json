@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಓಡಿಹೋಗು, ನನ್ನ ಪ್ರಿಯನೇ, ಸಾರಂಗಿಯಂತೆ ಅಥವಾ ಜಿಂಕೆಗಳ ಮರಿಯಂತೆ ಆಗು ನೀನು, ಸುಗಂಧ ಪರ್ವತಗಳ ಮೇಲೆ.",
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "ಓಡಿಹೋಗು"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ನನ್ನ ಪ್ರಿಯನೇ"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "ಮತ್ತು ಆಗು"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನೀನು"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "ಸಾರಂಗಿಯಂತೆ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ಅಥವಾ"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ಮರಿಯಂತೆ"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "ಜಿಂಕೆಗಳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "ಪರ್ವತಗಳ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ಸುಗಂಧ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:49:59.276279091Z",
+  "model": "glm-5.3"
+}

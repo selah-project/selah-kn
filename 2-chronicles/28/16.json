@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ಆ ಕಾಲದಲ್ಲಿ ಅರಸ ಅಖಾಜ್ ಅಶ್ಶೂರ್‌ನ ಅರಸರ ಬಳಿ ತನಗೆ ಸಹಾಯವಾಗಿ ಕಳುಹಿಸಿದನು.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ಕಾಲದಲ್ಲಿ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ಕಳುಹಿಸಿದನು"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ಅರಸ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ಅಖಾಜ್"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಬಳಿ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ಅರಸರ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ಅಶ್ಶೂರ್‌ನ"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "ಸಹಾಯವಾಗಿ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ತನಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:59:12.103876803Z",
+  "model": "glm-5.3"
+}

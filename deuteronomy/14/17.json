@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಮತ್ತು ಪೆಲಿಕನ್‌ ಹಕ್ಕಿ, ⟨את⟩ ರಚಾಮಾ-ಹದ್ದು, ⟨את⟩ ನೀರ್ಕಾಗೆ",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "ಮತ್ತು ಪೆಲಿಕನ್‌ ಹಕ್ಕಿ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ರಚಾಮಾ-ಹದ್ದು"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "ರಚಾಮಾ-ಹದ್ದು"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ನೀರ್ಕಾಗೆ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ನೀರ್ಕಾಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:49:49.512698601Z",
+  "model": "glm-5.3"
+}

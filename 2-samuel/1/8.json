@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಅವನು ನನಗೆ ಹೇಳಿದನು — ನೀನು ಯಾರು? ನಾನು ಅವನಿಗೆ ಹೇಳಿದೆನು — ಅಮಲೇಕ್ಯ ನಾನು.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಅವನು ಹೇಳಿದನು"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ಯಾರು"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ನೀನು"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ನಾನು ಹೇಳಿದೆನು"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ಅವನಿಗೆ"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "ಅಮಲೇಕ್ಯ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ನಾನು"
+    }
+  ],
+  "timestamp": "2026-08-21T22:48:06.749532080Z",
+  "model": "glm-5.3"
+}

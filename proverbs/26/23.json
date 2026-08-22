@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಮಡಕೆಯ ಚೂರಿನ ಮೇಲೆ ಹೊದೆಸಿದ ಕಶ್ಮಲ ಬೆಳ್ಳಿ — ಉರಿಯುವ ತುಟಿಗಳು ಮತ್ತು ಕೆಟ್ಟ ಹೃದಯ.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ಬೆಳ್ಳಿ"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "ಕಶ್ಮಲ"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "ಹೊದೆಸಿದ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ಮಡಕೆಯ ಚೂರಿನ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ತುಟಿಗಳು"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "ಉರಿಯುವ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ಮತ್ತು ಹೃದಯ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ಕೆಟ್ಟ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:27:38.444978157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 27,
+  "translation": "ಬಹಿರಂಗವಾದ ಖಂಡನೆಯು ಒಳಗುದಿಸಿದ ಪ್ರೀತಿಗಿಂತ ⟨ಉತ್ತಮ⟩.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ಉತ್ತಮ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ಖಂಡನೆ"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ಬಹಿರಂಗವಾದ"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "ಪ್ರೀತಿಗಿಂತ"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "ಒಳಗುದಿಸಿದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:27:44.471697422Z",
+  "model": "glm-5.3"
+}

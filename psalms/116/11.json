@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 116,
+  "translation": "ಆತುರದಲ್ಲಿ ನಾನು ಹೇಳಿದೆನು — ಎಲ್ಲ ಮನುಷ್ಯರು ⟨ಸುಳ್ಳರು⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ಹೇಳಿದೆನು"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "ಆತುರದಲ್ಲಿ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ಮನುಷ್ಯರು"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ಸುಳ್ಳರು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:08:37.155530959Z",
+  "model": "glm-5.3"
+}

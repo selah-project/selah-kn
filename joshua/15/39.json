@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಲಾಖೀಶ್, ಮತ್ತು ಬೋತ್ಸ್ಕತ್, ಮತ್ತು ಎಗ್ಲೋನ್,",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "ಲಾಖೀಶ್"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "ಮತ್ತು ಬೋತ್ಸ್ಕತ್"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "ಮತ್ತು ಎಗ್ಲೋನ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:10:56.395226405Z",
+  "model": "glm-5.3"
+}

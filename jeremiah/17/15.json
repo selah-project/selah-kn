@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 17,
+  "translation": "ಇಗ, ಅವರು ನನಗೆ ಹೇಳುತ್ತಾರೆ — ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ಎಲ್ಲಿ? ಅದು ಈಗ ⟨ಬರಲಿ⟩ ಎಂದು.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ಇಗ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ಅವರು"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ಹೇಳುತ್ತಾರೆ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ಎಲ್ಲಿ?"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ಬರಲಿ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ಈಗ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:17:44.516607766Z",
+  "model": "glm-5.3"
+}

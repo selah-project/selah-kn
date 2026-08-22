@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಯಾತ್ಸಾ ಮತ್ತು ಕೆದೆಮೋತ್ ಮತ್ತು ಮೆಫಾಅತ್.",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "ಯಾತ್ಸಾ"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "ಮತ್ತು ಕೆದೆಮೋತ್"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "ಮತ್ತು ಮೆಫಾಅತ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:08:54.281612994Z",
+  "model": "glm-5.3"
+}

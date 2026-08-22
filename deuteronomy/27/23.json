@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 27,
+  "translation": "ಶಾಪಗ್ರಸ್ತನು ಯಾವನು ತನ್ನ ಅತ್ತೆಯೊಂದಿಗೆ ಮಲಗುವನೋ; ಮತ್ತು ಎಲ್ಲ ⟨the⟩ ಜನರು ಹೇಳುವರು, ಆಮೇನ್.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ಶಾಪಗ್ರಸ್ತನು"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ಮಲಗುವನೋ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ಒಂದಿಗೆ"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "ತನ್ನ ಅತ್ತೆ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ಮತ್ತು ಹೇಳುವರು"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ಆಮೇನ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:58:07.536679341Z",
+  "model": "glm-5.3"
+}

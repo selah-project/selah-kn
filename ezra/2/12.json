@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಅಜ್‌ಗಾದಿನ ಮಕ್ಕಳು — ಸಾವಿರ ಎರಡು ನೂರ ಇಪ್ಪತ್ತೆರಡು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "ಅಜ್‌ಗಾದಿನ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ಸಾವಿರ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ಎರಡು ನೂರ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ಇಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ಮತ್ತು ಎರಡು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:21.762451024Z",
+  "model": "glm-5.3"
+}

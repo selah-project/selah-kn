@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಮತ್ತು ⟨את⟩ ಅದೋರಾಯಿಂ ಮತ್ತು ⟨את⟩ ಲಾಖೀಶ್ ಮತ್ತು ⟨את⟩ ಅಜೆಕಾ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ಅದೋರಾಯಿಂ"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "ಅದೋರಾಯಿಂ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ಲಾಖೀಶ್"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "ಲಾಖೀಶ್"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ಅಜೆಕಾ"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "ಅಜೆಕಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:48:46.051372038Z",
+  "model": "glm-5.3"
+}

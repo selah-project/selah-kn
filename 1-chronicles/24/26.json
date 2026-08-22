@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಮೆರಾರಿಯ ಮಕ್ಕಳು ಮಾಹ್ಲಿ ಮತ್ತು ಮೂಶಿ; ಯಾಅಜಿಯಾಹುವಿನ ಮಕ್ಕಳು — ಅವನ ಮಗನಿಂದ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ಮೆರಾರಿಯ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ಮಾಹ್ಲಿ"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "ಮತ್ತು ಮೂಶಿ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "ಯಾಅಜಿಯಾಹುವಿನ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗನಿಂದ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:40:43.953145074Z",
+  "model": "glm-5.3"
+}

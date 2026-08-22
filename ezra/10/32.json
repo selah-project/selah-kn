@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಬಿನ್ಯಾಮಿನ್, ಮಲ್ಲೂಕ್, ಶೆಮರ್ಯಾ.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "ಬಿನ್ಯಾಮಿನ್"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "ಮಲ್ಲೂಕ್"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ಶೆಮರ್ಯಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:18:41.788779709Z",
+  "model": "glm-5.3"
+}

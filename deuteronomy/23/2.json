@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಹರಿದು ನಲುಗಿದವನೂ ಅಥವಾ ಸಿಪ್ಪೆ ಕತ್ತರಿಸಲ್ಪಟ್ಟವನೂ ಯಾಹ್ವೆಯ ಸಭೆಗೆ ಬರಬಾರದು.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬಾರದು"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ಬರಬಾರದು"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "ಹರಿದು"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ನಲುಗಿದವನೂ"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "ಅಥವಾ ಕತ್ತರಿಸಲ್ಪಟ್ಟವನೂ"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ಸಿಪ್ಪೆ (ಲಿಂಗಾಂಗ)"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ಸಭೆಗೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:56:46.662040273Z",
+  "model": "glm-5.3"
+}

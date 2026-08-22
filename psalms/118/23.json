@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 118,
+  "translation": "ಯಾಹ್ವೆಯಿಂದ ⟨את⟩ ಇದು ಆಗಿದೆ; ಇದು ನಮ್ಮ ಕಣ್ಣುಗಳಿಗೆ ಅದ್ಭುತವಾಗಿದೆ.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ಇಂದ",
+      "notes": "",
+      "marks": "ಇದು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ಆಗಿದೆ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ಇದು"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ಇದು"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "ಅದ್ಭುತವಾಗಿದೆ"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "ನಮ್ಮ ಕಣ್ಣುಗಳಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:42:32.964897846Z",
+  "model": "glm-5.3"
+}

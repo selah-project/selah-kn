@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 40,
+  "translation": "ಸಂಗೀತ ನಿರ್ದೇಶಕನಿಗೆ, ದಾವಿದ್‌ನ ಕೀರ್ತನೆ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ಸಂಗೀತ ನಿರ್ದೇಶಕನಿಗೆ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ದಾವಿದ್‌ನ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ಕೀರ್ತನೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:45:55.900872182Z",
+  "model": "glm-5.3"
+}

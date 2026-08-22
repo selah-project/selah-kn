@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಹೋಗು ಇರುವೆಯ ಬಳಿ, ಆಲಸಿಯೇ; ನೋಡು ⟨את⟩ ಅದರ ದಾರಿಗಳನ್ನು ಮತ್ತು ಜ್ಞಾನಿಯಾಗು",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ಹೋಗು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿ"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "ಇರುವೆಯ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ಆಲಸಿ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ನೋಡು"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "ಅದರ ದಾರಿಗಳನ್ನು",
+      "marks": "את"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ಮತ್ತು ಜ್ಞಾನಿಯಾಗು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:19:00.392453223Z",
+  "model": "glm-5.3"
+}

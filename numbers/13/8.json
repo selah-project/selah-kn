@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಎಫ಼್ರಾಯಿಂ ಗೋತ್ರಕ್ಕೆ ಸೇರಿದವನು ನೂನ್‍ನ ಮಗ ಹೋಶೆಅ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ಗೋತ್ರಕ್ಕೆ ಸೇರಿದವನು"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ಎಫ಼್ರಾಯಿಂ"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "ಹೋಶೆಅ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ನೂನ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:26:27.243722286Z",
+  "model": "glm-5.3"
+}

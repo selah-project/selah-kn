@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಯರ್ಮೂತ್, ಅದುಲ್ಲಾಂ, ಸೋಖೋ, ಮತ್ತು ಅಜೆಕಾ.",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "ಯರ್ಮೂತ್"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "ಅದುಲ್ಲಾಂ"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "ಸೋಖೋ"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "ಮತ್ತು ಅಜೆಕಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:11:05.995672969Z",
+  "model": "glm-5.3"
+}

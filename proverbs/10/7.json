@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ನ್ಯಾಯವಂತನ ನೆನಪು ಆಶೀರ್ವಾದಕ್ಕೆ; ಆದರೆ ದುಷ್ಟರ ಹೆಸರು ಕೊಳೆಯುವುದು.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ನೆನಪು"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ನ್ಯಾಯವಂತನ"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "ಆಶೀರ್ವಾದಕ್ಕೆ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ಆದರೆ ಹೆಸರು"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ದುಷ್ಟರ"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "ಕೊಳೆಯುವುದು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:20:19.387274775Z",
+  "model": "glm-5.3"
+}

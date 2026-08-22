@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 12:1",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಮತ್ತು ಇಯ್ಯೋಬ್ ಉತ್ತರಿಸಿ ಹೇಳಿದನು:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ಉತ್ತರಿಸಿದನು"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ಇಯ್ಯೋಬ್"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:34:48.222185236Z",
+  "model": "glm-5.3"
+}

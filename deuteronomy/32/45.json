@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 32,
+  "translation": "ಮೋಶೆ ⟨את⟩ ಈ ಎಲ್ಲಾ ಮಾತುಗಳನ್ನು ಇಸ್ರಾಯೇಲ್‌ನ ಎಲ್ಲರಿಗೂ ಹೇಳುವುದನ್ನು ಮುಗಿಸಿದನು.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ಮುಗಿಸಿದನು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ಹೇಳುವುದನ್ನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಈ ಎಲ್ಲಾ ಮಾತುಗಳನ್ನು"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ಮಾತುಗಳನ್ನು"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವರಿಗೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲರಿಗೂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಇಸ್ರಾಯೇಲ್‌ನ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:00:54.946108315Z",
+  "model": "glm-5.3"
+}

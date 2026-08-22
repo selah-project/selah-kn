@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 17:1",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 17,
+  "translation": "ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ನನಗೆ ಬಂದಿತು, ಹೇಳುತ್ತಾ,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:48:21.958870415Z",
+  "model": "glm-5.3"
+}

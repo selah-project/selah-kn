@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಮಿಶ್ಮಾ, ಮತ್ತು ದೂಮಾ, ಮಸ್ಸಾ, ಹದದ್, ಮತ್ತು ತೆಮಾ.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "ಮಿಶ್ಮಾ"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "ಮತ್ತು ದೂಮಾ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ಮಸ್ಸಾ"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "ಹದದ್"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "ಮತ್ತು ತೆಮಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:04.458469252Z",
+  "model": "glm-5.3"
+}

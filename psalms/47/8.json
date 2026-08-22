@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 47,
+  "translation": "ಏಕೆಂದರೆ ಸಮಸ್ತ ಭೂಮಿಯ ರಾಜನು ಎಲೋಹೀಂ; ವೀಣೆ ನುಡಿಯಿರಿ, ವಿವೇಕದಿಂದ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಏಕೆಂದರೆ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಸಮಸ್ತ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿಯ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ವೀಣೆ ನುಡಿಯಿರಿ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ವಿವೇಕದಿಂದ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:47:44.850723031Z",
+  "model": "glm-5.3"
+}

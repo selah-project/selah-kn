@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಮತ್ತು ಅಖಿಯೋ, ಶಶಾಕ್ ಮತ್ತು ಯಿರೆಮೋತ್;",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "ಮತ್ತು ಅಖಿಯೋ"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "ಶಶಾಕ್"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "ಮತ್ತು ಯಿರೆಮೋತ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:42.069373888Z",
+  "model": "glm-5.3"
+}

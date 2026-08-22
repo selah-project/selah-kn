@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಮತ್ತು ಯೋಯೇಲ್, ಮತ್ತು ಯೋಶಿಬ್ಯಾನ ಮಗನಾದ ಯೆಹೂ — ಯೆಹೂ ಸರಾಯಾನ ಮಗ, ಸರಾಯಾ ಅಸಿಯೆಲ್‌ನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "ಮತ್ತು ಯೋಯೇಲ್"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "ಮತ್ತು ಯೆಹೂ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "ಯೋಶಿಬ್ಯಾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "ಸರಾಯಾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "ಅಸಿಯೆಲ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:30:37.684273590Z",
+  "model": "glm-5.3"
+}

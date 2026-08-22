@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಮತ್ತು ಪೆಲೆಗ್ ಮೂವತ್ತು ವರ್ಷ ಬಾಳಿ, ರೆವುವನ್ನು ⟨את⟩ ಹುಟ್ಟಿಸಿದನು.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ಬಾಳಿ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ಪೆಲೆಗ್"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ಮೂವತ್ತು"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ವರ್ಷ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ಹುಟ್ಟಿಸಿದನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ರೆವುವನ್ನು"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ರೆವುವನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:12:39.055179183Z",
+  "model": "glm-5.3"
+}

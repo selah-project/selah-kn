@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಏಸಾವನ ಪುತ್ರರು — ಎಲೀಫಾಜ್, ರೆಉವೇಲ್, ಯೆಉಷ್, ಯಾಲಾಮ್ ಮತ್ತು ಕೋರಾಹ್.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಪುತ್ರರು"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ಏಸಾವನ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ಎಲೀಫಾಜ್"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ರೆಉವೇಲ್"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "ಮತ್ತು ಯೆಉಷ್"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "ಮತ್ತು ಯಾಲಾಮ್"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "ಮತ್ತು ಕೋರಾಹ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:23.941286893Z",
+  "model": "glm-5.3"
+}

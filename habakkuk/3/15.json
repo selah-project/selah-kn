@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನೀನು ಸಮುದ್ರದಲ್ಲಿ ನಿನ್ನ ಕುದುರೆಗಳೊಂದಿಗೆ ತುಳಿದೆ, ಬಹು ನೀರ ನೊರೆಯ ಮೇಲೆ.",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "ತುಳಿದೆ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ಸಮುದ್ರದಲ್ಲಿ"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "ನಿನ್ನ ಕುದುರೆಗಳೊಂದಿಗೆ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ನೊರೆಯ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ನೀರ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ಬಹು"
+    }
+  ],
+  "timestamp": "2026-08-22T01:26:41.769800161Z",
+  "model": "glm-5.3"
+}

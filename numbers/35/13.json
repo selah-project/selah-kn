@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 35:13",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 35,
+  "translation": "ನೀವು ಕೊಡುವ ಪಟ್ಟಣಗಳಲ್ಲಿ ಆರು ಆಶ್ರಯದ ಪಟ್ಟಣಗಳು ನಿಮಗೆ ಆಗಿರಲಿ.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "ಮತ್ತು-ಪಟ್ಟಣಗಳು"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅವು"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ನೀವು ಕೊಡುವ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ಆರು"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ಪಟ್ಟಣಗಳು"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "ಆಶ್ರಯದ"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ಆಗಿರಲಿ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ನಿಮಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:41:17.508116272Z",
+  "model": "glm-5.3"
+}

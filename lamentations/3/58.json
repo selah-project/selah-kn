@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಅದೋನಾಯ್, ನೀನು ನನ್ನ ಪ್ರಾಣದ ವಾದಗಳನ್ನು ನಡೆಸಿದೆ; ನನ್ನ ಜೀವವನ್ನು ವಿಮೋಚಿಸಿದೆ.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ನೀನು ವಾದ ನಡೆಸಿದೆ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ಅದೋನಾಯ್"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ವಾದಗಳನ್ನು"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ನನ್ನ ಪ್ರಾಣದ"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "ವಿಮೋಚಿಸಿದೆ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ನನ್ನ ಜೀವವನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:46.689023192Z",
+  "model": "glm-5.3"
+}

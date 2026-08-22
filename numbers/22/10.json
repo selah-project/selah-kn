@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಬಿಲ್ಆಮ್ ಎಲೋಹೀಂಗೆ ಹೇಳಿದನು — ಮೋಆಬ್ ರಾಜನಾದ ತ್ಸಿಪ್ಪೋರನ ಮಗ ಬಲಾಕ್ ನನಗೆ ಕಳುಹಿಸಿದ್ದಾನೆ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ಬಿಲ್ಆಮ್"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ಬಲಾಕ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "ತ್ಸಿಪ್ಪೋರನ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನಾದ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ಮೋಆಬ್"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ಕಳುಹಿಸಿದ್ದಾನೆ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:33:06.788980357Z",
+  "model": "glm-5.3"
+}

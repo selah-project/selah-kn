@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 41,
+  "translation": "ಇದೇ ⟨the⟩ ಆ ಮಾತು ನಾನು ಪರೋಹನಿಗೆ ಆಡಿದ್ದು: ಎಲೋಹೀಂ ಮಾಡುವುದನ್ನು ⟨that which⟩ ಅವನು ಪರೋಹನಿಗೆ ತೋರಿಸಿದ್ದಾನೆ.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ಇದೇ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ಆ ಮಾತು"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨that⟩"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ನಾನು ಆಡಿದ್ದು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ಪರೋಹನಿಗೆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨that which⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ಮಾಡುವುದನ್ನು"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ಅವನು ತೋರಿಸಿದ್ದಾನೆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಪರೋಹನಿಗೆ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ಪರೋಹನಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:08:19.820646152Z",
+  "model": "glm-5.3"
+}

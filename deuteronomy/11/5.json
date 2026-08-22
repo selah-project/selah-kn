@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಮತ್ತು ಅವನು ನಿಮಗೆ ಅರಣ್ಯದಲ್ಲಿ ಮಾಡಿದ್ದನ್ನು — ನೀವು ⟨ಈ⟩ ಸ್ಥಳಕ್ಕೆ ಬರುವವರೆಗೂ.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ಮತ್ತು ಅದನ್ನು"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ಮಾಡಿದ್ದನ್ನು"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ನಿಮಗೆ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ಅರಣ್ಯದಲ್ಲಿ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ವರೆಗೆ"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "ನಿಮ್ಮ ಬರುವಿಕೆ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ಇಂದ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ಸ್ಥಳಕ್ಕೆ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಈ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:49:11.726611992Z",
+  "model": "glm-5.3"
+}

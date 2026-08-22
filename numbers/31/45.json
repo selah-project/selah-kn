@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 31,
+  "translation": "ಮತ್ತು ಕತ್ತೆಗಳು ಮೂವತ್ತು ಸಾವಿರ, ಐದುನೂರು.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "ಮತ್ತು ಕತ್ತೆಗಳು"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ಮೂವತ್ತು"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ಸಾವಿರ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ಐದು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:38:13.405543457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 29,
+  "translation": "ಯಾಹ್ವೆಯ ಧ್ವನಿಯು ಉರಿಯ ಜ್ವಾಲೆಗಳನ್ನು ಕಡಿದು ಬೀಳಿಸುತ್ತದೆ",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ಧ್ವನಿಯು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "ಕಡಿದು ಬೀಳಿಸುತ್ತದೆ"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ಜ್ವಾಲೆಗಳನ್ನು"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ಉರಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:39:35.344482309Z",
+  "model": "glm-5.3"
+}

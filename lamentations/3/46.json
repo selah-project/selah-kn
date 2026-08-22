@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನಮ್ಮ ಎಲ್ಲಾ ಶತ್ರುಗಳು ನಮ್ಮ ವಿರುದ್ಧ ತಮ್ಮ ಬಾಯಿ ತೆರೆದಿದ್ದಾರೆ.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "ತೆರೆದಿದ್ದಾರೆ (ಅಗಲವಾಗಿ)"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ನಮ್ಮ ವಿರುದ್ಧ"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ಅವರ ಬಾಯಿ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "ನಮ್ಮ ಶತ್ರುಗಳು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:57.488156279Z",
+  "model": "glm-5.3"
+}

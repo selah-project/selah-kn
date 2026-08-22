@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 18,
+  "translation": "ದುಷ್ಟನು ಬರುವಾಗ ಅವಹೇಳನವೂ ಬರುತ್ತದೆ, ಮತ್ತು ಅವಮಾನದೊಂದಿಗೆ ನಿಂದೆ.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "ಬರುವಾಗ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ದುಷ್ಟನು"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ಬರುತ್ತದೆ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ಕೂಡ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ಅವಹೇಳನ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ಮತ್ತು...ಒಂದಿಗೆ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ಅವಮಾನ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ನಿಂದೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:23:54.416138652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಮತ್ತು ಮೆಶೋಬಾಬ್, ಮತ್ತು ಯಮ್ಲೆಕ್, ಮತ್ತು ಅಮತ್ಸ್ಯಾನ ಮಗನಾದ ಯೋಶಾ",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "ಮತ್ತು ಮೆಶೋಬಾಬ್"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ಮತ್ತು ಯಮ್ಲೆಕ್"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "ಮತ್ತು ಯೋಶಾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "ಅಮತ್ಸ್ಯಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:30:37.684154389Z",
+  "model": "glm-5.3"
+}

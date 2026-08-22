@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಎಲೋಹೀಂ ನೀತಿವಂತ ನ್ಯಾಯಾಧೀಶನು, ಎಲ್ ಪ್ರತಿ ದಿನವೂ ಕೋಪಗೊಳ್ಳುವನು.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ನ್ಯಾಯಾಧೀಶನು"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ನೀತಿವಂತ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ಮತ್ತು ಎಲ್"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ಕೋಪಗೊಳ್ಳುವನು"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ಪ್ರತಿ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ದಿನವೂ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:33:53.970859159Z",
+  "model": "glm-5.3"
+}

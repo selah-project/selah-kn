@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 6:32",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಮಹ್ಲಿಯ ಮಗ, ಮೂಶಿಯ ಮಗ, ಮರಾರಿಯ ಮಗ, ಲೇವಿಯ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ಮಹ್ಲಿಯ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "ಮೂಶಿಯ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ಮರಾರಿಯ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ಲೇವಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:13.536364216Z",
+  "model": "glm-5.3"
+}

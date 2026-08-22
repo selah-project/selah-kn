@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಬದುಕಿರುವ ನೀರಿನ ಮೇಲೆ ಮಣ್ಣಿನ ಪಾತ್ರೆಯೊಳಗೆ ಒಂದು ಹಕ್ಕಿಯನ್ನು ವಧಿಸಬೇಕು;",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ಮತ್ತು ವಧಿಸಬೇಕು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಹಕ್ಕಿ"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ಹಕ್ಕಿಯನ್ನು"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಳಗೆ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ಪಾತ್ರೆ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ಮಣ್ಣಿನ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ನೀರಿನ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ಬದುಕಿರುವ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:07:50.412531364Z",
+  "model": "glm-5.3"
+}

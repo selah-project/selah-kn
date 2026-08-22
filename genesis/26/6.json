@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಯಿತ್ಸಾಕ್ ಗೆರಾರದಲ್ಲಿ ವಾಸಿಸಿದನು.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ಮತ್ತು... ವಾಸಿಸಿದನು"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ಯಿತ್ಸಾಕ್"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "ಗೆರಾರದಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:21:21.366235230Z",
+  "model": "glm-5.3"
+}

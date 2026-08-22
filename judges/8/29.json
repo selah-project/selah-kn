@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಯೆರುಬ್ಬಾಲ್ ಯೋಆಶನ ಮಗನು ಹೋದನು ಮತ್ತು ತನ್ನ ಮನೆಯಲ್ಲಿ ವಾಸಿಸಿದನು.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ಹೋದನು"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "ಯೆರುಬ್ಬಾಲ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ಯೋಆಶನ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ವಾಸಿಸಿದನು"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ತನ್ನ ಮನೆಯಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:21:41.367874315Z",
+  "model": "glm-5.3"
+}

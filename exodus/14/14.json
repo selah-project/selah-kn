@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಯಾಹ್ವೆ ನಿಮಗೋಸ್ಕರ ಯುದ್ಧ ಮಾಡುವನು, ನೀವು ಮೌನವಾಗಿರಿ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "ಯುದ್ಧ ಮಾಡುವನು"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ನಿಮಗೋಸ್ಕರ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ನೀವು"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "ಮೌನವಾಗಿರಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:44:12.319564872Z",
+  "model": "glm-5.3"
+}

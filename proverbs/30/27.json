@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 30,
+  "translation": "ಮಿಡತೆಗೆ ರಾಜನು ⟨ಇಲ್ಲ⟩, ಆದರೂ ಅದು ಎಲ್ಲರೂ ಸಾಲುಗಳಾಗಿ ಹೊರಟು ಹೋಗುತ್ತದೆ.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನು"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "ಮಿಡತೆಗೆ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ಹೊರಟು ಹೋಗುತ್ತದೆ"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "ಸಾಲುಗಳಾಗಿ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ಎಲ್ಲರೂ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:28:28.121219260Z",
+  "model": "glm-5.3"
+}

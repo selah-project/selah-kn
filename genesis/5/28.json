@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಲೆಮೆಕ್ ನೂರೆಂಟು ಮತ್ತು ಎರಡು ವರ್ಷ ಬಾಳಿದನು, ಮತ್ತು ಒಬ್ಬ ಮಗನನ್ನು ಪಡೆದನು.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ಬಾಳಿದನು"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ಲೆಮೆಕ್"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ಎರಡು"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ಮತ್ತು ಎಂಬತ್ತು"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ವರ್ಷ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ಮತ್ತು ನೂರು"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ವರ್ಷ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ಪಡೆದನು"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಒಬ್ಬ ಮಗನನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:09:43.216559475Z",
+  "model": "glm-5.3"
+}

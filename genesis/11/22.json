@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಸರೂಗು ಮೂವತ್ತು ವರ್ಷ ಬಾಳಿ, ⟨את⟩ ನಾಹೋರನನ್ನು ಜನಿಸಿದನು.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ಬಾಳಿ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "ಸರೂಗು"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ಮೂವತ್ತು"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ವರ್ಷ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ಮತ್ತು ಜನಿಸಿದನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ನಾಹೋರನನ್ನು"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ನಾಹೋರನನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:12:37.718516344Z",
+  "model": "glm-5.3"
+}

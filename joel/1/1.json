@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ಯೋವೇಲನೆಂಬ ಪೆತುವೇಲನ ಮಗನಿಗೆ ⟨ಆದದ್ದು⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಎಂಬದ್ದು"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ಆದದ್ದು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನಿಗೆ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ಯೋವೇಲನೆಂಬ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನ"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "ಪೆತುವೇಲನ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:13:54.537394780Z",
+  "model": "glm-5.3"
+}

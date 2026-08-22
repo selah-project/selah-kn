@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಆಗ ಶೆಲೋಮೋ ಎದೋಮ್ ದೇಶದಲ್ಲಿ ಸಮುದ್ರದ ದಡದ ಮೇಲಿರುವ ಎತ್ಸಿಯೋನ್-ಗೇಬೆರ್‌ಗೆ ಮತ್ತು ಎಲೋತ್‌ಗೆ ಹೋದನು.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ಆಗ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ಹೋದನು"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ಶೆಲೋಮೋ"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "ಎತ್ಸಿಯೋನ್‌ಗೆ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ಗೇಬೆರ್"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ಮತ್ತು ...ಗೆ"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "ಎಲೋತ್"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲಿರುವ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ದಡ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ಸಮುದ್ರದ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ದೇಶದಲ್ಲಿ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ಎದೋಮ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:48:41.759317415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಹುಡುಕುವ ಸಮಯ, ಮತ್ತು ಕಳೆದುಕೊಳ್ಳುವ ಸಮಯ; ಕಾಯ್ದಿಡುವ ಸಮಯ, ಮತ್ತು ಎಸೆದುಬಿಡುವ ಸಮಯ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ಸಮಯ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ಹುಡುಕುವ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ಮತ್ತು ಸಮಯ"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "ಕಳೆದುಕೊಳ್ಳುವ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ಸಮಯ"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "ಕಾಯ್ದಿಡುವ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ಮತ್ತು ಸಮಯ"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ಎಸೆದುಬಿಡುವ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:28.729839034Z",
+  "model": "glm-5.3"
+}

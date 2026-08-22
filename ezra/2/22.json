@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ನೆಟೋಫಾದ ಜನರು — ಐವತ್ತು ಆರು.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "ನೆಟೋಫಾ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ಐವತ್ತು"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ಆರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:04.013028752Z",
+  "model": "glm-5.3"
+}

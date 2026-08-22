@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ದ್ರಾಕ್ಷಾರಸ ಕುಡಿಯುವವರಲ್ಲಿ, ಮಾಂಸ ಭಕ್ಷಕರಲ್ಲಿ ಇರದಿರು.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ಇರದಿರು"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ಆಗದಿರು"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "ಕುಡಿಯುವವರಲ್ಲಿ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ದ್ರಾಕ್ಷಾರಸ"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "ಭಕ್ಷಕರಲ್ಲಿ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ಮಾಂಸ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ಅವರ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:26:34.178788618Z",
+  "model": "glm-5.3"
+}

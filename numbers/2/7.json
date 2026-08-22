@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಜೆಬೂಲೂನ್ ಕುಲ; ಮತ್ತು ಜೆಬೂಲೂನ್ ಮಕ್ಕಳಿಗೆ ನಾಯಕನು ಖೆಲೋನ್ ಮಗನಾದ ಎಲಿಯಾಬ್.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "ಕುಲ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ಜೆಬೂಲೂನ್"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ಮತ್ತು ನಾಯಕನು"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ಮಕ್ಕಳಿಗೆ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ಜೆಬೂಲೂನ್"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ಎಲಿಯಾಬ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನಾದ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ಖೆಲೋನ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:20:13.961915249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಯೋಅಖ್ ಅವನ ಮಗ, ಇದ್ದೋ ಅವನ ಮಗ, ಜೆರಖ್ ಅವನ ಮಗ, ಯೆಅತೆರೈ ಅವನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "ಯೋಅಖ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "ಇದ್ದೋ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ಜೆರಖ್"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "ಯೆಅತೆರೈ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಅವನ ಮಗ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:01.705491918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 146,
+  "translation": "ಹಲ್ಲೆಲು-ಯಾಹ್; ನನ್ನ ನೆಫೆಶೇ, ಯಾಹ್ವೆಯನ್ನು ⟨את⟩ ಸ್ತುತಿಸು.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ಸ್ತುತಿಸಿ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ಯಾಹ್"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ಸ್ತುತಿಸು"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ನನ್ನ ನೆಫೆಶೇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಯಾಹ್ವೆಯನ್ನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:15:56.770084849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 20:29",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ಯುವಕರ ಹೆಮ್ಮೆ ⟨is⟩ ಅವರ ಬಲ, ಮತ್ತು ವೃದ್ಧರ ಮಹಿಮೆ ⟨is⟩ ನರೆಕೂದಲು.",
+  "tokens": [
+    {
+      "surface": "תפארת",
+      "gloss": "ಹೆಮ್ಮೆ"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "ಯುವಕರ"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "ಬಲ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ಮತ್ತು ಮಹಿಮೆ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ವೃದ್ಧರ"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ನರೆಕೂದಲು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:23:50.750961760Z",
+  "model": "glm-5.3"
+}

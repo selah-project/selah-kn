@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಬಿನ್ನೂಯಿಯ ಮಕ್ಕಳು — ಆರು ನೂರು ನಲವತ್ತೆಂಟು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "ಬಿನ್ನೂಯಿ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ಆರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ನಲವತ್ತು"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ಎಂಟು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:41.546786565Z",
+  "model": "glm-5.3"
+}

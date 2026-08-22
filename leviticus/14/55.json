@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಮತ್ತು ಬಟ್ಟೆಯ ಚರ್ಮರೋಗಕ್ಕೂ, ಮನೆಯ ಚರ್ಮರೋಗಕ್ಕೂ",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "ಚರ್ಮರೋಗಕ್ಕೂ"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "ಬಟ್ಟೆಯ"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ಮನೆಯ...ಕ್ಕೂ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:08:13.494953126Z",
+  "model": "glm-5.3"
+}

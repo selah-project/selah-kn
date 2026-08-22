@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಯೆರಿಖೋದ ಮಕ್ಕಳು — ಮೂರು ನೂರ ನಲವತ್ತೈದು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "ಯೆರಿಖೋ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ಮೂರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ನಲವತ್ತು"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ಮತ್ತು ಐದು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:20.606230410Z",
+  "model": "glm-5.3"
+}

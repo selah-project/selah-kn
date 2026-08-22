@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಈಗ ಎದ್ದು ನಿಮಗಾಗಿ ನದಿ ಜ಼ೆರೆದ್ ⟨את⟩ ದಾಟಿರಿ; ಆಗ ನಾವು ನದಿ ಜ಼ೆರೆದ್ ⟨את⟩ ದಾಟಿದೆವು.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ಈಗ"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ಎದ್ದು"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ದಾಟಿರಿ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ನಿಮಗಾಗಿ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ನದಿ ಜ಼ೆರೆದ್"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ನದಿ"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ಜ಼ೆರೆದ್"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "ದಾಟಿದೆವು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ನದಿ ಜ಼ೆರೆದ್"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ನದಿ"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ಜ಼ೆರೆದ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:42:07.382081182Z",
+  "model": "glm-5.3"
+}

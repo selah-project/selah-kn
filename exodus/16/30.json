@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ಹೀಗೆ ಜನರು ಏಳನೇ ದಿನದಲ್ಲಿ ವಿಶ್ರಾಂತಿ ತೆಗೆದುಕೊಂಡರು.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "ವಿಶ್ರಾಂತಿ ತೆಗೆದುಕೊಂಡರು"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ದಿನದಲ್ಲಿ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ಏಳನೇ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:46:21.996971394Z",
+  "model": "glm-5.3"
+}

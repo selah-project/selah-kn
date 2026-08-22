@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನನ್ನನ್ನು ⟨את⟩ ಆತನು ಓಡಿಸಿ ಕತ್ತಲೆಯಲ್ಲಿ ನಡೆಸಿದನು, ಬೆಳಕಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ನನ್ನನ್ನು",
+      "marks": "ನನ್ನನ್ನು"
+    },
+    {
+      "surface": "נהಒ",
+      "gloss": "ಆತನು ಓಡಿಸಿದನು"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ನಡೆಸಿದನು"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ಕತ್ತಲೆಯಲ್ಲಿ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ಮತ್ತು ಇಲ್ಲ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ಬೆಳಕು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:22.743004227Z",
+  "model": "glm-5.3"
+}

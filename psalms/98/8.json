@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 98,
+  "translation": "ನದಿಗಳು ಕೈಚಪ್ಪಡಿಸಲಿ; ಒಟ್ಟಿಗೆ ಪರ್ವತಗಳು ಜಯಗೀತೆ ಹಾಡಲಿ",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "ನದಿಗಳು"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "ಕೈಚಪ್ಪಡಿಸಲಿ"
+    },
+    {
+      "surface": "ಛף",
+      "gloss": "ಕೈಯ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ಒಟ್ಟಿಗೆ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ಪರ್ವತಗಳು"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ಜಯಗೀತೆ ಹಾಡಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:03:06.343461956Z",
+  "model": "glm-5.3"
+}

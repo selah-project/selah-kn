@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಅರಖನ ಮಕ್ಕಳು, ಏಳು ನೂರು ಐವತ್ತೈದು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ಅರಖ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ಏಳು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ಐದು"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ಮತ್ತು ಎಪ್ಪತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:23.658802427Z",
+  "model": "glm-5.3"
+}

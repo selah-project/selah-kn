@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಏಲಾಮನ ಮಕ್ಕಳು ಸಾವಿರ ಎರಡು ನೂರ ಐವತ್ತನಾಲ್ಕು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ಏಲಾಮನ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ಸಾವಿರ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ಎರಡು ನೂರ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ಐವತ್ತು"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ಮತ್ತು ನಾಲ್ಕು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:21:54.200342995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಮತ್ತು ಆ ಸಮಯದಲ್ಲಿ ನಾನು ನಿಮಗೆ ಹೇಳಿದೆನು, ಹೀಗೆಂದು: ನಾನು ಒಬ್ಬನೇ ನಿಮ್ಮನ್ನು ⟨את⟩ ಹೊರಲಾರೆ.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ಮತ್ತು ಹೇಳಿದೆನು"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ನಿಮಗೆ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ಸಮಯದಲ್ಲಿ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ಆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಗೆಂದು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ನಾನು ಸಾಧ್ಯನಾಗುವೆನು"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ಒಬ್ಬನೇ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ಹೊರಲಾರೆ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ನಿಮ್ಮನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:41:58.854251083Z",
+  "model": "glm-5.3"
+}

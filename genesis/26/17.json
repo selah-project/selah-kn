@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 26:17",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಯಿತ್ಸಾಕ್ ಅಲ್ಲಿಂದ ಹೊರಟು ಗೆರಾರ್‌ನ ತೊರೆಯಲ್ಲಿ ತಂಗಾಡಿ ಅಲ್ಲೇ ನೆಲೆಸಿದನು.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ಹೊರಟು"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ಅಲ್ಲಿಂದ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ಯಿತ್ಸಾಕ್"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "ತಂಗಾಡಿ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ತೊರೆಯಲ್ಲಿ"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "ಗೆರಾರ್‌ನ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ನೆಲೆಸಿದನು"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ಅಲ್ಲೇ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:21:06.578201691Z",
+  "model": "glm-5.3"
+}

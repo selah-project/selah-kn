@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಆಗ ನೀನು ಯಾಹ್ವೆಯ ಭಯವನ್ನು ಅರಿಯುವೆ, ಮತ್ತು ಎಲೋಹೀಂನ ಜ್ಞಾನವು ದೊರೆಯುವೆ.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ಆಗ"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ಅರಿಯುವೆ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ಭಯವನ್ನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ಮತ್ತು ಜ್ಞಾನವು"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ಎಲೋಹೀಂನ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ದೊರೆಯುವೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:17:02.955716421Z",
+  "model": "glm-5.3"
+}

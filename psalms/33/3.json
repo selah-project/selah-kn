@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 33,
+  "translation": "ಅವನಿಗೆ ಹೊಸ ಹಾಡನ್ನು ಹಾಡಿರಿ; ಕೌಶಲದಿಂದ ನುಡಿಸಿರಿ, ಘೋಷಣೆಯೊಡನೆ.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ಹಾಡಿರಿ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಅವನಿಗೆ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ಹಾಡನ್ನು"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ಹೊಸ"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "ಕೌಶಲದಿಂದ"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "ನುಡಿಸಿರಿ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ಘೋಷಣೆಯೊಡನೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:44:00.305200251Z",
+  "model": "glm-5.3"
+}

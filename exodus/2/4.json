@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಅವನ ಸಹೋದರಿಯು ದೂರದಲ್ಲಿ ನಿಂತಳು, ಅವನಿಗೆ ಏನು ಆಗುವುದೆಂದು ತಿಳಿಯಲು.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "ನಿಂತಳು"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ಅವನ ಸಹೋದರಿಯು"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ದೂರದಲ್ಲಿ"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "ತಿಳಿಯಲು"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ಏನು"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ಆಗುವುದು"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಅವನಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:37:42.724173794Z",
+  "model": "glm-5.3"
+}

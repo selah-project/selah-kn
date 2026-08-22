@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 31,
+  "translation": "ಮತ್ತು ಕತ್ತೆಗಳು ಒಂದು ಹಾಗೂ ಅರವತ್ತು ಸಾವಿರ.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "ಮತ್ತು ಕತ್ತೆಗಳು"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ಹಾಗೂ ಅರವತ್ತು"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ಸಾವಿರ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:38:19.315008995Z",
+  "model": "glm-5.3"
+}

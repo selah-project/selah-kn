@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಮಿಕ್ಮಾಸ್‌ನ ಪುರುಷರು — ನೂರು ಇಪ್ಪತ್ತು ಇಬ್ಬರು.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ಪುರುಷರು"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "ಮಿಕ್ಮಾಸ್"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ಇಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ಇಬ್ಬರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:32.443692299Z",
+  "model": "glm-5.3"
+}

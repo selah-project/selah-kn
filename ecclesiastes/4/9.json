@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಉತ್ತಮರು ⟨ಇವರು⟩ ಎರಡು ಜನ, ಒಬ್ಬನಿಗಿಂತ; ಯಾಕೆಂದರೆ ಅವರಿಗೆ ⟨ಇದೆ⟩ ಒಳ್ಳೆಯ ಪ್ರತಿಫಲ ತಮ್ಮ ಶ್ರಮದಲ್ಲಿ.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "ಉತ್ತಮರು"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ಎರಡು ಜನ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ಗಿಂತ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ಒಬ್ಬನು"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ಇದೆ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ಅವರಿಗೆ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ಪ್ರತಿಫಲ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ಒಳ್ಳೆಯ"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "ತಮ್ಮ ಶ್ರಮದಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:56:01.072405926Z",
+  "model": "glm-5.3"
+}

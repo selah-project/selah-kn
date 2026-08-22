@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 6:16",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಮತ್ತು ಇವರೇ ⟨they whom⟩ ದಾವೀದನು ಯಾಹ್ವೆಯ ಮನೆಯಲ್ಲಿ ಹಾಡಿನ ಸೇವೆಯ ಮೇಲೆ ನಿಂತಿಸಿದನು — ಆರೂಣವು ವಿಶ್ರಾಂತಿ ಪಡೆದ ನಂತರ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ಮತ್ತು ಇವರೇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨they whom⟩"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "ನಿಂತಿಸಿದನು"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ದಾವೀದನು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ಸೇವೆಯ (ಕೈಗಳ)"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ಹಾಡಿನ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಮನೆಯಲ್ಲಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "ממנוח",
+      "gloss": "ವಿಶ್ರಾಂತಿಯಿಂದ"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ಆರೂಣ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:55.191028153Z",
+  "model": "glm-5.3"
+}

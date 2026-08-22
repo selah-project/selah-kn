@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಮತ್ತು ಗೋಮೆರ್‌ನ ಮಕ್ಕಳು — ಅಶ್ಕೆನಾಜ್, ರೀಫತ್ ಮತ್ತು ತೋಗರ್ಮಾ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ಗೋಮೆರ್‌ನ"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "ಅಶ್ಕೆನಾಜ್"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "ರೀಫತ್"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "ತೋಗರ್ಮಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:11:27.371160381Z",
+  "model": "glm-5.3"
+}

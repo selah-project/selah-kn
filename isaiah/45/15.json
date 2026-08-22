@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "kn",
+  "chapter": 45,
+  "translation": "ನಿಜವಾಗಿ ನೀನೇ ಒಳಗೈ ತೋರುವ ಎಲ್; ಇಸ್ರಾಯೇಲಿನ ಎಲೋಹೀಂ, ಮುಕ್ತಿದಾತ.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "ನಿಜವಾಗಿ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ನೀನೇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಲ್"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "ಒಳಗೈ ತೋರುವ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಇಸ್ರಾಯೇಲಿನ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ಮುಕ್ತಿದಾತ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:58:37.982403533Z",
+  "model": "glm-5.3"
+}

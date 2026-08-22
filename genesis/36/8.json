@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 36,
+  "translation": "ಆಗ ಏಸಾವ್ ಸೆಯೀರ್ ಪರ್ವತದಲ್ಲಿ ನೆಲೆಸಿದನು; ಏಸಾವೇ ⟨ಆತನೇ⟩ ಎದೋಮ್.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ನೆಲೆಸಿದನು"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ಏಸಾವ್"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ಪರ್ವತದಲ್ಲಿ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ಸೆಯೀರ್"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ಏಸಾವ್"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ಆತನೇ⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ಎದೋಮ್"
+    }
+  ],
+  "timestamp": "2026-08-22T04:07:34.827237430Z",
+  "model": "glm-5.3"
+}

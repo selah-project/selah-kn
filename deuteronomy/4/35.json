@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ನಿನಗೆ ತೋರಿಸಲಾಯಿತು, ಯಾಹ್ವೆ ⟨ಆತನೇ⟩ ಎಲೋಹೀಂ, ಆತನ ಹೊರತು ಇನ್ನು ಯಾವನೂ ಇಲ್ಲ ಎಂದು ನೀನು ತಿಳಿಯಲು.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ನೀನು"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ತೋರಿಸಿದನು"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ತಿಳಿಯಲು"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಎಂದು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಆತನೇ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ಇನ್ನು"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "ಆತನ ಹೊರತು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:46:28.090877663Z",
+  "model": "glm-5.3"
+}

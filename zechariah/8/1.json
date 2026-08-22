@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆ-ಸೇನೆಗಳ ವಾಕ್ಯವು ⟨ಆಯಿತು⟩, ಹೀಗೆ ಹೇಳುತ್ತಾ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಮತ್ತು ಆಯಿತು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ಸೇನೆಗಳ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:30:34.879196951Z",
+  "model": "glm-5.3"
+}

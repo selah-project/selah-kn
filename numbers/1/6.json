@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಶಿಮ್ಆೋನ್‌ಗೆ: ಶೆಲುಮೀಯೆಲ್, ತ್ಸೂರಿಶದ್ದಾಯ್‌ನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "ಶಿಮ್ಆೋನ್‌ಗೆ"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "ಶೆಲುಮೀಯೆಲ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "ತ್ಸೂರಿಶದ್ದಾಯ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:18:08.974637718Z",
+  "model": "glm-5.3"
+}

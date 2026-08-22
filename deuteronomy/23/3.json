@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಮಮ್ಜೇರ್ ಯಾಹ್ವೆಯ ಸಭೆಗೆ ಬರಬಾರದು; ಹತ್ತನೆಯ ಪೀಳಿಗೆಯವನೂ ಅವನಿಗಾಗಿ ಯಾಹ್ವೆಯ ಸಭೆಗೆ ಬರಬಾರದು.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬಾರದು"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ಬರಬಾರದು"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "ಮಮ್ಜೇರ್"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ಸಭೆಗೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ಕೂಡ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ಪೀಳಿಗೆಯವನೂ"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "ಹತ್ತನೆಯ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಬಾರದು"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ಬರಬಾರದು"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಅವನಿಗಾಗಿ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ಸಭೆಗೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:56:46.662171078Z",
+  "model": "glm-5.3"
+}

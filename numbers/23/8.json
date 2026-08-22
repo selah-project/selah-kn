@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಏನು ಶಪಿಸುವೆನೊ? ಎಲ್ ಶಪಿಸದವನನ್ನು. ಮತ್ತು ಏನು ಕೋಪಿಸುವೆನೊ? ಯಾಹ್ವೆ ಕೋಪಿಸದವನನ್ನು.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ಏನು"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "ಶಪಿಸುವೆನೊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "ಶಪಿಸಿದನು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಲ್"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ಮತ್ತು ಏನು"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "ಕೋಪಿಸುವೆನೊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ಕೋಪಿಸಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:35:15.031720158Z",
+  "model": "glm-5.3"
+}

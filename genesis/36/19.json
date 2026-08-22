@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 36,
+  "translation": "ಇವರು ಎಸಾವನ ಮಕ್ಕಳು, ಮತ್ತು ಇವರು ಆತನ ಅಲೂಪ್‌ಗಳು; ಆತನೇ ಎದೋಮ್.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ಇವರು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ಎಸಾವನ"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ಮತ್ತು ಇವರು"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "ಅವನ ಅಲೂಪ್‌ಗಳು"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಆತನೇ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ಎದೋಮ್"
+    }
+  ],
+  "timestamp": "2026-08-21T20:27:12.489986400Z",
+  "model": "glm-5.3"
+}

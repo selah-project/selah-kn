@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 20:15",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ನಿನ್ನಿಂದ ಬಹಳ ದೂರದಲ್ಲಿರುವ, ಈ ಜನಾಂಗಗಳ ನಗರಗಳಲ್ಲಿ ಸೇರದ ಎಲ್ಲಾ ನಗರಗಳಿಗೆ ನೀನು ಹೀಗೆ ಮಾಡಬೇಕು.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ಹೀಗೆ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ಮಾಡಬೇಕು"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ಎಲ್ಲಾ...ಗೆ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ನಗರಗಳಿಗೆ"
+    },
+    {
+      "surface": "הרחקת",
+      "gloss": "ದೂರದಲ್ಲಿರುವ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ನಿನ್ನಿಂದ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ಬಹಳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅವು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಸೇರದ"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "ನಗರಗಳಲ್ಲಿ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ಜನಾಂಗಗಳ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ಇವುಗಳ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:53:42.052234483Z",
+  "model": "glm-5.3"
+}

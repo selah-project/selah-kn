@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಹನ್ನೊಂದನೇ ದಿನದಂದು ಅಶೇರ್ ಮಕ್ಕಳ ನಾಶೀ — ಅಖ್ರಾನ್‌ನ ಮಗನಾದ ಪಗ್ಇಯೆಲ್.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ದಿನದಂದು"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ಹನ್ನೊಂದನೇ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ನೇ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ದಿನ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ನಾಶೀ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅಶೇರ್"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "ಪಗ್ಇಯೆಲ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನಾದ"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ಅಖ್ರಾನ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:24:31.044524130Z",
+  "model": "glm-5.3"
+}

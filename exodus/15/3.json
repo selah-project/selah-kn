@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಯಾಹ್ವೆ ಯುದ್ಧದ ಪುರುಷ; ಯಾಹ್ವೆ ⟨is⟩ ಆತನ ಹೆಸರು.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ಪುರುಷ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ಯುದ್ಧದ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ಆತನ ಹೆಸರು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:44:52.733667979Z",
+  "model": "glm-5.3"
+}

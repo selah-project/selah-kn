@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 13:41",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಮತ್ತು ಅವನ ಮುಖದ ಅಂಚಿನಿಂದ ಅವನ ತಲೆ ಬೋಳಾದರೆ, ಅವನು ಹಣೆ-ಬೋಳ್; ಅವನು ಶುದ್ಧನು.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ಮತ್ತು ಆ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ಅಂಚಿನಿಂದ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ಅವನ ಮುಖದ"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "ಬೋಳಾಗುತ್ತದೆ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ಅವನ ತಲೆ"
+    },
+    {
+      "surface": "גבח",
+      "gloss": "ಹಣೆ-ಬೋಳ್"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅವನು"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ಶುದ್ಧನು"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅವನು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:08:04.056026762Z",
+  "model": "glm-5.3"
+}

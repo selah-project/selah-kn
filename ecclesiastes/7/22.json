@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಏಕೆಂದರೆ ಅನೇಕ ಬಾರಿ ನೀನೂ ಇತರರನ್ನು ಶಪಿಸಿದ್ದೀಯೆ ಎಂದು ನಿನ್ನ ಹೃದಯವು ಬಲ್ಲದು.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಏಕೆಂದರೆ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ಕೂಡ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ಬಾರಿ"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ಅನೇಕ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ಬಲ್ಲದು"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ನಿನ್ನ ಹೃದಯವು"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಎಂದು"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ನೀನೂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "ನೀನು"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "ಶಪಿಸಿದ್ದೀಯೆ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ಇತರರನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T04:47:15.281689327Z",
+  "model": "glm-5.3"
+}

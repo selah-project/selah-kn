@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ಕೇಳುವ ಕಿವಿಯೂ ನೋಡುವ ಕಣ್ಣೂ — ಎರಡನ್ನೂ ಸಹ ಯಾಹ್ವೆ ಮಾಡಿದನು.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "ಕಿವಿ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ಕೇಳುವ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ಮತ್ತು ಕಣ್ಣು"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ನೋಡುವ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ಮಾಡಿದನು"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ಸಹ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ಎರಡನ್ನೂ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:43:33.034093122Z",
+  "model": "glm-5.3"
+}

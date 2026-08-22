@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಯುದ್ಧದ ಆಯುಧಗಳಿಗಿಂತ ಜ್ಞಾನವು ಉತ್ತಮ; ಆದರೆ ಒಬ್ಬ ಪಾಪಿ ಬಹಳ ಒಳ್ಳೆಯದನ್ನು ನಾಶಮಾಡುತ್ತಾನೆ.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ಉತ್ತಮ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ಜ್ಞಾನವು"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "ಆಯುಧಗಳಿಗಿಂತ"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ಯುದ್ಧದ"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "ಮತ್ತು ಪಾಪಿ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ನಾಶಮಾಡುತ್ತಾನೆ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ಒಳ್ಳೆಯದನ್ನು"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ಬಹಳ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:57:09.329377078Z",
+  "model": "glm-5.3"
+}

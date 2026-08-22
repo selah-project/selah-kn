@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಕಟ್ಟಿದನು ⟨את⟩ ಬೇತ್-ಲೆಖೆಮ್ ಮತ್ತು ⟨את⟩ ಏತಾಮ್ ಮತ್ತು ⟨את⟩ ತೆಕೋಅವನ್ನು.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ಕಟ್ಟಿದನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಬೇತ್-ಲೆಖೆಮ್"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಬೇತ್"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ಲೆಖೆಮ್"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ಮತ್ತು ⟨את⟩",
+      "marks": "ಏತಾಮ್"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "ಏತಾಮ್"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ಮತ್ತು ⟨את⟩",
+      "marks": "ತೆಕೋಅ"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "ತೆಕೋಅ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:48:33.406294162Z",
+  "model": "glm-5.3"
+}

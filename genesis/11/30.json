@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಸಾರಾಯ್ ಮಕ್ಕಳಿಲ್ಲದವಳಾಗಿದ್ದಳು — ಅವಳಿಗೆ ಮಗು ಇರಲಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ಆಗಿದ್ದಳು"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ಸಾರಾಯ್"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "ಮಕ್ಕಳಿಲ್ಲದವಳು"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ಇರಲಿಲ್ಲ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ಅವಳಿಗೆ"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "ಮಗು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:14:29.000539479Z",
+  "model": "glm-5.3"
+}

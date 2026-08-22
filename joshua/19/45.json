@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 19,
+  "translation": "ಯಿಹೂದ್, ಬೆನೆ-ಬರಕ್, ಗತ್-ರಿಮ್ಮೋನ್.",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "ಯಿಹೂದ್"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಬೆನೆ-"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ಬರಕ್"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "ಮತ್ತು ಗತ್-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ರಿಮ್ಮೋನ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:12:46.137454658Z",
+  "model": "glm-5.3"
+}

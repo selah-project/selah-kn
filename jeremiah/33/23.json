@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 33:23",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 33,
+  "translation": "ಯಾಹ್ವೆಯ ವಾಕ್ಯವು ಯಿರ್ಮೆಯಾಹುವಿಗೆ ಆಯಿತು, ಹೇಳುವುದು:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಆಯಿತು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಾಕ್ಯ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇದುತ್ತ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ಯಿರ್ಮೆಯಾಹುವಿಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುವುದು"
+    }
+  ],
+  "timestamp": "2026-08-22T00:26:55.322025386Z",
+  "model": "glm-5.3"
+}

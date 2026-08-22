@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 15:30",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಮತ್ತು ಎಲ್ತೋಲದ್ ಮತ್ತು ಕೆಸಿಲ್ ಮತ್ತು ಹೊರ್ಮಾ",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "ಮತ್ತು ಎಲ್ತೋಲದ್"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ಮತ್ತು ಕೆಸಿಲ್"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "ಮತ್ತು ಹೊರ್ಮಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:10:49.055052681Z",
+  "model": "glm-5.3"
+}

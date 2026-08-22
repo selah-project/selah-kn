@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಅಜ್ಮಾವೆತಿನ ಮಕ್ಕಳು — ನಲವತ್ತು ಎರಡು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "ಅಜ್ಮಾವೆತಿನ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ನಲವತ್ತು"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ಎರಡು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:04.013237492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಯಾಹ್ವೆಯ ಕೋಪವು ಅವರ ವಿರುದ್ಧ ಉರಿಯಿತು, ಮತ್ತು ⟨ಆತನು⟩ ಹೊರಟನು.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ಉರಿಯಿತು"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ಕೋಪವು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ಅವರ ವಿರುದ್ಧ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ಹೊರಟನು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:26:49.162853953Z",
+  "model": "glm-5.3"
+}

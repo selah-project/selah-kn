@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಆಡುಗಳ ಒಂದು ಗಂಡು, ಪಾಪಯಜ್ಞಕ್ಕೆ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ಗಂಡು"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ಆಡುಗಳ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ಪಾಪಯಜ್ಞಕ್ಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:23:12.542331736Z",
+  "model": "glm-5.3"
+}

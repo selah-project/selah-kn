@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಸೆನಾಅಹ್‌ನ ಮಕ್ಕಳು — ಮೂರು ಸಾವಿರ ಆರು ನೂರ ಮೂವತ್ತು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "ಸೆನಾಅಹ್"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ಮೂರು"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ಸಾವಿರ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ಮತ್ತು ಆರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ಮತ್ತು ಮೂವತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:20.606358501Z",
+  "model": "glm-5.3"
+}

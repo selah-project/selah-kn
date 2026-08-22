@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 31,
+  "translation": "ಮತ್ತು ದನಗಳು ಎರಡು ಹಾಗೂ ಎಪ್ಪತ್ತು ಸಾವಿರ.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ಮತ್ತು ದನಗಳು"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ಎರಡು"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ಹಾಗೂ ಎಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ಸಾವಿರ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:38:19.314801809Z",
+  "model": "glm-5.3"
+}

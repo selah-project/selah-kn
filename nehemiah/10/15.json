@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಜನರ ಮುಖ್ಯಸ್ಥರು: ಪರೋಶ್, ಪಾಹತ್-ಮೋಆಬ್, ಏಲಾಮ್, ಜ಼ತ್ತೂ, ಬಾನಿ.",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "ಮುಖ್ಯಸ್ಥರು"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನರ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ಪರೋಶ್"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "ಪಾಹತ್"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ಮೋಆಬ್"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ಏಲಾಮ್"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "זתוא"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಬಾನಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:25:46.012137748Z",
+  "model": "glm-5.3"
+}

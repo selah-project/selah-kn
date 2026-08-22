@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 33,
+  "translation": "ಯಾಹ್ವೆಯನ್ನು ಭಯಪಡಲಿ ಸಕಲ ಭೂಮಿ; ಆತನಿಂದ ನಡುಗಲಿ ತೆಬೆಲ್‌ನ ಸಕಲ ನಿವಾಸಿಗಳು.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "ಭಯಪಡಲಿ"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ಯಾಹ್ವೆಯನ್ನು"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಸಕಲ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ಆತನಿಂದ"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ನಡುಕಲಿ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಸಕಲ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ನಿವಾಸಿಗಳು"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ತೆಬೆಲ್‌ನ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:43:05.544819339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 40,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಯೊಡನೆ ಮಾತನಾಡಿ ಹೇಳುವುದು ಹೀಂದಿರಲಿ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಡನೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯೊಡನೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುವುದು ಹೀಂದಿರಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:01:41.167145242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಸಲ್ಮಾ ಬೇತ್-ಲೆಖೆಮಿನ ತಂದೆ; ಹರೇಫ್ ಬೇತ್-ಗಾದೇರಿನ ತಂದೆ.",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "ಸಲ್ಮಾ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ತಂದೆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಬೇತ್"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ಲೆಖೆಮಿನ"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ಹರೇಫ್"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ತಂದೆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಬೇತ್"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ಗಾದೇರಿನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:39.186907431Z",
+  "model": "glm-5.3"
+}

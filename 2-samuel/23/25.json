@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಶಮ್ಮಾಹ್ ⟨the⟩ ಹರೋದಿ; ಎಲಿಕಾ ⟨the⟩ ಹರೋದಿ,",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ಶಮ್ಮಾಹ್"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "ಹರೋದಿ"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "ಎಲಿಕಾ"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "ಹರೋದಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:02:03.451775924Z",
+  "model": "glm-5.3"
+}

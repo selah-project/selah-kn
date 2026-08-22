@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಬಿನ್ಯಾಮಿನ್‌ಗೆ — ಅಬಿದಾನ್, ಗಿದ್ಓನಿಯ ಮಗನು.",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "ಬಿನ್ಯಾಮಿನ್‌ಗೆ"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "ಅಬಿದಾನ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "ಗಿದ್ಓನಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:18:00.532554759Z",
+  "model": "glm-5.3"
+}

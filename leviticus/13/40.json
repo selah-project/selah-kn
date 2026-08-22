@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 13:40",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಮತ್ತು ಪುರುಷನ ತಲೆಯ ಕೂದಲು ಉದುರಿಹೋದರೆ, ಅವನು ಬೋಳ್ ತಲೆಯವನು; ಅವನು ಶುದ್ಧನು.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ಮತ್ತು ಪುರುಷನ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಇದ್ದರೆ"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "ಉದುರಿಹೋದರೆ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ತಲೆಯ ಕೂದಲು"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ಬೋಳ್ ತಲೆಯವನು"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅವನು"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ಶುದ್ಧನು"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅವನು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:07:50.407813583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಮೋಶೆ ಕೇಳಿದನು, ಮತ್ತು ಅದು ಅವನ ಕಣ್ಣುಗಳಿಗೆ ಒಳ್ಳೆಯದೆಂದು ⟨is⟩ ಆಯಿತು.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ಕೇಳಿದನು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "ಒಳ್ಳೆಯದೆಂದು ಆಯಿತು"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ಅವನ ಕಣ್ಣುಗಳಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:11:29.036535902Z",
+  "model": "glm-5.3"
+}

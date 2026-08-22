@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಮತ್ತು ಯಿಸ್ರಾಯೇಲು ದಾವೀದನ ಮನೆಯ ವಿರುದ್ಧ ಈ ದಿನದವರೆಗೂ ಬಂಡಾಯ ಮಾಡಿತು.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "ಬಂಡಾಯ ಮಾಡಿತು"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಯಿಸ್ರಾಯೇಲು"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ಮನೆಯ ವಿರುದ್ಧ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ದಾವೀದನ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ವರೆಗೂ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ದಿನದ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಈ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:48:34.707019291Z",
+  "model": "glm-5.3"
+}

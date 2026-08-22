@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಮತ್ತು ಯಿಸ್ಸಾಖಾರ್ ಮಕ್ಕಳ ಗೋತ್ರದ ಸೈನ್ಯದ ಮೇಲೆ ನೆತನೆಲ್, ತ್ಸುಅರನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ಮತ್ತು...ಮೇಲೆ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ಸೈನ್ಯದ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ಗೋತ್ರದ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ಯಿಸ್ಸಾಖಾರ್"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ನೆತನೆಲ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ತ್ಸುಅರನ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:13:22.096456090Z",
+  "model": "glm-5.3"
+}

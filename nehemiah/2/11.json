@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ನಂತರ ನಾನು ಯೆರೂಶಾಲಾಯಿಂ ಬಳಿ ಬಂದೆನು ಮತ್ತು ಅಲ್ಲಿ ಮೂರು ದಿನಗಳು ಇದ್ದೆನು.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "ಬಂದೆನು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ಯೆರೂಶಾಲಾಯಿಂ"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ಇದ್ದೆನು"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ಅಲ್ಲಿ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ದಿನಗಳು"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ಮೂರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:22:15.152824337Z",
+  "model": "glm-5.3"
+}

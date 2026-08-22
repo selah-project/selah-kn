@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಮತ್ತು ಸಂಜಾವಳಿಯಾಯಿತು, ಮತ್ತು ಬೆಳಗಾವಳಿಯಾಯಿತು — ನಾಲ್ಕನೆಯ ದಿನ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ಮತ್ತು ಆಯಿತು"
+    },
+    {
+      "surface": "ಢרב",
+      "gloss": "ಸಂಜಾವಳಿ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ಮತ್ತು ಆಯಿತು"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ಬೆಳಗಾವಳಿ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ದಿನ"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "ನಾಲ್ಕನೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:07:40.781714015Z",
+  "model": "glm-5.3"
+}

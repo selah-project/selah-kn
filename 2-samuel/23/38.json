@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಇರಾ ಯಿತ್ರಿ, ಗಾರೆಬ್ ಯಿತ್ರಿ.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ಇರಾ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ಯಿತ್ರಿ"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ಗಾರೆಬ್"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ಯಿತ್ರಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:23:06.455290659Z",
+  "model": "glm-5.3"
+}

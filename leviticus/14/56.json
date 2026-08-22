@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಮತ್ತು ಊದುವಿಕೆಗೂ, ಹುಣ್ಣಿಗೂ, ಬಿಳಿಕಲೆಗೂ",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "ಊದುವಿಕೆಗೂ"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "ಹುಣ್ಣಿಗೂ"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "ಬಿಳಿಕಲೆಗೂ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:08:13.495068512Z",
+  "model": "glm-5.3"
+}

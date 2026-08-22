@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಒಂದು ಚಿನ್ನದ ಕೈಕರಂಡಕ ಹತ್ತು ⟨ಶೆಕೆಲ್⟩, ಧೂಪದ್ರವ್ಯದಿಂದ ತುಂಬಿದ್ದು.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ಕೈಕರಂಡಕ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ಹತ್ತು"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ಚಿನ್ನದ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ತುಂಬಿದ"
+    },
+    {
+      "surface": "ಧೂಪದ್ರವ್ಯ",
+      "gloss": "קטרת"
+    }
+  ],
+  "timestamp": "2026-08-21T21:22:36.458433388Z",
+  "model": "glm-5.3"
+}

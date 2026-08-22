@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 108,
+  "translation": "ಹಾಡು, ಮಜಮೂರ್, ದಾವೀದನಿಗೆ.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ಹಾಡು"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ಮಜಮೂರ್"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ದಾವೀದನಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:07:14.943521242Z",
+  "model": "glm-5.3"
+}

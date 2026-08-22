@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 3:16",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಮತ್ತು ಯೆಹೋಯಾಕೀಮನ ಮಕ್ಕಳು: ಯೆಖೋನ್ಯಾ ಆತನ ಮಗ, ಸಿದ್ಕಿಯಾ ಆತನ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "ಯೆಹೋಯಾಕೀಮನ"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "ಯೆಖೋನ್ಯಾ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಆತನ ಮಗ"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "ಸಿದ್ಕಿಯಾ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ಆತನ ಮಗ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:30:17.640089577Z",
+  "model": "glm-5.3"
+}

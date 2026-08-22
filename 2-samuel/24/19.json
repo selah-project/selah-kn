@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "kn",
+  "chapter": 24,
+  "translation": "ಯಾಹ್ವೆ ಆಜ್ಞಾಪಿಸಿದಂತೆ ದಾವೀದನು ಗಾದನ ಮಾತಿನಂತೆ ಏರಿದನು.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ಏರಿದನು"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ದಾವೀದನು"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ಮಾತಿನಂತೆ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ಗಾದನ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ಆದಂತೆ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ಆಜ್ಞಾಪಿಸಿದ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:03:03.531358936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಮೊದಲ ದಿನ ಪವಿತ್ರ ಸಭೆ; ಸೇವಾವೇಳೆಯ ಯಾವುದೇ ಕೆಲಸವನ್ನು ಮಾಡಬೇಡಿ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ದಿನ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ಮೊದಲ"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ಸಭೆ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ಪವಿತ್ರ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಯಾವುದೇ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ಕೆಲಸವನ್ನು"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ಸೇವಾವೇಳೆಯ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡಿ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ಮಾಡ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:15:51.691098965Z",
+  "model": "glm-5.3"
+}

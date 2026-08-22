@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನಮ್ಮ ಹೃದಯವನ್ನು ಕೈಗಳೊಂದಿಗೆ ಎತ್ತಿ ಆಕಾಶದಲ್ಲಿರುವ ಎಲ್‌ ಕಡೆಗೆ ⟨ಎತ್ತೋಣ⟩।",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ಎತ್ತೋಣ"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "ನಮ್ಮ ಹೃದಯವನ್ನು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಕೈಗಳೊಂದಿಗೆ"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ಕೈಗಳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಕಡೆಗೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಲ್‌"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ಆಕಾಶದಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:35.745488349Z",
+  "model": "glm-5.3"
+}

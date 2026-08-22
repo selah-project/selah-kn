@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಶೆಲೋಮೋಹನ ಮಾಷಲಿಮ್ — ದಾವೀದನ ಮಗನವು, ಯಿಸ್ರಾಎಲ್‌ನ ರಾಜನವು.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "ಮಾಷಲಿಮ್ (ಗಾದೆಗಳು)"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ಶೆಲೋಮೋಹನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನವು"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ದಾವೀದನ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜನವು"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ಯಿಸ್ರಾಎಲ್‌ನ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:16:37.634886928Z",
+  "model": "glm-5.3"
+}

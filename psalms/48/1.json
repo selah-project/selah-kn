@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 48,
+  "translation": "ಒಂದು ಹಾಡು, ಒಂದು ಮಜಮೂರು, ಕೋರಹ್ ಮಕ್ಕಳಿಗೆ",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ಒಂದು ಹಾಡು"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ಒಂದು ಮಜಮೂರು"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ಮಕ್ಕಳಿಗೆ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ಕೋರಹ್"
+    }
+  ],
+  "timestamp": "2026-08-22T01:48:07.150816895Z",
+  "model": "glm-5.3"
+}

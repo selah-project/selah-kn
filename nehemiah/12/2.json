@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಅಮರ್ಯಾ, ಮಲ್ಲೂಖ್, ಖತ್ತೂಶ್.",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "ಅಮರ್ಯಾ"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "ಮಲ್ಲೂಖ್"
+    },
+    {
+      "surface": "ಗ‍חטוש",
+      "gloss": "ಖತ್ತೂಶ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:26:40.981802829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ನಿನ್ನ ಎರಡು ಸ್ತನಗಳು ಎರಡು ಕರುಗಳಂತಿವೆ, ಒಂದೇ ಹಿಮ್ಮೆಯ ಅವಳಿಗಳು.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "ಎರಡು"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "ನಿನ್ನ ಸ್ತನಗಳು"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "ಎರಡು...ಅಂತಿವೆ"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "ಕರುಗಳು"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "ಅವಳಿಗಳು"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "ಹಿಮ್ಮೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:46:25.374644868Z",
+  "model": "glm-5.3"
+}

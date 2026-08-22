@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಮತ್ತು ಮಿಖಾಯೆಲ್, ಯಿಶ್ಪಾ ಮತ್ತು ಯೋಖಾ — ಇವರು ಬೆರಿಯಾನ ಮಕ್ಕಳು.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "ಮತ್ತು ಮಿಖಾಯೆಲ್"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "ಮತ್ತು ಯಿಶ್ಪಾ"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "ಮತ್ತು ಯೋಖಾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "ಬೆರಿಯಾನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:42.069639542Z",
+  "model": "glm-5.3"
+}

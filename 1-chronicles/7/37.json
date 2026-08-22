@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಬೆಟೆರ್, ವಹೋದ್, ವಶಮ್ಮಾ, ವಶಿಲ್ಶಾ, ವಯಿತ್ರಾನ್ ಮತ್ತು ಉಬೆರಾ.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "ಬೆಟೆರ್"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "ವಹೋದ್"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "ವಶಮ್ಮಾ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ವಶಿಲ್ಶಾ"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ವಯಿತ್ರಾನ್"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "ಉಬೆರಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:52.723658703Z",
+  "model": "glm-5.3"
+}

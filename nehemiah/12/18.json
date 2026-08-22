@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 12:18",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಬಿಲ್ಗಾಹ್‌ಗೆ ಶಮ್ಮುವ; ಶೆಮಯಾಹ್‌ಗೆ ಯೆಹೋನತಾನ್.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "ಬಿಲ್ಗಾಹ್‌ಗೆ"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ಶಮ್ಮುವ"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "ಶೆಮಯಾಹ್‌ಗೆ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ಯೆಹೋನತಾನ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:26:38.867787872Z",
+  "model": "glm-5.3"
+}

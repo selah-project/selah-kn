@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 31,
+  "translation": "ಲೆಮುವೇಲ್ ರಾಜನ ಮಾತುಗಳು — ಭಾರವಾದ ⟨ಅದನ್ನು⟩ ಬೋಧಿಸಿದಳು ಅವನ ತಾಯಿ.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ಮಾತುಗಳು"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "ಲೆಮುವೇಲ್"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ಭಾರ (ದೈವಿಕ ವಾಣಿ)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ಅದನ್ನು⟩"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "ಬೋಧಿಸಿದಳು"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ಅವನ ತಾಯಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:30:04.886273644Z",
+  "model": "glm-5.3"
+}

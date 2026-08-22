@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 2:18",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಅವರು ತಮ್ಮ ತಂದೆ ರೆಉವೇಲನ ಬಳಿ ಬಂದಾಗ ಆತನು ಹೇಳಿದನು — ಇಂದು ನೀವು ಏಕೆ ಬೇಗ ಬಂದಿರಿ?",
+  "tokens": [
+    {
+      "surface": "ותבאנה",
+      "gloss": "ಬಂದರು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ರೆಉವೇಲನ"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "ತಮ್ಮ ತಂದೆ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಆತನು ಹೇಳಿದನು"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ಏಕೆ"
+    },
+    {
+      "surface": "מהרתן",
+      "gloss": "ಬೇಗ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ಬಂದಿರಿ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ಇಂದು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:36:41.473205568Z",
+  "model": "glm-5.3"
+}

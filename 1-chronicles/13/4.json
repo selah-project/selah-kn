@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಮತ್ತು ಸಮಸ್ತ ಸಭೆಯು ಹೀಗೆ ಮಾಡುವೆವು ಎಂದು ಹೇಳಿದರು, ಏಕೆಂದರೆ ⟨ಆ⟩ ಮಾತು ಸಕಲ ಜನರ ಕಣ್ಣಿಗೆ ಸರಿಯಾಗಿತ್ತು.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ಹೇಳಿದರು"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಸಮಸ್ತ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ಸಭೆಯು"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ಮಾಡುವೆವು"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ಹೀಗೆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಏಕೆಂದರೆ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ಸರಿಯಾಗಿತ್ತು"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ಮಾತು"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ಕಣ್ಣಿಗೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಸಕಲ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನರ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:50:51.238117586Z",
+  "model": "glm-5.3"
+}

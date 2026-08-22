@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಕೊಯ್ಲು ಕಳೆಯಿತು, ಬೇಸಿಗೆ ಮುಗಿಯಿತು, ಮತ್ತು ನಾವು ರಕ್ಷಿಸಲ್ಪಟ್ಟಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "ಕಳೆಯಿತು"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ಕೊಯ್ಲು"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ಮುಗಿಯಿತು"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ಬೇಸಿಗೆ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ಮತ್ತು ನಾವು"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "ರಕ್ಷಿಸಲ್ಪಟ್ಟಿಲ್ಲ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:30:27.807087741Z",
+  "model": "glm-5.3"
+}

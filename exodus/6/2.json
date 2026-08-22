@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಎಲೋಹೀಂ ಮೋಶೆಯೊಂದಿಗೆ ಮಾತನಾಡಿ, ಅವನಿಗೆ ಹೇಳಿದನು: ನಾನು ಯಾಹ್ವೆ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮತ್ತು-ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಂದಿಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಮತ್ತು-ಹೇಳಿದನು"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ಅವನಿಗೆ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:39:46.459513117Z",
+  "model": "glm-5.3"
+}

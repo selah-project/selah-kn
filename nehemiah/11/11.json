@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 11:11",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಸೆರಾಯ, ಹಿಲ್ಕಿಯನ ಮಗ, ಮೆಶುಲ್ಲಾಮನ ಮಗ, ಸಾದೋಕನ ಮಗ, ಮೆರಾಯೋತನ ಮಗ, ಅಹಿತೂಬನ ಮಗ — ಎಲೋಹೀಂ ಮನೆಯ ಮೇಲೆ ⟨is⟩ ಅಧಿಪತಿ.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "ಸೆರಾಯ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ಹಿಲ್ಕಿಯನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "ಮೆಶುಲ್ಲಾಮನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ಸಾದೋಕನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "ಮೆರಾಯೋತನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ಅಹಿತೂಬನ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ಅಧಿಪತಿ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ಮನೆಯ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ಎಲೋಹೀಂ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:26:27.137422176Z",
+  "model": "glm-5.3"
+}

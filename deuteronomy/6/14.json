@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ನಿಮ್ಮ ಸುತ್ತಲಿರುವ ಜನರ ಎಲೋಹೀಂಗಳಾದ ಬೇರೆ ಬೇರೆ ದೇವರ ಹಿಂದೆ ನೀವು ನಡೆಯಬಾರದು.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬಾರದು"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "ನೀವು ನಡೆಯ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ಹಿಂದೆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ದೇವರ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ಬೇರೆ ಬೇರೆ"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "ಎಲೋಹೀಂಗಳಲ್ಲಿ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ಜನರ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾವು"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "ನಿಮ್ಮ ಸುತ್ತಲಿರುವ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:44:59.268110221Z",
+  "model": "glm-5.3"
+}

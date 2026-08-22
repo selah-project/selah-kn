@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ನಾನು ನನಗೆ ನೀರಿನ ಕೊಳಗಳನ್ನು ಮಾಡಿದೆನು, ಅವುಗಳಿಂದ ಮರಗಳನ್ನು ಮೊಳೆಸುವ ಕಾಡನ್ನು ನೀರೆರೆಯಲು.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ಮಾಡಿದೆನು"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ಕೊಳಗಳನ್ನು"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ನೀರಿನ"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ನೀರೆರೆಯಲು"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ಅವುಗಳಿಂದ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ಕಾಡನ್ನು"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "ಮೊಳೆಸುವ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ಮರಗಳನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:56.040095588Z",
+  "model": "glm-5.3"
+}

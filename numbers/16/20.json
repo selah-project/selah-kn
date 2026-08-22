@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆ ಮೋಶೆಯೊಡನೆ ಮತ್ತು ಅಹರೋನನೊಡನೆ ಮಾತನಾಡಿದನು, ಹೇಳುತ್ತಾ,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮತ್ತು ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಡನೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ಮತ್ತು ಒಡನೆ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ಅಹರೋನನ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T06:17:29.309487660Z",
+  "model": "glm-5.3"
+}

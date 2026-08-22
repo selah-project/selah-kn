@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಆದರೆ ಕೋರಾಹನ್ ಮಕ್ಕಳು ಸತ್ತಿರಲಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಆದರೆ ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ಕೋರಾಹನ್"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಲಿಲ್ಲ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ಸತ್ತಿರ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:35:27.582300095Z",
+  "model": "glm-5.3"
+}

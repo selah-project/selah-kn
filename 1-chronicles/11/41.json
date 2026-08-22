@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಉರೀಯಾ ⟨the⟩ ಹಿತ್ತೀಯನು, ಜ಼ಾಬಾದ್ ಅಹ್ಲಾಯಿಯ ಮಗನು,",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ಉರೀಯಾ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ಹಿತ್ತೀಯನು"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ಜ಼ಾಬಾದ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "ಅಹ್ಲಾಯಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:20.727850524Z",
+  "model": "glm-5.3"
+}

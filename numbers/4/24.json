@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 4:24",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಇದು ಗೆರ್ಷೋನಿ ಕುಲಗಳ ಸೇವಕಾರ್ಯ — ಸೇವೆ ಮಾಡಲು ಮತ್ತು ಹೊರಲು",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ಇದು"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ಸೇವಕಾರ್ಯ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ಕುಲಗಳ"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "ಗೆರ್ಷೋನಿ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ಸೇವೆ ಮಾಡಲು"
+    },
+    {
+      "surface": "ולמשא",
+      "gloss": "ಮತ್ತು ಹೊರಲು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:21:33.817406889Z",
+  "model": "glm-5.3"
+}

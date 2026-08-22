@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಜ಼ಕ್ಕೈಯ ಮಕ್ಕಳು — ಏಳು ನೂರು ಅರವತ್ತು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ಜ಼ಕ್ಕೈ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ಏಳು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ಅರವತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:41.546659075Z",
+  "model": "glm-5.3"
+}

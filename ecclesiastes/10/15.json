@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಮೂರ್ಖರ ಶ್ರಮವು ಅವನನ್ನು ಆಯರಿಸುತ್ತದೆ, ಏಕೆಂದರೆ ನಗರಕ್ಕೆ ಹೋಗುವುದಕ್ಕೆ ⟨the⟩ ದಾರಿ ಅವನಿಗೆ ತಿಳಿಯದು.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "ಶ್ರಮವು"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "ಮೂರ್ಖರ"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "ಅವನನ್ನು ಆಯರಿಸುತ್ತದೆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಏಕೆಂದರೆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ತಿಳಿಯದು"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ಹೋಗುವುದಕ್ಕೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಗೆ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ನಗರ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:57:29.653520502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಉತ್ತಾಯಿ — ಅಮ್ಮಿಹೂದನ ಮಗನು, ಒಮ್ರಿಯ ಮಗ, ಇಮ್ರಿಯ ಮಗ, ಬಾನಿಯ ಮಗ, ಪೆರೆಸ್‌ನ ಮಕ್ಕಳಲ್ಲಿ, ಯೆಹೂದಾನ ಮಗನವನು.",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "ಉತ್ತಾಯಿ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "ಅಮ್ಮಿಹೂದನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "ಒಮ್ರಿಯ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ಇಮ್ರಿಯ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ಬಾನಿಯ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳಲ್ಲಿ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ಪೆರೆಸ್‌ನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನವನು"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ಯೆಹೂದಾನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:35:08.428688587Z",
+  "model": "glm-5.3"
+}

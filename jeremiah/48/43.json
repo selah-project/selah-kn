@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 48,
+  "translation": "ಭಯ, ಮತ್ತು ಗುಂಡಿ, ಮತ್ತು ಬಲೆ — ನಿನ್ನ ಮೇಲೆ, ಮೋಆಬ್ ನೆಲೆಸುವವ, ಯಾಹ್ವೆಯ ನುಡಿ.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ಭಯ"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "ಮತ್ತು ಗುಂಡಿ"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "ಮತ್ತು ಬಲೆ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ನಿನ್ನ ಮೇಲೆ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ನೆಲೆಸುವವ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ಮೋಆಬ್"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ನುಡಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:35:22.481675560Z",
+  "model": "glm-5.3"
+}

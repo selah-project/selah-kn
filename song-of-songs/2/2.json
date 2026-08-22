@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಮುಳ್ಳುಗಳ ನಡುವೆ ಲಿಲ್ಲಿ-ಹೂವಿನಂತೆ, ಹಾಗೆಯೇ ನನ್ನ ಪ್ರಿಯೆ ಕನ್ಯೆಯರ ನಡುವೆ.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "ಲಿಲ್ಲಿ-ಹೂವಿನಂತೆ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ನಡುವೆ"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "ಮುಳ್ಳುಗಳ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ಹಾಗೆಯೇ"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ನನ್ನ ಪ್ರಿಯೆ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ನಡುವೆ"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "ಕನ್ಯೆಯರ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:48:36.197398546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 49,
+  "translation": "ನಫ್ತಾಲಿ ⟨is⟩ ಬಿಡುಗಡೆಯಾದ ಹಿಮ್ಮರಿ — ⟨he⟩ ಸುಂದರವಾದ ಮಾತುಗಳನ್ನು ಕೊಡುವವನು.",
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "ನಫ್ತಾಲಿ"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "ಹಿಮ್ಮರಿ"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "ಬಿಡುಗಡೆಯಾದ"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "ಕೊಡುವವನು"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ಮಾತುಗಳನ್ನು"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ಸುಂದರವಾದ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:35:48.895685149Z",
+  "model": "glm-5.3"
+}

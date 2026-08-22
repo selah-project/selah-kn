@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 15:37",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆ ಮೋಶೆಗೆ ಹೇಳಿದನು, ಹೀಗೆ ಹೇಳುತ್ತಾ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಮತ್ತು ಹೇಳಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವನಿಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಗೆ ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:29:42.212085278Z",
+  "model": "glm-5.3"
+}

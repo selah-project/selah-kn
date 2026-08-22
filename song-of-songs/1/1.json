@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಹಾಡುಗಳ ಹಾಡು, ಅದು ಶೆಲೋಮೋಹ್‌ಗೆ ಸೇರಿದ್ದು.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ಹಾಡು"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "ಹಾಡುಗಳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದು"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ಶೆಲೋಮೋಹ್‌ಗೆ ಸೇರಿದ್ದು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:48:02.351888360Z",
+  "model": "glm-5.3"
+}

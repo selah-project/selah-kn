@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಏವೆರ್ ಮೂವತ್ತು ಮತ್ತು ನಾಲ್ಕು ವರ್ಷ ಬದುಕಿ, ⟨את⟩ ಪೆಲೆಗನ್ನು ಪಡೆದನು.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ಬದುಕಿ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ಏವೆರ್"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ನಾಲ್ಕು"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ಮತ್ತು ಮೂವತ್ತು"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ವರ್ಷ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ಪಡೆದನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಪೆಲೆಗನ್ನು"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ಪೆಲೆಗನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:12:38.244948907Z",
+  "model": "glm-5.3"
+}

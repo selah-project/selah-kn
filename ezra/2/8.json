@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಝತ್ತೂವಿನ ಮಕ್ಕಳು, ಒಂಬತ್ತು ನೂರು ನಲವತ್ತೈದು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ಝತ್ತೂ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ಒಂಬತ್ತು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ಮತ್ತು ನಲವತ್ತು"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ಮತ್ತು ಐದು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:23.659313279Z",
+  "model": "glm-5.3"
+}

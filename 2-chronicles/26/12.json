@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಪ್ರಬಲ ವೀರರ ಪಿತೃಮುಖ್ಯಸ್ಥರ ಒಟ್ಟು ಸಂಖ್ಯೆ ಎರಡು ಸಾವಿರ ಆರುನೂರು.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ಒಟ್ಟು"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ಸಂಖ್ಯೆ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ಮುಖ್ಯಸ್ಥರ"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ಪಿತೃ"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "ಪ್ರಬಲ ವೀರರ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ಪ್ರಬಲ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ಎರಡು ಸಾವಿರ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ಮತ್ತು ಆರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:58:46.641246877Z",
+  "model": "glm-5.3"
+}

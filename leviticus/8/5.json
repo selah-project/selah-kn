@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಮೋಶೆ ಸಭೆಗೆ ಹೇಳಿದನು: ಮಾಡಬೇಕೆಂದು ಯಾಹ್ವೆ ಆಜ್ಞಾಪಿಸಿದ ವಾಕ್ಯವು ಇದೇ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇವರಿಗೆ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ಸಭೆ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ಇದೇ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ವಾಕ್ಯವು"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದನ್ನು"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ಆಜ್ಞಾಪಿಸಿದ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ಮಾಡಬೇಕೆಂದು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:05:55.473092368Z",
+  "model": "glm-5.3"
+}

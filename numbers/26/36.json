@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಮತ್ತು ಇವರು ಶೂತೆಲಚನ ಮಕ್ಕಳು: ಎರನನಿಗೆ ಎರನ್ಯರ ಕುಲ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ಮತ್ತು ಇವರು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "ಶೂತೆಲಚನ"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "ಎರನನಿಗೆ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ಕುಲ"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "ಎರನ್ಯರ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:36:18.895948585Z",
+  "model": "glm-5.3"
+}

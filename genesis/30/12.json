@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 30,
+  "translation": "ಮತ್ತು ಲೇಯಾಳ ದಾಸಿ ಝಿಲ್ಪಾ ಯಾಕೋವನಿಗೆ ಎರಡನೇ ಮಗನನ್ನು ಹೆತ್ತಳು.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ಮತ್ತು ಹೆತ್ತಳು"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ಝಿಲ್ಪಾ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ದಾಸಿ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ಲೇಯಾಳ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನನ್ನು"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ಎರಡನೇ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ಯಾಕೋವನಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:21:54.047963760Z",
+  "model": "glm-5.3"
+}

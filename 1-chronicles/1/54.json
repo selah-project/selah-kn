@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಅಲೂಫ್ ಮಗ್ದಿಯೆಲ್, ಅಲೂಫ್ ಇರಾಮ್ — ಇವರೇ ಎದೋಮ್‌ನ ಅಲೂಫ್‌ಗಳು.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ಅಲೂಫ್"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "ಮಗ್ದಿಯೆಲ್"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ಅಲೂಫ್"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ಇರಾಮ್"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ಇವರೇ"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ಅಲೂಫ್‌ಗಳು"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ಎದೋಮ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:27:51.915098854Z",
+  "model": "glm-5.3"
+}

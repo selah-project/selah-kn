@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಯಾಹ್ವೆ ನನಗೆ ಹೇಳುತ್ತಾ ⟨ಈ ರೀತಿಯಾಗಿ⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಈ ರೀತಿಯಾಗಿ ಹೇಳುವುದಕ್ಕೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:42:32.671213696Z",
+  "model": "glm-5.3"
+}

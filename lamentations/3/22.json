@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಯಾಹ್ವೆಯ ಹೆಸೆದ್‌ಗಳು — ನಾವು ನಾಶವಾಗಲಿಲ್ಲ, ಏೆಕೆಂದರೆ ಆತನ ಕರುಣೆಗಳು ತೀರಲಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ಹೆಸೆದ್‌ಗಳು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "ನಾವು ನಾಶವಾಗಲಿಲ್ಲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಏೆಕೆಂದರೆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ತೀರಲಿಲ್ಲ"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ಆತನ ಕರುಣೆಗಳು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:53:00.754896110Z",
+  "model": "glm-5.3"
+}

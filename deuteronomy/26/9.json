@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 26,
+  "translation": "ಮತ್ತು ನಮ್ಮನ್ನು ಈ ಸ್ಥಳಕ್ಕೆ ತಂದನು, ಮತ್ತು ನಮಗೆ ⟨את⟩ ಈ ದೇಶವನ್ನು ಕೊಟ್ಟನು — ಹಾಲು ಮತ್ತು ಜೇನು ಹರಿಯುವ ದೇಶ.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "ತಂದನು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇಂದ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ಸ್ಥಳಕ್ಕೆ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ಕೊಟ್ಟನು"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ನಮಗೆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಈ ದೇಶವನ್ನು"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ದೇಶವನ್ನು"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ದೇಶ"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ಹರಿಯುವ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ಹಾಲು"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ಮತ್ತು ಜೇನು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:57:20.678881197Z",
+  "model": "glm-5.3"
+}

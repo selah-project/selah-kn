@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 25,
+  "translation": "ಅವ್ರಾಹಾಂ ತನಗಿದ್ದ ಎಲ್ಲವನ್ನೂ ⟨את⟩ ಯಿತ್ಸಾಕ್‌ಗೆ ಕೊಟ್ಟನು.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ಕೊಟ್ಟನು"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ಅವ್ರಾಹಾಂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಎಲ್ಲವನ್ನೂ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲವನ್ನೂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾವುದು"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಅವನಿಗೆ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ಯಿತ್ಸಾಕ್‌ಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:20:34.258772462Z",
+  "model": "glm-5.3"
+}

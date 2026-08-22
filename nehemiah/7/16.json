@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 7:16",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಬೆಬೈಯ ಮಕ್ಕಳು — ಆರು ನೂರು ಇಪ್ಪತ್ತೆಂಟು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "ಬೆಬೈ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ಆರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ಇಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ಎಂಟು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:41.546882553Z",
+  "model": "glm-5.3"
+}

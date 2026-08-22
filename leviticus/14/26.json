@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಮತ್ತು ಎಣ್ಣೆಯಿಂದ ಯಾಜಕನು ಯಾಜಕನ ಎಡ ಅಂಗೈಯ ಮೇಲೆ ಸುರಿಯಬೇಕು.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ಮತ್ತು ಇಂದ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ಎಣ್ಣೆಯಿಂದ"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "ಸುರಿಯಬೇಕು"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ಯಾಜಕನು"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ಅಂಗೈಯ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ಯಾಜಕನ"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ಎಡ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:09:33.057717919Z",
+  "model": "glm-5.3"
+}

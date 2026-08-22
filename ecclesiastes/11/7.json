@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಮತ್ತು ⟨the⟩ ಬೆಳಕು ಸಿಹಿ, ಮತ್ತು ⟨the⟩ ಸೂರ್ಯನನ್ನು ⟨את⟩ ನೋಡುವುದು ಕಣ್ಣುಗಳಿಗೆ ಒಳ್ಳೆಯದು.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "ಮತ್ತು ಸಿಹಿ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ಬೆಳಕು"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ಮತ್ತು ಒಳ್ಳೆಯದು"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "ಕಣ್ಣುಗಳಿಗೆ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ನೋಡುವುದಕ್ಕೆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಸೂರ್ಯನನ್ನು"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ಸೂರ್ಯನನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T04:47:48.035354936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 28,
+  "translation": "ಆಶೀರ್ವದಿತವಾಗಿರಲಿ ನಿನ್ನ ಬುಟ್ಟಿ ಮತ್ತು ನಿನ್ನ ಕಲಸ.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ಆಶೀರ್ವದಿತವಾಗಿರಲಿ"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "ನಿನ್ನ ಬುಟ್ಟಿ"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ಮತ್ತು ನಿನ್ನ ಕಲಸ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:58:21.822833640Z",
+  "model": "glm-5.3"
+}

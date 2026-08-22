@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 69,
+  "translation": "ಅವರ ಊಟವು ಅವರ ಮುಂದೆ ಬಲೆಯಾಗಲಿ; ಕ್ಷೇಮವು ಬೋನಾಗಲಿ.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ಆಗಲಿ"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "ಅವರ ಊಟವು"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ಅವರ ಮುಂದೆ"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "ಬಲೆಯಾಗಿ"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "ಕ್ಷೇಮವು"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "ಬೋನಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:53:07.133055764Z",
+  "model": "glm-5.3"
+}

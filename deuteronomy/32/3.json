@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 32,
+  "translation": "ಯಾಹ್ವೆಯ ನಾಮವನ್ನು ನಾನು ಘೋಷಿಸುವೆ; ನಮ್ಮ ಎಲೋಹೀಂಗೆ ಮಹತ್ವವನ್ನು ಕೊಡಿರಿ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ನಾಮವನ್ನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆಯ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ನಾನು ಘೋಷಿಸುವೆ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ಕೊಡಿರಿ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ಮಹತ್ವವನ್ನು"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ನಮ್ಮ ಎಲೋಹೀಂಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:18:22.160573736Z",
+  "model": "glm-5.3"
+}

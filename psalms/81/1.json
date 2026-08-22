@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 81,
+  "translation": "ಮೇಲ್ವಿಚಾರಕನಿಗೆ, ಗಿತ್ತೀತ್ ಮೇಲೆ, ಆಸಾಫನಿಗೆ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ಮೇಲ್ವಿಚಾರಕನಿಗೆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "ಗಿತ್ತೀತ್"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ಆಸಾಫನಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:58:20.478869109Z",
+  "model": "glm-5.3"
+}

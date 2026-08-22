@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ಆತನ ಮುಂದೆ ಇಡೀ ⟨the⟩ ಭೂಮಿ ಕಂಪಿಸಲಿ; ಹೌದು, ಜಗತ್ತು ನೆಲೆಗೊಳ್ಳಲಿ — ಅದು ಅಲುಗಾಡದು.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "ಕಂಪಿಸಲಿ"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "ಆತನ ಮುಂದೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಇಡೀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ಭೂಮಿ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ಹೌದು"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ನೆಲೆಗೊಳ್ಳಲಿ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ಜಗತ್ತು"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ಅಲುಗಾಡದು"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ಅಲುಗಾಡುವುದಿಲ್ಲ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:51:13.875018631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಪೆರೆತ್ಸನ ಮಕ್ಕಳು: ಖೆತ್ಸ್ರೋನ್ ಮತ್ತು ಖಾಮುಲ್.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ಪೆರೆತ್ಸ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ಖೆತ್ಸ್ರೋನ್"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "ಮತ್ತು ಖಾಮುಲ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:23.262754532Z",
+  "model": "glm-5.3"
+}

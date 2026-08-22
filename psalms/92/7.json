@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 92,
+  "translation": "ಮೃಗಸದೃಶ ಮನುಷ್ಯನು ಅರಿಯನು, ಮೂರ್ಖನು ⟨את⟩ ಇದನ್ನು ಗ್ರಹಿಸನು.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ಮನುಷ್ಯನು"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ಮೃಗಸದೃಶ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಅಲ್ಲ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ಅರಿಯನು"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ಮತ್ತು ಮೂರ್ಖನು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಅಲ್ಲ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ಗ್ರಹಿಸನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಇದನ್ನು"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ಇದನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:02:07.477282229Z",
+  "model": "glm-5.3"
+}

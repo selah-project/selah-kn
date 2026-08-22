@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಭೂಮಿಯಲ್ಲಿರುವ ಎಲ್ಲಾ ಪಶುವಿನ ರೂಪ, ಆಕಾಶದಲ್ಲಿ ಹಾರಾಡುವ ಎಲ್ಲಾ ರೆಕ್ಕೆಯುಳ್ಳ ಪಕ್ಷಿಯ ರೂಪ —",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "ರೂಪ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ಪಶುವಿನ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಎಂಬುದರ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ಭೂಮಿಯಲ್ಲಿರುವ"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ರೂಪ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ಪಕ್ಷಿಯ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ರೆಕ್ಕೆಯುಳ್ಳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಎಂಬುದರ"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "ಹಾರಾಡುವ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ಆಕಾಶದಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:45:56.172819542Z",
+  "model": "glm-5.3"
+}

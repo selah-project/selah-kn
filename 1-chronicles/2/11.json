@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ನಖ್ಶೋನ್ ⟨את⟩ ಸಲ್ಮಾನನ್ನು ಪಡೆದನು, ಮತ್ತು ಸಲ್ಮಾ ⟨את⟩ ಬೋಅಜನ್ನು ಪಡೆದನು.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "ಮತ್ತು ನಖ್ಶೋನ್"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ಪಡೆದನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಸಲ್ಮಾನನ್ನು"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "ಸಲ್ಮಾ"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "ಮತ್ತು ಸಲ್ಮಾ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ಪಡೆದನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಬೋಅಜನ್ನು"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ಬೋಅಜ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:41.430430122Z",
+  "model": "glm-5.3"
+}

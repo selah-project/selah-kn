@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಪರಿಶುದ್ಧ ನಗರದಲ್ಲಿ ಎಲ್ಲಾ ಲೇವಿಯರು — ಇನ್ನೂರು ಎಂಬತ್ತನಾಲ್ಕು ಮಂದಿ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ಲೇವಿಯರು"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ನಗರದಲ್ಲಿ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ಪರಿಶುದ್ಧ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ಇನ್ನೂರು"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ಎಂಬತ್ತು"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ಮತ್ತು ನಾಲ್ಕು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:27:19.047090898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 45,
+  "translation": "ದೇಶದ ಸಕಲ ಜನರು ಯಿಸ್ರಾಯೇಲಿನ ನಾಯಕನ ಬಳಿ ಈ ಕಾಣಿಕೆಗೆ ⟨ಸೇರಿರಲಿ⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ಸಕಲ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "האನץ",
+      "gloss": "ದೇಶದ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ಇರಲಿ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿ"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "ಕಾಣಿಕೆಗೆ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "ನಾಯಕನ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ಯಿಸ್ರಾಯೇಲಿನ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:07:14.793376817Z",
+  "model": "glm-5.3"
+}

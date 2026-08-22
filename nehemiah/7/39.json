@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಯಾಜಕರು: ಯೆದಾಯಾಹ್‌ನ ಮಕ್ಕಳು, ಯೇಶುಅವನ ಮನೆಯವರು — ಒಂಬತ್ತು ನೂರ ಎಪ್ಪತ್ತಮೂರು.",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "ಯಾಜಕರು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ಯೆದಾಯಾಹ್"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ಮನೆಯವರು"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "ಯೇಶುಅ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ಒಂಬತ್ತು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ಎಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ಮತ್ತು ಮೂರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:24:09.335897554Z",
+  "model": "glm-5.3"
+}

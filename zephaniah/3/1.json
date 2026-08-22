@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಹಾಯ್, ದಂಗೆಯವಳಿಗೆ ಮತ್ತು ಮಲಿನಳಿಗೆ — ದಬ್ಬಾಳಿಕೆಯ ನಗರಕ್ಕೆ!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ಹಾಯ್"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ದಂಗೆಯವಳಿಗೆ"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "ಮತ್ತು ಮಲಿನಳಿಗೆ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ನಗರ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ದಬ್ಬಾಳಿಕೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:27:07.563033033Z",
+  "model": "glm-5.3"
+}

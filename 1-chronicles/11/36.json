@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಹೇಫೆರ್ ⟨the⟩ ಮೆಕೆರಾತ್ಯನು, ಅಹಿಯಾ ⟨the⟩ ಪೆಲೋನ್ಯನು,",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ಹೇಫೆರ್"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "ಮೆಕೆರಾತ್ಯನು"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ಅಹಿಯಾ"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "ಪೆಲೋನ್ಯನು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:33:54.181782482Z",
+  "model": "glm-5.3"
+}

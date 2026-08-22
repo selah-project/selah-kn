@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಮೆಶೇಜಬೆಲ್, ಸಾದೋಕ್, ಯದ್ದುವಾ,",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "ಮೆಶೇಜಬೆಲ್"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ಸಾದೋಕ್"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "ידוע"
+    }
+  ],
+  "timestamp": "2026-08-22T03:25:30.497803725Z",
+  "model": "glm-5.3"
+}

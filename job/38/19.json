@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 38:19",
+  "book": "job",
+  "lang": "kn",
+  "chapter": 38,
+  "translation": "ಬೆಳಕು ವಾಸಿಸುವ ದಾರಿ ಎಲ್ಲಿ ⟨ಇದೆ⟩? ಮತ್ತು ಕತ್ತಲೆ — ⟨ಅದರ⟩ ಸ್ಥಳ ಎಲ್ಲಿ?",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "ಎಲ್ಲಿ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ದಾರಿ"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ವಾಸಿಸುವ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ಬೆಳಕು"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ಮತ್ತು ಕತ್ತಲೆ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ಎಲ್ಲಿ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ಅದರ ಸ್ಥಳ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:46:57.747780890Z",
+  "model": "glm-5.3"
+}

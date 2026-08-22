@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 17,
+  "translation": "ಮೂರ್ಖನಿಗೆ ಉತ್ತಮ ನುಡಿ ಒಪ್ಪುವುದಿಲ್ಲ; ಹೆಚ್ಚಾಗಿ ಶ್ರೀಮಂತನಿಗೆ ಸುಳ್ಳಿನ ನುಡಿ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ಒಪ್ಪುತ್ತದೆ"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ಮೂರ್ಖನಿಗೆ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ನುಡಿ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ಉತ್ತಮ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ಹೆಚ್ಚಾಗಿ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಸಹ"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "ಶ್ರೀಮಂತನಿಗೆ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ನುಡಿ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ಸುಳ್ಳಿನ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:23:33.961348453Z",
+  "model": "glm-5.3"
+}

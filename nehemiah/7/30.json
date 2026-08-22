@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ರಾಮಾ ಮತ್ತು ಗಬಾದ ಜನರು — ಆರು ನೂರ ಇಪ್ಪತ್ತು ಒಂದು.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ಜನರು"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ರಾಮಾ"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "ಮತ್ತು ಗಬಾ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ಆರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ಇಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ಒಂದು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:23:53.730779498Z",
+  "model": "glm-5.3"
+}

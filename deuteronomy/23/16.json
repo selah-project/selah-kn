@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ತನ್ನ ಒಡೆಯನಿಂದ ಪಾರಾಗಿ ನಿನ್ನ ಬಳಿಗೆ ಬಂದ ದಾಸನನ್ನು ನೀನು ಅವನ ಒಡೆಯನಿಗೆ ಒಪ್ಪಿಸಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "ಒಪ್ಪಿಸಬೇಡ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ದಾಸನನ್ನು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ನಿಗೆ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ಅವನ ಒಡೆಯನ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅವನು"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "ಪಾರಾಗುವನು"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ನಿನ್ನ ಬಳಿಗೆ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ನಿಂದ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ಅವನ ಒಡೆಯನ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:56:32.197923737Z",
+  "model": "glm-5.3"
+}

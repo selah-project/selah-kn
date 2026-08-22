@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಹೇತ್‌ನ ಮಕ್ಕಳು ⟨את⟩ ಅವ್ರಾಹಾಂನನ್ನು ಉತ್ತರಿಸಿ ಅವನಿಗೆ ಹೇಳುತ್ತಾ",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ಉತ್ತರಿಸಿದರು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ಹೇತ್‌ನ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಅವ್ರಾಹಾಂನನ್ನು"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ಅವ್ರಾಹಾಂ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಅವನಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:19:04.435495062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಯೆತೆರನ ಮಕ್ಕಳು — ಯೆಫುನ್ನೆ, ಪಿಸ್ಪಾ ಮತ್ತು ಅರಾ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ಯೆತೆರನ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ಯೆಫುನ್ನೆ"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "ಪಿಸ್ಪಾ"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ಅರಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:32:52.723908637Z",
+  "model": "glm-5.3"
+}

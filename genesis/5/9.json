@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಎನೋಶ್ ತೊಂಬತ್ತು ವರ್ಷ ಬಾಳಿ ಕೇನಾನನ್ನು ⟨את⟩ ಹೆರಟನು.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ಬಾಳಿ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ಎನೋಶ್"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ತೊಂಬತ್ತು"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ವರ್ಷ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ಹೆರಟನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಕೇನಾನನ್ನು"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ಕೇನಾನನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-21T20:08:30.821856415Z",
+  "model": "glm-5.3"
+}

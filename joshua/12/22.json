@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 12,
+  "translation": "ಕೇದೇಶ್‌ನ ರಾಜ ಒಬ್ಬನು; ಕರ್ಮೆಲ್‌ನ ಯೊಕ್ನೆಅಮ್‌ನ ರಾಜ ಒಬ್ಬನು.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ಕೇದೇಶ್‌ನ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ರಾಜ"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "ಯೊಕ್ನೆಅಮ್‌ನ"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "ಕರ್ಮೆಲ್‌ನ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಬ್ಬನು"
+    }
+  ],
+  "timestamp": "2026-08-21T22:08:42.976896986Z",
+  "model": "glm-5.3"
+}

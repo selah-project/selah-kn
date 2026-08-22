@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ನೀ ಕದಿಯಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "ನೀ ಕದಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:45:18.479739794Z",
+  "model": "glm-5.3"
+}

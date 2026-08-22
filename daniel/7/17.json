@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಈ ದೊಡ್ಡ ಮೃಗಗಳು — ಅವು ನಾಲ್ಕು — ನಾಲ್ಕು ರಾಜರು; ಅವರು ಭೂಮಿಯಿಂದ ⟨ಎದ್ದೇಳುವರು⟩.",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "ಮೃಗಗಳು"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "ದೊಡ್ಡ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ಅವು"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "ಅವು"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ನಾಲ್ಕು"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ನಾಲ್ಕು"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "ರಾಜರು"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "ಎದ್ದೇಳುವರು"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ಇಂದ"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "ಭೂಮಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:11:22.883186632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "kn",
+  "chapter": 32,
+  "translation": "ಇಗೋ, ನಾನೇ ಯಾಹ್ವೆ, ಎಲ್ಲಾ ಮಾಂಸದ ಎಲೋಹೀಂ; ನನಗೆ ಯಾವುದೇ ವಿಷಯ ಅಸಾಧ್ಯವೇ?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ಇಗೋ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ನಾನೇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ಎಲೋಹೀಂ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ಮಾಂಸದ"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "ನನಗೆ"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "ಅಸಾಧ್ಯವೇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಯಾವುದೇ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ವಿಷಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T00:26:19.932738757Z",
+  "model": "glm-5.3"
+}

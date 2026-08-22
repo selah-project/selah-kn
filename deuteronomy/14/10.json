@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಆದರೆ ರೆಕ್ಕೆರೆಪೆ ಮತ್ತು ಹುರುಪು ಇಲ್ಲದವುಗಳನ್ನು ನೀವು ತಿನ್ನಬಾರದು; ಅವು ನಿಮಗೆ ಅಶುದ್ಧವಾದುವು.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ಆದರೆ ... ಎಲ್ಲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ಇಲ್ಲದ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಅದಕ್ಕೆ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ರೆಕ್ಕೆರೆಪೆ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ಮತ್ತು ಹುರುಪು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಬಾರದು"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ನೀವು ತಿನ್ನ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ಅಶುದ್ಧ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅವು ⟨are⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ನಿಮಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:49:43.807448713Z",
+  "model": "glm-5.3"
+}

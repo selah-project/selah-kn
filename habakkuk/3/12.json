@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಕ್ರೋಧದಿಂದ ನೀನು ಭೂಮಿಯಲ್ಲಿ ನಡೆದೆ; ಉಗ್ರತೆಯಿಂದ ಜನತೆಗಳನ್ನು ಕುಟ್ಟೆ.",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "ಕ್ರೋಧದಿಂದ"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "ನಡೆದೆ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ಭೂಮಿಯಲ್ಲಿ"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ಉಗ್ರತೆಯಿಂದ"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "ಕುಟ್ಟೆ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ಜನತೆಗಳನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T01:25:57.795461567Z",
+  "model": "glm-5.3"
+}

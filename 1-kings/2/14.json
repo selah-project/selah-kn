@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಅವನು “ನಿನಗೆ ಒಂದು ಮಾತು ಹೇಳಲಿದ್ದೇನೆ” ಎಂದನು; ಆಕೆ “ಹೇಳು” ಎಂದಳು.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಅವನು ಎಂದನು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ಒಂದು ಮಾತು"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ನನ್ನ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ನಿನಗೆ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ಆಕೆ ಎಂದಳು"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ಹೇಳು"
+    }
+  ],
+  "timestamp": "2026-08-21T23:04:17.357131693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಖರೀಮಿನ ಪುತ್ರರು — ಮೂರುನೂರ ಇಪ್ಪತ್ತು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಪುತ್ರರು"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ಖರೀಮಿನ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ಮೂರು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ಮತ್ತು ಇಪ್ಪತ್ತು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:07.933681662Z",
+  "model": "glm-5.3"
+}

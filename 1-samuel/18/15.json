@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "kn",
+  "chapter": 18,
+  "translation": "ಶಾವೂಲ್ ಅವನು ಅತ್ಯಂತ ಬುದ್ಧಿವಂತನೆಂದು ಕಂಡು, ಅವನಿಗೆ ಹೆದರಿದನು.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ಕಂಡು"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ಶಾವೂಲ್"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಎಂದು"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಅವನು"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ಬುದ್ಧי׵ಂತನೆಂದು"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ಅತ್ಯಂತ"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "ಹೆದರಿದನು"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ಅವನಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:40:37.499879179Z",
+  "model": "glm-5.3"
+}

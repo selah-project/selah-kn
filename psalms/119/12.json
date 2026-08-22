@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 119,
+  "translation": "ನೀನು ಧನ್ಯನು, ಯಾಹ್ವೆ; ನಿನ್ನ ಶಾಸನಗಳನ್ನು ನನಗೆ ಕಲಿಸು.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ಧನ್ಯನು"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ನೀನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ನನಗೆ ಕಲಿಸು"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ನಿನ್ನ ಶಾಸನಗಳನ್ನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:08:58.660427565Z",
+  "model": "glm-5.3"
+}

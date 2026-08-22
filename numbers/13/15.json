@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಗಾದ್ ಕುಲದವರಲ್ಲಿ ಮಾಖಿಯ ಮಗನಾದ ಗೆಯೂಎಲ್.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ಕುಲದವರಲ್ಲಿ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ಗಾದ್"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "ಗೆಯೂಎಲ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನಾದ"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "ಮಾಖಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:14:01.686789183Z",
+  "model": "glm-5.3"
+}

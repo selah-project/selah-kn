@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 51,
+  "translation": "ನಾತಾನ್ ಪ್ರವಾದಿ ಅವನ ಬಳಿ ಬಂದಾಗ, ಬತ್-ಶೇವಾ ಬಳಿ ಹೋದ ಸಂದರ್ಭದಲ್ಲಿ.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "ಬಂದಾಗ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ಅವನ ಬಳಿ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ನಾತಾನ್"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ಪ್ರವಾದಿ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ಸಂದರ್ಭದಲ್ಲಿ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ಹೋದ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ಬತ್-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ಶೇವಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:49:08.485253883Z",
+  "model": "glm-5.3"
+}

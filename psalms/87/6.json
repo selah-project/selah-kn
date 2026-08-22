@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 87,
+  "translation": "ಯಾಹ್ವೆ ಜನರನ್ನು ಬರೆಯುವಾಗ ಎಣಿಸುವನು — ಇವನು ಅಲ್ಲಿ ಹುಟ್ಟಿದನು. ಸೆಲಾ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ಎಣಿಸುವನು"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "ಬರೆಯುವಾಗ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ಜನರನ್ನು"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ಇವನು"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ಹುಟ್ಟಿದನು"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ಅಲ್ಲಿ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ಸೆಲಾ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:59:56.991402583Z",
+  "model": "glm-5.3"
+}

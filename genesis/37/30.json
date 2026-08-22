@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 37,
+  "translation": "ತನ್ನ ಸಹೋದರರ ಬಳಿಗೆ ಹಿಂದಿರುಗಿ ಹೇಳಿದನು: ಬಾಲಕನು ಇಲ್ಲ; ನಾನು ಎಲ್ಲಿಗೆ ಹೋಗಲಿ?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ಹಿಂದಿರುಗಿ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿಗೆ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ತನ್ನ ಸಹೋದರರ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ಬಾಲಕನು"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ಎಲ್ಲಿಗೆ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ಹೋಗಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:28:43.658650650Z",
+  "model": "glm-5.3"
+}

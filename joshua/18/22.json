@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 18,
+  "translation": "ಬೇತ್-ಹಅರಾಬಾ, ತ್ಸೆಮರಾಯಿಮ್ ಮತ್ತು ಬೇತ್-ಎಲ್.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ಬೇತ್-"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ಹಅರಾಬಾ"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "ತ್ಸೆಮರಾಯಿಮ್"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ಬೇತ್-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಲ್"
+    }
+  ],
+  "timestamp": "2026-08-21T22:11:09.206834358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "kn",
+  "chapter": 15,
+  "translation": "ಜಾನೋಅಖ್, ಎನ್-ಗನ್ನೀಂ, ತಪ್ಪುಅಖ್, ಮತ್ತು ಎನಾಂ.",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "ಜಾನೋಅಖ್"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ಎನ್-"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "ಗನ್ನೀಂ"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "ತಪ್ಪುಅಖ್"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "ಮತ್ತು ಎನಾಂ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:11:05.995513487Z",
+  "model": "glm-5.3"
+}

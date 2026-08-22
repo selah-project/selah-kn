@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಅವನ ಬಾಯಿಯ ಮಾತುಗಳ ಆರಂಭವು ಮೂರ್ಖತನ, ಮತ್ತು ಅವನ ಬಾಯಿಯ ಅಂತ್ಯವು ⟨is⟩ ದುಷ್ಟ ಹುಚ್ಚುತನ.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "ಆರಂಭವು"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ಮಾತುಗಳ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ಅವನ ಬಾಯಿಯ"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "ಮೂರ್ಖತನ"
+    },
+    {
+      "surface": "ואחרית",
+      "gloss": "ಮತ್ತು ಅಂತ್ಯವು"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ಅವನ ಬಾಯಿಯ"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "ಹುಚ್ಚುತನ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ದುಷ್ಟ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:57:29.653188829Z",
+  "model": "glm-5.3"
+}

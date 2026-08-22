@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 14,
+  "translation": "ಪೆಲಿಶ್ತಿಗಳು ಬಂದು ರೆಫಾಯಿಂ ಕಣಿವೆಯಲ್ಲಿ ಹರಡಿಕೊಂಡರು.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "ಪೆಲಿಶ್ತಿಗಳು"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ಬಂದು"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "ಹರಡಿಕೊಂಡರು"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ಕಣಿವೆಯಲ್ಲಿ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ರೆಫಾಯಿಂ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:36:16.707254949Z",
+  "model": "glm-5.3"
+}

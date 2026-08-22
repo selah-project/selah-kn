@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಅವನು ಯಾಹ್ವೆಗೆ ಬೇರ್ಪಡುವ ಎಲ್ಲಾ ದಿನಗಳಲ್ಲಿ ಒಂದು ಮೃತ ನೆಫೆಶಿನ ಹತ್ತಿರ ಹೋಗಬಾರದು.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ದಿನಗಳಲ್ಲಿ"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "ಅವನು ಬೇರ್ಪಡುವ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ಯಾಹ್ವೆಗೆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಹತ್ತಿರ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ನೆಫೆಶಿನ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ಮೃತ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ಹೋಗಬೇಡ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:22:31.862375552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಲೋದ್, ಖಾದೀದ್ ಮತ್ತು ಒನೋದ ಮಕ್ಕಳು — ಏಳು ನೂರ ಇಪ್ಪತ್ತೊಂದು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "לד",
+      "gloss": "ಲೋದ್"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "ಖಾದೀದ್"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "ಮತ್ತು ಒನೋ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ಏಳು"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ನೂರ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ಮತ್ತು ಇಪ್ಪತ್ತು"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ಮತ್ತು ಒಂದು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:24:09.335451920Z",
+  "model": "glm-5.3"
+}

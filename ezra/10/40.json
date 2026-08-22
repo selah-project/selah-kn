@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಮಖ್ನದ್ಬೈ, ಶಶೈ, ಶರೈ,",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "ಮಖ್ನದ್ಬೈ"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ಶಶೈ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ಶರೈ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:18:36.836203407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ಯಾಹ್ವೆಯೇ, ರಕ್ಷಿಸು; ಹಾಕ್‌ನನ್ನು <span>…<\/span>",
+  "tokens": [],
+  "timestamp": "2026-08-22T01:38:10.905799235Z",
+  "model": "glm-5.3"
+}

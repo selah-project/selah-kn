@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 10,
+  "translation": "ಖರೀಫ್, ಅನಾತೋತ್, ನೋವಾಯ್,",
+  "tokens": [
+    {
+      "surface": "חריף",
+      "gloss": "ಖರೀಫ್"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ಅನಾತೋತ್"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "ನೋವಾಯ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:25:37.633129631Z",
+  "model": "glm-5.3"
+}

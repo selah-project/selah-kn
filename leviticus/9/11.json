@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಮತ್ತು ⟨את⟩ ಮಾಂಸವನ್ನೂ ⟨את⟩ ಚರ್ಮವನ್ನೂ ಪಾಳೆಯದ ಹೊರಗೆ ಬೆಂಕಿಯಲ್ಲಿ ಸುಟ್ಟನು.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ಮಾಂಸವನ್ನೂ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ಮಾಂಸವನ್ನೂ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ಚರ್ಮವನ್ನೂ"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ಚರ್ಮವನ್ನೂ"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ಸುಟ್ಟನು"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ಬೆಂಕಿಯಲ್ಲಿ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ಹೊರಗೆ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ಪಾಳೆಯದ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:05:16.910206450Z",
+  "model": "glm-5.3"
+}

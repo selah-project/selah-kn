@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 38,
+  "translation": "ದಾವೀದನ ಮಜಮೂರು, ನೆನಪು ಮಾಡಲು.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ಮಜಮೂರು"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ದಾವೀದನ"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ನೆನಪು ಮಾಡಲು"
+    }
+  ],
+  "timestamp": "2026-08-22T01:45:40.567728205Z",
+  "model": "glm-5.3"
+}

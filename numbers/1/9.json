@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಜ಼ೆಬುಲೂನ್‌ಗೆ — ಎಲಿಯಾವ್, ಖೆಲೋನ್‌ನ ಮಗನು.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "ಜ಼ೆಬುಲೂನ್‌ಗೆ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ಎಲಿಯಾವ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನು"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ಖೆಲೋನ್‌ನ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:18:00.531953920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 22,
+  "translation": "ಮಂತ್ರಗಾರ್ತಿಯನ್ನು ಬದುಕಲು ಬಿಡಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "ಮಂತ್ರಗಾರ್ತಿಯನ್ನು"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ಬದುಕಲು ಬಿಡ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:48:38.143231490Z",
+  "model": "glm-5.3"
+}

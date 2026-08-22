@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 17,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಯ ಮಾತನಾಡಿದನು — ಹೀಂದು ಹೇಳು —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಮಾತನಾಡಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಂದು ಹೇಳು"
+    }
+  ],
+  "timestamp": "2026-08-21T21:12:19.569416763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಮತ್ತು ಇಯ್ಶ್ಪಾನ್, ಮತ್ತು ಎವೆರ್, ಮತ್ತು ಎಲೀಯೇಲ್.",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "ಮತ್ತು ಇಯ್ಶ್ಪಾನ್"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ಮತ್ತು ಎವೆರ್"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "ಮತ್ತು ಎಲೀಯೇಲ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:41.822698892Z",
+  "model": "glm-5.3"
+}

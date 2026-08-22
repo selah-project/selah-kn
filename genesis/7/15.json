@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಮತ್ತು ನೋವಾಹ್ ಬಳಿ, ಹಡಗಿಗೆ, ಎಲ್ಲಾ ಮಾಂಸದಿಂದ ಎರಡು ಎರಡಾಗಿ — ಅದರಲ್ಲಿ ಜೀವದ ಉಸಿರು ⟨ಇರುವವು⟩ — ಬಂದವು.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ಮತ್ತು ಬಂದವು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬಳಿ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ನೋವಾಹ್"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಇಂದ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ಹಡಗಿಗೆ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ಎರಡು"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ಎರಡಾಗಿ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ಎಲ್ಲಾ…ದಿಂದ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ಮಾಂಸ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದರಲ್ಲಿ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ಅದರಲ್ಲಿ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ಉಸಿರು"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ಜೀವದ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:11:09.381704494Z",
+  "model": "glm-5.3"
+}

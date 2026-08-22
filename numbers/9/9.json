@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 9,
+  "translation": "ಯಾಹ್ವೆ ಮೋಶೆಯೊಡನೆ ಆಡುತ್ತಾ ಹೇಳಿದನು —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ಆಡುತ್ತಾ ಹೇಳಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಒಡನೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆಯ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೇಳುತ್ತಾ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:25:39.998056574Z",
+  "model": "glm-5.3"
+}

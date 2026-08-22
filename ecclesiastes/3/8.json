@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ಪ್ರೀತಿಸುವ ಸಮಯ, ಮತ್ತು ದ್ವೇಷಿಸುವ ಸಮಯ; ಯುದ್ಧದ ಸಮಯ, ಮತ್ತು ಶಾಂತಿಯ ಸಮಯ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ಸಮಯ"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "ಪ್ರೀತಿಸುವ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ಮತ್ತು ಸಮಯ"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ದ್ವೇಷಿಸುವ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ಸಮಯ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ಯುದ್ಧದ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ಮತ್ತು ಸಮಯ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ಶಾಂತಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:55:28.730075156Z",
+  "model": "glm-5.3"
+}

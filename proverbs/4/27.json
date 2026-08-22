@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಬಲಕ್ಕೆ ತಿರುಗಬೇಡ, ಎಡಕ್ಕೂ ಬೇಡ; ನಿನ್ನ ಕಾಲನ್ನು ಕೆಟ್ಟದ್ದರಿಂದ ದೂರ ಮಾಡು.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ತಿರುಗಬೇಡ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ಬಲಕ್ಕೆ"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ಎಡಕ್ಕೂ"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ದೂರ ಮಾಡು"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ನಿನ್ನ ಕಾಲನ್ನು"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ಕೆಟ್ಟದ್ದರಿಂದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:17:09.896297185Z",
+  "model": "glm-5.3"
+}

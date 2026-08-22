@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಹೊರೆ, ಅದನ್ನು ಚಂಬಕ್ಕೂಕ್ ನುಡಿಗಾರನು ಕಂಡನು.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "ಹೊರೆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಅದನ್ನು"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ಕಂಡನು"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "ಚಂಬಕ್ಕೂಕ್"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ನುಡಿಗಾರನು"
+    }
+  ],
+  "timestamp": "2026-08-22T01:23:44.368663100Z",
+  "model": "glm-5.3"
+}

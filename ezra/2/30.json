@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಮಗ್ಬೀಶಿನ ಪುತ್ರರು — ನೂರೈವತ್ತಾರು.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಪುತ್ರರು"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "ಮಗ್ಬೀಶಿನ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ನೂರು"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ಐವತ್ತು"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ಮತ್ತು ಆರು"
+    }
+  ],
+  "timestamp": "2026-08-22T03:13:07.933386714Z",
+  "model": "glm-5.3"
+}

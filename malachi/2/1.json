@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಮತ್ತು ಈಗ ನಿಮಗೆ ⟨is⟩ ⟨the⟩ ಆಜ್ಞೆ ಈ, ಓ ಅರ್ಚಕರೇ",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ಮತ್ತು ಈಗ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ನಿಮಗೆ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ಆಜ್ಞೆ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ಅರ್ಚಕರೇ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:32:25.707909545Z",
+  "model": "glm-5.3"
+}

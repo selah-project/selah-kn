@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ನೆತೀನಿಗಳು — ಜೀಹಾನ ಮಕ್ಕಳು, ಖಸೂಫಾನ ಮಕ್ಕಳು, ತಬ್ಬಾವೋತ್‌ನ ಮಕ್ಕಳು.",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "ನೆತೀನಿಗಳು"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "ಜೀಹಾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "ಖಸೂಫಾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "ತಬ್ಬಾವೋತ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:24:11.969143727Z",
+  "model": "glm-5.3"
+}

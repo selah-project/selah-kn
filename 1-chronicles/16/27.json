@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 16:27",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 16,
+  "translation": "ಮಹಿಮೆ ಮತ್ತು ವೈಭವ ಅವನ ಮುಂದೆ ⟨is⟩; ಬಲ ಮತ್ತು ಹರ್ಷ ಅವನ ಸ್ಥಳದಲ್ಲಿ ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "ಮಹಿಮೆ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ಮತ್ತು ವೈಭವ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ಅವನ ಮುಂದೆ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ಬಲ"
+    },
+    {
+      "surface": "וחדוה",
+      "gloss": "ಮತ್ತು ಹರ್ಷ"
+    },
+    {
+      "surface": "במקמו",
+      "gloss": "ಅವನ ಸ್ಥಳದಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:35:57.289541197Z",
+  "model": "glm-5.3"
+}

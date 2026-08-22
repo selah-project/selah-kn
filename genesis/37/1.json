@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 37,
+  "translation": "ಯಾಕೋವ್ ತನ್ನ ತಂದೆಯ ಪರದೇಶವಾಸದ ⟨the⟩ ದೇಶದಲ್ಲಿ — ಕನಾನ್ ದೇಶದಲ್ಲಿ — ವಾಸಿಸಿದನು.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ವಾಸಿಸಿದನು"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ಯಾಕೋವ್"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ದೇಶದಲ್ಲಿ"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "ಪರದೇಶವಾಸದ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ತನ್ನ ತಂದೆಯ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ದೇಶದಲ್ಲಿ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ಕನಾನ್"
+    }
+  ],
+  "timestamp": "2026-08-21T20:28:30.830841414Z",
+  "model": "glm-5.3"
+}

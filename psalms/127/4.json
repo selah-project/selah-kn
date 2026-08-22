@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 127,
+  "translation": "ಬಲವಂತನ ಕೈಯಲ್ಲಿನ ಬಾಣಗಳಂತೆ, ಹಾಗೇ ಯೌವನದ ಮಕ್ಕಳು.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "ಬಾಣಗಳಂತೆ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ಕೈಯಲ್ಲಿನ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ಬಲವಂತನ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ಹಾಗೇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "ಯೌವನದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:12:08.887326636Z",
+  "model": "glm-5.3"
+}

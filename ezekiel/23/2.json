@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಮಾನವಪುತ್ರನೇ, ಒಬ್ಬ ತಾಯಿಯ ಹೆಣ್ಣುಮಕ್ಕಳಾದ ಇಬ್ಬರು ಹೆಂಗಸರು ⟨ಇದ್ದರು⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ಮಾನವನ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ಇಬ್ಬರು"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ಹೆಂಗಸರು"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ಹೆಣ್ಣುಮಕ್ಕಳು"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ತಾಯಿಯ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ಒಬ್ಬ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ಇದ್ದರು"
+    }
+  ],
+  "timestamp": "2026-08-22T00:54:13.398266055Z",
+  "model": "glm-5.3"
+}

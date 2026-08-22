@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 5:29",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 5,
+  "translation": "ಇದೇ ಅಸೂಯೆಯ ತೋರಾ — ಒಬ್ಬ ಹೆಂಡತಿ ತನ್ನ ಗಂಡನ ಅಡಿಯಲ್ಲಿ ದಾರಿ ತಪ್ಪಿ ಮಲಿನಳಾದಾಗ",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ಇದೇ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ತೋರಾ"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "ಅಸೂಯೆಯ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ಯಾವಾಗ"
+    },
+    {
+      "surface": "תשטה",
+      "gloss": "ದಾರಿ ತಪ್ಪಿ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ಹೆಂಡತಿ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ಅಡಿಯಲ್ಲಿ"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ತನ್ನ ಗಂಡನ"
+    },
+    {
+      "surface": "ונטמאה",
+      "gloss": "ಮಲಿನಳಾದಾಗ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:13:40.499750335Z",
+  "model": "glm-5.3"
+}

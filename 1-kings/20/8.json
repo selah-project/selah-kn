@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ಮತ್ತು ಎಲ್ಲ ಹಿರಿಯರೂ ಎಲ್ಲ ಜನರೂ ಅವನಿಗೆ ಹೇಳಿದರು: ಕೇಳಬೇಡ, ಒಪ್ಪಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ಮತ್ತು ಹೇಳಿದರು"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ಅವನಿಗೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ಹಿರಿಯರೂ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ಎಲ್ಲ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನರೂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ಕೇಳ"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ಮತ್ತು ಇಲ್ಲ"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "ಒಪ್ಪ"
+    }
+  ],
+  "timestamp": "2026-08-21T23:18:55.008758469Z",
+  "model": "glm-5.3"
+}

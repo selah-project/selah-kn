@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 43:12",
+  "book": "ezekiel",
+  "lang": "kn",
+  "chapter": 43,
+  "translation": "ಇದೇ ಮನೆಯ ತೋರಾ: ಪರ್ವತದ ತುದಿಯ ಮೇಲೆ ಅದರ ಸುತ್ತಮುತ್ತಲಿನ ಇಡೀ ಗಡಿಯು ಪರಮಪವಿತ್ರವಾಗಿರಲಿ; ಇಗೋ, ಇದೇ ಮನೆಯ ತೋರಾ.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ಇದೇ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ತೋರಾ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ಮನೆಯ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ತುದಿಯ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ಪರ್ವತದ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಇಡೀ"
+    },
+    {
+      "surface": "גבלו",
+      "gloss": "ಅದರ ಗಡಿಯು"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ಸುತ್ತ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ಮುತ್ತಲ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ಪವಿತ್ರ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ಪವಿತ್ರಗಳ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ಇಗೋ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ಇದೇ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ತೋರಾ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ಮನೆಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:05:38.187906471Z",
+  "model": "glm-5.3"
+}

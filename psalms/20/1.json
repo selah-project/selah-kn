@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ಸಂಗೀತ ನಿರ್ದೇಶಕನಿಗೆ, ಮಜಮೂರ್, ದಾವೀದನಿಗೆ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ಸಂಗೀತ ನಿರ್ದೇಶಕನಿಗೆ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ಮಜಮೂರ್"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ದಾವೀದನಿಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:39:00.601697143Z",
+  "model": "glm-5.3"
+}

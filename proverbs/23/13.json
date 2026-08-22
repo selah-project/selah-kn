@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 23,
+  "translation": "ಬಾಲಕನಿಂದ ಶಿಕ್ಷೆಯನ್ನು ತಡೆಯಬೇಡ; ಕೋಲಿನಿಂದ ಅವನನ್ನು ಹೊಡೆದರೂ ಅವನು ಸಾಯನು.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ತಡೆಯಬೇಡ"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "ಬಾಲಕನಿಂದ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ಶಿಕ್ಷೆಯನ್ನು"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಏಕೆಂದರೆ"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "ಅವನನ್ನು ಹೊಡೆದರೂ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ಕೋಲಿನಿಂದ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ಸಾಯನು"
+    }
+  ],
+  "timestamp": "2026-08-22T02:25:50.527694045Z",
+  "model": "glm-5.3"
+}

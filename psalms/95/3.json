@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "kn",
+  "chapter": 95,
+  "translation": "ಯಾಕೆಂದರೆ ಯಾಹ್ವೆ ⟨ಸ⟩ ಮಹಾನ್ ಎಲ್, ಮತ್ತು ಎಲ್ಲಾ ದೇವರುಗಳ ಮೇಲೆ ಮಹಾನ್ ರಾಜನು.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ಯಾಕೆಂದರೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಎಲ್"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ಮಹಾನ್"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ಮತ್ತು ರಾಜನು"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ಮಹಾನ್"
+    },
+    {
+      "surface": "על",
+      "gloss": "ಮೇಲೆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಎಲ್ಲಾ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ದೇವರುಗಳ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:01:32.119085305Z",
+  "model": "glm-5.3"
+}

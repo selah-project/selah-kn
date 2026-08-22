@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ಯಫೆತ್‌ನ ಮಕ್ಕಳು: ಗೋಮೆರ್, ಮಾಗೋಗ್, ಮಾದಾಯ್, ಯವಾನ್, ತುಬಾಲ್, ಮೆಶೆಕ್ ಮತ್ತು ತಿರಾಸ್.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ಯಫೆತ್‌ನ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ಗೋಮೆರ್"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "ಮಾಗೋಗ್"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "ಮಾದಾಯ್"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "ಯವಾನ್"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ತುಬಾಲ್"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "ಮೆಶೆಕ್"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "ತಿರಾಸ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:28:07.404912552Z",
+  "model": "glm-5.3"
+}

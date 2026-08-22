@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 20,
+  "translation": "ನೀ ಕೊಲೆ ಮಾಡಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "ನೀ ಕೊಲೆ ಮಾಡ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:45:18.479424775Z",
+  "model": "glm-5.3"
+}

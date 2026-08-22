@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 46,
+  "translation": "ನಫ್ತಾಲಿಯ ಮಕ್ಕಳು: ಯಾಹ್ತ್ಸೇಲ್, ಗೂನಿ, ಯೇತ್ಸೇರ್ ಮತ್ತು ಶಿಲ್ಲೇಂ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ನಫ್ತಾಲಿಯ"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "ಯಾಹ್ತ್ಸೇಲ್"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "ಗೂನಿ"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ಯೇತ್ಸೇರ್"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "ಶಿಲ್ಲೇಂ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:33:11.237986618Z",
+  "model": "glm-5.3"
+}

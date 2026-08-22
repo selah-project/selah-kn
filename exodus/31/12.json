@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "kn",
+  "chapter": 31,
+  "translation": "ಮತ್ತು ಯಾಹ್ವೆ ಮೋಶೆಗೆ ಆ ಹೇಳಿದನು ⟨he⟩ ಹೀಗೆ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಮತ್ತು …ಹೇಳಿದನು"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ಗೆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ಮೋಶೆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ಹೀಗೆ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:52:38.964400097Z",
+  "model": "glm-5.3"
+}

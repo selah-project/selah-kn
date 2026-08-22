@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 11:5",
+  "book": "nehemiah",
+  "lang": "kn",
+  "chapter": 11,
+  "translation": "ಮತ್ತು ಮಾಅಸೆಯಾ — ಬಾರುಕನ ಮಗ, ಕೋಲ್-ಖೋಜೆಹನ ಮಗ, ಖಜಾಯಾನ ಮಗ, ಅದಾಯಾನ ಮಗ, ಯೋಯಾರಿಬನ ಮಗ, ಜೆಕರ್ಯಾನ ಮಗ, ಹಶಿಲೋನಿಯ ಮಗ.",
+  "tokens": [
+    {
+      "surface": "ומעשיה",
+      "gloss": "ಮತ್ತು ಮಾಅಸೆಯಾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ಬಾರುಕನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ಕೋಲ್"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ಖೋಜೆಹನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "חזיה",
+      "gloss": "ಖಜಾಯಾನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "ಅದಾಯಾನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "ಯೋಯಾರಿಬನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "ಜೆಕರ್ಯಾನ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗ"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "ಹಶಿಲೋನಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:26:28.309540270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 7:39",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 7,
+  "translation": "ಒಂದು ಕರು, ಹಸುವಿನ ಮರಿ; ಒಂದು ಟಗರು; ಒಂದು ಕುರಿಮರಿ, ಒಂದು ವರ್ಷದ ಮರಿ, ಸರ್ವಾಹುತಿಗಾಗಿ.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ಕರು"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮರಿ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ಹಸುವಿನ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ಟಗರು"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ಕುರಿಮರಿ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ಒಂದು"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮರಿ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ಒಂದು ವರ್ಷದ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ಸರ್ವಾಹುತಿಗಾಗಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T21:22:35.006478860Z",
+  "model": "glm-5.3"
+}

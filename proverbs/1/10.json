@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "kn",
+  "chapter": 1,
+  "translation": "ನನ್ನ ಮಗನೇ, ಪಾಪಿಗಳು ನಿನ್ನನ್ನು ಪ್ರಲೋಭಿಸಿದರೆ, ನೀನು ಒಪ್ಪಬೇಡ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ನನ್ನ ಮಗನೇ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ಎಂದರೆ"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "ನಿನ್ನನ್ನು ಪ್ರಲೋಭಿಸಿದರೆ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ಪಾಪಿಗಳು"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ಒಪ್ಪಬೇಡ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:42:37.785767600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 35:25",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 35,
+  "translation": "ಬಿಲ್ಹಾಳ — ರಾಖೆಲ್‌ಳ ದಾಸಿಯ — ಕುಮಾರರು: ದಾನ್ ಮತ್ತು ನಫ್ತಲಿ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಮತ್ತು ಕುಮಾರರು"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ಬಿಲ್ಹಾಳ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ದಾಸಿಯ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ರಾಖೆಲ್‌ಳ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ದಾನ್"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ಮತ್ತು ನಫ್ತಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:27:58.994016917Z",
+  "model": "glm-5.3"
+}

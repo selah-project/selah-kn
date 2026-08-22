@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezra 2:48",
+  "book": "ezra",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ರೆತ್ಸಿನ್‌ನ ಮಕ್ಕಳು, ನೆಕೋದಾಹನ ಮಕ್ಕಳು, ಗಜ್ಜಾಮನ ಮಕ್ಕಳು,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ರೆತ್ಸಿನ್"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "ನೆಕೋದಾಹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ಮಕ್ಕಳು"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "ಗಜ್ಜಾಮ್"
+    }
+  ],
+  "timestamp": "2026-08-22T03:15:27.018323219Z",
+  "model": "glm-5.3"
+}

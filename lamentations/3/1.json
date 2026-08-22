@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "kn",
+  "chapter": 3,
+  "translation": "ನಾನೇ ⟨the⟩ ಪುರುಷ — ಆತನ ಕೋಪದ ದಂಡದಿಂದ ದುಃಖವನ್ನು ಕಂಡವನು.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ನಾನೇ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨the⟩ ಪುರುಷ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ಕಂಡವನು"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ದುಃಖವನ್ನು"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ದಂಡದಿಂದ"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "ಆತನ ಕೋಪದ"
+    }
+  ],
+  "timestamp": "2026-08-22T02:52:22.742777944Z",
+  "model": "glm-5.3"
+}

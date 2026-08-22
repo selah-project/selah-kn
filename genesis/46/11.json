@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "kn",
+  "chapter": 46,
+  "translation": "ಲೆವಿಯ ಪುತ್ರರು: ಗೆರ್ಶೋನ್, ಕೆಹಾತ್ ಮತ್ತು ಮೆರಾರಿ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ಪುತ್ರರು"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ಲೆವಿಯ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ಗೆರ್ಶೋನ್"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ಕೆಹಾತ್"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ಮತ್ತು ಮೆರಾರಿ"
+    }
+  ],
+  "timestamp": "2026-08-21T20:33:32.884152692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "kn",
+  "chapter": 13,
+  "translation": "ಮತ್ತು ಒಬ್ಬ ಪುರುಷನಲ್ಲಿ ಅಥವಾ ಸ್ತ್ರೀಯಲ್ಲಿ ಹೊಡೆತವು ಇರ್ದಾಗ — ತಲೆಯಲ್ಲಿ ಅಥವಾ ಗಡ್ಡದಲ್ಲಿ —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ಮತ್ತು ಒಬ್ಬ ಪುರುಷ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ಅಥವಾ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ಸ್ತ್ರೀ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ಯಾವಾಗ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ಇರ್ದಾಗ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ಅವನಲ್ಲಿ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ಹೊಡೆತ"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ತಲೆಯಲ್ಲಿ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ಅಥವಾ"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ಗಡ್ಡದಲ್ಲಿ"
+    }
+  ],
+  "timestamp": "2026-08-22T04:12:21.123844707Z",
+  "model": "glm-5.3"
+}

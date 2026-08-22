@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "kn",
+  "chapter": 4,
+  "translation": "ಮತ್ತು ಕೆಲೂಬ್, ಶೂಹಾನ ಸಹೋದರ, ⟨את⟩ ಮೆಹೀರನನ್ನು ಹೆತ್ತನು; ಆತನೇ ಎಶ್ತೋನಿನ ತಂದೆ.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "ಮತ್ತು ಕೆಲೂಬ್"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ಸಹೋದರ"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "ಶೂಹಾನ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ಹೆತ್ತನು"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ಮೆಹೀರನನ್ನು"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "ಮೆಹೀರನನ್ನು"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ಆತನೇ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ತಂದೆ"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "ಎಶ್ತೋನಿನ"
+    }
+  ],
+  "timestamp": "2026-08-22T03:31:27.604085510Z",
+  "model": "glm-5.3"
+}

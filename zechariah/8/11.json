@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "kn",
+  "chapter": 8,
+  "translation": "ಈಗ ಆದರೆ ಹಿಂದಿನ ದಿನಗಳಂತೆ ಅಲ್ಲ ನಾನು ಈ ಜನರ ಉಳಿದವರಿಗೆ — ಯಾಹ್ವೆ ಸೇನಾಧಿಪತಿಯ ಉಕ್ತಿ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ಈಗ ಆದರೆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಅಲ್ಲ"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "ದಿನಗಳಂತೆ"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ಹಿಂದಿನ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ನಾನು"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "ಉಳಿದವರಿಗೆ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ಜನರ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ಈ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ಉಕ್ತಿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ಸೇನಾಧಿಪತಿಯ"
+    }
+  ],
+  "timestamp": "2026-08-22T01:29:48.509856242Z",
+  "model": "glm-5.3"
+}

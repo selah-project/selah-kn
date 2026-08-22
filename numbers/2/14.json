@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 2:14",
+  "book": "numbers",
+  "lang": "kn",
+  "chapter": 2,
+  "translation": "ಮತ್ತು ಗಾದ್ ಗೋತ್ರ; ಗಾದ್ ಮಕ್ಕಳಿಗೆ ನಾಯಕನಾಗಿ ರೆಉವೇಲ್ ಮಗನಾದ ಎಲ್ಯಾಸಾಫ್.",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "ಮತ್ತು ಗೋತ್ರ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ಗಾದ್"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ಮತ್ತು ನಾಯಕ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ಮಕ್ಕಳಿಗೆ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ಗಾದ್"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ಎಲ್ಯಾಸಾಫ್"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ಮಗನಾದ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ರೆಉವೇಲ್"
+    }
+  ],
+  "timestamp": "2026-08-21T21:20:36.157058596Z",
+  "model": "glm-5.3"
+}

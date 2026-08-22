@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಮತ್ತು ಶಾವೂಲನ ಮಗಳಾದ ಮೀಖಲಿಗೆ ಅವಳ ಮರಣದ ದಿನದವರೆಗೆ ಮಗು ಇರಲಿಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "ಮತ್ತು ಮೀಖಲಿಗೆ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ಮಗಳಾದ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ಶಾವೂಲನ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ಇರಲಿಲ್ಲ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ಅವಳಿಗೆ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ಮಗು"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ವರೆಗೆ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ದಿನದ"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "ಅವಳ ಮರಣದ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:50:22.198933060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "kn",
+  "chapter": 6,
+  "translation": "ಆದರೆ ಯಾಹ್ವೆ ಅವನಿಗೆ ಹೇಳಿದನು: ನಿನಗೆ ಶಾಂತಿ; ಭಯಪಡಬೇಡ, ನೀನು ಸಾಯುವೆಯಲ್ಲ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ಹೇಳಿದನು"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ಅವನಿಗೆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ಯಾಹ್ವೆ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ಶಾಂತಿ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ನಿನಗೆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ಬೇಡ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ಭಯಪಡಬೇಡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ಇಲ್ಲ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ಸಾಯುವೆಯಲ್ಲ"
+    }
+  ],
+  "timestamp": "2026-08-21T22:19:16.619006530Z",
+  "model": "glm-5.3"
+}
