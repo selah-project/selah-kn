@@ -5,29 +5,29 @@
   "book": "1-chronicles",
   "lang": "kn",
   "chapter": 11,
-  "translation": "ಹುರಾಯ್ ಗಾಶ್‌ನ ಕಣಿವೆಗಳಿಂದ, ಅಬಿಯೇಲ್ ⟨the⟩ ಅರಬಾತಿ,",
+  "translation": "ಖುರಾಯ್ ಗಾಶ್ ತೊರೆಗಳಿಂದ, ಅಬಿಯೆಲ್ ⟨the⟩ ಅರಬತಿ,",
   "tokens": [
     {
       "surface": "חורי",
-      "gloss": "ಹುರಾಯ್"
+      "gloss": "ಖುರಾಯ್"
     },
     {
       "surface": "מנחלי",
-      "gloss": "ಕಣಿವೆಗಳಿಂದ"
+      "gloss": "ತೊರೆಗಳಿಂದ"
     },
     {
-      "surface": "ಒעש",
+      "surface": "געש",
       "gloss": "ಗಾಶ್"
     },
     {
       "surface": "אביאל",
-      "gloss": "ಅಬಿಯೇಲ್"
+      "gloss": "ಅಬಿಯೆಲ್"
     },
     {
       "surface": "הערבתי",
-      "gloss": "ಅರಬಾತಿ"
+      "gloss": "ಅರಬತಿ"
     }
   ],
-  "timestamp": "2026-08-22T08:03:50.330579168Z",
+  "timestamp": "2026-08-24T20:54:30.966409848Z",
   "model": "glm-5.3"
 }

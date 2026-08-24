@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "kn",
   "chapter": 23,
-  "translation": "ಖೆತ್ಸ್ರೋ ⟨the⟩ ಕಾರ್ಮೆಲ್ಯ; ಪಆರೈ ⟨the⟩ ಅರ್ಬ್ಯ;",
+  "translation": "ಖೆತ್ಸ್ರೋ ⟨the⟩ ಕಾರ್ಮೆಲಿ; ಪಅರೈ ⟨the⟩ ಅರ್ಬಿ;",
   "tokens": [
     {
       "surface": "חצרו",
@@ -13,17 +13,17 @@
     },
     {
       "surface": "הכרמלי",
-      "gloss": "⟨the⟩ ಕಾರ್ಮೆಲ್ಯ"
+      "gloss": "ಕಾರ್ಮೆಲಿ"
     },
     {
       "surface": "פערי",
-      "gloss": "ಪಆರೈ"
+      "gloss": "ಪಅರೈ"
     },
     {
       "surface": "הארבי",
-      "gloss": "⟨the⟩ ಅರ್ಬ್ಯ"
+      "gloss": "ಅರ್ಬಿ"
     }
   ],
-  "timestamp": "2026-08-22T07:56:15.388096144Z",
+  "timestamp": "2026-08-24T20:51:06.118337207Z",
   "model": "glm-5.3"
 }

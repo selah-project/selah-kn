@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "kn",
   "chapter": 11,
-  "translation": "ಸಿಬ್ಬೆಖಾಯ್ ⟨the⟩ ಹುಶಾತಿ, ಇಲಾಯ್ ⟨the⟩ ಅಹೋಹಿ,",
+  "translation": "ಸಿಬ್ಬೆಕಾಯ್ ⟨the⟩ ಹುಶಾತಿ, ಇಲಾಯ್ ⟨the⟩ ಅಹೋಹಿ,",
   "tokens": [
     {
       "surface": "סבכי",
-      "gloss": "ಸಿಬ್ಬೆಖಾಯ್"
+      "gloss": "ಸಿಬ್ಬೆಕಾಯ್"
     },
     {
       "surface": "החשתי",
@@ -24,6 +24,6 @@
       "gloss": "ಅಹೋಹಿ"
     }
   ],
-  "timestamp": "2026-08-22T08:03:50.330075057Z",
+  "timestamp": "2026-08-24T20:54:30.965896333Z",
   "model": "glm-5.3"
 }

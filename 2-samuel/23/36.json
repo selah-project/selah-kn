@@ -5,33 +5,33 @@
   "book": "2-samuel",
   "lang": "kn",
   "chapter": 23,
-  "translation": "ಯಿಗ್ಆಲ್ ನತನನ ಮಗ — ಮಿತ್ಸೋವಾದವನು; ಬಾನಿ ⟨the⟩ ಗದ್ಯ;",
+  "translation": "ಯಿಗಲ್ ನತಾನ್ನ ಮಗ, ತ್ಸೋವಾದವನು; ಬನಿ ⟨the⟩ ಗಾದಿ;",
   "tokens": [
     {
       "surface": "יגאל",
-      "gloss": "ಯಿಗ್ಆಲ್"
+      "gloss": "ಯಿಗಲ್"
     },
     {
       "surface": "בן",
-      "gloss": "…ನ ಮಗ"
+      "gloss": "ಮಗ"
     },
     {
       "surface": "נתן",
-      "gloss": "ನತನ"
+      "gloss": "ನತಾನ್"
     },
     {
       "surface": "מצבה",
-      "gloss": "ಮಿತ್ಸೋವಾದವನು"
+      "gloss": "ತ್ಸೋವಾದವನು"
     },
     {
       "surface": "בני",
-      "gloss": "ಬಾನಿ"
+      "gloss": "ಬನಿ"
     },
     {
       "surface": "הגדי",
-      "gloss": "⟨the⟩ ಗದ್ಯ"
+      "gloss": "ಗಾದಿ"
     }
   ],
-  "timestamp": "2026-08-22T07:56:15.388527557Z",
+  "timestamp": "2026-08-24T20:51:06.118603718Z",
   "model": "glm-5.3"
 }

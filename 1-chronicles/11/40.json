@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "kn",
   "chapter": 11,
-  "translation": "ಇರಾ ⟨the⟩ ಯಿತ್ರಿ, ಗಾರೆಬ್ ⟨the⟩ ಯಿತ್ರಿ.",
+  "translation": "ಇರಾ ಯಿತ್ರ್ಯ, ಗರೆಬ್ ಯಿತ್ರ್ಯ.",
   "tokens": [
     {
       "surface": "עירא",
@@ -13,17 +13,17 @@
     },
     {
       "surface": "היתרי",
-      "gloss": "ಯಿತ್ರಿ"
+      "gloss": "ಯಿತ್ರ್ಯ"
     },
     {
       "surface": "גרב",
-      "gloss": "ಗಾರೆಬ್"
+      "gloss": "ಗರೆಬ್"
     },
     {
       "surface": "היתרי",
-      "gloss": "ಯಿತ್ರಿ"
+      "gloss": "ಯಿತ್ರ್ಯ"
     }
   ],
-  "timestamp": "2026-08-22T08:03:30.245413277Z",
+  "timestamp": "2026-08-24T20:54:26.630577450Z",
   "model": "glm-5.3"
 }
