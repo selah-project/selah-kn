@@ -63,3 +63,8 @@
 ಸ್ವೀಕರಿಸಬಹುದು, ನಿಮ್ಮೊಂದಿಗೆ ಸೇರಿ ತಿದ್ದಬಹುದು, ಹೆಚ್ಚಿನ ಆಧಾರಕ್ಕೆ
 ಕಾಯಬಹುದು, ಅಥವಾ ಕಾರಣ ಸಹಿತ ತಿರಸ್ಕರಿಸಬಹುದು. ಮೌಲ್ಯಮಾಪನ ಪಠ್ಯದ್ದು,
 ವ್ಯಕ್ತಿಯದಲ್ಲ.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
