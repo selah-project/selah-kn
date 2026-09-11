@@ -80,3 +80,9 @@
 ಓದುಗರು, ಹೀಬ್ರೂ ವಿದ್ಯಾರ್ಥಿಗಳು, ಅನುವಾದಕರು, ಕನ್ನಡಿಗರು — ಎಲ್ಲರಿಗೂ
 ಸ್ವಾಗತ. ದೋಷ ವರದಿ ಮಾಡುವ ಅಥವಾ ತಿದ್ದುಪಡಿ ಸೂಚಿಸುವ ಮೊದಲು ದಯವಿಟ್ಟು
 [CONTRIBUTING.md](CONTRIBUTING.md) ಓದಿರಿ.
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
