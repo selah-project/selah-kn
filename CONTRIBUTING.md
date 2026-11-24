@@ -13,7 +13,7 @@
 - ದೋಷ ಮತ್ತು ತಿದ್ದುಪಡಿ ಎರಡೂ ಸ್ಪಷ್ಟವಿದ್ದರೆ **Pull request**
   ತೆರೆಯಿರಿ.
 - ಸಾಫ್ಟ್‌ವೇರ್ ಸಮಸ್ಯೆಗಳಿಗೆ, ಅಥವಾ ಭದ್ರತೆ/ಖಾತೆ/ಗೌಪ್ಯತೆಗಾಗಿ
-  [Selah Support](https://selahproject.com/support) ಬಳಸಿರಿ.
+  [Selah Support](https://s33k3r.com/learn/support) ಬಳಸಿರಿ.
 
 ## ಏನನ್ನು ಸೇರಿಸಬೇಕು
 
